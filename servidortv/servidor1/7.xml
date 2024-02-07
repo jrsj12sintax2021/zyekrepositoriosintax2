@@ -1,1 +1,27 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS FHD¹" tvg-logo="http://i.imgur.com/rrEKbyr.png" group-title="CANAIS | COMBATE",UFC FIGHT PASS FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/282008.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS HD²" tvg-logo="http://i.imgur.com/rrEKbyr.png" group-title="CANAIS | COMBATE",UFC FIGHT PASS HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/293070.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT 01 HD¹" tvg-logo="http://i.imgur.com/rrEKbyr.png" group-title="CANAIS | COMBATE",UFC FIGHT 01 HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/300039.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT 02 HD¹" tvg-logo="http://i.imgur.com/rrEKbyr.png" group-title="CANAIS | COMBATE",UFC FIGHT 02 HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/300040.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT 03 HD¹" tvg-logo="http://i.imgur.com/rrEKbyr.png" group-title="CANAIS | COMBATE",UFC FIGHT 03 HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/300041.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD MAX²" tvg-logo="http://i.imgur.com/WPmcn2I.png" group-title="CANAIS | COMBATE",COMBATE FHD MAX²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/72974.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD MAX ᶜᴰᴺ²" tvg-logo="http://i.imgur.com/WPmcn2I.png" group-title="CANAIS | COMBATE",COMBATE FHD MAX ᶜᴰᴺ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/18658.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD¹" tvg-logo="http://i.imgur.com/WPmcn2I.png" group-title="CANAIS | COMBATE",COMBATE FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/18657.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD²" tvg-logo="http://i.imgur.com/WPmcn2I.png" group-title="CANAIS | COMBATE",COMBATE FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/22656.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD¹" tvg-logo="http://i.imgur.com/WPmcn2I.png" group-title="CANAIS | COMBATE",COMBATE HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/18685.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD²" tvg-logo="http://i.imgur.com/WPmcn2I.png" group-title="CANAIS | COMBATE",COMBATE HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/22492.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD¹" tvg-logo="http://i.imgur.com/WPmcn2I.png" group-title="CANAIS | COMBATE",COMBATE SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/18684.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD²" tvg-logo="http://i.imgur.com/WPmcn2I.png" group-title="CANAIS | COMBATE",COMBATE SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/22309.m3u8|User-Agent=FooBar/1.2.3
