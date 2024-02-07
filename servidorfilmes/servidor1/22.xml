@@ -1,1 +1,67 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="The Box - No Ritmo do Coração (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pdTMlYcTQqRY4dtBWuCa9QpYVym.jpg" group-title="FILMES | MUSICAL",The Box - No Ritmo do Coração (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/170954.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Footloose (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jc4lpRBnxWRT99iJZGiDNOKV1G9.jpg" group-title="FILMES | MUSICAL",Footloose (2011)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La La Land: Cantando Estações (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AvMietG6xuobpSSdmVnKuTjv4bL.jpg" group-title="FILMES | MUSICAL",La La Land: Cantando Estações (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Voz Suprema do Blues (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qAHr52Tzmn2Nywsj9bPb1V18jdm.jpg" group-title="FILMES | MUSICAL",A Voz Suprema do Blues (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/31713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clouds (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/euWiWsHhPeSGFsIO5ArzCkGeskG.jpg" group-title="FILMES | MUSICAL",Clouds (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/31756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Z-O-M-B-I-E-S 2 (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/frTwEqSMWQ27oQeuiBO5PT0ZNqq.jpg" group-title="FILMES | MUSICAL",Z-O-M-B-I-E-S 2 (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/32175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em um Bairro de Nova York (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/57stjvmmKTEsscXfWmFHsFoISq5.jpg" group-title="FILMES | MUSICAL",Em um Bairro de Nova York (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/143471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Footloose: Ritmo Louco (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3jAYtfL4mlMPGU1Q5gd8MzNhPut.jpg" group-title="FILMES | MUSICAL",Footloose: Ritmo Louco (1984)
+http://7go.xyz:8080/movie/17991428357/useplay179914/168981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bohemian Rhapsody: A História de Freddie Mercury (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qxgdqcxI216kEoypGbA9BemB7mW.jpg" group-title="FILMES | MUSICAL",Bohemian Rhapsody: A História de Freddie Mercury (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/171219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Camp (2003)" tvg-logo="http://7online.xyz:8080/images/a2e0df7eef1be3eabe98edcd8ec62160.jpg" group-title="FILMES | MUSICAL",Camp (2003)
+http://7go.xyz:8080/movie/17991428357/useplay179914/171220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Camp Rock 2: The Final Jam (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8RSdWqC259zR72Jjo6ANAM4ndhM.jpg" group-title="FILMES | MUSICAL",Camp Rock 2: The Final Jam (2010)
+http://7go.xyz:8080/movie/17991428357/useplay179914/185547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Nota (2020)" tvg-logo="http://7online.xyz:8080/images/70cbd8221ebcc7fd5ca1f36026a72c64.jpg" group-title="FILMES | MUSICAL",A Última Nota (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Nova Cinderela: Milagre de Natal (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/doo45Z1rtyByhN69yfUsqtzeg7M.jpg" group-title="FILMES | MUSICAL",A Nova Cinderela: Milagre de Natal (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/191144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Poder do Ritmo (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lkxz7BhRucysmBADlPxA8jzVThg.jpg" group-title="FILMES | MUSICAL",O Poder do Ritmo (2007)
+http://7go.xyz:8080/movie/17991428357/useplay179914/195599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XOXO: A Vida é Uma Festa (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lSWO4dZTqOEGSHffJl4GH3G8Fvp.jpg" group-title="FILMES | MUSICAL",XOXO: A Vida é Uma Festa (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/197516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Feras da Música (2003)" tvg-logo="http://7online.xyz:8080/images/72dbda90239689e7f3fe4a7335b13fb1.jpg" group-title="FILMES | MUSICAL",As Feras da Música (2003)
+http://7go.xyz:8080/movie/17991428357/useplay179914/202806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Feras da Música 2 (2006)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/otR1PwUd6I4EDkY2wgM5CZdaGl0.jpg" group-title="FILMES | MUSICAL",As Feras da Música 2 (2006)
+http://7go.xyz:8080/movie/17991428357/useplay179914/202807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Feras da Música 3: Um Mundo (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pR7dcmH631XUZZJScGjoR7o5qtj.jpg" group-title="FILMES | MUSICAL",As Feras da Música 3: Um Mundo (2008)
+http://7go.xyz:8080/movie/17991428357/useplay179914/202808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spin (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iWAatef80X3zooIBQN0Y4tQCM1K.jpg" group-title="FILMES | MUSICAL",Spin (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/202809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Balada Sangrenta (1958)" tvg-logo="http://7online.xyz:8080/images/eb8d1340014d5e92f520b356f2b246f6.jpg" group-title="FILMES | MUSICAL",Balada Sangrenta (1958)
+http://7go.xyz:8080/movie/17991428357/useplay179914/219034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Genesis - In Concert (1977)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fuL39SIMFs4s64K0AwynX5bzs2.jpg" group-title="FILMES | MUSICAL",Genesis - In Concert (1977)
+http://7go.xyz:8080/movie/17991428357/useplay179914/219035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha do Ano (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/duPGelL3vYPltSd4fWEIj422IuW.jpg" group-title="FILMES | MUSICAL",A Batalha do Ano (2013)
+http://7go.xyz:8080/movie/17991428357/useplay179914/219340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batida Perfeita (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bmBTeTQFVLrhqErx8Nen0QiL3Mm.jpg" group-title="FILMES | MUSICAL",A Batida Perfeita (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/219341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Bélier (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/HpcHsq3XXcCBjb7pNQzZcslvgH.jpg" group-title="FILMES | MUSICAL",A Família Bélier (2014)
+http://7go.xyz:8080/movie/17991428357/useplay179914/219344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Fantasma da Ópera LEG (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kcc87y9u8u6tzusJmsXm3W0qeT0.jpg" group-title="FILMES | MUSICAL",O Fantasma da Ópera LEG (2004)
+http://7go.xyz:8080/movie/17991428357/useplay179914/219345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hair (1979)" tvg-logo="http://7online.xyz:8080/images/500e8e0f01d1c071e8ab06c3798672cb.jpg" group-title="FILMES | MUSICAL",Hair (1979)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stardust (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/woOQx1s4mNVAprRpky3ntRgdlf4.jpg" group-title="FILMES | MUSICAL",Stardust (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/269281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kally's Mashup! Um Aniversário Muito Kally! (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tBUYDwiJVDcnjPneOitVetJk2Rt.jpg" group-title="FILMES | MUSICAL",Kally's Mashup! Um Aniversário Muito Kally! (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/271655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Extra! Extra! (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o2aBhascjKBR8kFOzCWm1P50mk2.jpg" group-title="FILMES | MUSICAL",Extra! Extra! (1992)
+http://7go.xyz:8080/movie/17991428357/useplay179914/274152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Camp Rock (2008)" tvg-logo="http://7go.xyz:8080/images/5795be20cc8f4a0159ee3fc0bbe70ea0.jpg" group-title="FILMES | MUSICAL",Camp Rock (2008)
+http://7go.xyz:8080/movie/17991428357/useplay179914/275225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High Strung: Ao Ritmo do Sonho (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hqFHODEFfJ3vnQkrLk2XQgw2GQ7.jpg" group-title="FILMES | MUSICAL",High Strung: Ao Ritmo do Sonho (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Olhe Para Trás (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/82oDiHiqthhV4VG2lGktqMde4Zw.jpg" group-title="FILMES | MUSICAL",Não Olhe Para Trás (2015)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Honey 2: No Ritmo dos Sonhos (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/znKwFYSKYweW4EW7nFYboEbaUtz.jpg" group-title="FILMES | MUSICAL",Honey 2: No Ritmo dos Sonhos (2011)
+http://7go.xyz:8080/movie/17991428357/useplay179914/319029.mp4
