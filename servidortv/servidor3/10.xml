@@ -1,1 +1,81 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD H265¹" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS | HBO",HBO FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18148.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO FHD H265²" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS | HBO",HBO FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34684.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD¹" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS | HBO",HBO HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18244.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD²" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS | HBO",HBO HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/38784.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD²" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS | HBO",HBO SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/38785.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD¹" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS | HBO",HBO SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/17929.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD H265¹" tvg-logo="https://imgur.com/AOPvVwx.png" group-title="CANAIS | HBO",HBO 2 FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18151.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 FHD H265²" tvg-logo="https://imgur.com/AOPvVwx.png" group-title="CANAIS | HBO",HBO 2 FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34685.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD¹" tvg-logo="https://imgur.com/AOPvVwx.png" group-title="CANAIS | HBO",HBO 2 HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18242.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD²" tvg-logo="https://imgur.com/AOPvVwx.png" group-title="CANAIS | HBO",HBO 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/38782.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 SD¹" tvg-logo="https://imgur.com/AOPvVwx.png" group-title="CANAIS | HBO",HBO 2 SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/17933.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 SD²" tvg-logo="https://imgur.com/AOPvVwx.png" group-title="CANAIS | HBO",HBO 2 SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/38783.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILLY FHD H265¹" tvg-logo="https://imgur.com/stIdwgi.png" group-title="CANAIS | HBO",HBO FAMILLY FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18147.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY FHD H265²" tvg-logo="https://imgur.com/stIdwgi.png" group-title="CANAIS | HBO",HBO FAMILY FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34686.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD¹" tvg-logo="https://imgur.com/stIdwgi.png" group-title="CANAIS | HBO",HBO FAMILY HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18243.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY SD¹" tvg-logo="https://imgur.com/stIdwgi.png" group-title="CANAIS | HBO",HBO FAMILY SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/17930.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO MUNDI FHD H265¹" tvg-logo="https://imgur.com/7mf7Dyx.png" group-title="CANAIS | HBO",HBO MUNDI FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18157.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO MUNDI FHD H265²" tvg-logo="https://imgur.com/7mf7Dyx.png" group-title="CANAIS | HBO",HBO MUNDI FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34679.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO MUNDI HD¹" tvg-logo="https://imgur.com/7mf7Dyx.png" group-title="CANAIS | HBO",HBO MUNDI HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18251.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS  FHD H265¹" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS | HBO",HBO PLUS  FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/174926.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS  FHD H265²" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS | HBO",HBO PLUS  FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34683.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS HD¹" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS | HBO",HBO PLUS HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18245.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS  HD²" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS | HBO",HBO PLUS  HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/174927.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS SD¹" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS | HBO",HBO PLUS SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/174928.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS SD²" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS | HBO",HBO PLUS SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/174929.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP  FHD H265¹" tvg-logo="https://imgur.com/0oXzc81.png" group-title="CANAIS | HBO",HBO POP  FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/174930.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP  FHD H265²" tvg-logo="https://imgur.com/0oXzc81.png" group-title="CANAIS | HBO",HBO POP  FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34677.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD¹" tvg-logo="https://imgur.com/0oXzc81.png" group-title="CANAIS | HBO",HBO POP HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18253.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD²" tvg-logo="https://imgur.com/0oXzc81.png" group-title="CANAIS | HBO",HBO POP HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/174931.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP SD²" tvg-logo="https://imgur.com/0oXzc81.png" group-title="CANAIS | HBO",HBO POP SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/174933.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP SD¹" tvg-logo="https://imgur.com/0oXzc81.png" group-title="CANAIS | HBO",HBO POP SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/174932.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FHD H265¹" tvg-logo="https://imgur.com/owPPwh1.png" group-title="CANAIS | HBO",HBO SIGNATURE FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18150.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FHD H265²" tvg-logo="https://imgur.com/owPPwh1.png" group-title="CANAIS | HBO",HBO SIGNATURE FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34682.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE HD¹" tvg-logo="https://imgur.com/owPPwh1.png" group-title="CANAIS | HBO",HBO SIGNATURE HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18246.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME FHD" tvg-logo="https://imgur.com/zvcpVnD.png" group-title="CANAIS | HBO",HBO XTREME FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18158.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME FHD H265²" tvg-logo="https://imgur.com/zvcpVnD.png" group-title="CANAIS | HBO",HBO XTREME FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34678.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME HD¹" tvg-logo="https://imgur.com/zvcpVnD.png" group-title="CANAIS | HBO",HBO XTREME HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18252.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI SD¹" tvg-logo="https://imgur.com/7mf7Dyx.png" group-title="CANAIS | HBO",HBO MUNDI SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/379680.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE SD¹" tvg-logo="https://imgur.com/owPPwh1.png" group-title="CANAIS | HBO",HBO SIGNATURE SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/379681.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME SD¹" tvg-logo="https://imgur.com/zvcpVnD.png" group-title="CANAIS | HBO",HBO XTREME SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/379682.m3u8|User-Agent=FooBar/1.2.3
