@@ -1,1 +1,15 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="URBAN DOCS HD¹" tvg-logo="http://i.imgur.com/ea5qAdc.png" group-title="CANAIS | URBAN",URBAN DOCS HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/322317.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="URBAN KIDS HD¹" tvg-logo="http://i.imgur.com/gaMx5Yp.png" group-title="CANAIS | URBAN",URBAN KIDS HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/322318.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="URBAN MOVIES HD¹" tvg-logo="http://i.imgur.com/8tMuWwM.png" group-title="CANAIS | URBAN",URBAN MOVIES HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/322319.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="URBAN RETRÔ HD¹" tvg-logo="http://i.imgur.com/rp8jO16.png" group-title="CANAIS | URBAN",URBAN RETRÔ HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/322316.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="URBAN SÉRIES HD¹" tvg-logo="http://i.imgur.com/in6GZ6w.png" group-title="CANAIS | URBAN",URBAN SÉRIES HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/322320.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="URBAN TRAVEL HD¹" tvg-logo="http://i.imgur.com/r7KhUrW.png" group-title="CANAIS | URBAN",URBAN TRAVEL HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/322321.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="URBAN TURBO HD¹" tvg-logo="http://i.imgur.com/f9Vdp7Q.png" group-title="CANAIS | URBAN",URBAN TURBO HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/322315.m3u8|User-Agent=FooBar/1.2.3
