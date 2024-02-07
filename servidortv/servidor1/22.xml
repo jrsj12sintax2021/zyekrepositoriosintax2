@@ -1,1 +1,69 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL FHD¹" tvg-logo="http://i.imgur.com/latMeUP.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/18641.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL FHD²" tvg-logo="http://i.imgur.com/latMeUP.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/22655.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL HD¹" tvg-logo="http://i.imgur.com/latMeUP.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/18642.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL HD²" tvg-logo="http://i.imgur.com/latMeUP.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/22491.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL SD¹" tvg-logo="http://i.imgur.com/latMeUP.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/18643.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL SD²" tvg-logo="http://i.imgur.com/latMeUP.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/22308.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS FHD MAX²" tvg-logo="http://i.imgur.com/mFmpceo.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS FHD MAX²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/18645.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS FHD¹" tvg-logo="http://i.imgur.com/6BaLq7M.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/50987.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS FHD²" tvg-logo="http://i.imgur.com/6BaLq7M.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/22677.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS HD¹" tvg-logo="http://i.imgur.com/6BaLq7M.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/29586.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS HD²" tvg-logo="http://i.imgur.com/6BaLq7M.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/22542.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS SD¹" tvg-logo="http://i.imgur.com/6BaLq7M.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/18571.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS SD²" tvg-logo="http://i.imgur.com/6BaLq7M.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/22346.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS FHD MAX²" tvg-logo="http://i.imgur.com/cbyU9Ws.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS FHD MAX²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/18644.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS FHD²" tvg-logo="http://i.imgur.com/cbyU9Ws.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/22699.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS HD¹" tvg-logo="http://i.imgur.com/cbyU9Ws.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/18592.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS HD²" tvg-logo="http://i.imgur.com/cbyU9Ws.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/22599.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS SD¹" tvg-logo="http://i.imgur.com/cbyU9Ws.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/18628.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS SD²" tvg-logo="http://i.imgur.com/cbyU9Ws.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/22378.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS FHD¹" tvg-logo="http://i.imgur.com/0Cvqd9E.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/45064.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS FHD²" tvg-logo="http://i.imgur.com/0Cvqd9E.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/22641.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS HD¹" tvg-logo="http://i.imgur.com/0Cvqd9E.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/18617.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS HD²" tvg-logo="http://i.imgur.com/0Cvqd9E.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/22461.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS SD¹" tvg-logo="http://i.imgur.com/0Cvqd9E.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/18638.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS SD²" tvg-logo="http://i.imgur.com/0Cvqd9E.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/22298.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS FHD¹" tvg-logo="http://i.imgur.com/QyR6tOr.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN NEWS FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/64580.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS HD¹" tvg-logo="http://i.imgur.com/QyR6tOr.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN NEWS HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/64581.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS HD²" tvg-logo="http://i.imgur.com/QyR6tOr.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN NEWS HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/64635.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS FHD²" tvg-logo="http://i.imgur.com/QyR6tOr.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN NEWS FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/64636.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANHOL HD¹" tvg-logo="http://i.imgur.com/k7Tx74V.png" group-title="CANAIS | NOTÍCIAS",CNN ESPANHOL HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/116645.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL FHD¹" tvg-logo="http://i.imgur.com/IZliVLE.png" group-title="CANAIS | NOTÍCIAS",CNN INTERNACIONAL FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/116674.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="NHK WORD JAPAO FHD²" tvg-logo="http://i.imgur.com/sBGgSHG.png" group-title="CANAIS | NOTÍCIAS",NHK WORD JAPAO FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/126619.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="NHK WORD JAPAO HD²" tvg-logo="http://i.imgur.com/sBGgSHG.png" group-title="CANAIS | NOTÍCIAS",NHK WORD JAPAO HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/126620.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="NHK WORD JAPAO SD²" tvg-logo="http://i.imgur.com/sBGgSHG.png" group-title="CANAIS | NOTÍCIAS",NHK WORD JAPAO SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/126621.m3u8|User-Agent=FooBar/1.2.3
