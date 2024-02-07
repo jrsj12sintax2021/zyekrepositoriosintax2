@@ -1,1 +1,13 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="60 Minutos (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n5wjsuYh954HLagCnqrLpPT8xi7.jpg" group-title="FILMES | LANÇAMENTOS 2024",60 Minutos (2024)
+http://7go.xyz:8080/movie/17991428357/useplay179914/326937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alarme de Incêndio (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qXB0yZbECic73jLrqvCgcpL9dhU.jpg" group-title="FILMES | LANÇAMENTOS 2024",Alarme de Incêndio (2024)
+http://7go.xyz:8080/movie/17991428357/useplay179914/326938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lift: Roubo nas Alturas (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ca74jjIYRVDdsnlWk8JzyVY49dE.jpg" group-title="FILMES | LANÇAMENTOS 2024",Lift: Roubo nas Alturas (2024)
+http://7go.xyz:8080/movie/17991428357/useplay179914/326799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justiça: Crise nas Infinitas Terras - Parte 1 (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vsiDOIO4APrPQQ4xx8vJW8N0uHV.jpg" group-title="FILMES | LANÇAMENTOS 2024",Liga da Justiça: Crise nas Infinitas Terras - Parte 1 (2024)
+http://7go.xyz:8080/movie/17991428357/useplay179914/326800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Um Tiro Certo (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zkHkMLoC41euiPZG62wslcHLreH.jpg" group-title="FILMES | LANÇAMENTOS 2024",Mais Um Tiro Certo (2024)
+http://7go.xyz:8080/movie/17991428357/useplay179914/326786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criptofraude (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g8xiqrXnVMIkg7Ejhxe07MqKxpr.jpg" group-title="FILMES | LANÇAMENTOS 2024",Criptofraude (2024)
+http://7go.xyz:8080/movie/17991428357/useplay179914/326556.mp4
