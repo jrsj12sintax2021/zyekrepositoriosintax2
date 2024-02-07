@@ -1,1 +1,21 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="BJJ STARS (JIU-JITSU)" tvg-logo="https://jiujitsutimes.com/wp-content/uploads/bjjstars.jpeg" group-title="CANAIS | COMBATE - UFC",BJJ STARS (JIU-JITSU)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/214179.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass FHD" tvg-logo="https://i.imgur.com/op123mz.png" group-title="CANAIS | COMBATE - UFC",UFC Fight Pass FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/208632.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass HD²" tvg-logo="https://i.imgur.com/op123mz.png" group-title="CANAIS | COMBATE - UFC",UFC Fight Pass HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/208670.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="COMBATE FHD H265¹" tvg-logo="https://imgur.com/mYkXWsu.png" group-title="CANAIS | COMBATE - UFC",COMBATE FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18119.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="COMBATE FHD H265²" tvg-logo="https://imgur.com/mYkXWsu.png" group-title="CANAIS | COMBATE - UFC",COMBATE FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35697.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD¹" tvg-logo="https://imgur.com/mYkXWsu.png" group-title="CANAIS | COMBATE - UFC",COMBATE HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18213.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD²" tvg-logo="https://imgur.com/mYkXWsu.png" group-title="CANAIS | COMBATE - UFC",COMBATE HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34932.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD¹" tvg-logo="https://imgur.com/mYkXWsu.png" group-title="CANAIS | COMBATE - UFC",COMBATE SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/17895.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD²" tvg-logo="https://imgur.com/mYkXWsu.png" group-title="CANAIS | COMBATE - UFC",COMBATE SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35171.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass HD³" tvg-logo="https://i.imgur.com/op123mz.png" group-title="CANAIS | COMBATE - UFC",UFC Fight Pass HD³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/223656.m3u8|User-Agent=FooBar/1.2.3
