@@ -1,1 +1,19 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="Cine Sky Ficção²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Cine SKY",Cine Sky Ficção²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2200&url=http://pdsrv.io:80/live/brailes123321/bra12345bra12/60789.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="Cine Sky Aventura²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Cine SKY",Cine Sky Aventura²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2200&url=http://pdsrv.io:80/live/brailes123321/bra12345bra12/59967.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="Cine Sky Anime²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Cine SKY",Cine Sky Anime²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2200&url=http://pdsrv.io:80/live/brailes123321/bra12345bra12/59966.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="Cine Sky Ação²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Cine SKY",Cine Sky Ação²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2200&url=http://pdsrv.io:80/live/brailes123321/bra12345bra12/59968.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="Cine Sky Comedia²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Cine SKY",Cine Sky Comedia²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2200&url=http://pdsrv.io:80/live/brailes123321/bra12345bra12/59969.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="Cine Sky Drama²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Cine SKY",Cine Sky Drama²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2200&url=http://pdsrv.io:80/live/brailes123321/bra12345bra12/59970.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky Infantil²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Cine SKY",Cine Sky Infantil²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2200&url=http://pdsrv.io:80/live/brailes123321/bra12345bra12/122729.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky Policial²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Cine SKY",Cine Sky Policial²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2200&url=http://pdsrv.io:80/live/brailes123321/bra12345bra12/122730.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky Romance²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Cine SKY",Cine Sky Romance²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2200&url=http://pdsrv.io:80/live/brailes123321/bra12345bra12/122731.m3u8|User-Agent=FooBar/1.2.3
