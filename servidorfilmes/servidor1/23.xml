@@ -1,1 +1,637 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="Pacificado (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tnJvroCbINCUFViNjSMJJ7ZQLhf.jpg" group-title="FILMES | NACIONAIS",Pacificado (2022)
+http://7go.xyz:8080/movie/17991428357/useplay179914/318488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinderela Pop (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9cqyRlLap9kkej7iDMvu1xfl783.jpg" group-title="FILMES | NACIONAIS",Cinderela Pop (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/317704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Moça do Calendário (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1T602vmGfzwZqL3Ytn602iPfllC.jpg" group-title="FILMES | NACIONAIS",A Moça do Calendário (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/317532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Álbum de Amores (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/Zg3b8NFfCxeMpMN6vCpQYHbrjG.jpg" group-title="FILMES | NACIONAIS",Meu Álbum de Amores (2022)
+http://7go.xyz:8080/movie/17991428357/useplay179914/317533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Papai é Pop (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9lXyjwOLz5IgYJbK4uuzUuLAVrg.jpg" group-title="FILMES | NACIONAIS",Papai é Pop (2022)
+http://7go.xyz:8080/movie/17991428357/useplay179914/317534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ela e Eu (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b4ZzPQPQmktbRem1pmi2vmz9rVL.jpg" group-title="FILMES | NACIONAIS",Ela e Eu (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/314878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dama do Lotação (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4aO7s9eJxb33UzxBJcrKo67NSte.jpg" group-title="FILMES | NACIONAIS",A Dama do Lotação (1978)
+http://7go.xyz:8080/movie/17991428357/useplay179914/312763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bete Balanço (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dzhS66IsRdZjB0EJQvMUKeTHp1f.jpg" group-title="FILMES | NACIONAIS",Bete Balanço (1984)
+http://7go.xyz:8080/movie/17991428357/useplay179914/312764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matou a Família e Foi ao Cinema (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zW3BVM8Fh30BAcg5VXokaS8i0Nt.jpg" group-title="FILMES | NACIONAIS",Matou a Família e Foi ao Cinema (1991)
+http://7go.xyz:8080/movie/17991428357/useplay179914/312834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pai em Dobro (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y9k5MjbLsCftyrQ4ec6bPmRtORf.jpg" group-title="FILMES | NACIONAIS",Pai em Dobro (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/32292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Menina Que Matou os Pais (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rARhJwdW2cAeh8tgdc7WZqs2nZ1.jpg" group-title="FILMES | NACIONAIS",A Menina Que Matou os Pais (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/170878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dois + Dois (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/OqYcA2dOx0NF8QvW58pXejTGtR.jpg" group-title="FILMES | NACIONAIS",Dois + Dois (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/170892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: O Mapa do Tesouro 2 (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qhMv2uDyraW3s9t30FFfkauDyI9.jpg" group-title="FILMES | NACIONAIS",Luccas Neto em: O Mapa do Tesouro 2 (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/194086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2 Coelhos (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eQH48Oyvy3M85BWxPywET6BjWMt.jpg" group-title="FILMES | NACIONAIS",2 Coelhos (2012)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Divisão (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5vNeo1twNHKv4ZEDqN4SmDKTGKQ.jpg" group-title="FILMES | NACIONAIS",A Divisão (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/31627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alemão (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tBmLQO7zG0G6z33gqXRQFRPquEd.jpg" group-title="FILMES | NACIONAIS",Alemão (2014)
+http://7go.xyz:8080/movie/17991428357/useplay179914/40532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casa da Mãe Joana 2 (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aYN8rACVHAASPMvt6r0UU5TmJMu.jpg" group-title="FILMES | NACIONAIS",Casa da Mãe Joana 2 (2013)
+http://7go.xyz:8080/movie/17991428357/useplay179914/29231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como é Cruel Viver Assim (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9U14Dip0WmvEUMrU8cCcqipoHZF.jpg" group-title="FILMES | NACIONAIS",Como é Cruel Viver Assim (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/29250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Perto Ela Não é Normal (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x385ldrHXkuGyxXd8xJjTRCAkTt.jpg" group-title="FILMES | NACIONAIS",De Perto Ela Não é Normal (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/29277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: O Mapa do Tesouro (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4RDxMKvGGqNElnHpjPenlHEJUg.jpg" group-title="FILMES | NACIONAIS",Luccas Neto em: O Mapa do Tesouro (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/29435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Galã (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rJz8Ll7mRTBPvYkb69T7IC27SBa.jpg" group-title="FILMES | NACIONAIS",O Galã (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/29672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Parças (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9PuLtiji3ZN6o2Uan9SqDl8wdYX.jpg" group-title="FILMES | NACIONAIS",Os Parças (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/29733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Parças 2 (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ggv4bKNHKbzD4wqr520X8n5AkBV.jpg" group-title="FILMES | NACIONAIS",Os Parças 2 (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/29734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Praça Pública (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xoOCw0fhOrZINnot9jHEonHYQch.jpg" group-title="FILMES | NACIONAIS",Praça Pública (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/29773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Suburbano Sortudo (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lFChpljQt82f9SnjJdXEQ0uYVd1.jpg" group-title="FILMES | NACIONAIS",Um Suburbano Sortudo (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/29862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: Acampamento de Férias 2 (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vYgZa09ICwAB2TkonMfXRT4Dj8E.jpg" group-title="FILMES | NACIONAIS",Luccas Neto em: Acampamento de Férias 2 (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/31887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: O Hotel Mágico (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ggVEV9z7k3Fd2DqnDiSudVCgCU3.jpg" group-title="FILMES | NACIONAIS",Luccas Neto em: O Hotel Mágico (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/31888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Modo Avião (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hDZBhyl83F07syVhQ0q21NBZSCC.jpg" group-title="FILMES | NACIONAIS",Modo Avião (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/31913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Gogó do Paulinho (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qmCAciCurvDWZJY8wo3lvo9S9b2.jpg" group-title="FILMES | NACIONAIS",No Gogó do Paulinho (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/31932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Vamos Pagar Nada (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c0izXc21pFtf98dwiiudIGmm4lX.jpg" group-title="FILMES | NACIONAIS",Não Vamos Pagar Nada (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/31938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Melhor Verão das Nossas Vidas (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pHUxVCnB3DPu9afBnl01MtlH7q6.jpg" group-title="FILMES | NACIONAIS",O Melhor Verão das Nossas Vidas (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/31987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ricos de Amor (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u8kRdW12mhOakR9WqVnarQbqGNH.jpg" group-title="FILMES | NACIONAIS",Ricos de Amor (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/32063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Linda de Morrer (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vUGJUCQ8LINN6tKL9zpVtNPURo3.jpg" group-title="FILMES | NACIONAIS",Linda de Morrer (2015)
+http://7go.xyz:8080/movie/17991428357/useplay179914/44302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mulher Invisível (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zdJ53lOdFmdxlgxoO5WVIlvEINo.jpg" group-title="FILMES | NACIONAIS",A Mulher Invisível (2009)
+http://7go.xyz:8080/movie/17991428357/useplay179914/170980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hermanoteu na Terra de Godah (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/63y5BfDt4vpnTdzDM1yIGDWmdCe.jpg" group-title="FILMES | NACIONAIS",Hermanoteu na Terra de Godah (2009)
+http://7go.xyz:8080/movie/17991428357/useplay179914/185553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depois a Louca Sou Eu (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iASQXlZqZfERdwTnBxIRpfgKrsO.jpg" group-title="FILMES | NACIONAIS",Depois a Louca Sou Eu (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/185567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões na Serra Pelada  (1982)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/krFAA4kpf3SPIqU5k4CEG8R4eQO.jpg" group-title="FILMES | NACIONAIS",Os Trapalhões na Serra Pelada  (1982)*
+http://7go.xyz:8080/movie/17991428357/useplay179914/185394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Salve Geral (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/36GWKCCl8U7tCKH2QMAIOn1FKe6.jpg" group-title="FILMES | NACIONAIS",Salve Geral (2009)
+http://7go.xyz:8080/movie/17991428357/useplay179914/193978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abraço (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jCG7mH7RsJCGQVpPaCUzmpJhUgD.jpg" group-title="FILMES | NACIONAIS",Abraço (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/229055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Decisão (1997)" tvg-logo="http://i.imgur.com/sC7bIoO.jpg" group-title="FILMES | NACIONAIS",Decisão (1997)
+http://7go.xyz:8080/movie/17991428357/useplay179914/229273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Divaldo: O Mensageiro da Paz (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a0qUWUddEMySjvvOUpAAlXWNrZt.jpg" group-title="FILMES | NACIONAIS",Divaldo: O Mensageiro da Paz (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/229291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Faroeste Caboclo (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kqphM2bAYbuwnwbJz3KebgMhxOU.jpg" group-title="FILMES | NACIONAIS",Faroeste Caboclo (2013)
+http://7go.xyz:8080/movie/17991428357/useplay179914/229351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gonzaga: De Pai pra Filho (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8LRWQiq43cIc03sC5ZLGB8zYrjU.jpg" group-title="FILMES | NACIONAIS",Gonzaga: De Pai pra Filho (2012)
+http://7go.xyz:8080/movie/17991428357/useplay179914/229379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Olga (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1bVAz2hJrgvmqBm12enY5NfjIdE.jpg" group-title="FILMES | NACIONAIS",Olga (2004)
+http://7go.xyz:8080/movie/17991428357/useplay179914/229575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Olho e a Faca (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ceSNvRHhdtlijgIy9nev9oXn5wY.jpg" group-title="FILMES | NACIONAIS",O Olho e a Faca (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/229595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Porta dos Fundos: Contrato Vitalício (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rtMhA3TGD0yJ65lDjywe1cxkQ6F.jpg" group-title="FILMES | NACIONAIS",Porta dos Fundos: Contrato Vitalício (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Porta dos Fundos: Se Beber, Não Ceie (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bIHfllTfcwi2luTIWjQEv92bn1B.jpg" group-title="FILMES | NACIONAIS", Não Ceie (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Qualquer Gato Vira-Lata (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pza45sya47vgwKWbaQy6cpGBCQR.jpg" group-title="FILMES | NACIONAIS",Qualquer Gato Vira-Lata (2011)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Qualquer Gato Vira Lata 2 (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iMiYilvYVSlwLVpXCtfr6eeP36A.jpg" group-title="FILMES | NACIONAIS",Qualquer Gato Vira Lata 2 (2015)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Querida Mamãe (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m5KGfJZqj7NlnOS5F5DfI2M03cU.jpg" group-title="FILMES | NACIONAIS",Querida Mamãe (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rasga Coração (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/21TGdSdl4zPtggfmhNyNgPpFzfN.jpg" group-title="FILMES | NACIONAIS",Rasga Coração (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S.O.S.: Mulheres ao Mar (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3cB6m75oYbbuRI9K1Tgi2DBKhw9.jpg" group-title="FILMES | NACIONAIS",S.O.S.: Mulheres ao Mar (2014)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S.O.S.: Mulheres ao Mar 2 (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNSNYJ87vNwh641YIhzw2klobN.jpg" group-title="FILMES | NACIONAIS",S.O.S.: Mulheres ao Mar 2 (2015)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Se Deus Vier Que Venha Armado (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4oaUZDnfG0HTRBR7ynw7aCOiU3v.jpg" group-title="FILMES | NACIONAIS",Se Deus Vier Que Venha Armado (2014)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Se Eu Fosse Você (2006)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hAgYPRPXmTxEbCv96YXZTotl4ae.jpg" group-title="FILMES | NACIONAIS",Se Eu Fosse Você (2006)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Se Eu Fosse Você 2 (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6s6rXeMG4OIoiAK1lHLgst3mHqW.jpg" group-title="FILMES | NACIONAIS",Se Eu Fosse Você 2 (2009)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sequestro Relâmpago (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d5x6yP7mc5NNhJittysbb5bO0Sn.jpg" group-title="FILMES | NACIONAIS",Sequestro Relâmpago (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sob Pressão (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lSibFrGTDaXy96lDZnUdtEDMYaw.jpg" group-title="FILMES | NACIONAIS",Sob Pressão (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Socorro, Virei uma Garota! (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jYnLQknm25NbKjfnzIc00BQIV8Z.jpg" group-title="FILMES | NACIONAIS", Virei uma Garota! (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sócrates (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3vpt31q4931VVKtulXtfAdH2cbK.jpg" group-title="FILMES | NACIONAIS",Sócrates (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sol Alegria (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xbEkZORp3RYzDWs1t6XHYWSTyeY.jpg" group-title="FILMES | NACIONAIS",Sol Alegria (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Talvez uma História de Amor (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bflYSyIxPCL1DJJ4bp3t6VBJ1Dj.jpg" group-title="FILMES | NACIONAIS",Talvez uma História de Amor (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tim Maia (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kVE2wZU3Xd4yQDKSOwIrLhGGoB3.jpg" group-title="FILMES | NACIONAIS",Tim Maia (2014)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TOC: Transtornada Obsessiva Compulsiva (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hupDTxQc1DjqTzNognr9mvcNlwK.jpg" group-title="FILMES | NACIONAIS",TOC: Transtornada Obsessiva Compulsiva (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas As Canções de Amor (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qihRwggb2hpH3XbNqGOysAXRPh5.jpg" group-title="FILMES | NACIONAIS",Todas As Canções de Amor (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todo Clichê do Amor (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1zJIxQ8BDq4dIRhDJCTMfTk5rj1.jpg" group-title="FILMES | NACIONAIS",Todo Clichê do Amor (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todo Clichê do Amor (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1zJIxQ8BDq4dIRhDJCTMfTk5rj1.jpg" group-title="FILMES | NACIONAIS",Todo Clichê do Amor (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tô Ryca! (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oB7hflIVj3gKGB2R4gtnx5mHFyU.jpg" group-title="FILMES | NACIONAIS",Tô Ryca! (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trash: A Esperança Vem do Lixo (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/75t94I2GVgTubhVOasx1ElSufR4.jpg" group-title="FILMES | NACIONAIS",Trash: A Esperança Vem do Lixo (2014)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tropa de Elite (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eYTZoNEWbHPD2ujjdhdlpvbSYdr.jpg" group-title="FILMES | NACIONAIS",Tropa de Elite (2007)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tropa de Elite 2: O Inimigo Agora é Outro (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8G7F938AHqBBLc5yJXPUJhSJzN5.jpg" group-title="FILMES | NACIONAIS",Tropa de Elite 2: O Inimigo Agora é Outro (2010)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo por um Pop Star (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8SAAmvqFqYgO5AjKQLrvy4RozDM.jpg" group-title="FILMES | NACIONAIS",Tudo por um Pop Star (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica: Laços (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1ksQfIiWmyu9x4FbNBW5aNclVqu.jpg" group-title="FILMES | NACIONAIS",Turma da Mônica: Laços (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Quase Dupla (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qRAOj1G4YWEmK3zDN4JlYFqaeWA.jpg" group-title="FILMES | NACIONAIS",Uma Quase Dupla (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Namorado Para Minha Mulher (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/teQSBVgy689tFFBlUzESl59UXLu.jpg" group-title="FILMES | NACIONAIS",Um Namorado Para Minha Mulher (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Tio Quase Perfeito (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x3D3qLGXPbMLW6AxNHIZxcbZs21.jpg" group-title="FILMES | NACIONAIS",Um Tio Quase Perfeito (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vai Que Cola - O Filme (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wZWOESgio4c8UDeJ9RRqSbatglm.jpg" group-title="FILMES | NACIONAIS",Vai Que Cola - O Filme (2015)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vai que Cola 2: O Começo (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ekJG2dZMOzEbKGI4PW45vc52Go8.jpg" group-title="FILMES | NACIONAIS",Vai que Cola 2: O Começo (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vai Que Dá Certo (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/srKeBp0kbjVg33zcshCAXznl6nI.jpg" group-title="FILMES | NACIONAIS",Vai Que Dá Certo (2013)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vai que Dá Certo 2 (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wZXs9Fxca99RQUiFxyI4SXqOs7O.jpg" group-title="FILMES | NACIONAIS",Vai que Dá Certo 2 (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vende-se Imóvel (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1C7oR00KB1dzaHwnbf4a1SO08U5.jpg" group-title="FILMES | NACIONAIS",Vende-se Imóvel (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vendo ou Alugo (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6MCEWhZXdMKEIueri2c6D41neJt.jpg" group-title="FILMES | NACIONAIS",Vendo ou Alugo (2013)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VIPs (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/10Jajl4AeKZFRmr03nneelYCgH7.jpg" group-title="FILMES | NACIONAIS",VIPs (2011)
+http://7go.xyz:8080/movie/17991428357/useplay179914/27414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Mãe é Uma Peça 3 (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zw77BFPGJ73Lig8GwRzYj1XHq53.jpg" group-title="FILMES | NACIONAIS",Minha Mãe é Uma Peça 3 (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/29505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Shaolin do Sertão (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hHmD5ziiVvOM1femGTazj4bfkGK.jpg" group-title="FILMES | NACIONAIS",O Shaolin do Sertão (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/29727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gabriela, Cravo e Canela (1983)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zUyXh9JEdemsAUptXczc70svpAF.jpg" group-title="FILMES | NACIONAIS", Cravo e Canela (1983)
+http://7go.xyz:8080/movie/17991428357/useplay179914/125469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contra a Parede (2018)" tvg-logo="http://7online.xyz:8080/images/4d7bf89dbd553317ce5c362579e6c266.jpg" group-title="FILMES | NACIONAIS",Contra a Parede (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/172480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cora Coralina: Todas as Vidas (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gabn6tCOyUf6Yz8k6bathiuxLgh.jpg" group-title="FILMES | NACIONAIS",Cora Coralina: Todas as Vidas (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/172481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corpo Elétrico (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mOzQVKpNwSwLVLIzeIFogtJ8QCT.jpg" group-title="FILMES | NACIONAIS",Corpo Elétrico (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/172482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Onde Eu Te Vejo (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3dbErPyvo8D1NSsoQVpvja8sC0l.jpg" group-title="FILMES | NACIONAIS",De Onde Eu Te Vejo (2015)
+http://7go.xyz:8080/movie/17991428357/useplay179914/172483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deserto (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k3EvKgyVDkhaG1w3XLdTnrBw3Tg.jpg" group-title="FILMES | NACIONAIS",Deserto (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/172484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disparos (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/evui92YRfKydiBE5NBKszymwAXN.jpg" group-title="FILMES | NACIONAIS",Disparos (2012)
+http://7go.xyz:8080/movie/17991428357/useplay179914/172485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cabeça de Gumercindo Saraiva (2018)" tvg-logo="http://7online.xyz:8080/images/be28fb20a8b86ebd8fb0803951b66544.jpg" group-title="FILMES | NACIONAIS",A Cabeça de Gumercindo Saraiva (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adorável Trapalhão (1967)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e5lRd7TOfN9tHZI5a9FkJxmOIr4.jpg" group-title="FILMES | NACIONAIS",Adorável Trapalhão (1967)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Esperança é a Última que Morre (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xuoipRTX1LhKAUtAhllB7yZgjOv.jpg" group-title="FILMES | NACIONAIS",A Esperança é a Última que Morre (2015)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ali Babá e os Quarenta Ladrões (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AuoLAGJvUFGv6LtvWv2EgtCJWfw.jpg" group-title="FILMES | NACIONAIS",Ali Babá e os Quarenta Ladrões (1972)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amores de Chumbo (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fZPUSJsCEuhDhBqzwF5sd9vuv3w.jpg" group-title="FILMES | NACIONAIS",Amores de Chumbo (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antonia (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4GU1Q80Fio0Vu6DFnWzTCEw8vne.jpg" group-title="FILMES | NACIONAIS",Antonia (2015)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Mãos de Meu Filho (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3SrtBdrxBeXS1EdBMubvYJ6Flyw.jpg" group-title="FILMES | NACIONAIS",As Mãos de Meu Filho (2010)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boi Neon (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lCJAHuqbmDzcjbUjlXnaMohHqi5.jpg" group-title="FILMES | NACIONAIS",Boi Neon (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bonga, o Vagabundo (1969)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x4baVbQbxLQs6qwOeUmQtcsGFUk.jpg" group-title="FILMES | NACIONAIS", o Vagabundo (1969)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bróder (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/s9dpx9p9h6mmhnBXVaqEuapVx7B.jpg" group-title="FILMES | NACIONAIS",Bróder (2010)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Califórnia (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nTonUzjWK6mhXYYrf5xsmSGccrS.jpg" group-title="FILMES | NACIONAIS",Califórnia (2015)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carandiru (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bkq8RsbCb7ugW0ZmsD8SYEvQWSp.jpg" group-title="FILMES | NACIONAIS",Carandiru (2003)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chocante (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dokMmYTOzQVChqUrYNnGDm9TwWk.jpg" group-title="FILMES | NACIONAIS",Chocante (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Nossos Pais (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qnB014Lkp5oq6yuSJpr6jH8U91J.jpg" group-title="FILMES | NACIONAIS",Como Nossos Pais (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Condado Macabro (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qeBVxzEDIC0LRrkaKVDinR6RUn6.jpg" group-title="FILMES | NACIONAIS",Condado Macabro (2015)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deus é Brasileiro (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xBZ3zMmMEWyvOw1Dh97FRF0Pk1p.jpg" group-title="FILMES | NACIONAIS",Deus é Brasileiro (2003)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dois na Lona (1968)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ghUvFCnbGmFdBz2antoB4eg2jTj.jpg" group-title="FILMES | NACIONAIS",Dois na Lona (1968)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Embarque Imediato (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nB4pMR8AvDVGRh3gzT3UKu8vINl.jpg" group-title="FILMES | NACIONAIS",Embarque Imediato (2009)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Idas e Vindas (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/10lMoRN0SDMlLktjucciFE5WrOu.jpg" group-title="FILMES | NACIONAIS",Entre Idas e Vindas (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gabriel e a Montanha (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wS4CN3Yc5tVLikxJFZHd988SH40.jpg" group-title="FILMES | NACIONAIS",Gabriel e a Montanha (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hebe: A Estrela do Brasil (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2yIthauKAksR0YOvIYZjCF1g7Ob.jpg" group-title="FILMES | NACIONAIS",Hebe: A Estrela do Brasil (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Irmãos de Fé (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8MiFxtBNsI4yrqW4Zqsg4uxQZ3C.jpg" group-title="FILMES | NACIONAIS",Irmãos de Fé (2004)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Macabro (1980)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wcis5Yjnpnp8WAXgom4W3ntcIOg.jpg" group-title="FILMES | NACIONAIS",Macabro (1980)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marighella (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oqHLyxKGhlGe1S2S9X8hragmNQl.jpg" group-title="FILMES | NACIONAIS",Marighella (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mato Sem Cachorro (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n3smHWlrTpGSZKPj5BiAu11tZ1h.jpg" group-title="FILMES | NACIONAIS",Mato Sem Cachorro (2013)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Memórias Póstumas (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2YaTajYhJaQ5LbxfKA4KGQ46hUv.jpg" group-title="FILMES | NACIONAIS",Memórias Póstumas (2001)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu País (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bME5c4WJEvuJJycrMGi9GNwPx4U.jpg" group-title="FILMES | NACIONAIS",Meu País (2011)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Onda do Iê-Iê-Iê (1966)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l756tPV14Gg2PRDlqCcdJAdwsHl.jpg" group-title="FILMES | NACIONAIS",Na Onda do Iê-Iê-Iê (1966)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nise: O Coração da Loucura (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eDEu2l4xvmhVuLerpHzzz2i1lgm.jpg" group-title="FILMES | NACIONAIS",Nise: O Coração da Loucura (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Cheiro do Ralo (2006)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6HdXOlKdtB2eRawMkliz638a7vc.jpg" group-title="FILMES | NACIONAIS",O Cheiro do Ralo (2006)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Crime da Cabra (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dmTB39jwwttoMAIR6RiJulKoNH8.jpg" group-title="FILMES | NACIONAIS",O Crime da Cabra (2015)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Estigma (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uHaTS3VTWfqL7dmnA8M1CkpILKz.jpg" group-title="FILMES | NACIONAIS",O Estigma (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Circo Místico (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mGb7dmGFIWSigLou8FYq8zlqF45.jpg" group-title="FILMES | NACIONAIS",O Grande Circo Místico (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Madeireiro (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9M8qoqsTPrU5jkT0efuHJYCMJ8P.jpg" group-title="FILMES | NACIONAIS",O Madeireiro (2011)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Menino da Porteira (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/s0UPQWu6tR2iMlV23fvOAYP45Gh.jpg" group-title="FILMES | NACIONAIS",O Menino da Porteira (2009)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Milagre dos Pássaros (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a5EIPBJbMHMdRDHG12ddg1qbfCF.jpg" group-title="FILMES | NACIONAIS",O Milagre dos Pássaros (2012)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Xuxa e os Trapalhões em O Mistério de Robin Hood (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3VBItZiqd8FWzfNcJAAFY6no3Uc.jpg" group-title="FILMES | NACIONAIS",Xuxa e os Trapalhões em O Mistério de Robin Hood (1990)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mundo Mágico dos Trapalhões (1981)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qhfbiQ5UZXUhqvnzF0TVL8JIl5U.jpg" group-title="FILMES | NACIONAIS",O Mundo Mágico dos Trapalhões (1981)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Noviço Rebelde (1997)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hgaouQPWXu4Kezmb65569B9QsWS.jpg" group-title="FILMES | NACIONAIS",O Noviço Rebelde (1997)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Porteiro do Dia (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AhBl1adNM94MGzIG7nEBVAD3pub.jpg" group-title="FILMES | NACIONAIS",O Porteiro do Dia (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Fantasmas Trapalhões (1987)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iZ7QSsfkqJJNIT1GQcXVs01Rjq8.jpg" group-title="FILMES | NACIONAIS",Os Fantasmas Trapalhões (1987)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Trapalhão e a Luz Azul (1999)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/r8h5xaVCsEBCAUEUdUPtYzMHv6K.jpg" group-title="FILMES | NACIONAIS",O Trapalhão e a Luz Azul (1999)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pendular (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6yU9lmNDBihsPpxxdHAi8PbiqmB.jpg" group-title="FILMES | NACIONAIS",Pendular (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Praça Paris (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5xtukR0jCsBodtnLHj212sT0TOJ.jpg" group-title="FILMES | NACIONAIS",Praça Paris (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quincas Berro d'Água (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wqR31Lup29LbKrIPqWrmzDQV3Ov.jpg" group-title="FILMES | NACIONAIS",Quincas Berro d'Água (2010)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rei David (1985)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l7IVgnaZtnT7K0I7jsaZUAq90dy.jpg" group-title="FILMES | NACIONAIS",Rei David (1985)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sai de Baixo (1956)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y0hTDl2pzwdhfS7f7dGFcYo3vdD.jpg" group-title="FILMES | NACIONAIS",Sai de Baixo (1956)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Simbad, O Marujo Trapalhão (1976)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rxrYij1gxwIakNrrVP5LNPrEMV8.jpg" group-title="FILMES | NACIONAIS", O Marujo Trapalhão (1976)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Simão, o Fantasma Trapalhão (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hp6PFaJr7PXwl3Ci2Fgpq2OhLyt.jpg" group-title="FILMES | NACIONAIS", o Fantasma Trapalhão (1998)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobre Rodas (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2KoY6U66oe64wTc6sFCrbPmX437.jpg" group-title="FILMES | NACIONAIS",Sobre Rodas (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suburbia - O Filme (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mUcj6Gk5QmhlXQi7lrRnW9Q1D2C.jpg" group-title="FILMES | NACIONAIS",Suburbia - O Filme (2012)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tainá: Uma Aventura na Amazônia (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1eWXD2818d5VVHhayLIOvyTI9wy.jpg" group-title="FILMES | NACIONAIS",Tainá: Uma Aventura na Amazônia (2001)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tainá 2: A Aventura Continua (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aIBdGH3AV2Hni30KWwuq76XN1ty.jpg" group-title="FILMES | NACIONAIS",Tainá 2: A Aventura Continua (2004)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tapete Vermelho (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zh8PPoN82hV73GOfwZ6LD14Q1zp.jpg" group-title="FILMES | NACIONAIS",Tapete Vermelho (2005)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trabalhar Cansa (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2qRBohwJok395E6xr7L6VhMEhq.jpg" group-title="FILMES | NACIONAIS",Trabalhar Cansa (2011)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo Acaba Em Festa (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wnlOjxVeUXHwcHOEN0s1vSgJHCh.jpg" group-title="FILMES | NACIONAIS",Tudo Acaba Em Festa (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Novo Capitalismo (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zXIWQoHWyZrFzsDDqVoDg92BItT.jpg" group-title="FILMES | NACIONAIS",Um Novo Capitalismo (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uns Braços (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4ruHJpeh3aliNWrOyHpiXxkFqJc.jpg" group-title="FILMES | NACIONAIS",Uns Braços (2009)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vazante (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pK1CHVJ8A3MzRE6JrkWdIm1aQ60.jpg" group-title="FILMES | NACIONAIS",Vazante (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vazio Coração (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1vmaZ0ETn5BMYhq6tKKXB2ExsWF.jpg" group-title="FILMES | NACIONAIS",Vazio Coração (2013)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yonlu (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/riX9lP1BgSlgCBaRDvxASIhcqvf.jpg" group-title="FILMES | NACIONAIS",Yonlu (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ó Paí, Ó (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5xmBBt6NvPs4sbQWxqd0UrGVcn8.jpg" group-title="FILMES | NACIONAIS", Ó (2007)
+http://7go.xyz:8080/movie/17991428357/useplay179914/186079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Casamento de Romeu e Julieta (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bbrJVncfOVG9d1URDVGFOxKj8h6.jpg" group-title="FILMES | NACIONAIS",O Casamento de Romeu e Julieta (2005)
+http://7go.xyz:8080/movie/17991428357/useplay179914/197517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Querô (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gZXhCMSoapkSGqnYRhKcpxQfYA7.jpg" group-title="FILMES | NACIONAIS",Querô (2007)
+http://7go.xyz:8080/movie/17991428357/useplay179914/197518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sai de Baixo: O Filme (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6ugyCJOhnaWRnUdVI8cxXzehay2.jpg" group-title="FILMES | NACIONAIS",Sai de Baixo: O Filme (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/197519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sorria, Você Está Sendo Filmado (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vsUmlZDp7xHH5wEcctDOq0DHciH.jpg" group-title="FILMES | NACIONAIS", Você Está Sendo Filmado (2015)
+http://7go.xyz:8080/movie/17991428357/useplay179914/197520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Turbulência (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4T2a0xVPHLazi4COChdASP4w8Jr.jpg" group-title="FILMES | NACIONAIS",Turbulência (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/197521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Loucura de Mulher (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hr3vWfsiNo5BBW0Tv33cetMTq50.jpg" group-title="FILMES | NACIONAIS",Uma Loucura de Mulher (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/197522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Noite em Sampa (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3tegS9SqfGxy8m1XxEhL4URjVzL.jpg" group-title="FILMES | NACIONAIS",Uma Noite em Sampa (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/197523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Xingu (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z41DkjNycIZ5xRMsRJRO6g06rv8.jpg" group-title="FILMES | NACIONAIS",Xingu (2012)
+http://7go.xyz:8080/movie/17991428357/useplay179914/197524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Berenice Procura (2017)" tvg-logo="http://7go.xyz:8080/images/4cd6c6534476dcaaec61ebdcd224581a.jpg" group-title="FILMES | NACIONAIS",Berenice Procura (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/207725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Intervenção, É Proibido Morrer (2021)" tvg-logo="http://7go.xyz:8080/images/6070523f8a28c0dbcf43e6a2644e72f6.jpg" group-title="FILMES | NACIONAIS", É Proibido Morrer (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/207726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cabeça de Nêgo (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wh180En9vrUoCTvTGKV9Mg54PSq.jpg" group-title="FILMES | NACIONAIS",Cabeça de Nêgo (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/219205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cisterna (2021)" tvg-logo="http://7online.xyz:8080/images/3b3273b7e374aed3760a445fce6134d3.jpg" group-title="FILMES | NACIONAIS",A Cisterna (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/219346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fera na Selva (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/knmqclEqSNcVH0avUeR8xyKdbMu.jpg" group-title="FILMES | NACIONAIS",A Fera na Selva (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/219347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnaval (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ze1Sdb7WB64TBJhPqg8sJtwQtes.jpg" group-title="FILMES | NACIONAIS",Carnaval (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/219348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lulli (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ztJHKv6KSSgCTWAI2STrX2BeuJZ.jpg" group-title="FILMES | NACIONAIS",Lulli (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/219349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Hóspede (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/byuYlsxp53lRxa3jmgOjrpjdXOc.jpg" group-title="FILMES | NACIONAIS",O Hóspede (2011)
+http://7go.xyz:8080/movie/17991428357/useplay179914/219350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entrando Numa Roubada (2015)" tvg-logo="http://7online.xyz:8080/images/f2319280ad8cff22b4c526edad69beb8.jpg" group-title="FILMES | NACIONAIS",Entrando Numa Roubada (2015)
+http://7go.xyz:8080/movie/17991428357/useplay179914/228612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Abelhas (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dGZNN70ffCyOsYqqMTYFeMySxjB.jpg" group-title="FILMES | NACIONAIS",Entre Abelhas (2015)
+http://7go.xyz:8080/movie/17991428357/useplay179914/228613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu Sou Mais Eu (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8crHQVVD8KfTxl7VeImVBEjG9Ei.jpg" group-title="FILMES | NACIONAIS",Eu Sou Mais Eu (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/228614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fala comigo (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qFrlQ5KNOcdavcdWEPrnqWOEG8h.jpg" group-title="FILMES | NACIONAIS",Fala comigo (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/228615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Getúlio (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aISy7Ai4SsogAMZCvClPtzsByEi.jpg" group-title="FILMES | NACIONAIS",Getúlio (2014)
+http://7go.xyz:8080/movie/17991428357/useplay179914/228616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Histórias Que Só Existem Quando Lembradas (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hJINMy15brphnR910IAIJbQWEUO.jpg" group-title="FILMES | NACIONAIS",Histórias Que Só Existem Quando Lembradas (2012)
+http://7go.xyz:8080/movie/17991428357/useplay179914/228617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Historietas Assombradas - O Filme (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cMuuSmIFKTZtvW7vVeoTA3OQRbj.jpg" group-title="FILMES | NACIONAIS",Historietas Assombradas - O Filme (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/228618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invasores (2016)" tvg-logo="http://7online.xyz:8080/images/70c978b805beeb1f85cfa24cdc728932.jpg" group-title="FILMES | NACIONAIS",Invasores (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/237382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nervo Craniano Zero (2012)" tvg-logo="http://7online.xyz:8080/images/05a1832ba5eca2b7d090886b25c35069.jpg" group-title="FILMES | NACIONAIS",Nervo Craniano Zero (2012)
+http://7go.xyz:8080/movie/17991428357/useplay179914/249587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Amor de Catarina (2016)" tvg-logo="http://7online.xyz:8080/images/07687000b09fa75083002a98656f2574.jpg" group-title="FILMES | NACIONAIS",O Amor de Catarina (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/249588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Candinho (1976)" tvg-logo="http://7online.xyz:8080/images/56cdfe186a16d18d8e3ee9f6629a90b3.jpg" group-title="FILMES | NACIONAIS",O Candinho (1976)
+http://7go.xyz:8080/movie/17991428357/useplay179914/249589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Caseiro (2016)" tvg-logo="http://7online.xyz:8080/images/6c8d8df501a2d23616f0806f8d543acd.jpg" group-title="FILMES | NACIONAIS",O Caseiro (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/249590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Filho Eterno (2016)" tvg-logo="http://7online.xyz:8080/images/76520cc2dc57beb6316cf9b8a7a8b4b1.jpg" group-title="FILMES | NACIONAIS",O Filho Eterno (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/249591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rastro (2017)" tvg-logo="http://7online.xyz:8080/images/983aa03b4eb9e21bcc7ff46fefbaadb5.jpg" group-title="FILMES | NACIONAIS",O Rastro (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/249592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Roubo da Taça (2016)" tvg-logo="http://7online.xyz:8080/images/0406c78907456bfbdd144a196292cfcd.jpg" group-title="FILMES | NACIONAIS",O Roubo da Taça (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/249593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Inconfidentes (1972)" tvg-logo="http://7online.xyz:8080/images/055bac6bbab03dbe3de8f089696b0cb1.jpg" group-title="FILMES | NACIONAIS",Os Inconfidentes (1972)
+http://7go.xyz:8080/movie/17991428357/useplay179914/249594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Virgem (2016)" tvg-logo="http://7online.xyz:8080/images/464cae051253c94b27ccd81ed4c47357.jpg" group-title="FILMES | NACIONAIS",O Último Virgem (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/249595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pela Janela (2017)" tvg-logo="http://7online.xyz:8080/images/96ec32c8565b73bd8b431965324e47da.jpg" group-title="FILMES | NACIONAIS",Pela Janela (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/249596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pixote: A Lei do Mais Fraco (1980)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cFCtrOKX1lCm0StptM9T755cR4E.jpg" group-title="FILMES | NACIONAIS",Pixote: A Lei do Mais Fraco (1980)
+http://7go.xyz:8080/movie/17991428357/useplay179914/249597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Proibido Proibir (2007)" tvg-logo="http://7online.xyz:8080/images/0d5904135cde8b99a55cc81119445213.jpg" group-title="FILMES | NACIONAIS",Proibido Proibir (2007)
+http://7go.xyz:8080/movie/17991428357/useplay179914/249598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quando o Galo Cantar Pela Terceira Vez Renegarás Tua Mãe (2017)" tvg-logo="http://7online.xyz:8080/images/1cfe09638cf2945736ebc96cdd93b2d1.jpg" group-title="FILMES | NACIONAIS",Quando o Galo Cantar Pela Terceira Vez Renegarás Tua Mãe (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/249599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quem matou Pixote? (1996)" tvg-logo="http://7online.xyz:8080/images/00427a9b557b05dec8e7fa77ee3aa120.jpg" group-title="FILMES | NACIONAIS",Quem matou Pixote? (1996)
+http://7go.xyz:8080/movie/17991428357/useplay179914/249600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rafinha Bastos: Ultimato (2018)" tvg-logo="http://7online.xyz:8080/images/da0b03da9863e92eab54746dffd95e17.jpg" group-title="FILMES | NACIONAIS",Rafinha Bastos: Ultimato (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/249601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Real: O Plano por Trás da História (2017)" tvg-logo="http://7online.xyz:8080/images/36f70fd8ef08cbb487464cf932152303.jpg" group-title="FILMES | NACIONAIS",Real: O Plano por Trás da História (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/249602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Redemoinho (2017)" tvg-logo="http://7online.xyz:8080/images/cab20585e973ce3af75ba7f85e750288.jpg" group-title="FILMES | NACIONAIS",Redemoinho (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/249603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rúcula com Tomate Seco (2017)" tvg-logo="http://7online.xyz:8080/images/1484bf5294790d2cb74c12cec9187674.jpg" group-title="FILMES | NACIONAIS",Rúcula com Tomate Seco (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/249604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: Um Natal Muito Atrapalhado (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/biXaoEHitB8v5tkQJUjDNx6Z1fn.jpg" group-title="FILMES | NACIONAIS",Luccas Neto em: Um Natal Muito Atrapalhado (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/29436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cura (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/izjlohqToOPeZbBtzYo0AOtUgW4.jpg" group-title="FILMES | NACIONAIS",A Cura (2010)
+http://7go.xyz:8080/movie/17991428357/useplay179914/171229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Por Um Fio (2003)" tvg-logo="http://7online.xyz:8080/images/d12ae9ade2afac8ef7b27b2c7d49f831.jpg" group-title="FILMES | NACIONAIS",Por Um Fio (2003)
+http://7go.xyz:8080/movie/17991428357/useplay179914/219039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Somos Tão Jovens (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sakpWhGTY1ipnHDWAB4LvKawskp.jpg" group-title="FILMES | NACIONAIS",Somos Tão Jovens (2013)
+http://7go.xyz:8080/movie/17991428357/useplay179914/229785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Teu Mundo não cabe nos Meus Olhos (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sQl8mvS9Q8cNBldaZ0MBO9e4yse.jpg" group-title="FILMES | NACIONAIS",Teu Mundo não cabe nos Meus Olhos (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/229813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tungstênio (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hZ3ZQMSelUbyTscDGJcdnnrX4SB.jpg" group-title="FILMES | NACIONAIS",Tungstênio (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/229843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Irmandade (2019)" tvg-logo="http://7online.xyz:8080/images/c54ecdcd55140ad317b02b6261cf7ae2.jpg" group-title="FILMES | NACIONAIS",A Irmandade (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="220 Volts: Especial de Fim de Ano (2020)" tvg-logo="http://7online.xyz:8080/images/5a57acd461de122e5e8c6f869827b13c.jpg" group-title="FILMES | NACIONAIS",220 Volts: Especial de Fim de Ano (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amigas de Sorte (2021)" tvg-logo="http://7online.xyz:8080/images/e00cca32faa749d8fd1d3a7840a1af26.jpg" group-title="FILMES | NACIONAIS",Amigas de Sorte (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sogra Perfeita (2020)" tvg-logo="http://7online.xyz:8080/images/0ff141b249927a3d2efdc588266db517.jpg" group-title="FILMES | NACIONAIS",A Sogra Perfeita (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loop (2019)" tvg-logo="http://7online.xyz:8080/images/a8fadc8c2b42eaa7013888265dc09e7a.jpg" group-title="FILMES | NACIONAIS",Loop (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1 Contra Todos - O Filme (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dwLLqTWXWdD8CFWXdlmemxWPYas.jpg" group-title="FILMES | NACIONAIS",1 Contra Todos - O Filme (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1964: O Brasil Entre Armas e Livros (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kERgnDxb4YXU0c6DDSWZiLmuHC1.jpg" group-title="FILMES | NACIONAIS",1964: O Brasil Entre Armas e Livros (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bruta Flor do Querer (2016)" tvg-logo="http://7online.xyz:8080/images/e9f967828b392280d81a41e3d6d66915.jpg" group-title="FILMES | NACIONAIS",A Bruta Flor do Querer (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Coleção Invisível (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nBhIR6uviCKqZzby9k8k39WEQQq.jpg" group-title="FILMES | NACIONAIS",A Coleção Invisível (2013)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Frente Fria Que a Chuva Traz (2016)" tvg-logo="http://7online.xyz:8080/images/2cf9cf6b8ec3ae88134ce5d436319a8b.jpg" group-title="FILMES | NACIONAIS",A Frente Fria Que a Chuva Traz (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Glória e a Graça (2017)" tvg-logo="http://7online.xyz:8080/images/e5265a50fe68d15aac600526cae137a6.jpg" group-title="FILMES | NACIONAIS",A Glória e a Graça (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amanhã Nunca Mais (2011)" tvg-logo="http://7online.xyz:8080/images/3f8826c7174c0e0805d50868549c3274.jpg" group-title="FILMES | NACIONAIS",Amanhã Nunca Mais (2011)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Menina Índigo (2017)" tvg-logo="http://7online.xyz:8080/images/6d59c9167dc120bd17567402e78e1603.jpg" group-title="FILMES | NACIONAIS",A Menina Índigo (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor, Estranho Amor (1982)" tvg-logo="http://7online.xyz:8080/images/9743eabfb58b4810e3195a3f2e36c0e9.jpg" group-title="FILMES | NACIONAIS", Estranho Amor (1982)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor em Sampa (2016)" tvg-logo="http://7online.xyz:8080/images/5668c86261445fafd74e7a9a639231bf.jpg" group-title="FILMES | NACIONAIS",Amor em Sampa (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animal Político (2017)" tvg-logo="http://7online.xyz:8080/images/fb3eb26cdf90a16b0ddf2a6a886cd8ec.jpg" group-title="FILMES | NACIONAIS",Animal Político (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Onda da Vida - Uma História de Amor & Surf (2014)" tvg-logo="http://7online.xyz:8080/images/ba41738ecced5b1c3201542a717f36ea.jpg" group-title="FILMES | NACIONAIS",A Onda da Vida - Uma História de Amor & Surf (2014)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paixão de Cristo de Nova Jerusalém" tvg-logo="http://i.imgur.com/5adrrdk.jpg" group-title="FILMES | NACIONAIS",Paixão de Cristo de Nova Jerusalém
+http://7go.xyz:8080/movie/17991428357/useplay179914/262599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apaixonados: O Filme (2016)" tvg-logo="http://7online.xyz:8080/images/edb4d84112f3757f51538eb92878599a.jpg" group-title="FILMES | NACIONAIS",Apaixonados: O Filme (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Duas Irenes (2017)" tvg-logo="http://7online.xyz:8080/images/a22bba28ac19dda7586a65f241dc306b.jpg" group-title="FILMES | NACIONAIS",As Duas Irenes (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Fábulas Negras (2015)" tvg-logo="http://7online.xyz:8080/images/ed8fa965e740e63b0a240dd903a6565b.jpg" group-title="FILMES | NACIONAIS",As Fábulas Negras (2015)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Axé: Canto do Povo de um Lugar (2017)" tvg-logo="http://7online.xyz:8080/images/776a832ef84f93dc8dfd9d9a23245f60.jpg" group-title="FILMES | NACIONAIS",Axé: Canto do Povo de um Lugar (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bezerra de Menezes: O Diário de um Espírito (2008)" tvg-logo="http://7online.xyz:8080/images/9fc331660ac5eeefe1e2b3dd6fcf70a7.jpg" group-title="FILMES | NACIONAIS",Bezerra de Menezes: O Diário de um Espírito (2008)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bye bye Jaqueline (2017)" tvg-logo="http://7online.xyz:8080/images/0a55b1d36d437332663530631753e919.jpg" group-title="FILMES | NACIONAIS",Bye bye Jaqueline (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Calango Ball (2017)" tvg-logo="http://7online.xyz:8080/images/de9bf99aae5255e41ac34e35f5834f88.jpg" group-title="FILMES | NACIONAIS",Calango Ball (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Salafrários (2021)" tvg-logo="http://7online.xyz:8080/images/d5864c43f33f85e37eece9a6f96a17bd.jpg" group-title="FILMES | NACIONAIS",Os Salafrários (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Tio Quase Perfeito 2 (2021)" tvg-logo="http://7online.xyz:8080/images/a5ae7796a5d2e22ac0f1d5d1a20d0c07.jpg" group-title="FILMES | NACIONAIS",Um Tio Quase Perfeito 2 (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doidas e Santas (2017)" tvg-logo="http://7online.xyz:8080/images/f3514d36fb6b73c7aecbf59da043cff0.jpg" group-title="FILMES | NACIONAIS",Doidas e Santas (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hoje Eu Quero Voltar Sozinho (2014)" tvg-logo="http://7online.xyz:8080/images/bf83eb4fb04f080ef75f5bbd4b430cc3.jpg" group-title="FILMES | NACIONAIS",Hoje Eu Quero Voltar Sozinho (2014)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jonas (2018)" tvg-logo="http://7online.xyz:8080/images/cb0952cbf7115a40a915725450ee3a8b.jpg" group-title="FILMES | NACIONAIS",Jonas (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lua de Cristal (1990)" tvg-logo="http://7online.xyz:8080/images/0ce74e59f0ae8681e05f716ace3f749a.jpg" group-title="FILMES | NACIONAIS",Lua de Cristal (1990)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: Dia das Crianças (2019)" tvg-logo="http://7online.xyz:8080/images/af7fda652c7dfbb287a0f865331d8921.jpg" group-title="FILMES | NACIONAIS",Luccas Neto em: Dia das Crianças (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marco Luque - Tamo Junto (2017)" tvg-logo="http://7online.xyz:8080/images/8b2853396bb9c0dffaf6c6e3f811a0f2.jpg" group-title="FILMES | NACIONAIS",Marco Luque - Tamo Junto (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/262864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Livro dos Prazeres (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ahQ7b9yJzSpxlPGLYhwZuYctvb8.jpg" group-title="FILMES | NACIONAIS",O Livro dos Prazeres (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/265985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Menino Que Matou Meus Pais (2021)" tvg-logo="http://7online.xyz:8080/images/dd0f95d9792069115f07bd2a6b1c80f8.jpg" group-title="FILMES | NACIONAIS",O Menino Que Matou Meus Pais (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/270858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hermanoteu na Terra de Godah: O Filme (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nW62xAJYHcTMs1U7bgDNlZjDZMd.jpg" group-title="FILMES | NACIONAIS",Hermanoteu na Terra de Godah: O Filme (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/242419.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bicho de Sete Cabeças (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ucFRXjYTuIhMEa2ZgK4FKrwTPN.jpg" group-title="FILMES | NACIONAIS",Bicho de Sete Cabeças (2001)
+http://7go.xyz:8080/movie/17991428357/useplay179914/275508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bonitinha, Mas Ordinária (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1caql8cVoV3KSdGzO5OLDXD75KC.jpg" group-title="FILMES | NACIONAIS", Mas Ordinária (2013)
+http://7go.xyz:8080/movie/17991428357/useplay179914/275509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boca de Ouro (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8mBGLtfl2lQkmoNwyIxXaikjKSg.jpg" group-title="FILMES | NACIONAIS",Boca de Ouro (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/275748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Café com Canela (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vw7XoYCuUpDpqnCpZSIrYYPihs.jpg" group-title="FILMES | NACIONAIS",Café com Canela (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/275749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operações Especiais (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kqaYQ8h5KIqtgF90PLPRvBbuqNv.jpg" group-title="FILMES | NACIONAIS",Operações Especiais (2015)
+http://7go.xyz:8080/movie/17991428357/useplay179914/275834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: O Fim do Natal (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qvbG8HGZADCUBhZyy8f029KviKW.jpg" group-title="FILMES | NACIONAIS",Luccas Neto em: O Fim do Natal (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/276005.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões no Rabo do Cometa (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8XoZzttXVWuoYt8L6nxqP0xFAas.jpg" group-title="FILMES | NACIONAIS",Os Trapalhões no Rabo do Cometa (1986)
+http://7go.xyz:8080/movie/17991428357/useplay179914/276006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Giovanni Improtta (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zqt4ljJpstWz37POpES66RXyNSL.jpg" group-title="FILMES | NACIONAIS",Giovanni Improtta (2013)
+http://7go.xyz:8080/movie/17991428357/useplay179914/276070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogo Duro (1986)" tvg-logo="https://images.justwatch.com/poster/164181001/s592/jogo-duro-1986" group-title="FILMES | NACIONAIS",Jogo Duro (1986)
+http://7go.xyz:8080/movie/17991428357/useplay179914/276071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lampião e Maria Bonita (1982)" tvg-logo="http://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYtSxM1NTQuAJ2w1k9iEHTiRAyA.jpg" group-title="FILMES | NACIONAIS",Lampião e Maria Bonita (1982)
+http://7go.xyz:8080/movie/17991428357/useplay179914/276072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Coração do Mundo (2019)" tvg-logo="http://www.themoviedb.org/t/p/w600_and_h900_bestv2/dBr3Z2CkQcXOyx0POLm8BFNmAgh.jpg" group-title="FILMES | NACIONAIS",No Coração do Mundo (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/276073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Achados e Perdidos (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/og9GIJZKakWf9HG3xD13wCgEbCJ.jpg" group-title="FILMES | NACIONAIS",Achados e Perdidos (2007)
+http://7go.xyz:8080/movie/17991428357/useplay179914/276215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chico - Artista Brasileiro (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cNySjJRiKZcPjFnvNDiQGVBYtBe.jpg" group-title="FILMES | NACIONAIS",Chico - Artista Brasileiro (2015)
+http://7go.xyz:8080/movie/17991428357/useplay179914/276216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colegas (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kXpDufZOS9Ut3wxXOYGotwpsHzs.jpg" group-title="FILMES | NACIONAIS",Colegas (2013)
+http://7go.xyz:8080/movie/17991428357/useplay179914/276217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estive em Lisboa e Lembrei de Você (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zjKkD0k3xr3chHAU3oxRx4fQk1j.jpg" group-title="FILMES | NACIONAIS",Estive em Lisboa e Lembrei de Você (2015)
+http://7go.xyz:8080/movie/17991428357/useplay179914/276871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="B.O. (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2zqugyt6a8D4fD6ZqIU8UCsh3U4.jpg" group-title="FILMES | NACIONAIS",B.O. (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Curral (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8xMDCOwl6qE4Ypcy0HsMwalnEXU.jpg" group-title="FILMES | NACIONAIS",Curral (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chacrinha: O Velho Guerreiro (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ho8t3hb7K5PUFRKzgsB9hPPueuW.jpg" group-title="FILMES | NACIONAIS",Chacrinha: O Velho Guerreiro (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Hackear Seu Chefe (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sXIIGA2VeK1FAhd9c547kcBIryq.jpg" group-title="FILMES | NACIONAIS",Como Hackear Seu Chefe (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deslembro (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cqujj3CAh1b2gOTrow8jwz0IsV2.jpg" group-title="FILMES | NACIONAIS",Deslembro (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diários de Intercâmbio (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vqVVwT8hwHUlPscS2yE8c4aEm0T.jpg" group-title="FILMES | NACIONAIS",Diários de Intercâmbio (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Do Lado de Fora (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u0SYoZWIgOkON4xX60VojZ54wqC.jpg" group-title="FILMES | NACIONAIS",Do Lado de Fora (2014)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E a Vida Continua... (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vGsZd5MPX8LCqE9Pwi5VPL4G6n6.jpg" group-title="FILMES | NACIONAIS",E a Vida Continua... (2012)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encarnação do Demônio (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z9ES1UKKuYwwRgoy0fvATVfM8Vk.jpg" group-title="FILMES | NACIONAIS",Encarnação do Demônio (2008)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ilhados (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jZonuUeC9bH2D5A609w7nkplhyj.jpg" group-title="FILMES | NACIONAIS",Ilhados (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lula, o Filho do Brasil (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2P4aDW9P10rNUoFvgIdiFbM5dAZ.jpg" group-title="FILMES | NACIONAIS", o Filho do Brasil (2010)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Confisco (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6TzJUkKCQSg84WG2ew0WNC4gHBq.jpg" group-title="FILMES | NACIONAIS",Confisco (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hector (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c2im87Lg9o19mfqezmQzhLqJ4nc.jpg" group-title="FILMES | NACIONAIS",Hector (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogo de Xadrez (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jGZ3HDSWVaX6tONmlMLnKanreSV.jpg" group-title="FILMES | NACIONAIS",Jogo de Xadrez (2014)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maresia (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jMlAqMjbZyFDzVIz2bJSC6x5oIk.jpg" group-title="FILMES | NACIONAIS",Maresia (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Nome é Bagdá (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fRAPoeG3di2WKBlwNipPruNrSZS.jpg" group-title="FILMES | NACIONAIS",Meu Nome é Bagdá (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Velho (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eNYpkVgr4qCCiPYU07zaJkZiw2a.jpg" group-title="FILMES | NACIONAIS",O Velho (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altas Expectativas (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1IfPbs6zgWDbBlazciUIMOvXwdv.jpg" group-title="FILMES | NACIONAIS",Altas Expectativas (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/31332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gilda, Lúcia e o Bode (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hoXjH7LPO5typYqkdVdqpcmLfya.jpg" group-title="FILMES | NACIONAIS", Lúcia e o Bode (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/31412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: O Hotel Mágico 2 (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wEUlxyFHZ838xnjWk1MrWeumVWw.jpg" group-title="FILMES | NACIONAIS",Luccas Neto em: O Hotel Mágico 2 (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/278000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não por Acaso (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/siphfdf7bcCBIER7xF780nlzUZd.jpg" group-title="FILMES | NACIONAIS",Não por Acaso (2007)
+http://7go.xyz:8080/movie/17991428357/useplay179914/278001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Banquete (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zL6Jg1tqrNqid5KjogCzXBrIfoz.jpg" group-title="FILMES | NACIONAIS",O Banquete (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/278002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Casamento de Gorete (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yVTwy1yhJjEPKaG4Lh8pHj9VmYH.jpg" group-title="FILMES | NACIONAIS",O Casamento de Gorete (2014)
+http://7go.xyz:8080/movie/17991428357/useplay179914/278003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jardim Secreto de Mariana (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/62hZk5rAc1BB4LBDpajmr0URA7c.jpg" group-title="FILMES | NACIONAIS",O Jardim Secreto de Mariana (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/293705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pai da Rita (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t1Xs4xqE7pk3A6cbq5ohJagoNt2.jpg" group-title="FILMES | NACIONAIS",O Pai da Rita (2022)
+http://7go.xyz:8080/movie/17991428357/useplay179914/293706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rio nos Pertence! (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eHvt9CL7nnyg1FtCv0KxNU6SnHr.jpg" group-title="FILMES | NACIONAIS",O Rio nos Pertence! (2013)
+http://7go.xyz:8080/movie/17991428357/useplay179914/293707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paraísos Artificiais (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v4jVEhbQ0dbBFFWOlaPUhOYhDOf.jpg" group-title="FILMES | NACIONAIS",Paraísos Artificiais (2012)
+http://7go.xyz:8080/movie/17991428357/useplay179914/293708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Segredo dos Diamantes (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1ltS2h0XBKCyw6kEOs0cKLQ39DP.jpg" group-title="FILMES | NACIONAIS",O Segredo dos Diamantes (2014)
+http://7go.xyz:8080/movie/17991428357/useplay179914/294374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez Brasília (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZtX4VkGHN8BhQDGkffJn2i45Hq.jpg" group-title="FILMES | NACIONAIS",Era Uma Vez Brasília (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/294500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Silêncio da Chuva (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8nUWNGJYNx4Y4WDIe9kJkgeFBfK.jpg" group-title="FILMES | NACIONAIS",O Silêncio da Chuva (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/294501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="L.O.C.A. (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nWdTBg9mugmDJPepAnTXrNe1aUx.jpg" group-title="FILMES | NACIONAIS",L.O.C.A. (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/297747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Buscador (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zpeJyyX6panT3IiKFrEFwJ6oxRL.jpg" group-title="FILMES | NACIONAIS",O Buscador (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/297748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Três Verões (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/peHMcLk1jS3wrCXvq9T5vH6oILe.jpg" group-title="FILMES | NACIONAIS",Três Verões (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/298430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="#PartiuFama: Cancelado no Amor (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/24eEIEi7bgGmNDnsfkC6FAQTF8.jpg" group-title="FILMES | NACIONAIS",#PartiuFama: Cancelado no Amor (2022)
+http://7go.xyz:8080/movie/17991428357/useplay179914/299886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cafundo (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/24eEIEi7bgGmNDnsfkC6FAQTF8.jpg" group-title="FILMES | NACIONAIS",Cafundo (2005)
+http://7go.xyz:8080/movie/17991428357/useplay179914/299887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Riocorrente (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e7BK9TELKcLNFgDPSgG767YRYHI.jpg" group-title="FILMES | NACIONAIS",Riocorrente (2013)
+http://7go.xyz:8080/movie/17991428357/useplay179914/299888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Metanoia (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/crg01GuPy8OLrYjsjudqmXScTxB.jpg" group-title="FILMES | NACIONAIS",Metanoia (2015)
+http://7go.xyz:8080/movie/17991428357/useplay179914/302946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Paciente - O Caso Tancredo Neves (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iZtAl68tBaZGX0FA3g8Pgzsw3k1.jpg" group-title="FILMES | NACIONAIS",O Paciente - O Caso Tancredo Neves (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/302947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Jaula (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4hl4vdf2QdKRMg5cU0CIO3eydg.jpg" group-title="FILMES | NACIONAIS",A Jaula (2022)
+http://7go.xyz:8080/movie/17991428357/useplay179914/303928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Suburbanos: O Filme (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wosEdGvBzt8nVLHAJ9cljfo0AEG.jpg" group-title="FILMES | NACIONAIS",Os Suburbanos: O Filme (2022)
+http://7go.xyz:8080/movie/17991428357/useplay179914/303929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cidade do Futuro (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wVuzAONJKBaIxFXpw3RguMekvTx.jpg" group-title="FILMES | NACIONAIS",A Cidade do Futuro (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/311533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anna 2 (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jlqnp8lXTbjqLNrPq9FEJQX0rGt.jpg" group-title="FILMES | NACIONAIS",Anna 2 (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/311736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Legalize Já! - Amizade Nunca Morre (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6SZ2dcN4LwC4Q9bsS0Li128jksU.jpg" group-title="FILMES | NACIONAIS",Legalize Já! - Amizade Nunca Morre (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/312947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Segredo de Sara (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zxxrVAzAMQ2BA5lxznCqzWVJI4J.jpg" group-title="FILMES | NACIONAIS",O Segredo de Sara (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/313215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Menino Maluquinho: O Filme (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jjfE6gZW0TfjskQXAzcsy5Qp6wd.jpg" group-title="FILMES | NACIONAIS",Menino Maluquinho: O Filme (1995)
+http://7go.xyz:8080/movie/17991428357/useplay179914/313243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Agamenon, o Repórter (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sA7eFsHAdlSwdqtbxuATV9QaOiL.jpg" group-title="FILMES | NACIONAIS", o Repórter (2012)
+http://7go.xyz:8080/movie/17991428357/useplay179914/313734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carrossel: O Filme (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7mFT1RnjzI83o65kh6NRsg2P8V8.jpg" group-title="FILMES | NACIONAIS",Carrossel: O Filme (2015)
+http://7go.xyz:8080/movie/17991428357/useplay179914/314600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carrossel 2: O Sumiço de Maria Joaquina (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/D5L9rLe9rWEA9wNXOtJt2jo1J1.jpg" group-title="FILMES | NACIONAIS",Carrossel 2: O Sumiço de Maria Joaquina (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/314601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lisbela e o Prisioneiro (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nUM3SPRziINfGbh576EnGV1mWqz.jpg" group-title="FILMES | NACIONAIS",Lisbela e o Prisioneiro (2003)
+http://7go.xyz:8080/movie/17991428357/useplay179914/314747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Nome Não é Johnny (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mKDKutX0bCvg401k68U9Nt7EG0y.jpg" group-title="FILMES | NACIONAIS",Meu Nome Não é Johnny (2008)
+http://7go.xyz:8080/movie/17991428357/useplay179914/314748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Auto da Compadecida (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/imcOp1kJsCsAFCoOtY5OnPrFbAf.jpg" group-title="FILMES | NACIONAIS",O Auto da Compadecida (2000)
+http://7go.xyz:8080/movie/17991428357/useplay179914/314749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Escaravelho do Diabo (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oVFj3TvtW64eV4Jv5oQleLjOKIr.jpg" group-title="FILMES | NACIONAIS",O Escaravelho do Diabo (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/314750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Que Desafiou o Diabo (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ie5sQLxoOzga7YdVHFm8dL5nKgQ.jpg" group-title="FILMES | NACIONAIS",O Homem Que Desafiou o Diabo (2007)
+http://7go.xyz:8080/movie/17991428357/useplay179914/314751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Perfeito (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A7cZjJDYmHUFYmbIFJmPuOrNgMw.jpg" group-title="FILMES | NACIONAIS",O Homem Perfeito (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/314800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prova de Coragem (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vvuWoKIiGOMC1dQd4QB55ruw3Fw.jpg" group-title="FILMES | NACIONAIS",Prova de Coragem (2015)
+http://7go.xyz:8080/movie/17991428357/useplay179914/314950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quem Vai Ficar com Mário? (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/suXQOby3Vtxth3WaCilyNiSGBb1.jpg" group-title="FILMES | NACIONAIS",Quem Vai Ficar com Mário? (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/314951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Pernas pro Ar (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8SNtshMPDMZhTcbiGtakOEJKljy.jpg" group-title="FILMES | NACIONAIS",De Pernas pro Ar (2010)
+http://7go.xyz:8080/movie/17991428357/useplay179914/315930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Pernas pro Ar 2 (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/haTNd5AMt2acEMC3m22Wv1Q0N1R.jpg" group-title="FILMES | NACIONAIS",De Pernas pro Ar 2 (2012)
+http://7go.xyz:8080/movie/17991428357/useplay179914/315931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Pernas pro Ar 3 (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dAjpVUkkc0evIhRFpRIUXfb82mX.jpg" group-title="FILMES | NACIONAIS",De Pernas pro Ar 3 (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/315932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Normais 2 (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5nLdwZTklH9aFYpPw819MPZ5M49.jpg" group-title="FILMES | NACIONAIS",Os Normais 2 (2009)
+http://7go.xyz:8080/movie/17991428357/useplay179914/317228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Se Arrependimento Matasse (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mndNSyuqEQP2i4MNh31YKMKyDP2.jpg" group-title="FILMES | NACIONAIS",Se Arrependimento Matasse (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/317859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="José do Egito - O Filme (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1fGgFHlCmqgcvBc4RfvX90D7i0f.jpg" group-title="FILMES | NACIONAIS",José do Egito - O Filme (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/318660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chorar de Rir (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4JC24Qczhu5pOopBU4zqWSGfEnX.jpg" group-title="FILMES | NACIONAIS",Chorar de Rir (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/319030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cine Holliúdy 2: A Chibata Sideral (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q0F73jsNQNAr2825JRz90SFC18s.jpg" group-title="FILMES | NACIONAIS",Cine Holliúdy 2: A Chibata Sideral (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/319031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dois + Dois (2021)" tvg-logo="http://i.imgur.com/Z4N7sZp.jpg" group-title="FILMES | NACIONAIS",Dois + Dois (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/319032.mp4
