@@ -1,1 +1,83 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! FHD¹" tvg-logo="http://i.imgur.com/WfnlOSA.png" group-title="CANAIS | ABERTOS",REDE TV! FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/31591.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! FHD²" tvg-logo="http://i.imgur.com/WfnlOSA.png" group-title="CANAIS | ABERTOS",REDE TV! FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/64620.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! HD²" tvg-logo="http://i.imgur.com/WfnlOSA.png" group-title="CANAIS | ABERTOS",REDE TV! HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/22606.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! SD¹" tvg-logo="http://i.imgur.com/WfnlOSA.png" group-title="CANAIS | ABERTOS",REDE TV! SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/64619.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! SD²" tvg-logo="http://i.imgur.com/WfnlOSA.png" group-title="CANAIS | ABERTOS",REDE TV! SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/31376.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV ARAPUAN HD*" tvg-logo="https://i.imgur.com/CQPgP48.png" group-title="CANAIS | ABERTOS",TV ARAPUAN HD*
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/162390.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cntriohd.br" tvg-name="CNT FHD¹" tvg-logo="http://i.imgur.com/WZo1LdH.png" group-title="CANAIS | ABERTOS",CNT FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/18916.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="COM BRASIL TV FHD¹" tvg-logo="http://i.imgur.com/HGvpbBj.png" group-title="CANAIS | ABERTOS",COM BRASIL TV FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/114058.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA FHD¹" tvg-logo="http://i.imgur.com/Umkc4Xp.png" group-title="CANAIS | ABERTOS",FUTURA FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/114060.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA HD¹" tvg-logo="http://i.imgur.com/Umkc4Xp.png" group-title="CANAIS | ABERTOS",FUTURA HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/114061.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA SD²" tvg-logo="http://i.imgur.com/Umkc4Xp.png" group-title="CANAIS | ABERTOS",FUTURA SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/114062.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="RBI TV HD¹" tvg-logo="http://i.imgur.com/2qxWQer.png" group-title="CANAIS | ABERTOS",RBI TV HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/114053.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL SD²" tvg-logo="http://i.imgur.com/t7HCwoo.png" group-title="CANAIS | ABERTOS",REDE BRASIL SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/114063.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="REDE MINAS FHD¹" tvg-logo="http://i.imgur.com/1r9Ny9q.png" group-title="CANAIS | ABERTOS",REDE MINAS FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/115830.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="REDE MINAS HD²" tvg-logo="http://i.imgur.com/1r9Ny9q.png" group-title="CANAIS | ABERTOS",REDE MINAS HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/115831.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV BRASIL FHD¹" tvg-logo="http://i.imgur.com/rG7MTVv.png" group-title="CANAIS | ABERTOS",TV BRASIL FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/27888.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV BRASIL HD¹" tvg-logo="http://i.imgur.com/rG7MTVv.png" group-title="CANAIS | ABERTOS",TV BRASIL HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/30256.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV BRASIL HD²" tvg-logo="http://i.imgur.com/rG7MTVv.png" group-title="CANAIS | ABERTOS",TV BRASIL HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/64623.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tvcamara.br" tvg-name="TV CAMARA FHD¹" tvg-logo="http://i.imgur.com/6GiGmz8.png" group-title="CANAIS | ABERTOS",TV CAMARA FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/25673.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tvcamara.br" tvg-name="TV CAMARA HD¹" tvg-logo="http://i.imgur.com/6GiGmz8.png" group-title="CANAIS | ABERTOS",TV CAMARA HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/64622.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV CLUBE SAO JOSE DO NORTE HD*" tvg-logo="http://i.ytimg.com/an/8RnhAjEWCiJAqBJHKIIsUQ/featured_channel.jpg?v=5f1ce202" group-title="CANAIS | ABERTOS",TV CLUBE SAO JOSE DO NORTE HD*
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/55477.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA PARA HD*" tvg-logo="http://i.imgur.com/DLx2hhK.png" group-title="CANAIS | ABERTOS",TV CULTURA PARA HD*
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/50094.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="aande.br" tvg-name="TV DIARIO FHD¹" tvg-logo="http://i.imgur.com/btvewWR.png" group-title="CANAIS | ABERTOS",TV DIARIO FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/25670.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="aande.br" tvg-name="TV DIARIO HD¹" tvg-logo="http://i.imgur.com/btvewWR.png" group-title="CANAIS | ABERTOS",TV DIARIO HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/25671.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO HD²" tvg-logo="http://i.imgur.com/btvewWR.png" group-title="CANAIS | ABERTOS",TV DIARIO HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/64621.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="aande.br" tvg-name="TV DIARIO SD¹" tvg-logo="http://i.imgur.com/btvewWR.png" group-title="CANAIS | ABERTOS",TV DIARIO SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/25672.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="aande.br" tvg-name="TV ESCOLA FHD¹" tvg-logo="http://i.imgur.com/e0Nlw0X.png" group-title="CANAIS | ABERTOS",TV ESCOLA FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/64625.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tvescola.br" tvg-name="TV ESCOLA HD*" tvg-logo="http://i.imgur.com/e0Nlw0X.png" group-title="CANAIS | ABERTOS",TV ESCOLA HD*
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/25667.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV ESCOLA SD²" tvg-logo="http://i.imgur.com/e0Nlw0X.png" group-title="CANAIS | ABERTOS",TV ESCOLA SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/114054.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV GAZETA FHD" tvg-logo="http://i.imgur.com/3CoFRrl.png" group-title="CANAIS | ABERTOS",TV GAZETA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/25665.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV GAZETA HD" tvg-logo="http://i.imgur.com/3CoFRrl.png" group-title="CANAIS | ABERTOS",TV GAZETA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/20948.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV GAZETA HD*" tvg-logo="http://i.imgur.com/3CoFRrl.png" group-title="CANAIS | ABERTOS",TV GAZETA HD*
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/18831.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV JUSTICA FHD¹" tvg-logo="http://i.imgur.com/j0gUl5s.png" group-title="CANAIS | ABERTOS",TV JUSTICA FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/114055.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV JUSTICA HD²" tvg-logo="http://i.imgur.com/j0gUl5s.png" group-title="CANAIS | ABERTOS",TV JUSTICA HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/114056.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV MON HD*" tvg-logo="http://i.imgur.com/LNGX3mn.png" group-title="CANAIS | ABERTOS",TV MON HD*
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/55492.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV PAMPA FHD¹" tvg-logo="http://i.imgur.com/M0Ztdor.png" group-title="CANAIS | ABERTOS",TV PAMPA FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/55493.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV PAMPA HD²" tvg-logo="http://i.imgur.com/M0Ztdor.png" group-title="CANAIS | ABERTOS",TV PAMPA HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/115825.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tvsenado.br" tvg-name="TV SENADO FHD¹" tvg-logo="http://i.imgur.com/PU6FLdo.png" group-title="CANAIS | ABERTOS",TV SENADO FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/114066.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tvsenado.br" tvg-name="TV SENADO HD²" tvg-logo="http://i.imgur.com/PU6FLdo.png" group-title="CANAIS | ABERTOS",TV SENADO HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/114065.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tve.bahia.br" tvg-name="TVE BAHIA FHD¹" tvg-logo="http://i.imgur.com/UYG5KuD.png" group-title="CANAIS | ABERTOS",TVE BAHIA FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/114048.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TVE BRASIL FHD¹" tvg-logo="http://i.imgur.com/lBgOtCV.png" group-title="CANAIS | ABERTOS",TVE BRASIL FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/114047.m3u8|User-Agent=FooBar/1.2.3
