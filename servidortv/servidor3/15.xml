@@ -1,1 +1,51 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="CANÇÃO NOVA FHD" tvg-logo="https://imgur.com/KbdEYXx.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/45990.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="CANÇÃO NOVA FHD²" tvg-logo="https://imgur.com/KbdEYXx.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/17892.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://imgur.com/KbdEYXx.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/45989.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="IGREJA UNIVERSAL SD" tvg-logo="" group-title="CANAIS | RELIGIOSOS",IGREJA UNIVERSAL SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/45992.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="NOVO TEMPO HD" tvg-logo="https://imgur.com/oz7mRDP.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/45996.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="novotempo.br" tvg-name="NOVO TEMPO SD" tvg-logo="https://imgur.com/oz7mRDP.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18023.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="rede.genesis.br" tvg-name="REDE GENESIS FHD" tvg-logo="" group-title="CANAIS | RELIGIOSOS",REDE GENESIS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/45993.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="rede.genesis.br" tvg-name="REDE GENESIS SD" tvg-logo="" group-title="CANAIS | RELIGIOSOS",REDE GENESIS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/45994.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="rede.gospel.br" tvg-name="REDE GOSPEL FHD" tvg-logo="" group-title="CANAIS | RELIGIOSOS",REDE GOSPEL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/37507.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="rede.seculo.21.br" tvg-name="REDE SÉCULO 21 SD" tvg-logo="" group-title="CANAIS | RELIGIOSOS",REDE SÉCULO 21 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/26813.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="REDE VIDA HD²" tvg-logo="https://imgur.com/38ysEWi.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/47562.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="REDE VIDA SD" tvg-logo="https://imgur.com/38ysEWi.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/17974.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SANTUÁRIO DE FÁTIMA FHD" tvg-logo="" group-title="CANAIS | RELIGIOSOS",SANTUÁRIO DE FÁTIMA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/38732.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="TVAparecida" tvg-name="TV APARECIDA FHD H265²" tvg-logo="https://imgur.com/xbBhpzR.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/181889.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="TVAparecida" tvg-name="TV APARECIDA FHD H265¹" tvg-logo="https://imgur.com/xbBhpzR.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/181888.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="TVAparecida" tvg-name="TV APARECIDA FHD¹" tvg-logo="https://imgur.com/xbBhpzR.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/181887.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV APARECIDA HD" tvg-logo="https://imgur.com/xbBhpzR.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/45999.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV APARECIDA SD" tvg-logo="https://imgur.com/xbBhpzR.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18001.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR SD" tvg-logo="https://imgur.com/efCUPfT.png" group-title="CANAIS | RELIGIOSOS",TV EVANGELIZAR SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/26814.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR SD²" tvg-logo="https://imgur.com/efCUPfT.png" group-title="CANAIS | RELIGIOSOS",TV EVANGELIZAR SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/37496.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV IGREJA MUNDIAL FHD" tvg-logo="" group-title="CANAIS | RELIGIOSOS",TV IGREJA MUNDIAL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/26811.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV IMACULADA HD" tvg-logo="" group-title="CANAIS | RELIGIOSOS",TV IMACULADA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/45995.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO SD" tvg-logo="" group-title="CANAIS | RELIGIOSOS",TV PAI ETERNO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35738.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Music Television" tvg-logo="" group-title="CANAIS | RELIGIOSOS",Gospel Music Television
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/209612.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="rede.super.br" tvg-name="Rede Super HD" tvg-logo="https://i1.wp.com/www.pibcuritiba.org.br/wp-content/uploads/2016/07/rede-super-logo-tv.png?w=1080&ssl=1" group-title="CANAIS | RELIGIOSOS",Rede Super HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/213358.m3u8|User-Agent=FooBar/1.2.3
