@@ -1,1 +1,25 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="COPINHA 2024 (JOGO 1)¹" tvg-logo="http://i.imgur.com/QlIfXIE.png" group-title="CANAIS | COPINHA",COPINHA 2024 (JOGO 1)¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/326595.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="COPINHA 2024 (JOGO 1)²" tvg-logo="http://i.imgur.com/QlIfXIE.png" group-title="CANAIS | COPINHA",COPINHA 2024 (JOGO 1)²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/326587.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="COPINHA 2024 (JOGO 2)¹" tvg-logo="http://i.imgur.com/QlIfXIE.png" group-title="CANAIS | COPINHA",COPINHA 2024 (JOGO 2)¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/326596.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="COPINHA 2024 (JOGO 2 )²" tvg-logo="http://i.imgur.com/QlIfXIE.png" group-title="CANAIS | COPINHA",COPINHA 2024 (JOGO 2 )²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/326588.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="COPINHA 2024 (JOGO 3)¹" tvg-logo="http://i.imgur.com/QlIfXIE.png" group-title="CANAIS | COPINHA",COPINHA 2024 (JOGO 3)¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/326597.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="COPINHA 2024 (JOGO 3)²" tvg-logo="http://i.imgur.com/QlIfXIE.png" group-title="CANAIS | COPINHA",COPINHA 2024 (JOGO 3)²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/326589.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="COPINHA 2024 (JOGO 4)¹" tvg-logo="http://i.imgur.com/QlIfXIE.png" group-title="CANAIS | COPINHA",COPINHA 2024 (JOGO 4)¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/326598.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="COPINHA 2024 (JOGO 4)²" tvg-logo="http://i.imgur.com/QlIfXIE.png" group-title="CANAIS | COPINHA",COPINHA 2024 (JOGO 4)²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/326590.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="COPINHA 2024 (JOGO 5)²" tvg-logo="http://i.imgur.com/QlIfXIE.png" group-title="CANAIS | COPINHA",COPINHA 2024 (JOGO 5)²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/326591.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="COPINHA 2024 (JOGO 6)²" tvg-logo="http://i.imgur.com/QlIfXIE.png" group-title="CANAIS | COPINHA",COPINHA 2024 (JOGO 6)²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/326592.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="COPINHA 2024 (JOGO 7)²" tvg-logo="http://i.imgur.com/QlIfXIE.png" group-title="CANAIS | COPINHA",COPINHA 2024 (JOGO 7)²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/326593.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="COPINHA 2024 (JOGO 8)²" tvg-logo="http://i.imgur.com/QlIfXIE.png" group-title="CANAIS | COPINHA",COPINHA 2024 (JOGO 8)²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/326594.m3u8|User-Agent=FooBar/1.2.3
