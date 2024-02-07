@@ -1,1 +1,11 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="Copinha SP 01²" tvg-logo="https://static.flashscore.com/res/image/data/EP2fjOBO-vgVy7SDN.png" group-title="Canais | Copinha JR",Copinha SP 01²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2200&url=http://pdsrv.io:80/live/brailes123321/bra12345bra12/198481.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Copinha SP 02²" tvg-logo="https://static.flashscore.com/res/image/data/EP2fjOBO-vgVy7SDN.png" group-title="Canais | Copinha JR",Copinha SP 02²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2200&url=http://pdsrv.io:80/live/brailes123321/bra12345bra12/198482.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Copinha SP 03²" tvg-logo="https://static.flashscore.com/res/image/data/EP2fjOBO-vgVy7SDN.png" group-title="Canais | Copinha JR",Copinha SP 03²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2200&url=http://pdsrv.io:80/live/brailes123321/bra12345bra12/199104.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Copinha SP 04¹" tvg-logo="https://static.flashscore.com/res/image/data/EP2fjOBO-vgVy7SDN.png" group-title="Canais | Copinha JR",Copinha SP 04¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2200&url=http://pdsrv.io:80/live/brailes123321/bra12345bra12/199105.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Copinha SP 05¹" tvg-logo="https://static.flashscore.com/res/image/data/EP2fjOBO-vgVy7SDN.png" group-title="Canais | Copinha JR",Copinha SP 05¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2200&url=http://pdsrv.io:80/live/brailes123321/bra12345bra12/199106.m3u8|User-Agent=FooBar/1.2.3
