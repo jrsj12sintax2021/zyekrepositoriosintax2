@@ -1,1 +1,59 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN FHD H265¹" tvg-logo="https://i.imgur.com/4lkG0Sa.png" group-title="CANAIS | ESPN",ESPN FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18135.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD H265²" tvg-logo="https://i.imgur.com/4lkG0Sa.png" group-title="CANAIS | ESPN",ESPN FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34700.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD¹" tvg-logo="https://i.imgur.com/4lkG0Sa.png" group-title="CANAIS | ESPN",ESPN HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18227.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD²" tvg-logo="https://i.imgur.com/4lkG0Sa.png" group-title="CANAIS | ESPN",ESPN HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35028.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN SD¹" tvg-logo="https://i.imgur.com/4lkG0Sa.png" group-title="CANAIS | ESPN",ESPN SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/17911.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN SD²" tvg-logo="https://i.imgur.com/4lkG0Sa.png" group-title="CANAIS | ESPN",ESPN SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35246.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN2 FHD H265²" tvg-logo="https://i.imgur.com/N3Zv5fN.png" group-title="CANAIS | ESPN",ESPN2 FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34699.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN2 HD¹" tvg-logo="https://i.imgur.com/N3Zv5fN.png" group-title="CANAIS | ESPN",ESPN2 HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18228.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN2 HD²" tvg-logo="https://i.imgur.com/N3Zv5fN.png" group-title="CANAIS | ESPN",ESPN2 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34946.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN2 SD¹" tvg-logo="https://i.imgur.com/N3Zv5fN.png" group-title="CANAIS | ESPN",ESPN2 SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/17909.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN2 SD²" tvg-logo="https://i.imgur.com/N3Zv5fN.png" group-title="CANAIS | ESPN",ESPN2 SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35093.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN3 FHD H265²" tvg-logo="https://i.imgur.com/MzTixrK.png" group-title="CANAIS | ESPN",ESPN3 FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34701.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN3 HD¹" tvg-logo="https://i.imgur.com/MzTixrK.png" group-title="CANAIS | ESPN",ESPN3 HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18226.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN3 HD²" tvg-logo="https://i.imgur.com/MzTixrK.png" group-title="CANAIS | ESPN",ESPN3 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34470.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN3 SD¹" tvg-logo="https://i.imgur.com/MzTixrK.png" group-title="CANAIS | ESPN",ESPN3 SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/17910.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN3 SD²" tvg-logo="https://i.imgur.com/MzTixrK.png" group-title="CANAIS | ESPN",ESPN3 SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35245.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN4 FHD H265¹" tvg-logo="https://i.imgur.com/XWIuuFK.png" group-title="CANAIS | ESPN",ESPN4 FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18141.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN4 FHD H265²" tvg-logo="https://i.imgur.com/XWIuuFK.png" group-title="CANAIS | ESPN",ESPN4 FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34694.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN4 HD¹" tvg-logo="https://i.imgur.com/XWIuuFK.png" group-title="CANAIS | ESPN",ESPN4 HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18236.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN4 HD²" tvg-logo="https://i.imgur.com/XWIuuFK.png" group-title="CANAIS | ESPN",ESPN4 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34955.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN4 SD¹" tvg-logo="https://i.imgur.com/XWIuuFK.png" group-title="CANAIS | ESPN",ESPN4 SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/17917.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN4 SD²" tvg-logo="https://i.imgur.com/XWIuuFK.png" group-title="CANAIS | ESPN",ESPN4 SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35099.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA FHD H265¹" tvg-logo="https://imgur.com/xMfxpFk.png" group-title="CANAIS | ESPN",ESPN EXTRA FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35247.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA HD²" tvg-logo="https://imgur.com/xMfxpFk.png" group-title="CANAIS | ESPN",ESPN EXTRA HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34472.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA HD¹" tvg-logo="https://imgur.com/xMfxpFk.png" group-title="CANAIS | ESPN",ESPN EXTRA HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18229.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN2 FHD H264" tvg-logo="https://i.imgur.com/N3Zv5fN.png" group-title="CANAIS | ESPN",ESPN2 FHD H264
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/209293.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA FHD H265²" tvg-logo="https://imgur.com/xMfxpFk.png" group-title="CANAIS | ESPN",ESPN EXTRA FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/212674.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA FHD H264¹" tvg-logo="https://imgur.com/xMfxpFk.png" group-title="CANAIS | ESPN",ESPN EXTRA FHD H264¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/212675.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA SD¹" tvg-logo="https://imgur.com/xMfxpFk.png" group-title="CANAIS | ESPN",ESPN EXTRA SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/212676.m3u8|User-Agent=FooBar/1.2.3
