@@ -1,1 +1,19 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="AGRO+ HD¹" tvg-logo="http://i.imgur.com/5ccJSTa.png" group-title="CANAIS | AGRONEGÓCIOS",AGRO+ HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/162391.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL HD¹" tvg-logo="http://i.imgur.com/G4QDQdk.png" group-title="CANAIS | AGRONEGÓCIOS",AGRO BRASIL HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/25676.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="CANAL DO BOI FHD¹" tvg-logo="http://i.imgur.com/UHRVrRV.png" group-title="CANAIS | AGRONEGÓCIOS",CANAL DO BOI FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/99446.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="aande.br" tvg-name="CANAL DO BOI SD²" tvg-logo="http://i.imgur.com/UHRVrRV.png" group-title="CANAIS | AGRONEGÓCIOS",CANAL DO BOI SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/22304.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="RURAL FHD¹" tvg-logo="http://i.imgur.com/SItKwgh.png" group-title="CANAIS | AGRONEGÓCIOS",RURAL FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/30257.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="RURAL HD²" tvg-logo="http://i.imgur.com/SItKwgh.png" group-title="CANAIS | AGRONEGÓCIOS",RURAL HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/114051.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="terraviva.br" tvg-name="TERRA VIVA FHD¹" tvg-logo="http://i.imgur.com/B1nrZl3.png" group-title="CANAIS | AGRONEGÓCIOS",TERRA VIVA FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/25668.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="terraviva.br" tvg-name="TERRA VIVA HD¹" tvg-logo="http://i.imgur.com/B1nrZl3.png" group-title="CANAIS | AGRONEGÓCIOS",TERRA VIVA HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/25669.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="terraviva.br" tvg-name="TERRA VIVA SD²" tvg-logo="http://i.imgur.com/B1nrZl3.png" group-title="CANAIS | AGRONEGÓCIOS",TERRA VIVA SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/64624.m3u8|User-Agent=FooBar/1.2.3
