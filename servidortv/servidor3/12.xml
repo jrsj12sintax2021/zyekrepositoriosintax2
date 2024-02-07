@@ -1,1 +1,65 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS FHD H265²" tvg-logo="https://i.imgur.com/jFDa15k.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34716.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.natal.br" tvg-name="BAND NEWS FHD H265¹" tvg-logo="https://i.imgur.com/jFDa15k.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18111.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD¹" tvg-logo="https://i.imgur.com/jFDa15k.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/38773.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD²" tvg-logo="https://i.imgur.com/jFDa15k.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34922.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS SD²" tvg-logo="https://i.imgur.com/jFDa15k.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35068.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="bloomberg.br" tvg-name="BLOOMBERG HD" tvg-logo="https://i.imgur.com/75huH6U.png" group-title="CANAIS | NOTÍCIAS",BLOOMBERG HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/44403.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL FHD" tvg-logo="https://i.imgur.com/1iFLUeo.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/38718.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL FHD H265¹" tvg-logo="https://i.imgur.com/1iFLUeo.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18203.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL FHD H265²" tvg-logo="https://i.imgur.com/1iFLUeo.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34627.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL HD¹" tvg-logo="https://i.imgur.com/1iFLUeo.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/38719.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL SD²" tvg-logo="https://i.imgur.com/1iFLUeo.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34628.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cnn.en.espanol.br" tvg-name="CNN ESPANHOL HD" tvg-logo="https://i.imgur.com/1iFLUeo.png" group-title="CANAIS | NOTÍCIAS",CNN ESPANHOL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35170.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cnn.international.br" tvg-name="CNN INTERNACIONAL FHD" tvg-logo="https://i.imgur.com/1iFLUeo.png" group-title="CANAIS | NOTÍCIAS",CNN INTERNACIONAL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35239.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cnn.international.br" tvg-name="CNN INTERNACIONAL HD" tvg-logo="https://i.imgur.com/1iFLUeo.png" group-title="CANAIS | NOTÍCIAS",CNN INTERNACIONAL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/38721.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="fox.news.br" tvg-name="FOX NEWS HD" tvg-logo="https://i.imgur.com/kkISaNS.png" group-title="CANAIS | NOTÍCIAS",FOX NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/38728.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS FHD H265¹" tvg-logo="https://i.imgur.com/Mk27aNQ.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18144.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS FHD H265²" tvg-logo="https://i.imgur.com/Mk27aNQ.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34692.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS HD¹" tvg-logo="https://i.imgur.com/Mk27aNQ.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/18238.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS HD²" tvg-logo="https://i.imgur.com/Mk27aNQ.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35101.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS SD¹" tvg-logo="https://i.imgur.com/Mk27aNQ.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/17923.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS SD²" tvg-logo="https://i.imgur.com/Mk27aNQ.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35033.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS FHD¹" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN NEWS FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/177253.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS FHD²" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN NEWS FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/177255.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS HD¹" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN NEWS HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/177254.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS HD²" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN NEWS HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/175060.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS FHD" tvg-logo="https://i.imgur.com/T1qFlzc.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/38747.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS HD¹" tvg-logo="https://i.imgur.com/T1qFlzc.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/17969.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS SD ¹" tvg-logo="https://i.imgur.com/T1qFlzc.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS SD ¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/20899.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS SD²" tvg-logo="https://i.imgur.com/T1qFlzc.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34513.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CNN FAST" tvg-logo="https://i.imgur.com/DHy2mOo.png" group-title="CANAIS | NOTÍCIAS",CNN FAST
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/380946.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNATIONAL" tvg-logo="https://i.imgur.com/1iJhsmW.png" group-title="CANAIS | NOTÍCIAS",CNN INTERNATIONAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/380947.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="G1 AO VIVO FAIXA DE GAZA" tvg-logo="https://i.imgur.com/mbkyIy0.png" group-title="CANAIS | NOTÍCIAS",G1 AO VIVO FAIXA DE GAZA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/380990.m3u8|User-Agent=FooBar/1.2.3
