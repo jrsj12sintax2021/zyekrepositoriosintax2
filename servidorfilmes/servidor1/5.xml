@@ -1,1 +1,57 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="All the World Is Sleeping CAM LEG (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8r5WZpT43Ihw5dPQRZiSA6rTKW3.jpg" group-title="FILMES | CINEMA (CAM)",All the World Is Sleeping CAM LEG (2023)
+http://7go.xyz:8080/movie/17991428357/useplay179914/317868.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Besouro Azul CAM (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AhmVkXerBVsuI6PejPeqaaW2wwT.jpg" group-title="FILMES | CINEMA (CAM)",Besouro Azul CAM (2023)
+http://7go.xyz:8080/movie/17991428357/useplay179914/317869.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Confidential Informant CAM LEG (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kCyAyqF6TKylJFuddaHtqq20b62.jpg" group-title="FILMES | CINEMA (CAM)",Confidential Informant CAM LEG (2023)
+http://7go.xyz:8080/movie/17991428357/useplay179914/317870.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loves Greek to Me CAM LEG (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sHYBZ7V5KCudH0XbbYWpbt8uZKU.jpg" group-title="FILMES | CINEMA (CAM)",Loves Greek to Me CAM LEG (2023)
+http://7go.xyz:8080/movie/17991428357/useplay179914/317871.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Secret Kingdom CAM LEG (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dteXMzVY53GBHUgrR7vigAartsP.jpg" group-title="FILMES | CINEMA (CAM)",The Secret Kingdom CAM LEG (2023)
+http://7go.xyz:8080/movie/17991428357/useplay179914/317873.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Lista Proibida CAM LEG (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zigrST623FsCAHKPYIc4vbDTaDQ.jpg" group-title="FILMES | CINEMA (CAM)",A Lista Proibida CAM LEG (2022)
+http://7go.xyz:8080/movie/17991428357/useplay179914/317867.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mantra CAM LEG (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ypSpUXamJ7lDCw8MiH1C9RGWKFw.jpg" group-title="FILMES | CINEMA (CAM)",Mantra CAM LEG (2022)
+http://7go.xyz:8080/movie/17991428357/useplay179914/317872.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Missão: Impossível - Acerto de Contas Parte 1 CAM (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/NNxYkU70HPurnNCSiCjYAmacwm.jpg" group-title="FILMES | CINEMA (CAM)",Missão: Impossível - Acerto de Contas Parte 1 CAM (2023)
+http://7go.xyz:8080/movie/17991428357/useplay179914/315310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Que Horas Eu Te Pego? CAM (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/en47PkDX8IhtQA3i1MYslx8eH91.jpg" group-title="FILMES | CINEMA (CAM)",Que Horas Eu Te Pego? CAM (2023)
+http://7go.xyz:8080/movie/17991428357/useplay179914/315072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ruby Marinho - Monstro Adolescente CAM (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nNcxpjCtcawf8wQmTwnA0u1jukC.jpg" group-title="FILMES | CINEMA (CAM)",Ruby Marinho - Monstro Adolescente CAM (2023)
+http://7go.xyz:8080/movie/17991428357/useplay179914/315073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elementos CAM (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/88OGFOcFI04CL4uucb6I7ZzUqD6.jpg" group-title="FILMES | CINEMA (CAM)",Elementos CAM (2023)
+http://7go.xyz:8080/movie/17991428357/useplay179914/314873.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Que Horas Eu Te Pego CAM (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/en47PkDX8IhtQA3i1MYslx8eH91.jpg" group-title="FILMES | CINEMA (CAM)",Que Horas Eu Te Pego CAM (2023)
+http://7go.xyz:8080/movie/17991428357/useplay179914/314874.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boogeyman: Seu Medo é Real CAM (2023)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/156VTRLwgoUQZnmGmqtuhKuK8vy.jpg" group-title="FILMES | CINEMA (CAM)",Boogeyman: Seu Medo é Real CAM (2023)
+http://7go.xyz:8080/movie/17991428357/useplay179914/314069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash CAM (2023)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e7AUG4IArMWRw4Ji5pXRB0miRqD.jpg" group-title="FILMES | CINEMA (CAM)",The Flash CAM (2023)
+http://7go.xyz:8080/movie/17991428357/useplay179914/314070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Super Mario Bros - O Filme CAM HD (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i9XdxHsFrcqLkRWSF1coOHo4R39.jpg" group-title="FILMES | CINEMA (CAM)",Super Mario Bros - O Filme CAM HD (2023)
+http://7go.xyz:8080/movie/17991428357/useplay179914/312675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rio do Desejo CAM (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ozVXo6PW7lFz3ojWaHodCSpZAB0.jpg" group-title="FILMES | CINEMA (CAM)",O Rio do Desejo CAM (2023)
+http://7go.xyz:8080/movie/17991428357/useplay179914/309477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="65: Ameaça Pré-Histórica CAM (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uMMIeMVk1TCG3CZilpxbzFh0JKT.jpg" group-title="FILMES | CINEMA (CAM)",65: Ameaça Pré-Histórica CAM (2023)
+http://7go.xyz:8080/movie/17991428357/useplay179914/303950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="John Wick 4: Baba Yaga CAM (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/97NPC9AI2FptBfJlMRN9psnvT13.jpg" group-title="FILMES | CINEMA (CAM)",John Wick 4: Baba Yaga CAM (2023)
+http://7go.xyz:8080/movie/17991428357/useplay179914/303954.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pânico VI CAM (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dbd7DQCHZ57SF4tM2puHtwNxDQD.jpg" group-title="FILMES | CINEMA (CAM)",Pânico VI CAM (2023)
+http://7go.xyz:8080/movie/17991428357/useplay179914/303958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shazam! Fúria dos Deuses CAM (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5WCM2gGB0mGunbssHX7okAoEeUv.jpg" group-title="FILMES | CINEMA (CAM)",Shazam! Fúria dos Deuses CAM (2023)
+http://7go.xyz:8080/movie/17991428357/useplay179914/303701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga e a Vespa: Quantumania CAM (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mZBO9lcWAYEZ5F15xPQOQfA3Dm4.jpg" group-title="FILMES | CINEMA (CAM)",Homem-Formiga e a Vespa: Quantumania CAM (2023)
+http://7go.xyz:8080/movie/17991428357/useplay179914/300092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquema de Risco: Operação Fortune CAM (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fLxXvMcpsK8fGKguP3wZ7Urb2ao.jpg" group-title="FILMES | CINEMA (CAM)",Esquema de Risco: Operação Fortune CAM (2023)
+http://7go.xyz:8080/movie/17991428357/useplay179914/293077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jujutsu Kaisen 0: O Filme LEG (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m8nyqnn2K7WzxcAKzCxPxuX7Yd1.jpg" group-title="FILMES | CINEMA (CAM)",Jujutsu Kaisen 0: O Filme LEG (2022)
+http://7go.xyz:8080/movie/17991428357/useplay179914/199480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte do Demônio: A Ascensão CAM (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5E4nVa3dXTHG2zx9iO7b0UIMsa7.jpg" group-title="FILMES | CINEMA (CAM)",A Morte do Demônio: A Ascensão CAM (2023)
+http://7go.xyz:8080/movie/17991428357/useplay179914/312445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardiões da Galáxia: Volume 3 CAM (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ttkTwdSx21AB1EDastR6xwMC2PT.jpg" group-title="FILMES | CINEMA (CAM)",Guardiões da Galáxia: Volume 3 CAM (2023)
+http://7go.xyz:8080/movie/17991428357/useplay179914/312940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="C.R.E.A.M CAM (2022)" tvg-logo="http://i.imgur.com/oVCG3Ce.jpg" group-title="FILMES | CINEMA (CAM)",C.R.E.A.M CAM (2022)
+http://7go.xyz:8080/movie/17991428357/useplay179914/313212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninjas: Caos Mutante CAM (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x0naXPYoLxzTzRgwKhzAjQPngnw.jpg" group-title="FILMES | CINEMA (CAM)",As Tartarugas Ninjas: Caos Mutante CAM (2023)
+http://7go.xyz:8080/movie/17991428357/useplay179914/318903.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Drácula: A Última Viagem do Deméter CAM (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pZaFdrYekwC9ITq4yWrkqEwCy3E.jpg" group-title="FILMES | CINEMA (CAM)",Drácula: A Última Viagem do Deméter CAM (2023)
+http://7go.xyz:8080/movie/17991428357/useplay179914/318904.mkv
