@@ -1,1 +1,243 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="Annie (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/33WsmnE5M2SSGrZCQW4dlr2D5WG.jpg" group-title="FILMES | FAMÍLIA",Annie (2014)
+http://7go.xyz:8080/movie/17991428357/useplay179914/318486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babe, o Porquinho Atrapalhado (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1JCaSMPbvGBFZTenMy3F0XzDo1.jpg" group-title="FILMES | FAMÍLIA", o Porquinho Atrapalhado (1995)
+http://7go.xyz:8080/movie/17991428357/useplay179914/317711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Teen Beach Movie (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ywX8INXLshhf94pyxc8wE2MO4aT.jpg" group-title="FILMES | FAMÍLIA",Teen Beach Movie (2013)
+http://7go.xyz:8080/movie/17991428357/useplay179914/311956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Viagem Incrível: O Mistério do Ovo (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3TzBRICphKmphLr6vzRqD0hXPzb.jpg" group-title="FILMES | FAMÍLIA",Uma Viagem Incrível: O Mistério do Ovo (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/282176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Lobo E O Leão (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aSRvK4kLJORBrVdlFn2wrGx8XPv.jpg" group-title="FILMES | FAMÍLIA",O Lobo E O Leão (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/276032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flora e Ulysses (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zv1NUGF2nv3smvfsLDIXEwstWpC.jpg" group-title="FILMES | FAMÍLIA",Flora e Ulysses (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/32235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lena and Snowball (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/Llw9iGzmObrbdv5CAeb3DYVXdv.jpg" group-title="FILMES | FAMÍLIA",Lena and Snowball (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/32251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="À Todo Vapor! Destino: Astúrias (2021)" tvg-logo="http://7go.xyz:8080/images/bf9594a9949bd304ced2ed4b64dbc30b.jpg" group-title="FILMES | FAMÍLIA",À Todo Vapor! Destino: Astúrias (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/169345.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Minha Amiga Palma (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zSPMIVPsV25N2eww4AfE7JEHpOE.jpg" group-title="FILMES | FAMÍLIA",Minha Amiga Palma (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/194090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babe, o Porquinho Atrapalhado na Cidade (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lnx4RO0Tn5WtZQ7KpNDWl4IhYy0.jpg" group-title="FILMES | FAMÍLIA", o Porquinho Atrapalhado na Cidade (1998)
+http://7go.xyz:8080/movie/17991428357/useplay179914/185536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beethoven 3 - Uma Família em Apuros (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1se0w1IwJj7APH94qwbnmgnHjI.jpg" group-title="FILMES | FAMÍLIA",Beethoven 3 - Uma Família em Apuros (2000)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beethoven 5 (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mIjzNxaUWsacg4R8rDGl6pJn4C8.jpg" group-title="FILMES | FAMÍLIA",Beethoven 5 (2003)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Belle e Sebástian: A Aventura Continua (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qw2TAyhYZKxXPuzmxjhVc4aT2cV.jpg" group-title="FILMES | FAMÍLIA",Belle e Sebástian: A Aventura Continua (2015)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Benji (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yvmhEcqzN2bUZvEmEIh9SjhTkr6.jpg" group-title="FILMES | FAMÍLIA",Benji (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ela Dança, Eu Danço 2 (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A0IBQe9vPjd3CR14uYz9Lklxrfh.jpg" group-title="FILMES | FAMÍLIA", Eu Danço 2 (2008)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ela Dança, Eu Danço 4 (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pqTxJfMVYEtz3LpGjf1hCxqiZ7V.jpg" group-title="FILMES | FAMÍLIA", Eu Danço 4 (2012)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Free Willy (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1WLTjNznfvr3bkHf4p9PR4ctBKK.jpg" group-title="FILMES | FAMÍLIA",Free Willy (1993)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fuga da Biblioteca do Sr. Lemoncello (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fXlVRhyFlxk1rKlZBQEPUKbHYHs.jpg" group-title="FILMES | FAMÍLIA",Fuga da Biblioteca do Sr. Lemoncello (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High School Musical (2006)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg" group-title="FILMES | FAMÍLIA",High School Musical (2006)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High School Musical 3: Ano da Formatura (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2uvSRLL5oJY3tDq68vza16bf4cE.jpg" group-title="FILMES | FAMÍLIA",High School Musical 3: Ano da Formatura (2008)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High School Musical: O Desafio (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qtVnd3rZrImYh71EE2Sjr2N8Lui.jpg" group-title="FILMES | FAMÍLIA",High School Musical: O Desafio (2010)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High School Musical: The Concert (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ptUYcWMUMy0ULJYJRWnKTGDaZSK.jpg" group-title="FILMES | FAMÍLIA",High School Musical: The Concert (2007)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mamma Mia! O Filme (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wNPY8LdzRCkD9B86mhp4DFh8uG9.jpg" group-title="FILMES | FAMÍLIA",Mamma Mia! O Filme (2008)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Primeiro Amor (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m4hU43w4fwm7jsb8yWZ4ka3vH3U.jpg" group-title="FILMES | FAMÍLIA",Meu Primeiro Amor (1991)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moulin Rouge: Amor em Vermelho (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mk8TUl8sT6bO6FLIm6lTsUUDfOr.jpg" group-title="FILMES | FAMÍLIA",Moulin Rouge: Amor em Vermelho (2001)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Batida do Amor (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uYyRPVd15PN4e1dm9hUAvaDXCP3.jpg" group-title="FILMES | FAMÍLIA",Na Batida do Amor (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nada Mais a Perder (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hVo7gSTaHevkR3TpXXzKJ6TYdWN.jpg" group-title="FILMES | FAMÍLIA",Nada Mais a Perder (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nasce uma Estrela (1954)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mSXcdOT9cjfu1uOx6szoGoEuf9r.jpg" group-title="FILMES | FAMÍLIA",Nasce uma Estrela (1954)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noite de Abertura (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3NAQc6cNiKrDmyTTgXSs62DYSaq.jpg" group-title="FILMES | FAMÍLIA",Noite de Abertura (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Poderoso Joe (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1q9qrpBQgazeeQs71DHGVK95e5b.jpg" group-title="FILMES | FAMÍLIA",Poderoso Joe (1998)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Que de Verdade Importa (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lom2usVQdwZkzTvu5iEV2kJsPvG.jpg" group-title="FILMES | FAMÍLIA",O Que de Verdade Importa (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Retorno de Mary Poppins (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8g1P4sxOitwFaf3UBeT8n4F5sBy.jpg" group-title="FILMES | FAMÍLIA",O Retorno de Mary Poppins (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Embalos de Sábado à Noite (1977)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4vLCcCxyYPn8epEXKp70bqQiFqq.jpg" group-title="FILMES | FAMÍLIA",Os Embalos de Sábado à Noite (1977)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Embalos de Sábado Continuam (1983)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/JWUmh3cGA73KEmPGt4LBHNXXkZ.jpg" group-title="FILMES | FAMÍLIA",Os Embalos de Sábado Continuam (1983)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Goonies (1985)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wRuQeH1frRvw02InWVfIrJhi4ZF.jpg" group-title="FILMES | FAMÍLIA",Os Goonies (1985)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patrick: Aprendendo a Amar (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ib6i2qP4USS7ihw8GhdP64aTsJk.jpg" group-title="FILMES | FAMÍLIA",Patrick: Aprendendo a Amar (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quatro Vidas de um Cachorro (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3W5jF8z5GkOHEslaIv89Ncp06J4.jpg" group-title="FILMES | FAMÍLIA",Quatro Vidas de um Cachorro (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sabrina, Aprendiz de Feiticeira (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mpWf9g1B1PGhoatOBcC5r9RglEM.jpg" group-title="FILMES | FAMÍLIA", Aprendiz de Feiticeira (1996)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Teen Beach 2 (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dw6MPw55CKQWhme6nv2LmX6mNYK.jpg" group-title="FILMES | FAMÍLIA",Teen Beach 2 (2015)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Dirt" tvg-logo="http://br.web.img3.acsta.net/pictures/19/02/20/11/31/3644829.jpg" group-title="FILMES | FAMÍLIA",The Dirt
+http://7go.xyz:8080/movie/17991428357/useplay179914/28481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tropa Zero (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l4TLFNVqGq62ULC7xf0g4IZ5hoi.jpg" group-title="FILMES | FAMÍLIA",Tropa Zero (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Aventura e Tanto (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/euVG3Rjmd5HSOjzixfxO7qf9DKH.jpg" group-title="FILMES | FAMÍLIA",Uma Aventura e Tanto (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Faz de Conta que Acontece (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A95nNrCa98PTUHxBP3pCmcdkmZT.jpg" group-title="FILMES | FAMÍLIA",Um Faz de Conta que Acontece (2008)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yesterday (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1rjaRIAqFPQNnMtqSMLtg0VEABi.jpg" group-title="FILMES | FAMÍLIA",Yesterday (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zoo (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/azl0N03e7U6E8oavYn4q2L51FEn.jpg" group-title="FILMES | FAMÍLIA",Zoo (2007)
+http://7go.xyz:8080/movie/17991428357/useplay179914/28487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Go! Festa Inesquecível (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9fGthyzDP9vMdfO4qVBXZ7PqXgO.jpg" group-title="FILMES | FAMÍLIA",Go! Festa Inesquecível (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/30043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Garota Invisível (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/msJs7UwmWUd7iql36JoN4Rp0hoK.jpg" group-title="FILMES | FAMÍLIA",A Garota Invisível (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/31640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aprendiz de Espiã (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/s6i5Ypd9RGgUCU5YyJvrBllcGj7.jpg" group-title="FILMES | FAMÍLIA",Aprendiz de Espiã (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/31685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa e a Plebeia: Nova Aventura (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4PdBXLcLb75cHtdxd7EVo8fL60h.jpg" group-title="FILMES | FAMÍLIA",A Princesa e a Plebeia: Nova Aventura (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/31686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Timmy Fiasco (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vg9uAK2GQnbpBlIJLux55bwzt11.jpg" group-title="FILMES | FAMÍLIA",Timmy Fiasco (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/31694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Convenção das Bruxas (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/orrJiQs30G6zSkT8is4QOAtRpFM.jpg" group-title="FILMES | FAMÍLIA",Convenção das Bruxas (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/31766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dolittle (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tsa2NZ3QzR6zHg2e20yJfSOhUnS.jpg" group-title="FILMES | FAMÍLIA",Dolittle (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/31795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kart Nervoso (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fMFh6ESVe4m1iHQilNybOpScjYB.jpg" group-title="FILMES | FAMÍLIA",Kart Nervoso (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/31872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manual de Caça a Monstros (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9hGNft6JhA2uTvyj1gIE6nXebuf.jpg" group-title="FILMES | FAMÍLIA",Manual de Caça a Monstros (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/31899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missão Pijamas (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nkhsvQvrKgYRmZS6PVbPRAiISlF.jpg" group-title="FILMES | FAMÍLIA",Missão Pijamas (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/31912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Ivan (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iLqOH0SSJ1hy3Y1POl5cr6H1RtL.jpg" group-title="FILMES | FAMÍLIA",O Grande Ivan (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/31969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jardim Secreto (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lHIgpy7yAyqxQx79PtvqEoiXuk8.jpg" group-title="FILMES | FAMÍLIA",O Jardim Secreto (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/31979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pense Como um Cão (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pUWLjghPZIawBAA2eI8Mq5yXe6e.jpg" group-title="FILMES | FAMÍLIA",Pense Como um Cão (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/32025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pequenos Grandes Heróis (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qz8V4opEXdcY7qeU5djTdrfmuhX.jpg" group-title="FILMES | FAMÍLIA",Pequenos Grandes Heróis (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/32026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Safety (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yRwRZYlqXkcCwx2yuqIhh7rzPcA.jpg" group-title="FILMES | FAMÍLIA",Safety (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/32072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sociedade Secreta dos Segundos Filhos Reais (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9f4D8zjF9fUEVI42WWBcvuRKytL.jpg" group-title="FILMES | FAMÍLIA",Sociedade Secreta dos Segundos Filhos Reais (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/32092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Upside-Down Magic: Escola de Magia (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1WXhpygouqZ0eOAUKhrlSVonyBi.jpg" group-title="FILMES | FAMÍLIA",Upside-Down Magic: Escola de Magia (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/43068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jardim Secreto (1993)" tvg-logo="http://7online.xyz:8080/images/e121de6e3fd81d96ad83aabdabe1d1b3.jpg" group-title="FILMES | FAMÍLIA",O Jardim Secreto (1993)
+http://7go.xyz:8080/movie/17991428357/useplay179914/195568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Timmy Failure (2020)" tvg-logo="https://br.web.img3.acsta.net/pictures/20/01/08/07/47/2796660.jpg" group-title="FILMES | FAMÍLIA",As Aventuras de Timmy Failure (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/241325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: 2 Babás Muito Esquisitas (2021)" tvg-logo="http://7go.xyz:8080/images/685464360958e239ed78b64bb79b9b9f.jpg" group-title="FILMES | FAMÍLIA",Luccas Neto em: 2 Babás Muito Esquisitas (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/269256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Space Jam: Um Novo Legado (2021)" tvg-logo="http://7go.xyz:8080/images/b5e398ceaed19017f8a8a6dd8efcb12d.jpg" group-title="FILMES | FAMÍLIA",Space Jam: Um Novo Legado (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/269280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="3 Ninjas do Barulho (1998)" tvg-logo="http://7go.xyz:8080/images/50ba9dba5710f539753ae9b6cfc661b8.jpg" group-title="FILMES | FAMÍLIA",3 Ninjas do Barulho (1998)
+http://7go.xyz:8080/movie/17991428357/useplay179914/272304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Addams 2 (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8xgQ62nK9CtwWuMZ2COt6p1zrN6.jpg" group-title="FILMES | FAMÍLIA",A Família Addams 2 (1993)
+http://7go.xyz:8080/movie/17991428357/useplay179914/272305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bola na Rede (2019)" tvg-logo="http://7go.xyz:8080/images/9b3a216e9c0f90acb3eadeab169f3012.jpg" group-title="FILMES | FAMÍLIA",Bola na Rede (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/272306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitã Nova (2021)" tvg-logo="http://7go.xyz:8080/images/09cbba4d134bb3b194f012ed2f168143.jpg" group-title="FILMES | FAMÍLIA",Capitã Nova (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/272307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras do Dr. Dolittle (2020)" tvg-logo="http://7go.xyz:8080/images/c787622999526c97594797aae3fc04b1.jpg" group-title="FILMES | FAMÍLIA",As Aventuras do Dr. Dolittle (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/274143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Baile das Bruxas (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/70RiLlSIi5q17Ybnq61rUt8JVoU.jpg" group-title="FILMES | FAMÍLIA",O Baile das Bruxas (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/274408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Angeliena (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xosw4kZt3k88wDlCyEpm3aOwqK6.jpg" group-title="FILMES | FAMÍLIA",Angeliena (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/275494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Annabelle Hooper e os Fantasmas de Nantucket (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gDhBwkeGuWWKROZWs0hGN39Nut2.jpg" group-title="FILMES | FAMÍLIA",Annabelle Hooper e os Fantasmas de Nantucket (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/275495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Crônicas de Spiderwick (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7YABWxerZXH705J34qaUbvJLXVz.jpg" group-title="FILMES | FAMÍLIA",As Crônicas de Spiderwick (2008)
+http://7go.xyz:8080/movie/17991428357/useplay179914/275742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aventura em Duas Rodas (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gVKYg7HseTtYFavutwC2mZJn8iO.jpg" group-title="FILMES | FAMÍLIA",Aventura em Duas Rodas (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/275743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bernie, o Golfinho (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lHqItazez95c6Ar1z4va6ngTQlD.jpg" group-title="FILMES | FAMÍLIA", o Golfinho (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/275744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bibi & Tina (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gPslMuE7uKH4yRDhhuw1rz6n9Bl.jpg" group-title="FILMES | FAMÍLIA",Bibi & Tina (2014)
+http://7go.xyz:8080/movie/17991428357/useplay179914/275745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Era uma Vez: Anastasia (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h106wFGiYoqasneT0L1OnIgV20c.jpg" group-title="FILMES | FAMÍLIA",Era uma Vez: Anastasia (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/276060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bud: O Cão Amigo (1997)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4awmAcJ8Ics7HUSZHHTgmYbgmk7.jpg" group-title="FILMES | FAMÍLIA",Bud: O Cão Amigo (1997)
+http://7go.xyz:8080/movie/17991428357/useplay179914/276603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bud: Uma Nova Cãofusão (2006)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d97FUvWwMgMLSPck5qGCKktZofO.jpg" group-title="FILMES | FAMÍLIA",Bud: Uma Nova Cãofusão (2006)
+http://7go.xyz:8080/movie/17991428357/useplay179914/276604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bud 2: O Atleta de Ouro (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g7YFpdlbN1fSQo5Qkfs8Y9gTKAW.jpg" group-title="FILMES | FAMÍLIA",Bud 2: O Atleta de Ouro (1998)
+http://7go.xyz:8080/movie/17991428357/useplay179914/276605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bud 3: Jogando Futebol (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bYtxJ7Dq3zzKB14ZKWpAGtCqcsC.jpg" group-title="FILMES | FAMÍLIA",Bud 3: Jogando Futebol (2001)
+http://7go.xyz:8080/movie/17991428357/useplay179914/276606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bud 4: É Uma Jogada Perfeita! (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q39bjNCRT12SDmoHVep3GVmqPIe.jpg" group-title="FILMES | FAMÍLIA",Bud 4: É Uma Jogada Perfeita! (2002)
+http://7go.xyz:8080/movie/17991428357/useplay179914/276607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pedra Mágica (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ry3eJ1mfV5fqe0I7dIi5c5VENjh.jpg" group-title="FILMES | FAMÍLIA",A Pedra Mágica (2009)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até O Fundo (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o4WDd90j1Eg111bIhI0jUrapQ6F.jpg" group-title="FILMES | FAMÍLIA",Até O Fundo (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bruno e Boots: Antes Juntos do que Mal Acompanhados (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cqEebUj1lNmDCptQDQ4U6J7d3nh.jpg" group-title="FILMES | FAMÍLIA",Bruno e Boots: Antes Juntos do que Mal Acompanhados (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bruno e Boots: No Amor e na Guerra (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jheKC0dQ2pgV2NDaYcyin6zCF8O.jpg" group-title="FILMES | FAMÍLIA",Bruno e Boots: No Amor e na Guerra (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cirque du Soleil: Outros Mundos (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fIyOrVzesRYxadeJjo9LUTFuMdp.jpg" group-title="FILMES | FAMÍLIA",Cirque du Soleil: Outros Mundos (2012)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dummie A Múmia e a Tumba de Achnetut (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2obwJYn2N9teDclkgCgr79I5Y1R.jpg" group-title="FILMES | FAMÍLIA",Dummie A Múmia e a Tumba de Achnetut (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Echo (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gdfI4yVrtJIrHSWubkeBM4wcdKw.jpg" group-title="FILMES | FAMÍLIA",Echo (2014)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Enfrentando a Barra (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/foMww5B4dbQdoqVeYI4hIDKIDRz.jpg" group-title="FILMES | FAMÍLIA",Enfrentando a Barra (2017)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esqueceram de Mim no Lar, Doce Lar (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7cVFRHlN2gPWIEQnz6Yo43fYVkL.jpg" group-title="FILMES | FAMÍLIA", Doce Lar (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Full Out 2: You Got This! (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yeW1gOLWauwhFVleLwcW29RHLG2.jpg" group-title="FILMES | FAMÍLIA",Full Out 2: You Got This! (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagre na Rua 34 (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jXijZbmVxln5xwlzsaKzaZmVNId.jpg" group-title="FILMES | FAMÍLIA",Milagre na Rua 34 (1994)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nadando pelo Ouro (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yJ8SCGtFRjHxfTesnKOyulXb68a.jpg" group-title="FILMES | FAMÍLIA",Nadando pelo Ouro (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/277998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Globo de Neve (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wQN6hnpTmHwFgGZjidVFZ2EpAJT.jpg" group-title="FILMES | FAMÍLIA",Globo de Neve (2007)
+http://7go.xyz:8080/movie/17991428357/useplay179914/294358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Desejo de Charlie (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iR3i2AESKn9Y2TxWbyRyDR81zCk.jpg" group-title="FILMES | FAMÍLIA",O Desejo de Charlie (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/294359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Príncipe de Peoria e o Milagre de Natal (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pMZxlPdDDBWgZIUtGVxh9ldO81H.jpg" group-title="FILMES | FAMÍLIA",O Príncipe de Peoria e o Milagre de Natal (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/294360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os 3 Cães Mosqueteiros (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7C0n4AG21G9lap9BnlIJhppBXCl.jpg" group-title="FILMES | FAMÍLIA",Os 3 Cães Mosqueteiros (2014)
+http://7go.xyz:8080/movie/17991428357/useplay179914/294361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Salsicha Campeão (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vqgGNBwSoOLHAgMb3WX5LpH4Csn.jpg" group-title="FILMES | FAMÍLIA",O Salsicha Campeão (2013)
+http://7go.xyz:8080/movie/17991428357/useplay179914/294362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="David e os Duendes de Natal (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bGAkhpLoDsNddSRybFsrNM6kfAF.jpg" group-title="FILMES | FAMÍLIA",David e os Duendes de Natal (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/297745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arlo - O Porquinho Travesso (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/anzZbK0EnBcmjWe4vwI8NaFLEjm.jpg" group-title="FILMES | FAMÍLIA",Arlo - O Porquinho Travesso (2016)
+http://7go.xyz:8080/movie/17991428357/useplay179914/298417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Faça Um Desejo! (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/801RIZKpUeSrXjgmWGiiurzERls.jpg" group-title="FILMES | FAMÍLIA",Faça Um Desejo! (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/298418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sophie (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/di6FGooj2fuooVQsAf4iCNSKc52.jpg" group-title="FILMES | FAMÍLIA",Sophie (2010)
+http://7go.xyz:8080/movie/17991428357/useplay179914/298419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Mundo Encantado (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/r3RRu2joBRWoKh5Qb4vdLuBpcPm.jpg" group-title="FILMES | FAMÍLIA",Um Mundo Encantado (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/299620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lassie: Uma Verdadeira Amizade (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cfzw59pOKSwl5CL0cabavw9IuPy.jpg" group-title="FILMES | FAMÍLIA",Lassie: Uma Verdadeira Amizade (1994)
+http://7go.xyz:8080/movie/17991428357/useplay179914/299873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pequeno Príncipe (1974)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4utMOX0GJJqUjJphLSsDlOr89zT.jpg" group-title="FILMES | FAMÍLIA",O Pequeno Príncipe (1974)
+http://7go.xyz:8080/movie/17991428357/useplay179914/299874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Flintstones em Viva Rock Vegas (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/glaxFaAVF1fekZXttOlWB1VomYY.jpg" group-title="FILMES | FAMÍLIA",Os Flintstones em Viva Rock Vegas (2000)
+http://7go.xyz:8080/movie/17991428357/useplay179914/302940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Novo Conto de Cinderela (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9uZ43LHnQx2yMpAsFr6eM6l81QN.jpg" group-title="FILMES | FAMÍLIA",Um Novo Conto de Cinderela (2018)
+http://7go.xyz:8080/movie/17991428357/useplay179914/303649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Under Wraps: Uma Múmia no Halloween (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yLnC8LxHyGEhZ1xnqxgjZhzYH7q.jpg" group-title="FILMES | FAMÍLIA",Under Wraps: Uma Múmia no Halloween (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/303650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Noel 2 (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6EV8G1tESAjelFEvrdn1rEMz8Z0.jpg" group-title="FILMES | FAMÍLIA",A Família Noel 2 (2021)
+http://7go.xyz:8080/movie/17991428357/useplay179914/303926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Padrinhos Magicos no Paraiso (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d1u7OUGQGP9okzgUPiLLZeRVgPQ.jpg" group-title="FILMES | FAMÍLIA",Os Padrinhos Magicos no Paraiso (2014)
+http://7go.xyz:8080/movie/17991428357/useplay179914/303927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dormindo Fora de Casa (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8R4lpFHyMXY4A8CVc9WeLUO1IgB.jpg" group-title="FILMES | FAMÍLIA",Dormindo Fora de Casa (2004)
+http://7go.xyz:8080/movie/17991428357/useplay179914/309809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kazaam (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k6kXq27UVxf7zGCWSvygYYIp9eP.jpg" group-title="FILMES | FAMÍLIA",Kazaam (1996)
+http://7go.xyz:8080/movie/17991428357/useplay179914/311112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pequeno Bulldog (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2QEqmXf0yYpzooe24LJyETlhM9L.jpg" group-title="FILMES | FAMÍLIA",O Pequeno Bulldog (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/311439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucia e o Cristal Mágico (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bv44fVFbCtfJV6hgat524vvByIN.jpg" group-title="FILMES | FAMÍLIA",Lucia e o Cristal Mágico (2020)
+http://7go.xyz:8080/movie/17991428357/useplay179914/311732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Natal Maluco de Ernest (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xAGDfZUJmA6U6uPuOqor1bosrPq.jpg" group-title="FILMES | FAMÍLIA",O Natal Maluco de Ernest (1988)
+http://7go.xyz:8080/movie/17991428357/useplay179914/312470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Irmão Persegue Dinossauros (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bUV1lCzWv9EKAtAiDVApPT4gMmk.jpg" group-title="FILMES | FAMÍLIA",Meu Irmão Persegue Dinossauros (2019)
+http://7go.xyz:8080/movie/17991428357/useplay179914/314956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os 3 Cães Mosqueteiros (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7C0n4AG21G9lap9BnlIJhppBXCl.jpg" group-title="FILMES | FAMÍLIA",Os 3 Cães Mosqueteiros (2014)
+http://7go.xyz:8080/movie/17991428357/useplay179914/318605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beethoven e o Tesouro Secreto (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4BtT7jD7jhj80dxEsAbt1cnMmgX.jpg" group-title="FILMES | FAMÍLIA",Beethoven e o Tesouro Secreto (2014)
+http://7go.xyz:8080/movie/17991428357/useplay179914/318790.mp4
