@@ -1,1 +1,65 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP FHD MAX²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND SP FHD MAX²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/18618.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP FHD¹" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND SP FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/125409.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD¹" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND SP HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/125410.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD¹" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND SP HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/18619.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND FHD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/22642.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/18622.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/22464.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SD¹" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND SD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/22299.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND CAMPINAS FHD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND CAMPINAS FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/64618.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND CAMPINAS HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND CAMPINAS HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/64617.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND CAMPINAS HD¹" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND CAMPINAS HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/22297.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND RJ FHD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND RJ FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/64616.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND RJ FHD¹" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND RJ FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/125415.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND RJ HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND RJ HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/22463.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND RJ HD¹" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND RJ HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/125416.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND BRASILIA HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND BRASILIA HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/71059.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND BRASILIA HD¹" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND BRASILIA HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/125417.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND BAHIA HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND BAHIA HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/71056.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="bandminas.br" tvg-name="BAND BAHIA HD¹" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND BAHIA HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/125418.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SERGIPE HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND SERGIPE HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/71061.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND PARA HD¹" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND PARA HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/44863.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND TV GOIANIA FHD MAX²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND TV GOIANIA FHD MAX²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/71055.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND TV GOIANIA HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND TV GOIANIA HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/71054.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND MINAS HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND MINAS HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/71062.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="bandminashd.br" tvg-name="BAND MINAS HD¹" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND MINAS HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/125419.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND MINAS FHD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND MINAS FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/71063.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND TV TAROBA CURITIBA FHD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND TV TAROBA CURITIBA FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/71057.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND TV TAROBA CURITIBA HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND TV TAROBA CURITIBA HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/71058.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND RS HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND RS HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/71060.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND PARANA HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND PARANA HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/22462.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND TATUAPE HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND TATUAPE HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/277339.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND CEARA HD²" tvg-logo="http://i.imgur.com/RMTkcSe.png" group-title="CANAIS | BAND",BAND CEARA HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/277340.m3u8|User-Agent=FooBar/1.2.3
