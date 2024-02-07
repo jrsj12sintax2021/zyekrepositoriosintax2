@@ -1,1 +1,21 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 01" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png" group-title="CANAIS | CINE SKY",CINE SKY HD 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34229.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 02" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png" group-title="CANAIS | CINE SKY",CINE SKY HD 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34230.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 03" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png" group-title="CANAIS | CINE SKY",CINE SKY HD 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34231.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 04" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png" group-title="CANAIS | CINE SKY",CINE SKY HD 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34232.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 05" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png" group-title="CANAIS | CINE SKY",CINE SKY HD 05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34233.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 06" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png" group-title="CANAIS | CINE SKY",CINE SKY HD 06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34240.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 07" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png" group-title="CANAIS | CINE SKY",CINE SKY HD 07
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34241.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 08" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png" group-title="CANAIS | CINE SKY",CINE SKY HD 08
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34242.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 09" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png" group-title="CANAIS | CINE SKY",CINE SKY HD 09
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34243.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="CINE SKY HD 10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png" group-title="CANAIS | CINE SKY",CINE SKY HD 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 3[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/34244.m3u8|User-Agent=FooBar/1.2.3
