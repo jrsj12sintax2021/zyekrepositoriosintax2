@@ -1,1 +1,557 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="10 Coisas que Eu Odeio em Você - 1999" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WImK7UIRY7fZ0l9UwnxbP74w1p.jpg" group-title="F • Romance",10 Coisas que Eu Odeio em Você - 1999
+http://tvget.live:80/movie/epg/epg/1103049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2 Corações - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7bW3uKOMPBnmHs8gnlpfhTD8YQ.jpg" group-title="F • Romance",2 Corações - 2020
+http://tvget.live:80/movie/epg/epg/1103050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="365 Dias - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3b1uR8Jggt1hWgtBbp42Mt3cwWe.jpg" group-title="F • Romance",365 Dias - 2020
+http://tvget.live:80/movie/epg/epg/1103051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="500 Dias com Ela - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5liQCSzRm7qg8B4JTLYVkkhI1h.jpg" group-title="F • Romance",500 Dias com Ela - 2009
+http://tvget.live:80/movie/epg/epg/1103052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batida Perfeita - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyja8DWlBZuoVP0YJbTQMoqs4uw.jpg" group-title="F • Romance",A Batida Perfeita - 2020
+http://tvget.live:80/movie/epg/epg/1103053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Canção De Uma Vida - 2015" tvg-logo="http://urlon.me/ZVk" group-title="F • Romance",A Canção De Uma Vida - 2015
+http://tvget.live:80/movie/epg/epg/1103054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa - 2020" tvg-logo="https://image.tmdb.org/t/p/w116_and_h174_face/hTH1GW8C1OwEr2UAzgLvl5N7RAN.jpg" group-title="F • Romance",A Casa - 2020
+http://tvget.live:80/movie/epg/epg/1103055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa do Lago - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1zBa52Qmc7TH00JthRr5WnDJIT.jpg" group-title="F • Romance",A Casa do Lago - 2006
+http://tvget.live:80/movie/epg/epg/1103056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cinco Passos de Você - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svEfirPJf0mBypK9UyrpLpu5xkf.jpg" group-title="F • Romance",A Cinco Passos de Você - 2019
+http://tvget.live:80/movie/epg/epg/1103057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Culpa é das Estrelas - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lW1HA1JqXxKp1x5eSzEqTNxfIgA.jpg" group-title="F • Romance",A Culpa é das Estrelas - 2014
+http://tvget.live:80/movie/epg/epg/1103058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dama De Vermelho - 1984" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CCvGclc8YmOmdoAqjCUda0LnQK.jpg" group-title="F • Romance",A Dama De Vermelho - 1984
+http://tvget.live:80/movie/epg/epg/1103059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escolha - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waeKG2ZoXh2FcxP2JbyzlG7LQ0k.jpg" group-title="F • Romance",A Escolha - 2016
+http://tvget.live:80/movie/epg/epg/1103060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Festa de Formatura - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7An8UravfzqaU7SuumaWEVRqVU.jpg" group-title="F • Romance",A Festa de Formatura - 2020
+http://tvget.live:80/movie/epg/epg/1103061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Garota Invisível - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msJs7UwmWUd7iql36JoN4Rp0hoK.jpg" group-title="F • Romance",A Garota Invisível - 2020
+http://tvget.live:80/movie/epg/epg/1103062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Garota Perfeita - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXVvLAG6APpxJhBC2DzQ3mNG7Vx.jpg" group-title="F • Romance",A Garota Perfeita - 2017
+http://tvget.live:80/movie/epg/epg/1103063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Guide to Second Date Sex - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lELklKT5M2hIdfhps0aBPRGRPL7.jpg" group-title="F • Romance",A Guide to Second Date Sex - 2019
+http://tvget.live:80/movie/epg/epg/1103064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Irmã do Noivo - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1MEh4nfjUwa6q4GoDA2Kz32OIH.jpg" group-title="F • Romance",A Irmã do Noivo - 2020
+http://tvget.live:80/movie/epg/epg/1103065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lagoa Azul - 1980" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21lgy9hZPeOvyRr7lK1LQrks3Aw.jpg" group-title="F • Romance",A Lagoa Azul - 1980
+http://tvget.live:80/movie/epg/epg/1103066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Luta pela Esperança - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rztLamF4cfaPxvIzqllaxe9e3S.jpg" group-title="F • Romance",A Luta pela Esperança - 2005
+http://tvget.live:80/movie/epg/epg/1103067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Menina do Chalé - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NPPuEbIROypLVhmd7W9CGVMbCU.jpg" group-title="F • Romance",A Menina do Chalé - 2011
+http://tvget.live:80/movie/epg/epg/1103068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Outra Mulher - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70b4559iwOnsf6Ovs5DAQWXiXYF.jpg" group-title="F • Romance",A Outra Mulher - 2018
+http://tvget.live:80/movie/epg/epg/1103069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Morte - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wH15YYgBT9ZX37nFkSQ0OM8qjCE.jpg" group-title="F • Romance",A Pequena Morte - 2014
+http://tvget.live:80/movie/epg/epg/1103070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa E A Plebeia - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpIZEkNudLQrQO7hwDNTqQphe2l.jpg" group-title="F • Romance",A Princesa E A Plebeia - 2018
+http://tvget.live:80/movie/epg/epg/1103071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa e a Plebeia: As Vilãs Também Amam - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNOvGQ3rMPtHqQxXqKvHlQCwS3E.jpg" group-title="F • Romance",A Princesa e a Plebeia: As Vilãs Também Amam - 2021
+http://tvget.live:80/movie/epg/epg/1103072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Proposta - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIhags0jXoe78JJjCDZbByciesQ.jpg" group-title="F • Romance",A Proposta - 2009
+http://tvget.live:80/movie/epg/epg/1103073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Saga Crepusculo Amanhecer  Parte 1 - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlpb8Xm7VBDNxZGeIIAgtqhURuT.jpg" group-title="F • Romance",A Saga Crepusculo Amanhecer  Parte 1 - 2011
+http://tvget.live:80/movie/epg/epg/1103074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Saga Crepusculo Amanhecer Parte 2 - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVNobbWwSM2xpv2rRejxwnHf4xH.jpg" group-title="F • Romance",A Saga Crepusculo Amanhecer Parte 2 - 2012
+http://tvget.live:80/movie/epg/epg/1103075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Saga Crepusculo Eclipse - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAQsjxYdfkzhrDZwVDDtMksS34u.jpg" group-title="F • Romance",A Saga Crepusculo Eclipse - 2010
+http://tvget.live:80/movie/epg/epg/1103076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Saga Crepusculo Lua Nova - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gF0TjnaoKqsYaSni1YN1snQ8q4z.jpg" group-title="F • Romance",A Saga Crepusculo Lua Nova - 2009
+http://tvget.live:80/movie/epg/epg/1103077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sogra - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tII9VsurXwuz5L1xczH09XAwng3.jpg" group-title="F • Romance",A Sogra - 2005
+http://tvget.live:80/movie/epg/epg/1103078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Carta de Amor - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDKK51YdOfu9pTmSRw7sHUhGFxm.jpg" group-title="F • Romance",A Última Carta de Amor - 2021
+http://tvget.live:80/movie/epg/epg/1103079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Um Passo da Eternidade - 1953" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6QXGhmrBskJav7KzGhwlqyx0t3.jpg" group-title="F • Romance",A Um Passo da Eternidade - 1953
+http://tvget.live:80/movie/epg/epg/1103080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Verdade Nua e Crua - 2009" tvg-logo="http://urlon.me/ZgY1dV" group-title="F • Romance",A Verdade Nua e Crua - 2009
+http://tvget.live:80/movie/epg/epg/1103081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida Invisível - 2019" tvg-logo="http://urlon.me/ZgY1Dh" group-title="F • Romance",A Vida Invisível - 2019
+http://tvget.live:80/movie/epg/epg/1103082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida Pode Mudar - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1F6VdHC16zwEJoEWx2omJ0fzgmA.jpg" group-title="F • Romance",A Vida Pode Mudar - 2021
+http://tvget.live:80/movie/epg/epg/1103083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Acertando O Passo - 2017" tvg-logo="http://urlon.me/ZVg" group-title="F • Romance",Acertando O Passo - 2017
+http://tvget.live:80/movie/epg/epg/1103084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adam - 2009" tvg-logo="http://urlon.me/ZgY168" group-title="F • Romance",Adam - 2009
+http://tvget.live:80/movie/epg/epg/1103085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Afinado no Amor - 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvUU3v5am3vsGrwHalSHpP90PPg.jpg" group-title="F • Romance",Afinado no Amor - 1998
+http://tvget.live:80/movie/epg/epg/1103086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="After - 2019" tvg-logo="http://urlon.me/ZFJ" group-title="F • Romance",After - 2019
+http://tvget.live:80/movie/epg/epg/1103087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="After - Depois da Verdade - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aduKXG7H0z0osY8KNQjcLB3cWO5.jpg" group-title="F • Romance",After - Depois da Verdade - 2020
+http://tvget.live:80/movie/epg/epg/1103088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="After: Depois do Desencontro - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZwC4FW5rFvYa0gzZJIHQwLSgbz.jpg" group-title="F • Romance",After: Depois do Desencontro - 2021
+http://tvget.live:80/movie/epg/epg/1103089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água para Elefantes - 2011" tvg-logo="http://urlon.me/ZgY1d2" group-title="F • Romance",Água para Elefantes - 2011
+http://tvget.live:80/movie/epg/epg/1103090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Além das Montanhas - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMW81htT6Kki8x0G4UNb7l48iIr.jpg" group-title="F • Romance",Além das Montanhas - 2020
+http://tvget.live:80/movie/epg/epg/1103091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alguém Avisa? - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neE6fqGiQcp6z4qNlFtlP0z76c0.jpg" group-title="F • Romance",Alguém Avisa? - 2020
+http://tvget.live:80/movie/epg/epg/1103092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice Júnior - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eiFLJcDAgr1xp3eZuXJiBn1cvj.jpg" group-title="F • Romance",Alice Júnior - 2019
+http://tvget.live:80/movie/epg/epg/1103093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amar - 2017" tvg-logo="http://urlon.me/ZDL" group-title="F • Romance",Amar - 2017
+http://tvget.live:80/movie/epg/epg/1103094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amigo Imaginário - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzmPIe0kKaDaForQWh1xOEYlP2p.jpg" group-title="F • Romance",Amigo Imaginário - 2018
+http://tvget.live:80/movie/epg/epg/1103095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Colorida - 2011" tvg-logo="http://urlon.me/ZgY16k" group-title="F • Romance",Amizade Colorida - 2011
+http://tvget.live:80/movie/epg/epg/1103096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor & Amizade - 2016" tvg-logo="http://urlon.me/ZgY1hV" group-title="F • Romance",Amor & Amizade - 2016
+http://tvget.live:80/movie/epg/epg/1103097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor à Segunda Vista - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zy3x1bUJx4YPRyHtBOQde8DzRru.jpg" group-title="F • Romance",Amor à Segunda Vista - 2014
+http://tvget.live:80/movie/epg/epg/1103098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor a Três - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qE7AeMCVl7zZ4LjrKWhltjNgwBu.jpg" group-title="F • Romance",Amor a Três - 2021
+http://tvget.live:80/movie/epg/epg/1103099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor com Data Marcada - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsuhSOLAaEoZGR4paPFgxE29jIn.jpg" group-title="F • Romance",Amor com Data Marcada - 2020
+http://tvget.live:80/movie/epg/epg/1103100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor de Páscoa - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmsFYY5tNzlUnbbPItmBG4o5HOJ.jpg" group-title="F • Romance",Amor de Páscoa - 2019
+http://tvget.live:80/movie/epg/epg/1103101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Em Middleton - 2013" tvg-logo="http://urlon.me/Zs2" group-title="F • Romance",Amor Em Middleton - 2013
+http://tvget.live:80/movie/epg/epg/1103102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor em Obras - 2019" tvg-logo="http://urlon.me/dHa" group-title="F • Romance",Amor em Obras - 2019
+http://tvget.live:80/movie/epg/epg/1103103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Garantido - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgoAd6HFGQ4gHBABWXL17mBwte2.jpg" group-title="F • Romance",Amor Garantido - 2020
+http://tvget.live:80/movie/epg/epg/1103104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor nas Alturas - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tylTgpAZuptwAAlAxxuKpwDsxF7.jpg" group-title="F • Romance",Amor nas Alturas - 2021
+http://tvget.live:80/movie/epg/epg/1103105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Pleno - 2013" tvg-logo="http://urlon.me/Z2g" group-title="F • Romance",Amor Pleno - 2013
+http://tvget.live:80/movie/epg/epg/1103106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Sem Escalas - 2009" tvg-logo="http://urlon.me/ZgY1ht" group-title="F • Romance",Amor Sem Escalas - 2009
+http://tvget.live:80/movie/epg/epg/1103107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Sem Fim - 1981" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZf43CB2U1R3iBj0EhwqcBvYtKC.jpg" group-title="F • Romance",Amor Sem Fim - 1981
+http://tvget.live:80/movie/epg/epg/1103108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Sem Querer - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOTtUDTGHPJfV1wSLRSJkSnaxrq.jpg" group-title="F • Romance",Amor Sem Querer - 2017
+http://tvget.live:80/movie/epg/epg/1103109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor, Romance e Chocolate - 2019" tvg-logo="http://urlon.me/ZgY1AK" group-title="F • Romance", Romance e Chocolate - 2019
+http://tvget.live:80/movie/epg/epg/1103110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antes da Meia-Noite - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruQKQNrenTD9k8kArmQbwermomf.jpg" group-title="F • Romance",Antes da Meia-Noite - 2013
+http://tvget.live:80/movie/epg/epg/1103111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antes do Amanhecer - 1995" tvg-logo="http://urlon.me/ZgY1hl" group-title="F • Romance",Antes do Amanhecer - 1995
+http://tvget.live:80/movie/epg/epg/1103112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antes que Termine o Dia - 2004" tvg-logo="http://urlon.me/Zst" group-title="F • Romance",Antes que Termine o Dia - 2004
+http://tvget.live:80/movie/epg/epg/1103113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arco-Íris do Amor - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQpRDgozAfc6BjMzXOK4lNZ6oxM.jpg" group-title="F • Romance",Arco-Íris do Amor - 2019
+http://tvget.live:80/movie/epg/epg/1103114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Cores do Amor - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKkfxvjnZstMmQCbolFDWREhxCX.jpg" group-title="F • Romance",As Cores do Amor - 2021
+http://tvget.live:80/movie/epg/epg/1103115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Leis Da Termodinamica - 2018" tvg-logo="http://urlon.me/Zsk" group-title="F • Romance",As Leis Da Termodinamica - 2018
+http://tvget.live:80/movie/epg/epg/1103116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Minas do Rei Salomao - 1950" tvg-logo="http://urlon.me/ZgY1lz" group-title="F • Romance",As Minas do Rei Salomao - 1950
+http://tvget.live:80/movie/epg/epg/1103117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Ondas - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXHO1tPfv5rXQQOfu9Ji6EcAFbE.jpg" group-title="F • Romance",As Ondas - 2019
+http://tvget.live:80/movie/epg/epg/1103118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Pontes de Madison - 1995" tvg-logo="http://urlon.me/ZgY1hG" group-title="F • Romance",As Pontes de Madison - 1995
+http://tvget.live:80/movie/epg/epg/1103119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atlantique - 2019" tvg-logo="http://urlon.me/O1d" group-title="F • Romance",Atlantique - 2019
+http://tvget.live:80/movie/epg/epg/1103120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beijar E Chorar - 2017" tvg-logo="http://urlon.me/ZsF" group-title="F • Romance",Beijar E Chorar - 2017
+http://tvget.live:80/movie/epg/epg/1103121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beleza Oculta - 2016" tvg-logo="http://urlon.me/ZgY1hU" group-title="F • Romance",Beleza Oculta - 2016
+http://tvget.live:80/movie/epg/epg/1103122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bonequinha de Luxo - 1961" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBdn6jkwOKnJ02W8pdljYyCkYch.jpg" group-title="F • Romance",Bonequinha de Luxo - 1961
+http://tvget.live:80/movie/epg/epg/1103123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bridget Jones: No Limite da Razão - 2004" tvg-logo="http://urlon.me/ZgY1h5" group-title="F • Romance",Bridget Jones: No Limite da Razão - 2004
+http://tvget.live:80/movie/epg/epg/1103124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brilho Eterno de uma Mente sem Lembranças - 2004" tvg-logo="http://urlon.me/ZgY1h6" group-title="F • Romance",Brilho Eterno de uma Mente sem Lembranças - 2004
+http://tvget.live:80/movie/epg/epg/1103125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brooklin - 2015" tvg-logo="http://urlon.me/ZgY1hg" group-title="F • Romance",Brooklin - 2015
+http://tvget.live:80/movie/epg/epg/1103126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cadeado do Amor - 2019" tvg-logo="http://urlon.me/O38" group-title="F • Romance",Cadeado do Amor - 2019
+http://tvget.live:80/movie/epg/epg/1103127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carol - 2015" tvg-logo="http://urlon.me/ZgY16E" group-title="F • Romance",Carol - 2015
+http://tvget.live:80/movie/epg/epg/1103128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cartas para Julieta - 2010" tvg-logo="http://urlon.me/ZgY16L" group-title="F • Romance",Cartas para Julieta - 2010
+http://tvget.live:80/movie/epg/epg/1103129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casa Comigo? - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsKP38fESXwpr8XbEuhnzJc4Yqp.jpg" group-title="F • Romance",Casa Comigo? - 2010
+http://tvget.live:80/movie/epg/epg/1103130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casal Improvável - 2019" tvg-logo="http://urlon.me/ZgY1KT" group-title="F • Romance",Casal Improvável - 2019
+http://tvget.live:80/movie/epg/epg/1103131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidade dos Anjos - 1998" tvg-logo="http://urlon.me/ZgY164" group-title="F • Romance",Cidade dos Anjos - 1998
+http://tvget.live:80/movie/epg/epg/1103132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidades de Papel - 2015" tvg-logo="http://urlon.me/ZgY1dJ" group-title="F • Romance",Cidades de Papel - 2015
+http://tvget.live:80/movie/epg/epg/1103133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinderela - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DsfRsCxrhkHQHGLeY9m8oi9q46.jpg" group-title="F • Romance",Cinderela - 2015
+http://tvget.live:80/movie/epg/epg/1103134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Com Amor, Simon - 2018" tvg-logo="http://urlon.me/ZW5" group-title="F • Romance", Simon - 2018
+http://tvget.live:80/movie/epg/epg/1103135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Eu Era Antes De Voçe - 2016" tvg-logo="http://urlon.me/ZW6" group-title="F • Romance",Como Eu Era Antes De Voçe - 2016
+http://tvget.live:80/movie/epg/epg/1103136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Não Perder Essa Mulher - 2013" tvg-logo="http://urlon.me/ZgY1dX" group-title="F • Romance",Como Não Perder Essa Mulher - 2013
+http://tvget.live:80/movie/epg/epg/1103137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Se Fosse A Primeira Vez - 2004" tvg-logo="http://urlon.me/ZRL" group-title="F • Romance",Como Se Fosse A Primeira Vez - 2004
+http://tvget.live:80/movie/epg/epg/1103138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Convidado Vitalicio - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbNcScxV33nMrc0MprmvOpk4WsC.jpg" group-title="F • Romance",Convidado Vitalicio - 2019
+http://tvget.live:80/movie/epg/epg/1103139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coração De Corredor - 2017" tvg-logo="http://urlon.me/ZRr" group-title="F • Romance",Coração De Corredor - 2017
+http://tvget.live:80/movie/epg/epg/1103140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corações Apaixonados - 1998" tvg-logo="http://urlon.me/ZRa" group-title="F • Romance",Corações Apaixonados - 1998
+http://tvget.live:80/movie/epg/epg/1103141.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crepusculo - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e33qJrkBGQHWc93FgIuyYWnmeBQ.jpg" group-title="F • Romance",Crepusculo - 2008
+http://tvget.live:80/movie/epg/epg/1103142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crush à Altura - 2019" tvg-logo="http://urlon.me/Owl" group-title="F • Romance",Crush à Altura - 2019
+http://tvget.live:80/movie/epg/epg/1103143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crush à Altura 2 - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isORwC0r1F3NYwFoBS4P6KerHgD.jpg" group-title="F • Romance",Crush à Altura 2 - 2022
+http://tvget.live:80/movie/epg/epg/1103144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crush: Amor Colorido - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hayr56csDzCSADaejgrRMVPHyDy.jpg" group-title="F • Romance",Crush: Amor Colorido - 2022
+http://tvget.live:80/movie/epg/epg/1103145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Curiosa - 2019" tvg-logo="http://urlon.me/ZgY1LL" group-title="F • Romance",Curiosa - 2019
+http://tvget.live:80/movie/epg/epg/1103146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Canção Em Canção - 2017" tvg-logo="http://urlon.me/ZRp" group-title="F • Romance",De Canção Em Canção - 2017
+http://tvget.live:80/movie/epg/epg/1103147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Carona Para O Amor - 2018" tvg-logo="http://urlon.me/ZRc" group-title="F • Romance",De Carona Para O Amor - 2018
+http://tvget.live:80/movie/epg/epg/1103148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Volta Para Casa - 2013" tvg-logo="http://urlon.me/ZR0" group-title="F • Romance",De Volta Para Casa - 2013
+http://tvget.live:80/movie/epg/epg/1103149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deixa a Neve Cair - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cK25zywRZwSxCSzGZaPTJ7ZhC1m.jpg" group-title="F • Romance",Deixa a Neve Cair - 2019
+http://tvget.live:80/movie/epg/epg/1103150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Demais pra Mim - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Q3b2vV5tDE3DmqAWGNxOPZ8oob.jpg" group-title="F • Romance",Demais pra Mim - 2021
+http://tvget.live:80/movie/epg/epg/1103151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desencontro Perfeito - 2015" tvg-logo="http://urlon.me/ZgY16a" group-title="F • Romance",Desencontro Perfeito - 2015
+http://tvget.live:80/movie/epg/epg/1103152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dia de Casamento 1 - 2016" tvg-logo="http://urlon.me/ZgYYJp" group-title="F • Romance",Dia de Casamento 1 - 2016
+http://tvget.live:80/movie/epg/epg/1103153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dia de Casamento 2 - 2017" tvg-logo="http://urlon.me/ZgYYJV" group-title="F • Romance",Dia de Casamento 2 - 2017
+http://tvget.live:80/movie/epg/epg/1103154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dia de Casamento 3 - 2018" tvg-logo="http://urlon.me/ZgYYJ2" group-title="F • Romance",Dia de Casamento 3 - 2018
+http://tvget.live:80/movie/epg/epg/1103155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dia de Casamento 4 - 2018" tvg-logo="http://urlon.me/ZgY1l1" group-title="F • Romance",Dia de Casamento 4 - 2018
+http://tvget.live:80/movie/epg/epg/1103156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dia de Casamento 5 - 2019" tvg-logo="http://urlon.me/ZgYYJW" group-title="F • Romance",Dia de Casamento 5 - 2019
+http://tvget.live:80/movie/epg/epg/1103157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diario de uma Paixao - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1ttV3XhgryvmJMlBfpbzUfm6bG.jpg" group-title="F • Romance",Diario de uma Paixao - 2004
+http://tvget.live:80/movie/epg/epg/1103158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diga-me Quando - 2020" tvg-logo="http://cms-central.co:80/images/brrueWMNGQjz2sFXS2RXPa2frUf.jpg" group-title="F • Romance",Diga-me Quando - 2020
+http://tvget.live:80/movie/epg/epg/1103159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Do Que as Mulheres Gostam - 2000" tvg-logo="http://urlon.me/ZgYMp6" group-title="F • Romance",Do Que as Mulheres Gostam - 2000
+http://tvget.live:80/movie/epg/epg/1103160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doce Novembro - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjtCKVNtywqEHLQMKz7SeFJGSQ0.jpg" group-title="F • Romance",Doce Novembro - 2001
+http://tvget.live:80/movie/epg/epg/1103161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Don Juan DeMarco - 1994" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fe0TuYz9jCKUba2Omj48K8bWJ8z.jpg" group-title="F • Romance",Don Juan DeMarco - 1994
+http://tvget.live:80/movie/epg/epg/1103162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E Se... Você Tivesse uma Segunda Chance? - 2010" tvg-logo="http://urlon.me/ZgYMu8" group-title="F • Romance",E Se... Você Tivesse uma Segunda Chance? - 2010
+http://tvget.live:80/movie/epg/epg/1103163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eiffel - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JrT2FAv4WMZEPXFR9wXWqsyAvl.jpg" group-title="F • Romance",Eiffel - 2021
+http://tvget.live:80/movie/epg/epg/1103164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ela Dança, Eu Danço 1 - 2006" tvg-logo="http://urlon.me/Z2r" group-title="F • Romance", Eu Danço 1 - 2006
+http://tvget.live:80/movie/epg/epg/1103165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ela Dança, Eu Danço 3 - 2010" tvg-logo="http://urlon.me/Z2p" group-title="F • Romance", Eu Danço 3 - 2010
+http://tvget.live:80/movie/epg/epg/1103166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ela Dança, Eu Danço 4 - 2012" tvg-logo="http://urlon.me/Z2t" group-title="F • Romance", Eu Danço 4 - 2012
+http://tvget.live:80/movie/epg/epg/1103167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ela Dança,Eu Danço 2 - 2008" tvg-logo="http://urlon.me/Z2W" group-title="F • Romance",Eu Danço 2 - 2008
+http://tvget.live:80/movie/epg/epg/1103168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ela Dança,Eu Danco 5 - Tudo Ou Nada - 2014" tvg-logo="http://urlon.me/ZII" group-title="F • Romance",Eu Danco 5 - Tudo Ou Nada - 2014
+http://tvget.live:80/movie/epg/epg/1103169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Cima Do Muro - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9f1tTenIreJSKAxuPpICFhrzw4d.jpg" group-title="F • Romance",Em Cima Do Muro - 2017
+http://tvget.live:80/movie/epg/epg/1103170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encontro Marcado - 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iw4lHknfBxR1AGnhosG55wuc34J.jpg" group-title="F • Romance",Encontro Marcado - 1998
+http://tvget.live:80/movie/epg/epg/1103171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encontro por Acaso - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50dVUPdEI1qWhiTnIWN3NIZqftn.jpg" group-title="F • Romance",Encontro por Acaso - 2022
+http://tvget.live:80/movie/epg/epg/1103172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encruzilhada - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnExk4j3yiXCpew16F5yuQB8wuE.jpg" group-title="F • Romance",Encruzilhada - 2013
+http://tvget.live:80/movie/epg/epg/1103173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Amores e Cores - 2019" tvg-logo="http://urlon.me/ZgY1bv" group-title="F • Romance",Entre Amores e Cores - 2019
+http://tvget.live:80/movie/epg/epg/1103174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entrevista Com o Vampiro - 1994" tvg-logo="http://urlon.me/ZgYMuw" group-title="F • Romance",Entrevista Com o Vampiro - 1994
+http://tvget.live:80/movie/epg/epg/1103175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eternamente Demais pra Mim - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zhsT17wTXAw5IxK9rSLtftu7Aw.jpg" group-title="F • Romance",Eternamente Demais pra Mim - 2022
+http://tvget.live:80/movie/epg/epg/1103176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu Posso Ouvir o Oceano - 1993" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHzMcd9Dma4gYv5rFXN8UuEdakQ.jpg" group-title="F • Romance",Eu Posso Ouvir o Oceano - 1993
+http://tvget.live:80/movie/epg/epg/1103177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Farol das Orcas - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHEYA3MhmauRQ3kit0ewQ9KtgNW.jpg" group-title="F • Romance",Farol das Orcas - 2016
+http://tvget.live:80/movie/epg/epg/1103178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Feitiço do Tempo  - 1993" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SPS4kYl1n2ecrSaP7Sqd4FyKAE.jpg" group-title="F • Romance",Feitiço do Tempo  - 1993
+http://tvget.live:80/movie/epg/epg/1103179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Finding You - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRSsYtYcbhNAfHBp3ha1Nr65agi.jpg" group-title="F • Romance",Finding You - 2021
+http://tvget.live:80/movie/epg/epg/1103180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fomos Canções - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vi7O7aHSultS7AcEpMVz30SAJw7.jpg" group-title="F • Romance",Fomos Canções - 2021
+http://tvget.live:80/movie/epg/epg/1103181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fugindo do Amor - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6TrkFcgCF8Vznk45rs3qvxxejiV.jpg" group-title="F • Romance",Fugindo do Amor - 2021
+http://tvget.live:80/movie/epg/epg/1103182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost - Do Outro Lado da Vida - 1990" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMfOydZGY87t02bWzoMOXyyijDj.jpg" group-title="F • Romance",Ghost - Do Outro Lado da Vida - 1990
+http://tvget.live:80/movie/epg/epg/1103183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Historia de um Casamento - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LaZ5rwaMvVH20J8O2Nu9uuXGI5.jpg" group-title="F • Romance",Historia de um Casamento - 2019
+http://tvget.live:80/movie/epg/epg/1103184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem Ao Mar - 2018" tvg-logo="http://urlon.me/ZIk" group-title="F • Romance",Homem Ao Mar - 2018
+http://tvget.live:80/movie/epg/epg/1103185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Isi & Ossi - 2020" tvg-logo="http://urlon.me/ZgYMOd" group-title="F • Romance",Isi & Ossi - 2020
+http://tvget.live:80/movie/epg/epg/1103186.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jovens Corações - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dD1ds2QRt06SzSvYZakxRNWv5SQ.jpg" group-title="F • Romance",Jovens Corações - 2021
+http://tvget.live:80/movie/epg/epg/1103187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kings: Los Angeles em Chamas - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVpket3HHgmxQFOQzaGO6DFXXxg.jpg" group-title="F • Romance",Kings: Los Angeles em Chamas - 2017
+http://tvget.live:80/movie/epg/epg/1103188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La La Land: Cantando Estações - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBVUXmN8tax7eoQdDw6DdbEoZwc.jpg" group-title="F • Romance",La La Land: Cantando Estações - 2016
+http://tvget.live:80/movie/epg/epg/1103189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lindo de Morrer - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhm9NhbSM57VpFxzX3cGFSyeGs7.jpg" group-title="F • Romance",Lindo de Morrer - 2021
+http://tvget.live:80/movie/epg/epg/1103190.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Que Demais Pra Mim - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJqV17wSjaTLvI9czGQlP5sRgiA.jpg" group-title="F • Romance",Mais Que Demais Pra Mim - 2021
+http://tvget.live:80/movie/epg/epg/1103191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm & Marie - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZDAW4nmlC2cT9vM4fRxTQWHddE.jpg" group-title="F • Romance",Malcolm & Marie - 2021
+http://tvget.live:80/movie/epg/epg/1103192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm e Marie - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZDAW4nmlC2cT9vM4fRxTQWHddE.jpg" group-title="F • Romance",Malcolm e Marie - 2021
+http://tvget.live:80/movie/epg/epg/1103193.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mary Shelley - 2018" tvg-logo="http://urlon.me/ZgY1dG" group-title="F • Romance",Mary Shelley - 2018
+http://tvget.live:80/movie/epg/epg/1103194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Me Chame Pelo Seu Nome - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnf5Onsk236CdE5Lff93IX69gHf.jpg" group-title="F • Romance",Me Chame Pelo Seu Nome - 2017
+http://tvget.live:80/movie/epg/epg/1103195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Memórias de Um Amor - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7im6whmJQItTWadMNeZqwyNYxTH.jpg" group-title="F • Romance",Memórias de Um Amor - 2021
+http://tvget.live:80/movie/epg/epg/1103196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mesa para Quatro - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ure3El1LVLn3PSPTpXGcxVPbpUM.jpg" group-title="F • Romance",Mesa para Quatro - 2022
+http://tvget.live:80/movie/epg/epg/1103197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Eterno Primeiro Amor - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7N2cST1tBJVH4iU3ns67zq8PuV.jpg" group-title="F • Romance",Meu Eterno Primeiro Amor - 2020
+http://tvget.live:80/movie/epg/epg/1103198.
+#EXTINF:-1 tvg-id="" tvg-name="Meu Eterno Talvez - 2019" tvg-logo="http://urlon.me/Z7L" group-title="F • Romance",Meu Eterno Talvez - 2019
+http://tvget.live:80/movie/epg/epg/1103199.
+#EXTINF:-1 tvg-id="" tvg-name="Meu Romance Perfeito - 2018" tvg-logo="http://urlon.me/ZCL" group-title="F • Romance",Meu Romance Perfeito - 2018
+http://tvget.live:80/movie/epg/epg/1103200.
+#EXTINF:-1 tvg-id="" tvg-name="Meus Dias de Compaixao" tvg-logo="http://urlon.me/OUk" group-title="F • Romance",Meus Dias de Compaixao
+http://tvget.live:80/movie/epg/epg/1103201.
+#EXTINF:-1 tvg-id="" tvg-name="Minha Amiga Palma - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSPMIVPsV25N2eww4AfE7JEHpOE.jpg" group-title="F • Romance",Minha Amiga Palma - 2021
+http://tvget.live:80/movie/epg/epg/1103202.
+#EXTINF:-1 tvg-id="" tvg-name="Minha Festa de 30 Anos - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRDdvaJsiZimm1enx2ApkCxaee4.jpg" group-title="F • Romance",Minha Festa de 30 Anos - 2016
+http://tvget.live:80/movie/epg/epg/1103203.
+#EXTINF:-1 tvg-id="" tvg-name="Na Sinfonia Do Coracao - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmnU2u5WJjl8R6Q0JX2eBN7RpGY.jpg" group-title="F • Romance",Na Sinfonia Do Coracao - 2022
+http://tvget.live:80/movie/epg/epg/1103204.
+#EXTINF:-1 tvg-id="" tvg-name="No Ritmo Indiano - 2017" tvg-logo="http://urlon.me/ZC2" group-title="F • Romance",No Ritmo Indiano - 2017
+http://tvget.live:80/movie/epg/epg/1103205.
+#EXTINF:-1 tvg-id="" tvg-name="Nos Braços de um Assassino - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqRUOtbDunNq7gTux3zXz25Krwp.jpg" group-title="F • Romance",Nos Braços de um Assassino - 2019
+http://tvget.live:80/movie/epg/epg/1103206.
+#EXTINF:-1 tvg-id="" tvg-name="Nossos SONHOS De Marte - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thqgzBPEDYQX0taszVus5nYMtTZ.jpg" group-title="F • Romance",Nossos SONHOS De Marte - 2022
+http://tvget.live:80/movie/epg/epg/1103207.
+#EXTINF:-1 tvg-id="" tvg-name="O Amor Não Tira Férias - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mROY2b1CeX9gAWcCxStERQie5X.jpg" group-title="F • Romance",O Amor Não Tira Férias - 2006
+http://tvget.live:80/movie/epg/epg/1103208.
+#EXTINF:-1 tvg-id="" tvg-name="O Céu Está em Todo Lugar - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJPsIaBEReV2byAUqUelqQKimy2.jpg" group-title="F • Romance",O Céu Está em Todo Lugar - 2022
+http://tvget.live:80/movie/epg/epg/1103209.
+#EXTINF:-1 tvg-id="" tvg-name="O Codigo Da Vinci - 2006" tvg-logo="http://urlon.me/ZCp" group-title="F • Romance",O Codigo Da Vinci - 2006
+http://tvget.live:80/movie/epg/epg/1103210.
+#EXTINF:-1 tvg-id="" tvg-name="O Date Perfeito - 2019" tvg-logo="http://urlon.me/Zk2" group-title="F • Romance",O Date Perfeito - 2019
+http://tvget.live:80/movie/epg/epg/1103211.
+#EXTINF:-1 tvg-id="" tvg-name="O Guarda-Costas (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9sDwQcCBYjA5DvNqmd8m5rkBqh.jpg" group-title="F • Romance",O Guarda-Costas (1992)
+http://tvget.live:80/movie/epg/epg/1103212.
+#EXTINF:-1 tvg-id="" tvg-name="O Inferno de Gabriel - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyG9TL7FcRP4EZ9Vid6uKzwdndz.jpg" group-title="F • Romance",O Inferno de Gabriel - 2020
+http://tvget.live:80/movie/epg/epg/1103213.
+#EXTINF:-1 tvg-id="" tvg-name="O Lado Bom da Vida - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBVZxrx9DA9dqIb1CzgmHoZxuJt.jpg" group-title="F • Romance",O Lado Bom da Vida - 2012
+http://tvget.live:80/movie/epg/epg/1103214.
+#EXTINF:-1 tvg-id="" tvg-name="O Mapa das Pequenas Coisas Perfeitas - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6y3ev0rJFbHA1hU22UPmmfzBjrG.jpg" group-title="F • Romance",O Mapa das Pequenas Coisas Perfeitas - 2021
+http://tvget.live:80/movie/epg/epg/1103215.
+#EXTINF:-1 tvg-id="" tvg-name="O Melhor Amigo - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9f8ysQI4X0XLhUJqKOZy9XUfSUv.jpg" group-title="F • Romance",O Melhor Amigo - 2021
+http://tvget.live:80/movie/epg/epg/1103216.
+#EXTINF:-1 tvg-id="" tvg-name="O Melhor de Mim - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Jdy0LnPZsdUTGnvCqpkvQwydud.jpg" group-title="F • Romance",O Melhor de Mim - 2014
+http://tvget.live:80/movie/epg/epg/1103217.
+#EXTINF:-1 tvg-id="" tvg-name="O Par Perfeito - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtz6aSHRLF4wQKKCJQZU30r3WEt.jpg" group-title="F • Romance",O Par Perfeito - 2016
+http://tvget.live:80/movie/epg/epg/1103218.
+#EXTINF:-1 tvg-id="" tvg-name="O Pequeno Órfão - 2018" tvg-logo="http://urlon.me/Zwd" group-title="F • Romance",O Pequeno Órfão - 2018
+http://tvget.live:80/movie/epg/epg/1103219.
+#EXTINF:-1 tvg-id="" tvg-name="O Plano Imperfeito - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnyHkJNUWIxgNulxxYQPIJVAM56.jpg" group-title="F • Romance",O Plano Imperfeito - 2018
+http://tvget.live:80/movie/epg/epg/1103220.
+#EXTINF:-1 tvg-id="" tvg-name="O Presente - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLgGhDX0wTzdAkTLXAqrdONgiCd.jpg" group-title="F • Romance",O Presente - 2007
+http://tvget.live:80/movie/epg/epg/1103221.
+#EXTINF:-1 tvg-id="" tvg-name="O Retiro de Natal - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJWZMjTvJATghILwpLBQwmYoIpL.jpg" group-title="F • Romance",O Retiro de Natal - 2022
+http://tvget.live:80/movie/epg/epg/1103222.
+#EXTINF:-1 tvg-id="" tvg-name="O Segredo De Brokeback Mountain - 2005" tvg-logo="http://urlon.me/ZCX" group-title="F • Romance",O Segredo De Brokeback Mountain - 2005
+http://tvget.live:80/movie/epg/epg/1103223.
+#EXTINF:-1 tvg-id="" tvg-name="Ofélia - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1Wkthkn7AiJFS4OgSUrJqHhjez.jpg" group-title="F • Romance",Ofélia - 2019
+http://tvget.live:80/movie/epg/epg/1103224.
+#EXTINF:-1 tvg-id="" tvg-name="Orgulho e Preconceito - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Dq0yQWEIisUBzwbXYma8kZkZEY.jpg" group-title="F • Romance",Orgulho e Preconceito - 2005
+http://tvget.live:80/movie/epg/epg/1103225.
+#EXTINF:-1 tvg-id="" tvg-name="Os Batutinhas - 1994" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4UChnACHypljR6fmKg6vuM14Nh.jpg" group-title="F • Romance",Os Batutinhas - 1994
+http://tvget.live:80/movie/epg/epg/1103226.
+#EXTINF:-1 tvg-id="" tvg-name="Os Embalos de Sábado à Noite - 1977" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vLCcCxyYPn8epEXKp70bqQiFqq.jpg" group-title="F • Romance",Os Embalos de Sábado à Noite - 1977
+http://tvget.live:80/movie/epg/epg/1103227.
+#EXTINF:-1 tvg-id="" tvg-name="P.S. Eu Te Amo - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3uk6zzsjPxf9aIzgD1pRpj3V5jo.jpg" group-title="F • Romance",P.S. Eu Te Amo - 2007
+http://tvget.live:80/movie/epg/epg/1103228.
+#EXTINF:-1 tvg-id="" tvg-name="Paixão Sem Limites - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95kwakZfmUShNLqDfOs3J1XVNep.jpg" group-title="F • Romance",Paixão Sem Limites - 2010
+http://tvget.live:80/movie/epg/epg/1103229.
+#EXTINF:-1 tvg-id="" tvg-name="Para Sempre Minha Garota - 2018" tvg-logo="http://urlon.me/637" group-title="F • Romance",Para Sempre Minha Garota - 2018
+http://tvget.live:80/movie/epg/epg/1103230.
+#EXTINF:-1 tvg-id="" tvg-name="Para Todos Os Garotos Que Ja Amei - 2018" tvg-logo="http://urlon.me/ZWa" group-title="F • Romance",Para Todos Os Garotos Que Ja Amei - 2018
+http://tvget.live:80/movie/epg/epg/1103231.
+#EXTINF:-1 tvg-id="" tvg-name="Para todos os garotos: P.S. ainda amo você - 2020" tvg-logo="http://urlon.me/ZgY1u6" group-title="F • Romance",Para todos os garotos: P.S. ainda amo você - 2020
+http://tvget.live:80/movie/epg/epg/1103232.
+#EXTINF:-1 tvg-id="" tvg-name="Pedido De Casamento - 2017" tvg-logo="http://urlon.me/ZN0" group-title="F • Romance",Pedido De Casamento - 2017
+http://tvget.live:80/movie/epg/epg/1103233.
+#EXTINF:-1 tvg-id="" tvg-name="Perdidos na Escuridão - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMkS2EImCdeNMQaJxntGyjNNkhh.jpg" group-title="F • Romance",Perdidos na Escuridão - 2021
+http://tvget.live:80/movie/epg/epg/1103234.
+#EXTINF:-1 tvg-id="" tvg-name="Pérola no Paraíso - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tudQhTuHnhpoGx9dRnOPWYIGsM.jpg" group-title="F • Romance",Pérola no Paraíso - 2018
+http://tvget.live:80/movie/epg/epg/1103235.
+#EXTINF:-1 tvg-id="" tvg-name="Ponto Final: Match Point - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tefwQtylm6045V3jO5GJWdeQ0SQ.jpg" group-title="F • Romance",Ponto Final: Match Point - 2005
+http://tvget.live:80/movie/epg/epg/1103236.
+#EXTINF:-1 tvg-id="" tvg-name="Por Lugares Incríveis - 2020" tvg-logo="http://urlon.me/ZgY1Ce" group-title="F • Romance",Por Lugares Incríveis - 2020
+http://tvget.live:80/movie/epg/epg/1103237.
+#EXTINF:-1 tvg-id="" tvg-name="Por Toda a Minha Vida - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7eTgUwCggJVzEZb2Js7kLhcLLu.jpg" group-title="F • Romance",Por Toda a Minha Vida - 2021
+http://tvget.live:80/movie/epg/epg/1103238.
+#EXTINF:-1 tvg-id="" tvg-name="Procurando Figaro - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AsGtT5mi100StqELtqBBZ3iwYYH.jpg" group-title="F • Romance",Procurando Figaro - 2022
+http://tvget.live:80/movie/epg/epg/1103239.
+#EXTINF:-1 tvg-id="" tvg-name="Projeto Cupido - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ht0NQOtWDruYXDBfO8NZMdWdUDM.jpg" group-title="F • Romance",Projeto Cupido - 2021
+http://tvget.live:80/movie/epg/epg/1103240.
+#EXTINF:-1 tvg-id="" tvg-name="Pronta para Amar - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlmy1FgwRJRJzUmSh3FZXM4Bwb5.jpg" group-title="F • Romance",Pronta para Amar - 2011
+http://tvget.live:80/movie/epg/epg/1103241.
+#EXTINF:-1 tvg-id="" tvg-name="Proposta Indecente - 1993" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vy3C3cYf2qShGU2tDVyz2EwjACB.jpg" group-title="F • Romance",Proposta Indecente - 1993
+http://tvget.live:80/movie/epg/epg/1103242.
+#EXTINF:-1 tvg-id="" tvg-name="Que Léon - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPKAW6X1vVWeOLwpETPV6ne3eX5.jpg" group-title="F • Romance",Que Léon - 2018
+http://tvget.live:80/movie/epg/epg/1103243.
+#EXTINF:-1 tvg-id="" tvg-name="Queen Bees - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/peYRpielBbRHMGNYJnWyCsG7apA.jpg" group-title="F • Romance",Queen Bees - 2021
+http://tvget.live:80/movie/epg/epg/1103244.
+#EXTINF:-1 tvg-id="" tvg-name="Questao De Tempo - 2013" tvg-logo="http://urlon.me/ZNG" group-title="F • Romance",Questao De Tempo - 2013
+http://tvget.live:80/movie/epg/epg/1103245.
+#EXTINF:-1 tvg-id="" tvg-name="Really Love - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chv0cEGaUAcuwhpdAzPCIhikSjQ.jpg" group-title="F • Romance",Really Love - 2021
+http://tvget.live:80/movie/epg/epg/1103246.
+#EXTINF:-1 tvg-id="" tvg-name="Rebecca - A Mulher Inesquecível - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7efwXeiNPymjN3WBSe3OnnkhSOw.jpg" group-title="F • Romance",Rebecca - A Mulher Inesquecível - 2020
+http://tvget.live:80/movie/epg/epg/1103247.
+#EXTINF:-1 tvg-id="" tvg-name="Refugio No Paraiso - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5iwCeqvGK668jcW4igwqDH7lCtZ.jpg" group-title="F • Romance",Refugio No Paraiso - 2020
+http://tvget.live:80/movie/epg/epg/1103248.
+#EXTINF:-1 tvg-id="" tvg-name="Romance nas Alturas - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTO4J2cOnYk14xqyj4CHO0J0HE1.jpg" group-title="F • Romance",Romance nas Alturas - 2020
+http://tvget.live:80/movie/epg/epg/1103249.
+#EXTINF:-1 tvg-id="" tvg-name="Se a Rua Beale Falasse - 2019" tvg-logo="http://urlon.me/O3c" group-title="F • Romance",Se a Rua Beale Falasse - 2019
+http://tvget.live:80/movie/epg/epg/1103250.
+#EXTINF:-1 tvg-id="" tvg-name="Segredos e Despedidas - 2018" tvg-logo="http://urlon.me/Zip" group-title="F • Romance",Segredos e Despedidas - 2018
+http://tvget.live:80/movie/epg/epg/1103251.
+#EXTINF:-1 tvg-id="" tvg-name="Segunda Chance para o Primeiro Amor - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RMBI40nnxYbTEkiFcev1dcbTov.jpg" group-title="F • Romance",Segunda Chance para o Primeiro Amor - 2021
+http://tvget.live:80/movie/epg/epg/1103252.
+#EXTINF:-1 tvg-id="" tvg-name="Sem Reservas - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wD4oQlOIRnfoJvBNpjdLdilLYow.jpg" group-title="F • Romance",Sem Reservas - 2007
+http://tvget.live:80/movie/epg/epg/1103253.
+#EXTINF:-1 tvg-id="" tvg-name="Separados Mas Nem Tanto - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzqeaZ9326m77y40aSF4eYnMVHm.jpg" group-title="F • Romance",Separados Mas Nem Tanto - 2021
+http://tvget.live:80/movie/epg/epg/1103254.
+#EXTINF:-1 tvg-id="" tvg-name="Seus Olhos Dizem - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tW1ZnWKT64Hl2Ti1kAchRzQz8tb.jpg" group-title="F • Romance",Seus Olhos Dizem - 2021
+http://tvget.live:80/movie/epg/epg/1103255.
+#EXTINF:-1 tvg-id="" tvg-name="Sim, Eu Aceito - 2018" tvg-logo="http://urlon.me/ZfQ" group-title="F • Romance", Eu Aceito - 2018
+http://tvget.live:80/movie/epg/epg/1103256.
+#EXTINF:-1 tvg-id="" tvg-name="Simplesmente Acontece - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azlKLU8YN1dY5bknWVWprIdjc7X.jpg" group-title="F • Romance",Simplesmente Acontece - 2014
+http://tvget.live:80/movie/epg/epg/1103257.
+#EXTINF:-1 tvg-id="" tvg-name="Sintonizada em Você -2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPXkdOyEUBfYsLWTZ0KQEo3z7HB.jpg" group-title="F • Romance",Sintonizada em Você -2019
+http://tvget.live:80/movie/epg/epg/1103258.
+#EXTINF:-1 tvg-id="" tvg-name="Sintonizados no Amor - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxMdefiLKvapV58pdXYEH6CIBti.jpg" group-title="F • Romance",Sintonizados no Amor - 2020
+http://tvget.live:80/movie/epg/epg/1103259.
+#EXTINF:-1 tvg-id="" tvg-name="Só Você - 1994" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4KxJ7j9BwYixs6wPSIBrkWKOHM.jpg" group-title="F • Romance",Só Você - 1994
+http://tvget.live:80/movie/epg/epg/1103260.
+#EXTINF:-1 tvg-id="" tvg-name="Sob o Sol da Toscana - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mgq5I7JfiXo8vYz1Br1GrtbNhf.jpg" group-title="F • Romance",Sob o Sol da Toscana - 2003
+http://tvget.live:80/movie/epg/epg/1103261.
+#EXTINF:-1 tvg-id="" tvg-name="Step Up - 2006" tvg-logo="http://urlon.me/ZNd" group-title="F • Romance",Step Up - 2006
+http://tvget.live:80/movie/epg/epg/1103262.
+#EXTINF:-1 tvg-id="" tvg-name="Táticas do Amor - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96EnxT3dsE1Aob6CZOM5WWCt8bI.jpg" group-title="F • Romance",Táticas do Amor - 2022
+http://tvget.live:80/movie/epg/epg/1103263.
+#EXTINF:-1 tvg-id="" tvg-name="Teste de Paternidade - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/joeII71XIntnoevbG7F6o5y1wg1.jpg" group-title="F • Romance",Teste de Paternidade - 2020
+http://tvget.live:80/movie/epg/epg/1103264.
+#EXTINF:-1 tvg-id="" tvg-name="The Lost Husband - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIYB3G0lCHfkENOqmSI9tkRlJ3F.jpg" group-title="F • Romance",The Lost Husband - 2020
+http://tvget.live:80/movie/epg/epg/1103265.
+#EXTINF:-1 tvg-id="" tvg-name="The Souvenir - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zHJpxzyfRqBmTbYEicjPZxD1Ny.jpg" group-title="F • Romance",The Souvenir - 2019
+http://tvget.live:80/movie/epg/epg/1103266.
+#EXTINF:-1 tvg-id="" tvg-name="Time Is Up - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxWHyMY4HoXH8LiEhYlga2OtK5B.jpg" group-title="F • Romance",Time Is Up - 2021
+http://tvget.live:80/movie/epg/epg/1103267.
+#EXTINF:-1 tvg-id="" tvg-name="Titanic - 1997" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwRgiAjXREMbfr270MDZ73kQqIf.jpg" group-title="F • Romance",Titanic - 1997
+http://tvget.live:80/movie/epg/epg/1103268.
+#EXTINF:-1 tvg-id="" tvg-name="Todo Dia - 2018" tvg-logo="http://urlon.me/ZNg" group-title="F • Romance",Todo Dia - 2018
+http://tvget.live:80/movie/epg/epg/1103269.
+#EXTINF:-1 tvg-id="" tvg-name="Traição e Desejo - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAw0ayzQT6eIaiLGd1HD17WkOmw.jpg" group-title="F • Romance",Traição e Desejo - 2022
+http://tvget.live:80/movie/epg/epg/1103270.
+#EXTINF:-1 tvg-id="" tvg-name="Tratamento de Realeza - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4myCGDieVwB9YSli5iFYiHBPNm.jpg" group-title="F • Romance",Tratamento de Realeza - 2022
+http://tvget.live:80/movie/epg/epg/1103271.
+#EXTINF:-1 tvg-id="" tvg-name="Tudo Para Ficar Com Ele - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzoZlFQAfleU2YhAI36RgL9r1jh.jpg" group-title="F • Romance",Tudo Para Ficar Com Ele - 2002
+http://tvget.live:80/movie/epg/epg/1103272.
+#EXTINF:-1 tvg-id="" tvg-name="Um Amor Após a Vida - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mOuZrL4q1swV7sWPzTxZGgNzfK.jpg" group-title="F • Romance",Um Amor Após a Vida - 2021
+http://tvget.live:80/movie/epg/epg/1103273.
+#EXTINF:-1 tvg-id="" tvg-name="Um Amor para Recordar - 2002" tvg-logo="http://urlon.me/ZaE" group-title="F • Romance",Um Amor para Recordar - 2002
+http://tvget.live:80/movie/epg/epg/1103274.
+#EXTINF:-1 tvg-id="" tvg-name="Um Casal Inseparável - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MPErguIUg7eYDGSG0wJKvtVeOo.jpg" group-title="F • Romance",Um Casal Inseparável - 2021
+http://tvget.live:80/movie/epg/epg/1103275.
+#EXTINF:-1 tvg-id="" tvg-name="Um Casal Quase Perfeito - 1992" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igDiLvOjYOGDApYpuW0eq65e0kV.jpg" group-title="F • Romance",Um Casal Quase Perfeito - 1992
+http://tvget.live:80/movie/epg/epg/1103276.
+#EXTINF:-1 tvg-id="" tvg-name="Um Casal Quase Perfeito 2 - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtlJhKfES6zloJntAUbmU9J97rf.jpg" group-title="F • Romance",Um Casal Quase Perfeito 2 - 2006
+http://tvget.live:80/movie/epg/epg/1103277.
+#EXTINF:-1 tvg-id="" tvg-name="Um Casal Quase Perfeito 3 - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDOrR5QoO29devdsZHosRbNr4Oh.jpg" group-title="F • Romance",Um Casal Quase Perfeito 3 - 2008
+http://tvget.live:80/movie/epg/epg/1103278.
+#EXTINF:-1 tvg-id="" tvg-name="Um Conto de Fadas nas Montanhas - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rT8CpN58v9Wu9BSbkO1gSLN6IzH.jpg" group-title="F • Romance",Um Conto de Fadas nas Montanhas - 2018
+http://tvget.live:80/movie/epg/epg/1103279.
+#EXTINF:-1 tvg-id="" tvg-name="Um Dia - 2011 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyKA5fXo3NPp9YAEiNBou9yxz4v.jpg" group-title="F • Romance",Um Dia - 2011 
+http://tvget.live:80/movie/epg/epg/1103280.
+#EXTINF:-1 tvg-id="" tvg-name="Um Fim de Semana Prolongado - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiqc31USBF9k0RpytlcMkPmD5tv.jpg" group-title="F • Romance",Um Fim de Semana Prolongado - 2021
+http://tvget.live:80/movie/epg/epg/1103281.
+#EXTINF:-1 tvg-id="" tvg-name="Um Grande Garoto - 2002" tvg-logo="http://urlon.me/ZaL" group-title="F • Romance",Um Grande Garoto - 2002
+http://tvget.live:80/movie/epg/epg/1103282.
+#EXTINF:-1 tvg-id="" tvg-name="Um Homem de Sorte - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1Fc5IPLbOsGidnudNpL2RTVoKm.jpg" group-title="F • Romance",Um Homem de Sorte - 2012
+http://tvget.live:80/movie/epg/epg/1103283.
+#EXTINF:-1 tvg-id="" tvg-name="Um Lugar Chamado Notting Hill - 1999" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jiqJDogqlyveqlwV8ZijO5FoMQ4.jpg" group-title="F • Romance",Um Lugar Chamado Notting Hill - 1999
+http://tvget.live:80/movie/epg/epg/1103284.
+#EXTINF:-1 tvg-id="" tvg-name="Um Match Surpresa - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VoTb0s7nbCeotnDU27hBk9Olt9.jpg" group-title="F • Romance",Um Match Surpresa - 2021
+http://tvget.live:80/movie/epg/epg/1103285.
+#EXTINF:-1 tvg-id="" tvg-name="Um Reino Unido - 2016" tvg-logo="http://urlon.me/Zao" group-title="F • Romance",Um Reino Unido - 2016
+http://tvget.live:80/movie/epg/epg/1103286.
+#EXTINF:-1 tvg-id="" tvg-name="Um Romance nas Entrelinhas - 2019" tvg-logo="http://urlon.me/ZgY1uw" group-title="F • Romance",Um Romance nas Entrelinhas - 2019
+http://tvget.live:80/movie/epg/epg/1103287.
+#EXTINF:-1 tvg-id="" tvg-name="Uma Festa no Ar - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48hcA0oSX7DmMrS8zaLVD3k8Pe7.jpg" group-title="F • Romance",Uma Festa no Ar - 2004
+http://tvget.live:80/movie/epg/epg/1103288.
+#EXTINF:-1 tvg-id="" tvg-name="Uma Linda Mulher  - 1990" tvg-logo="http://urlon.me/Zaa" group-title="F • Romance",Uma Linda Mulher  - 1990
+http://tvget.live:80/movie/epg/epg/1103289.
+#EXTINF:-1 tvg-id="" tvg-name="Uma Noiva em Apuros - 2018" tvg-logo="http://urlon.me/ZgYYVm" group-title="F • Romance",Uma Noiva em Apuros - 2018
+http://tvget.live:80/movie/epg/epg/1103290.
+#EXTINF:-1 tvg-id="" tvg-name="Uma Nova Chance - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nXi2g6nMKiYq10UXYOGLVqoDVz.jpg" group-title="F • Romance",Uma Nova Chance - 2018
+http://tvget.live:80/movie/epg/epg/1103291.
+#EXTINF:-1 tvg-id="" tvg-name="Uma Segunda  Chance Para Amar - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vqkt1bZF5gDmID60jzhEip2WrL.jpg" group-title="F • Romance",Uma Segunda  Chance Para Amar - 2019
+http://tvget.live:80/movie/epg/epg/1103292.
+#EXTINF:-1 tvg-id="" tvg-name="Uma Sereia em Paris - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLumn0yQu3TrHKazP40TDGYpNqi.jpg" group-title="F • Romance",Uma Sereia em Paris - 2020
+http://tvget.live:80/movie/epg/epg/1103293.
+#EXTINF:-1 tvg-id="" tvg-name="Vibes: Boas Vibrações - 1988" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAT8QJquco2dGBEwqQJBLfP7wtM.jpg" group-title="F • Romance",Vibes: Boas Vibrações - 1988
+http://tvget.live:80/movie/epg/epg/1103294.
+#EXTINF:-1 tvg-id="" tvg-name="Vinterviken - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIEVgsk9art4MY1O5hxQ0uvBrzv.jpg" group-title="F • Romance",Vinterviken - 2021
+http://tvget.live:80/movie/epg/epg/1103295.
+#EXTINF:-1 tvg-id="" tvg-name="Volta Pra Mim - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nFHCL1Hpl3x0FrVDPRo1yN6hMY.jpg" group-title="F • Romance",Volta Pra Mim - 2022
+http://tvget.live:80/movie/epg/epg/1103296.
+#EXTINF:-1 tvg-id="" tvg-name="Yesterday - 2019" tvg-logo="http://urlon.me/ZgYYO0" group-title="F • Romance",Yesterday - 2019
+http://tvget.live:80/movie/epg/epg/1103297.
+#EXTINF:-1 tvg-id="" tvg-name="Zoe - 2018" tvg-logo="http://urlon.me/ZgY14E" group-title="F • Romance",Zoe - 2018
+http://tvget.live:80/movie/epg/epg/1103298.
+#EXTINF:-1 tvg-id="" tvg-name="O Guarda-Costas (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9sDwQcCBYjA5DvNqmd8m5rkBqh.jpg" group-title="F • Romance",O Guarda-Costas (1992)
+http://tvget.live:80/movie/epg/epg/1257515.
+#EXTINF:-1 tvg-id="" tvg-name="O Guarda-Costas (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9sDwQcCBYjA5DvNqmd8m5rkBqh.jpg" group-title="F • Romance",O Guarda-Costas (1992)
+http://tvget.live:80/movie/epg/epg/1361355.
+#EXTINF:-1 tvg-id="" tvg-name="A Corrente do Bem (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9SdXO13Jws7HZcu7D4pvDW2uEb.jpg" group-title="F • Romance",A Corrente do Bem (2000)
+http://tvget.live:80/movie/epg/epg/1392093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Eterna Namorada (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rj84tKLr53MgahO7toWVxBqMMDI.jpg" group-title="F • Romance",A Eterna Namorada (2014)
+http://tvget.live:80/movie/epg/epg/1392094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batida Perfeita (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmBTeTQFVLrhqErx8Nen0QiL3Mm.jpg" group-title="F • Romance",A Batida Perfeita (2020)
+http://tvget.live:80/movie/epg/epg/1392095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cinco Passos de Você (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svEfirPJf0mBypK9UyrpLpu5xkf.jpg" group-title="F • Romance",A Cinco Passos de Você (2019)
+http://tvget.live:80/movie/epg/epg/1392096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 Coisas Que Eu Odeio em Você (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WImK7UIRY7fZ0l9UwnxbP74w1p.jpg" group-title="F • Romance",10 Coisas Que Eu Odeio em Você (1999)
+http://tvget.live:80/movie/epg/epg/1392097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Extraordinária Garota Chamada Estrela (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYvD1TZfGF2RHe1078MULl78nsV.jpg" group-title="F • Romance",A Extraordinária Garota Chamada Estrela (2020)
+http://tvget.live:80/movie/epg/epg/1392098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Culpa é das Estrelas (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lW1HA1JqXxKp1x5eSzEqTNxfIgA.jpg" group-title="F • Romance",A Culpa é das Estrelas (2014)
+http://tvget.live:80/movie/epg/epg/1392099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="100 Dias para o Natal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imU6zKtkhcH49Ph4Etx7Np2w7nv.jpg" group-title="F • Romance",100 Dias para o Natal (2021)
+http://tvget.live:80/movie/epg/epg/1392100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Felicidade Mora ao Lado (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pM7goQohLEojWhS94SijerhFuDJ.jpg" group-title="F • Romance",A Felicidade Mora ao Lado (2018)
+http://tvget.live:80/movie/epg/epg/1392101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Garota dos Meus Sonhos (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3s7FCTHkqRceySQmwPPpyV0yiD4.jpg" group-title="F • Romance",A Garota dos Meus Sonhos (2006)
+http://tvget.live:80/movie/epg/epg/1392102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Barraca do Beijo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TbFTREtgpTOMpxQ5ZJjiZIlVS1.jpg" group-title="F • Romance",A Barraca do Beijo (2018)
+http://tvget.live:80/movie/epg/epg/1392103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="14 Cartas de Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JnnqQJdCoysMCumqfVKDQ0G7Yj.jpg" group-title="F • Romance",14 Cartas de Amor (2022)
+http://tvget.live:80/movie/epg/epg/1392104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="8 Segundos (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spR7fNK7vzp8uhPakXsFHbF9uKf.jpg" group-title="F • Romance",8 Segundos (1994)
+http://tvget.live:80/movie/epg/epg/1392105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A escolha (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCXX5MpRz9V7VDAqMGQd7jyHwVp.jpg" group-title="F • Romance",A escolha (2011)
+http://tvget.live:80/movie/epg/epg/1392106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dama de Vermelho (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CCvGclc8YmOmdoAqjCUda0LnQK.jpg" group-title="F • Romance",A Dama de Vermelho (1984)
+http://tvget.live:80/movie/epg/epg/1392107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa do Lago (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1zBa52Qmc7TH00JthRr5WnDJIT.jpg" group-title="F • Romance",A Casa do Lago (2006)
+http://tvget.live:80/movie/epg/epg/1392108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Força do Destino (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsTGLfdCiCH9y9e0JXCbp3IIpuE.jpg" group-title="F • Romance",A Força do Destino (1982)
+http://tvget.live:80/movie/epg/epg/1392109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="365 Dias: Hoje (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3104lH1U1XfUXo0ZLawnIjXS0NC.jpg" group-title="F • Romance",365 Dias: Hoje (2022)
+http://tvget.live:80/movie/epg/epg/1392110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Descoberta (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgLyPfWHkmt8v8ulz04NL2FFHQ4.jpg" group-title="F • Romance",A Descoberta (2017)
+http://tvget.live:80/movie/epg/epg/1392111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="72 Horas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nToxNOxfRZONNTSoKHIVWWqRNTR.jpg" group-title="F • Romance",72 Horas (2010)
+http://tvget.live:80/movie/epg/epg/1392112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Forma da Água (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHPFq7myTjAVH6CwQjamAuUqhrr.jpg" group-title="F • Romance",A Forma da Água (2017)
+http://tvget.live:80/movie/epg/epg/1392113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Nossa Canção de Amor (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4oB9RjC73pLN3eZKZzDWQ29748W.jpg" group-title="F • Romance",A Nossa Canção de Amor (2020)
+http://tvget.live:80/movie/epg/epg/1392114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fotografia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvYG779bmPFwZMqSQo4NmbFeqoG.jpg" group-title="F • Romance",A Fotografia (2020)
+http://tvget.live:80/movie/epg/epg/1392115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(Des)encontro Perfeito (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMyCHKgaTDub1UgzQOZ6r60YdcO.jpg" group-title="F • Romance",(Des)encontro Perfeito (2015)
+http://tvget.live:80/movie/epg/epg/1392116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Criada (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB1Y9NmR9hAVRTAUqstpTrMvKuU.jpg" group-title="F • Romance",A Criada (2016)
+http://tvget.live:80/movie/epg/epg/1392117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="365 Dias Finais (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pxKwxMbd5l3BxK5fBgVCWYweH2.jpg" group-title="F • Romance",365 Dias Finais (2022)
+http://tvget.live:80/movie/epg/epg/1392118.mp4
