@@ -1,1 +1,645 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="A Bailarina (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrL3C3YPiuFchLgQVYSlYZyx15G.jpg" group-title="F • Lançamentos",A Bailarina (2023)
+http://tvget.live:80/movie/epg/epg/1384230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Noite Sombria (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzePP5O9smcQ7QKdKa6jZauby5D.jpg" group-title="F • Lançamentos",Uma Noite Sombria (2022)
+http://tvget.live:80/movie/epg/epg/1391648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desapega! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0aRBdFnIi1MZbsW7QTZvRHcpo3.jpg" group-title="F • Lançamentos",Desapega! (2023)
+http://tvget.live:80/movie/epg/epg/1391649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sorria" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFTbo4BdH9CggxMci8W4qmtHw5e.jpg" group-title="F • Lançamentos",Sorria
+http://tvget.live:80/movie/epg/epg/1391650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Belo Desastre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNIadSJbxQ0p0DtJLUPfVW6TAEu.jpg" group-title="F • Lançamentos",Belo Desastre (2023)
+http://tvget.live:80/movie/epg/epg/1391651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez Carnaval (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efviGPGyWf5H1Pupa18dYvBHHgI.jpg" group-title="F • Lançamentos",Era Uma Vez Carnaval (2023)
+http://tvget.live:80/movie/epg/epg/1391652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor² para Sempre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cD67jLjJcPKFyIRlyLmECyENrz6.jpg" group-title="F • Lançamentos",Amor² para Sempre (2023)
+http://tvget.live:80/movie/epg/epg/1391653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tin & Tina (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg" group-title="F • Lançamentos",Tin & Tina (2023)
+http://tvget.live:80/movie/epg/epg/1391654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colheita Sombria (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeePA5kvAt5swaBAi3YLJjLDHHz.jpg" group-title="F • Lançamentos",Colheita Sombria (2023)
+http://tvget.live:80/movie/epg/epg/1391655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elena (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRnXq34JXMXTsqrpctgYjp1cKM0.jpg" group-title="F • Lançamentos",Elena (2013)
+http://tvget.live:80/movie/epg/epg/1391656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Filmes Lancamentos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRnXq34JXMXTsqrpctgYjp1cKM0.jpg" group-title="F • Lançamentos",Filmes Lancamentos
+http://tvget.live:80/movie/epg/epg/1393058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Natal com Você (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rU2sCry1YzuBoeMj06eWqTfponC.jpg" group-title="F • Lançamentos",Natal com Você (2022)
+http://tvget.live:80/movie/epg/epg/1391658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até os Ossos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0dCPc9J2R6wnoO9Joxz6ot703g.jpg" group-title="F • Lançamentos",Até os Ossos (2022)
+http://tvget.live:80/movie/epg/epg/1391659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Rio Muito Frio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jSGDVXQmEhLL4A1vrUCFG2Xmtd.jpg" group-title="F • Lançamentos",Um Rio Muito Frio (2022)
+http://tvget.live:80/movie/epg/epg/1391660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depois do Universo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jv8PbopI3r3p0HrQJbLYcOzFHle.jpg" group-title="F • Lançamentos",Depois do Universo (2022)
+http://tvget.live:80/movie/epg/epg/1391661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Busca do Enfermeiro da Noite (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LyrqFX0yHVutUt1U5SsefF0i7A.jpg" group-title="F • Lançamentos",Em Busca do Enfermeiro da Noite (2022)
+http://tvget.live:80/movie/epg/epg/1391662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Confie em Ninguém: A Caça ao Rei da Criptomoeda (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3AAwPDZ2xGK0fER5ie2GpbodxU.jpg" group-title="F • Lançamentos",Não Confie em Ninguém: A Caça ao Rei da Criptomoeda (2022)
+http://tvget.live:80/movie/epg/epg/1391663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excluídos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3nvKg5Ntog0VeWsBqCysxfNNFL.jpg" group-title="F • Lançamentos",Excluídos (2023)
+http://tvget.live:80/movie/epg/epg/1391664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Varig: A Caixa-Preta do Brasil (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HEADpGkr12fXev9TPsUDOQfttS.jpg" group-title="F • Lançamentos",Varig: A Caixa-Preta do Brasil (2022)
+http://tvget.live:80/movie/epg/epg/1391665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sutil Arte de Ligar o F*da-se (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRRXELIL5G2L8SqrpZEEQF6MfwZ.jpg" group-title="F • Lançamentos",A Sutil Arte de Ligar o F*da-se (2023)
+http://tvget.live:80/movie/epg/epg/1391666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Primeira Comunhão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdI2MkMriHeay5AKUytfnW8oGct.jpg" group-title="F • Lançamentos",A Primeira Comunhão (2023)
+http://tvget.live:80/movie/epg/epg/1391667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encomenda para o Natal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mV4WRHGMYjMSL7G7r9PbVGQcxs.jpg" group-title="F • Lançamentos",Encomenda para o Natal (2022)
+http://tvget.live:80/movie/epg/epg/1391668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Tirar o Fôlego (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmIXPqjZl50UP2dbglEKDfOOBZV.jpg" group-title="F • Lançamentos",De Tirar o Fôlego (2023)
+http://tvget.live:80/movie/epg/epg/1391669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rock Dog: Uma Batida Animal (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q69N7l4ioEqs5Tlz7lH61DL01eh.jpg" group-title="F • Lançamentos",Rock Dog: Uma Batida Animal (2023)
+http://tvget.live:80/movie/epg/epg/1391670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor ao Primeiro Beijo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKBWGgsUCjoc5x3zdQuJUvozqKh.jpg" group-title="F • Lançamentos",Amor ao Primeiro Beijo (2023)
+http://tvget.live:80/movie/epg/epg/1391671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Racionais: Das Ruas de São Paulo Pro Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRsRonH875t4CU7wFpDCqCPQ9Qz.jpg" group-title="F • Lançamentos",Racionais: Das Ruas de São Paulo Pro Mundo (2022)
+http://tvget.live:80/movie/epg/epg/1391672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Feitiçaria (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99wdStgFDTnrPbgpBt29lI87vai.jpg" group-title="F • Lançamentos",Feitiçaria (2023)
+http://tvget.live:80/movie/epg/epg/1391673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conferência Mortal (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGaXnZmSpEKlg16e6PNxWga3UJL.jpg" group-title="F • Lançamentos",Conferência Mortal (2023)
+http://tvget.live:80/movie/epg/epg/1391674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Lobo Viking (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWfa1uahpIXlNkv7AMEvQt4VMde.jpg" group-title="F • Lançamentos",O Lobo Viking (2022)
+http://tvget.live:80/movie/epg/epg/1391675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte do Demônio: A Ascensão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5E4nVa3dXTHG2zx9iO7b0UIMsa7.jpg" group-title="F • Lançamentos",A Morte do Demônio: A Ascensão (2023)
+http://tvget.live:80/movie/epg/epg/1391676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez um Gênio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1zL4hVb4Ngg02VVxllBDT048Nn.jpg" group-title="F • Lançamentos",Era Uma Vez um Gênio (2022)
+http://tvget.live:80/movie/epg/epg/1391677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Novos Ricos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfEuk5VdwaDN4UAGBPqUwZWAteg.jpg" group-title="F • Lançamentos",Novos Ricos (2023)
+http://tvget.live:80/movie/epg/epg/1391678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raiva (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5PVWuZsELdOkQqAtZqsyRtWRPPe.jpg" group-title="F • Lançamentos",Raiva (2018)
+http://tvget.live:80/movie/epg/epg/1391679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mato Seco em Chamas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6SjVRKBe0IjMzVduyL035oyGPJ.jpg" group-title="F • Lançamentos",Mato Seco em Chamas (2023)
+http://tvget.live:80/movie/epg/epg/1391680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Elefanta do Mágico (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7weieVLynnkcFqOWA5WAmjffNB.jpg" group-title="F • Lançamentos",A Elefanta do Mágico (2023)
+http://tvget.live:80/movie/epg/epg/1391681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Jaula (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hl4vdf2QdKRMg5cU0CIO3eydg.jpg" group-title="F • Lançamentos",A Jaula (2022)
+http://tvget.live:80/movie/epg/epg/1391682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Dia das Mães Nada Tradicional (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j741ip55NOzabrllOXHJv2vpag7.jpg" group-title="F • Lançamentos",Um Dia das Mães Nada Tradicional (2023)
+http://tvget.live:80/movie/epg/epg/1391683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sharper: Uma Vida de Trapaças (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkvg5RbmDcLMfu5gfJHhMqdWBpK.jpg" group-title="F • Lançamentos",Sharper: Uma Vida de Trapaças (2023)
+http://tvget.live:80/movie/epg/epg/1391684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CASTELO (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3cNB16dDqgTb3Zo4iXuGwAfcDO.jpg" group-title="F • Lançamentos",CASTELO (2022)
+http://tvget.live:80/movie/epg/epg/1391685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Através da Minha Janela: Além-mar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/252wEUZ6lr4a5sF7DUzRRH3iGEO.jpg" group-title="F • Lançamentos",Através da Minha Janela: Além-mar (2023)
+http://tvget.live:80/movie/epg/epg/1391686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Palma da Mão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6mwigYytOx5ksy1NLnEuq0mUAM.jpg" group-title="F • Lançamentos",Na Palma da Mão (2023)
+http://tvget.live:80/movie/epg/epg/1391687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fervo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JbBC6B5DYu9228ORuc3A9i7Wsz.jpg" group-title="F • Lançamentos",Fervo (2023)
+http://tvget.live:80/movie/epg/epg/1391688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jack Osbourne: Em Busca dos Óvnis (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DESAF0DIpMxAjQpqkSeOmi70tu.jpg" group-title="F • Lançamentos",Jack Osbourne: Em Busca dos Óvnis (2022)
+http://tvget.live:80/movie/epg/epg/1391689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ressurreição do Mal (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7q6OFowMWFABPY7fyJMuHI0upBj.jpg" group-title="F • Lançamentos",Ressurreição do Mal (2023)
+http://tvget.live:80/movie/epg/epg/1391690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conspiração Fatal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpj3nNoc5xaUZTIdnuhwXwUcRag.jpg" group-title="F • Lançamentos",Conspiração Fatal (2022)
+http://tvget.live:80/movie/epg/epg/1391691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tango (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oM3xEOBJl1dNwqScmnZ9M9tBXSg.jpg" group-title="F • Lançamentos",Tango (1998)
+http://tvget.live:80/movie/epg/epg/1391692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Visitas Extraterrestres (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mC0GjHcnrkQRVBmHEVd54dGV1m0.jpg" group-title="F • Lançamentos",Visitas Extraterrestres (2022)
+http://tvget.live:80/movie/epg/epg/1391693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gêmeo Maligno (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgtdTpz7eVIQy6e3rxOWyQmezFi.jpg" group-title="F • Lançamentos",Gêmeo Maligno (2022)
+http://tvget.live:80/movie/epg/epg/1391694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Diabo no Tribunal (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZxFx9aQkZyd2SbxKt59x8WooPQ.jpg" group-title="F • Lançamentos",O Diabo no Tribunal (2023)
+http://tvget.live:80/movie/epg/epg/1391695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor em Foco (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiKXokniuqAwhVZjLhIGJhXIKzk.jpg" group-title="F • Lançamentos",Amor em Foco (2023)
+http://tvget.live:80/movie/epg/epg/1391696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terror nas Profundezas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZZFTMqbQaP59yGTqKOcfqVE7NC.jpg" group-title="F • Lançamentos",Terror nas Profundezas (2023)
+http://tvget.live:80/movie/epg/epg/1391697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Destino (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4HxxjQNLAEskd8RL413beTK23Y.jpg" group-title="F • Lançamentos",Destino (2003)
+http://tvget.live:80/movie/epg/epg/1391698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural: A Porta Vermelha (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lp4uDxLqLEw1CzW1SUOYJ3zdKD.jpg" group-title="F • Lançamentos",Sobrenatural: A Porta Vermelha (2023)
+http://tvget.live:80/movie/epg/epg/1391699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Orgulho e Preconceito: Tornando-se Elizabeth Bennet (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxznJhZRFvxDMzy8tLGv5Eitdw9.jpg" group-title="F • Lançamentos",Orgulho e Preconceito: Tornando-se Elizabeth Bennet (2023)
+http://tvget.live:80/movie/epg/epg/1391700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pânico VI (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbd7DQCHZ57SF4tM2puHtwNxDQD.jpg" group-title="F • Lançamentos",Pânico VI (2023)
+http://tvget.live:80/movie/epg/epg/1391701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paloma (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gD4UC83SP0of6NdW71qJwy734bP.jpg" group-title="F • Lançamentos",Paloma (2022)
+http://tvget.live:80/movie/epg/epg/1391702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Vá (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVbVX28f6MvtlbwDknAUXfJjXZK.jpg" group-title="F • Lançamentos",Não Vá (2022)
+http://tvget.live:80/movie/epg/epg/1391703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vulcão Whakaari: Resgate na Nova Zelândia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSTZ7B1yn6AeTAbxKvwqOkbXKyh.jpg" group-title="F • Lançamentos",Vulcão Whakaari: Resgate na Nova Zelândia (2022)
+http://tvget.live:80/movie/epg/epg/1391704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Amor Mandou Mensagem (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3SntheUQWJysPSZGcegQj473Pq.jpg" group-title="F • Lançamentos",O Amor Mandou Mensagem (2023)
+http://tvget.live:80/movie/epg/epg/1391705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Organ Trail: Sobrevivência (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9nwiVMOVvnS2Jt6hdy7UHoFSD0.jpg" group-title="F • Lançamentos",Organ Trail: Sobrevivência (2023)
+http://tvget.live:80/movie/epg/epg/1391706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa da Morte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pkdudkxnK3mBlH3thy3FL7BN0Z.jpg" group-title="F • Lançamentos",A Casa da Morte (2022)
+http://tvget.live:80/movie/epg/epg/1391707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor em Águas Turvas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oABVKUveQbAPaQtzG3M3QevBg0D.jpg" group-title="F • Lançamentos",Amor em Águas Turvas (2023)
+http://tvget.live:80/movie/epg/epg/1391708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nix: A Entidade (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57NX3hO40PrxBQerdT7sFBFfS8a.jpg" group-title="F • Lançamentos",Nix: A Entidade (2022)
+http://tvget.live:80/movie/epg/epg/1391709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hellraiser: Renascido do Inferno (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7xsVuRx5BZGlTvIalYPYBHbe9n.jpg" group-title="F • Lançamentos",Hellraiser: Renascido do Inferno (2022)
+http://tvget.live:80/movie/epg/epg/1391710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Para Sempre Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yuIsVUUQHvOc5UH5R0pVcXVUTX0.jpg" group-title="F • Lançamentos",Para Sempre Amor (2022)
+http://tvget.live:80/movie/epg/epg/1391711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seis Graus de Papai Noel (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPCeLI37N0afyJb0LMxywmbXYyi.jpg" group-title="F • Lançamentos",Seis Graus de Papai Noel (2022)
+http://tvget.live:80/movie/epg/epg/1391712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Profecia do Mal (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIy8rzFTCFlEbW8L8tZ9ar81l6o.jpg" group-title="F • Lançamentos",A Profecia do Mal (2023)
+http://tvget.live:80/movie/epg/epg/1391713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Isabella: o Caso Nardoni (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53pmHd5XialRnoTXlLwwBaezEOs.jpg" group-title="F • Lançamentos",Isabella: o Caso Nardoni (2023)
+http://tvget.live:80/movie/epg/epg/1391714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transversais (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SOT9FbmPna3z7ve8u9LgbF264p.jpg" group-title="F • Lançamentos",Transversais (2022)
+http://tvget.live:80/movie/epg/epg/1391715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rei dos Clones (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJAF2h2iLLCpKUocEnoJz7wKtWq.jpg" group-title="F • Lançamentos",O Rei dos Clones (2023)
+http://tvget.live:80/movie/epg/epg/1391716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Monastério (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3retN9fNG3fXJlUjasDsyfZqT7T.jpg" group-title="F • Lançamentos",O Monastério (2022)
+http://tvget.live:80/movie/epg/epg/1391717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Matriarca (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o57VVZImE6RcZAffPepZyuwNLKs.jpg" group-title="F • Lançamentos",A Matriarca (2022)
+http://tvget.live:80/movie/epg/epg/1391718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Entre Amigos: O Casamento (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFnUfJdTpLX9fQMNOiO5BKijaQb.jpg" group-title="F • Lançamentos",Amor Entre Amigos: O Casamento (2023)
+http://tvget.live:80/movie/epg/epg/1391719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sly (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1utWajLPvv1R9ZwkD98s2ZEngS.jpg" group-title="F • Lançamentos",Sly (2023)
+http://tvget.live:80/movie/epg/epg/1391720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Sonho (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRBUJX9a0gZzZ8KQIJ41CzJeErW.jpg" group-title="F • Lançamentos",Nosso Sonho (2023)
+http://tvget.live:80/movie/epg/epg/1391721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duas Bruxas: A Herança Diabólica (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roIvnwBdGyiE1Yc8KYA9XZXhOXF.jpg" group-title="F • Lançamentos",Duas Bruxas: A Herança Diabólica (2023)
+http://tvget.live:80/movie/epg/epg/1391722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ressurreição da Múmia (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIrJYG0ffdbkR0f0a6slVLXOnjQ.jpg" group-title="F • Lançamentos",A Ressurreição da Múmia (2023)
+http://tvget.live:80/movie/epg/epg/1391723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Já Estou Te Vendo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOPgbD5xTjbRCcGAJ6k3rQJk11O.jpg" group-title="F • Lançamentos",Já Estou Te Vendo (2023)
+http://tvget.live:80/movie/epg/epg/1391724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Você Não Estará Só! (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aqj4qpubd5GKfZho6KUBFEBzMtU.jpg" group-title="F • Lançamentos",Você Não Estará Só! (2022)
+http://tvget.live:80/movie/epg/epg/1391725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Felicidade para Principiantes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sejOOSFyqNd2KHWo9s3FiP7JCTv.jpg" group-title="F • Lançamentos",Felicidade para Principiantes (2023)
+http://tvget.live:80/movie/epg/epg/1391726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Face Oculta do Feminismo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXjBoRHtOEFChA13YCPUrGRXWKD.jpg" group-title="F • Lançamentos",A Face Oculta do Feminismo (2022)
+http://tvget.live:80/movie/epg/epg/1391727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shark Below Zero (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1UAwMeuBXVluMNCJ4EYqFfy52E.jpg" group-title="F • Lançamentos",Shark Below Zero (2023)
+http://tvget.live:80/movie/epg/epg/1391728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tic-Tac: A Maternidade do Mal (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpKHaXmAeiVaV1FQVIWStyg0Cws.jpg" group-title="F • Lançamentos",Tic-Tac: A Maternidade do Mal (2023)
+http://tvget.live:80/movie/epg/epg/1391729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor(es) Verdadeiro(s) (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1FnsCD8H3p2YiYkWc1MZNspoLj.jpg" group-title="F • Lançamentos",Amor(es) Verdadeiro(s) (2023)
+http://tvget.live:80/movie/epg/epg/1391730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ONEFOUR: Contra Tudo e Contra Todos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyGwp6crW97VwexQWuUVmC4CcSO.jpg" group-title="F • Lançamentos",ONEFOUR: Contra Tudo e Contra Todos (2023)
+http://tvget.live:80/movie/epg/epg/1391731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Natal Outra Vez? (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8cbfqsFcXBgoJhnsajx9tMTpTp.jpg" group-title="F • Lançamentos",Natal Outra Vez? (2022)
+http://tvget.live:80/movie/epg/epg/1391732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="River Wild (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fffPeOw5Ld8CrI8X9X36wMSzXuX.jpg" group-title="F • Lançamentos",River Wild (2023)
+http://tvget.live:80/movie/epg/epg/1391733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Croc! (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4Xq3M0NMAimB95tgGLblTeVThn.jpg" group-title="F • Lançamentos",Croc! (2022)
+http://tvget.live:80/movie/epg/epg/1391734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Demônio dos Mares (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/873A55IZrwEP98hn82EGdS0xv0N.jpg" group-title="F • Lançamentos",O Demônio dos Mares (2023)
+http://tvget.live:80/movie/epg/epg/1391735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Retratos Fantasmas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmscUBnrI9KrwdxdmvpOYAo8dBp.jpg" group-title="F • Lançamentos",Retratos Fantasmas (2023)
+http://tvget.live:80/movie/epg/epg/1391736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pornhub: Sexo Bilionário (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ae9ooWLtS4LEsSBCUvaFkrrxqiH.jpg" group-title="F • Lançamentos",Pornhub: Sexo Bilionário (2023)
+http://tvget.live:80/movie/epg/epg/1391737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disco Inferno (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mqlHnsj2l7NkXbmu7ZXcVvP8uda.jpg" group-title="F • Lançamentos",Disco Inferno (2023)
+http://tvget.live:80/movie/epg/epg/1391738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LUPIN III vs. CAT’S EYE (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jY1Wgdi2vL5Xltpx37LvH0iAOCG.jpg" group-title="F • Lançamentos",LUPIN III vs. CAT’S EYE (2023)
+http://tvget.live:80/movie/epg/epg/1391739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boogeyman: Seu Medo é Real (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qf4l5Ph8WOSxSxYBm8zeOuaXOk3.jpg" group-title="F • Lançamentos",Boogeyman: Seu Medo é Real (2023)
+http://tvget.live:80/movie/epg/epg/1391740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nos Vemos Em Vênus (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAhxlttDRAoJlP0IL1li460cMt3.jpg" group-title="F • Lançamentos",Nos Vemos Em Vênus (2023)
+http://tvget.live:80/movie/epg/epg/1391741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Movimento de Jesus (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m96gOrdyL5jC3u3Znaqq4AG1V8T.jpg" group-title="F • Lançamentos",Movimento de Jesus (2023)
+http://tvget.live:80/movie/epg/epg/1391742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pureza (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJkzHr7j1snbHmUjsBtwX6akFA0.jpg" group-title="F • Lançamentos",Pureza (2022)
+http://tvget.live:80/movie/epg/epg/1391743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bem-Vinda a Quixeramobim (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vdr6W7bs8LJMOGgwIJiAQUfG3Q.jpg" group-title="F • Lançamentos",Bem-Vinda a Quixeramobim (2022)
+http://tvget.live:80/movie/epg/epg/1392123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Whindersson Nunes: Adulto (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oilvqcZDNXpneiouCZEY2qZXmwp.jpg" group-title="F • Lançamentos",Whindersson Nunes: Adulto (2019)
+http://tvget.live:80/movie/epg/epg/1391744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Piscina Infinita (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwhmoL0yvjV9BDsDStGJ79cf95Q.jpg" group-title="F • Lançamentos",Piscina Infinita (2023)
+http://tvget.live:80/movie/epg/epg/1391745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chic Show (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8MugCY7WP3eXTIWM574ncrr8WKr.jpg" group-title="F • Lançamentos",Chic Show (2023)
+http://tvget.live:80/movie/epg/epg/1391746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Distrito 666 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXeSqzojUZ4exuCp5Mpo4o308PM.jpg" group-title="F • Lançamentos",Distrito 666 (2022)
+http://tvget.live:80/movie/epg/epg/1391747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor à Primeira Vista (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3a13ifmIiOsgKoQpOpDfsWCx4Qh.jpg" group-title="F • Lançamentos",Amor à Primeira Vista (2023)
+http://tvget.live:80/movie/epg/epg/1391748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Porta Amarela: O Cineclube dos Anos 90 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znlWjvwrcSOcP3P43zvZLkAusys.jpg" group-title="F • Lançamentos",Porta Amarela: O Cineclube dos Anos 90 (2023)
+http://tvget.live:80/movie/epg/epg/1391749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manta de granizo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSrmGlOrCXD3cPEqTJsjd0UWKMj.jpg" group-title="F • Lançamentos",Manta de granizo (2023)
+http://tvget.live:80/movie/epg/epg/1391750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Suas Mãos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTd3gRGk8a0rtHOWemdvOakVakR.jpg" group-title="F • Lançamentos",Em Suas Mãos (2022)
+http://tvget.live:80/movie/epg/epg/1391751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Filhos do Privilégio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tP7ymez7tYWs2I5rILY5Ba2npjA.jpg" group-title="F • Lançamentos",Filhos do Privilégio (2022)
+http://tvget.live:80/movie/epg/epg/1391752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raquel 1:1 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6XF9VRuLSI8PmgXzELnZHXgu5Y.jpg" group-title="F • Lançamentos",Raquel 1:1 (2023)
+http://tvget.live:80/movie/epg/epg/1391753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Explorando o Desconhecido: Robôs Assassinos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjvYHMOmeO5AQyFTymgYlSYrHdO.jpg" group-title="F • Lançamentos",Explorando o Desconhecido: Robôs Assassinos (2023)
+http://tvget.live:80/movie/epg/epg/1391754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nas Ondas da Fé (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fddUEnP5pII7U1f09pQVjw9Gv4v.jpg" group-title="F • Lançamentos",Nas Ondas da Fé (2023)
+http://tvget.live:80/movie/epg/epg/1391755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Território (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvs5n7XKXgQz5hm3Fxxpa9NuFtM.jpg" group-title="F • Lançamentos",O Território (1981)
+http://tvget.live:80/movie/epg/epg/1391756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Exorcista do Papa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ba7ks0ZaIkRLp5Zqx6KkQ3unxRr.jpg" group-title="F • Lançamentos",O Exorcista do Papa (2023)
+http://tvget.live:80/movie/epg/epg/1391757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição do Quarto 203 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVMZU956t7UASJ564shWckwFboJ.jpg" group-title="F • Lançamentos",A Maldição do Quarto 203 (2022)
+http://tvget.live:80/movie/epg/epg/1391758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Ritmo da Fé (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVWU32CuOOEuHxwEjI2NsI4WDc4.jpg" group-title="F • Lançamentos",No Ritmo da Fé (2023)
+http://tvget.live:80/movie/epg/epg/1391759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oficina do Diabo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEyYCP31dR1MpSbBIhMYRXUaFzv.jpg" group-title="F • Lançamentos",Oficina do Diabo (2023)
+http://tvget.live:80/movie/epg/epg/1391760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Suburbanos: O Filme (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wosEdGvBzt8nVLHAJ9cljfo0AEG.jpg" group-title="F • Lançamentos",Os Suburbanos: O Filme (2022)
+http://tvget.live:80/movie/epg/epg/1391761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ursinho Pooh: Sangue e Mel (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXGOLOxV0KLnzueWJPFF5tUP3Lq.jpg" group-title="F • Lançamentos",Ursinho Pooh: Sangue e Mel (2023)
+http://tvget.live:80/movie/epg/epg/1391762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nuovo Olimpo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nx8pSvAARYOLlZ2MNBlH7vW9jv.jpg" group-title="F • Lançamentos",Nuovo Olimpo (2023)
+http://tvget.live:80/movie/epg/epg/1391763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Presente da Tiffany (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIKbRDYydwXCvSWFDGu9ZooH27m.jpg" group-title="F • Lançamentos",Um Presente da Tiffany (2022)
+http://tvget.live:80/movie/epg/epg/1391764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Atirador: Missão Secreta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMAiOH7akPTEqa8X5cqXzIGIHpc.jpg" group-title="F • Lançamentos",O Atirador: Missão Secreta (2022)
+http://tvget.live:80/movie/epg/epg/1391765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Quedinha de Natal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9wwj23RF3Nqjj0EzxsDx0s2aV7.jpg" group-title="F • Lançamentos",Uma Quedinha de Natal (2022)
+http://tvget.live:80/movie/epg/epg/1391766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Irmãos por Escolha (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fN8SBoDHYT2zO1x80GhhX605WuX.jpg" group-title="F • Lançamentos",Irmãos por Escolha (2023)
+http://tvget.live:80/movie/epg/epg/1391767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tem Algo de Errado com as Crianças (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZFb1xE1D3HZl41dlpCfRZrXNdU.jpg" group-title="F • Lançamentos",Tem Algo de Errado com as Crianças (2023)
+http://tvget.live:80/movie/epg/epg/1391768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barraco de Família (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5IqNMb4IVdijcaHI3oXyM6sEhE.jpg" group-title="F • Lançamentos",Barraco de Família (2023)
+http://tvget.live:80/movie/epg/epg/1391769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Babá (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfs8vJ5TfEvKEK8OsUJzx3GriGg.jpg" group-title="F • Lançamentos",A Babá (2017)
+http://tvget.live:80/movie/epg/epg/1391770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Motivo para Lutar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5320Te725bESCpbHPX0li0VZBw.jpg" group-title="F • Lançamentos",Um Motivo para Lutar (2023)
+http://tvget.live:80/movie/epg/epg/1391771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ruído (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPQpMjv47rlshyDpT6OOEm1oAZ2.jpg" group-title="F • Lançamentos",Ruído (2022)
+http://tvget.live:80/movie/epg/epg/1391772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="45 do Segundo Tempo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmUiGNvKTDwic273opiVednbQA8.jpg" group-title="F • Lançamentos",45 do Segundo Tempo (2022)
+http://tvget.live:80/movie/epg/epg/1391773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Convento (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGNVrW2TWMz4pWHayrRinZyCZ01.jpg" group-title="F • Lançamentos",O Convento (2023)
+http://tvget.live:80/movie/epg/epg/1391774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Blackening (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooB4KSRRhp7XYRQUmsi82iFnMNC.jpg" group-title="F • Lançamentos",The Blackening (2023)
+http://tvget.live:80/movie/epg/epg/1391775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batem à Porta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94Gfu9vxUAVeL8EHc9toT9nGLkv.jpg" group-title="F • Lançamentos",Batem à Porta (2023)
+http://tvget.live:80/movie/epg/epg/1391776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor em Harmony Valley (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yKHFsqNanfJ4MyirVummOk9vM9.jpg" group-title="F • Lançamentos",Amor em Harmony Valley (2023)
+http://tvget.live:80/movie/epg/epg/1391777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardiões da Galáxia: Vol. 3 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yycSPnchdNAZirGkmCYQwTd3cr.jpg" group-title="F • Lançamentos",Guardiões da Galáxia: Vol. 3 (2023)
+http://tvget.live:80/movie/epg/epg/1391778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abandonada (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYMxY3m5P4ygVFRQ0UaS1uf8gUH.jpg" group-title="F • Lançamentos",Abandonada (2000)
+http://tvget.live:80/movie/epg/epg/1391779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toc Toc Toc (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYMxY3m5P4ygVFRQ0UaS1uf8gUH.jpg" group-title="F • Lançamentos",Toc Toc Toc (1965)
+http://tvget.live:80/movie/epg/epg/1391780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="D.P.A. e a Biblioteca Banida (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2jQ7Wtm6MNNn5J8rleBJrwSkedu.jpg" group-title="F • Lançamentos",D.P.A. e a Biblioteca Banida (2023)
+http://tvget.live:80/movie/epg/epg/1391781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Monstro que vive em Mim (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDBAZRH4YiqtOrcTwmwbjz4KsXe.jpg" group-title="F • Lançamentos",O Monstro que vive em Mim (2023)
+http://tvget.live:80/movie/epg/epg/1391782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Murilo Couto: Leso (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UMDeMLfX1Ycl0S1m4VZz0nrHsE.jpg" group-title="F • Lançamentos",Murilo Couto: Leso (2023)
+http://tvget.live:80/movie/epg/epg/1391783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Lado Bom de Ser Traída (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/boPkFKrDSUeRxc9ltZRsuVSdRkz.jpg" group-title="F • Lançamentos",O Lado Bom de Ser Traída (2023)
+http://tvget.live:80/movie/epg/epg/1391784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Método de Stutz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOiJmotRM12wsgfwiEXsp3AErdU.jpg" group-title="F • Lançamentos",O Método de Stutz (2022)
+http://tvget.live:80/movie/epg/epg/1391785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Frio nos Ossos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ttPNKyqXv3kK92tCw4zI7tjOaOn.jpg" group-title="F • Lançamentos",Frio nos Ossos (2023)
+http://tvget.live:80/movie/epg/epg/1391786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="After (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg" group-title="F • Lançamentos",After (2019)
+http://tvget.live:80/movie/epg/epg/1391787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Skinamarink: Canção de Ninar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYI9HBPxVzPZosQBJOXV2QGdcZK.jpg" group-title="F • Lançamentos",Skinamarink: Canção de Ninar (2023)
+http://tvget.live:80/movie/epg/epg/1391788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Frente A Frente (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9ksuIfwiNkF601K3GlihEEvDuh.jpg" group-title="F • Lançamentos",Frente A Frente (2022)
+http://tvget.live:80/movie/epg/epg/1391789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pânico na Floresta (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12YCnydCQxjbNTDPHkNIqUpjHMD.jpg" group-title="F • Lançamentos",Pânico na Floresta (2003)
+http://tvget.live:80/movie/epg/epg/1391790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Meet Cute (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12YCnydCQxjbNTDPHkNIqUpjHMD.jpg" group-title="F • Lançamentos",The Meet Cute (2015)
+http://tvget.live:80/movie/epg/epg/1391791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escola de Quebrada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYgRlSTnsjHqiK0z6JxBf4xAEqB.jpg" group-title="F • Lançamentos",Escola de Quebrada (2023)
+http://tvget.live:80/movie/epg/epg/1391792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Feliz Ano Nosso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qw4R9WRAmf4QkzU4XjkyBbZtGZh.jpg" group-title="F • Lançamentos",Feliz Ano Nosso (2022)
+http://tvget.live:80/movie/epg/epg/1391793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Explorando o Desconhecido: A Máquina do Tempo Cósmica (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mJkevQKSKyinWRa6XGVyluXJq8.jpg" group-title="F • Lançamentos",Explorando o Desconhecido: A Máquina do Tempo Cósmica (2023)
+http://tvget.live:80/movie/epg/epg/1391794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tinnitus (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWVCBeQDiQTxmwjuKSuui2Vzjdc.jpg" group-title="F • Lançamentos",Tinnitus (2023)
+http://tvget.live:80/movie/epg/epg/1391795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivos da Perversão: Os Abusos na Boy Scouts of America (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dP6QJ62LQL8xPqBTueXRYILJKm0.jpg" group-title="F • Lançamentos",Arquivos da Perversão: Os Abusos na Boy Scouts of America (2023)
+http://tvget.live:80/movie/epg/epg/1391796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mistério de Maya (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9niJrWHUCnPnDTrnYmVki663Esf.jpg" group-title="F • Lançamentos",O Mistério de Maya (2023)
+http://tvget.live:80/movie/epg/epg/1391797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vale dos Cangurus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5pl84OGmiTSKgZNcGF2w3S9W0DB.jpg" group-title="F • Lançamentos",Vale dos Cangurus (2022)
+http://tvget.live:80/movie/epg/epg/1391798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vila do Medo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MWZy92O30GX0HwKyVvQ8rddqGU.jpg" group-title="F • Lançamentos",Vila do Medo (2022)
+http://tvget.live:80/movie/epg/epg/1391799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conexões Perdidas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13lFLVZB5fD4Wp2NF60wh1xgGYK.jpg" group-title="F • Lançamentos",Conexões Perdidas (2023)
+http://tvget.live:80/movie/epg/epg/1391800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cartas Marcadas (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaqGHQrbA8UxOe1jbXzZRM7i9t4.jpg" group-title="F • Lançamentos",Cartas Marcadas (2000)
+http://tvget.live:80/movie/epg/epg/1391801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Culpa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a59iGvF609yAZ5tfZUoQ3XipeQH.jpg" group-title="F • Lançamentos",Minha Culpa (2023)
+http://tvget.live:80/movie/epg/epg/1391802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Certas Pessoas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49Km62y53mW1eOWSVzmPnWN01vY.jpg" group-title="F • Lançamentos",Certas Pessoas (2023)
+http://tvget.live:80/movie/epg/epg/1391803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Luz do Demônio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYa1vhjTYakyNCB65lR8Y7jujBn.jpg" group-title="F • Lançamentos",A Luz do Demônio (2022)
+http://tvget.live:80/movie/epg/epg/1391804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dama do Silêncio: La Mataviejitas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fd5B1I6riT7oze7FntN51RvTPyn.jpg" group-title="F • Lançamentos",A Dama do Silêncio: La Mataviejitas (2023)
+http://tvget.live:80/movie/epg/epg/1392129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mercy (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTgEO5EpxztlMfdiXqghh7G2UxW.jpg" group-title="F • Lançamentos",Mercy (2000)
+http://tvget.live:80/movie/epg/epg/1393065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Parte 1: A Menina do Fogo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPmGw8DOpH856QjhCfetSK9yzI5.jpg" group-title="F • Lançamentos",Rebel Moon - Parte 1: A Menina do Fogo (2023)
+http://tvget.live:80/movie/epg/epg/1393079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9z2cmIBfx99dtzj8TaSFU50AnW.jpg" group-title="F • Lançamentos",Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes (2023)
+http://tvget.live:80/movie/epg/epg/1393080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mussum: O Filmis (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olETegpIsLwrApT1ldOKIwFE8lY.jpg" group-title="F • Lançamentos",Mussum: O Filmis (2023)
+http://tvget.live:80/movie/epg/epg/1393081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perdidos na Noite (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBT4gkpdORLOrZ5lCmuwAyFjkzl.jpg" group-title="F • Lançamentos",Perdidos na Noite (2022)
+http://tvget.live:80/movie/epg/epg/1393087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bares" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBT4gkpdORLOrZ5lCmuwAyFjkzl.jpg" group-title="F • Lançamentos",Bares
+http://tvget.live:80/movie/epg/epg/1393088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bihter: Uma Paixão Proibida (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfn5p0uC7cuxQSLvBNSWWQ7Iz6j.jpg" group-title="F • Lançamentos",Bihter: Uma Paixão Proibida (2023)
+http://tvget.live:80/movie/epg/epg/1393089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Volta à Ativa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssav9soOaIzXGbqrpt3jIbe1eI1.jpg" group-title="F • Lançamentos",De Volta à Ativa (2023)
+http://tvget.live:80/movie/epg/epg/1393090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dias Difíceis (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UpMPxy0K1XFdH6OgcnWZgCbqg3.jpg" group-title="F • Lançamentos",Dias Difíceis (2023)
+http://tvget.live:80/movie/epg/epg/1393091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elena Sabe (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nm90M4WPMXk9B4xjuaQQee4YvGF.jpg" group-title="F • Lançamentos",Elena Sabe (2023)
+http://tvget.live:80/movie/epg/epg/1393092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meilleurs Colocs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nm90M4WPMXk9B4xjuaQQee4YvGF.jpg" group-title="F • Lançamentos",Meilleurs Colocs
+http://tvget.live:80/movie/epg/epg/1393093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Destino: Natal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xF3IGXQHlnMUH4aoZYghtqRb8xd.jpg" group-title="F • Lançamentos",Destino: Natal (2022)
+http://tvget.live:80/movie/epg/epg/1393094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doce Amor de Inverno (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Sp2vUXCAKvma23CUxWUW7QjShL.jpg" group-title="F • Lançamentos",Doce Amor de Inverno (2023)
+http://tvget.live:80/movie/epg/epg/1393095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doi Boy (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79Fpqtpw1bpnzAkqz2vcxplzI84.jpg" group-title="F • Lançamentos",Doi Boy (2023)
+http://tvget.live:80/movie/epg/epg/1393096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Awareness (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msgWkL23ZslTVZJRYJIng83mYny.jpg" group-title="F • Lançamentos",Awareness (2023)
+http://tvget.live:80/movie/epg/epg/1393097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Rainha da Noite (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PXnnEBhbtsUk8pK3BUz33pT3VA.jpg" group-title="F • Lançamentos",A Rainha da Noite (2023)
+http://tvget.live:80/movie/epg/epg/1393098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinos da Lua das Flores (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg" group-title="F • Lançamentos",Assassinos da Lua das Flores (2023)
+http://tvget.live:80/movie/epg/epg/1393099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boogeyman (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ks438f3Y25Bw5GnOmNNID7Rt7Mp.jpg" group-title="F • Lançamentos",Boogeyman (2012)
+http://tvget.live:80/movie/epg/epg/1393100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Castelo Rá-Tim-Bum: Reencontro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxYHEjD8Qa1tL8t5jfIfa1A7Wtq.jpg" group-title="F • Lançamentos",Castelo Rá-Tim-Bum: Reencontro (2023)
+http://tvget.live:80/movie/epg/epg/1393101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nefarious (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwjWUAajQJPj5aik1tounPguZbz.jpg" group-title="F • Lançamentos",Nefarious (2023)
+http://tvget.live:80/movie/epg/epg/1393102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: Uma Aventura no Zoológico (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c13uqs7p5cNiuLBKKHsYYNcaZ1q.jpg" group-title="F • Lançamentos",Luccas Neto em: Uma Aventura no Zoológico (2023)
+http://tvget.live:80/movie/epg/epg/1393103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trolls 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c13uqs7p5cNiuLBKKHsYYNcaZ1q.jpg" group-title="F • Lançamentos",Trolls 3
+http://tvget.live:80/movie/epg/epg/1393104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Última Chamada para Istambul (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SUs5rHpId4bxiO0r8fXFZlDvUq.jpg" group-title="F • Lançamentos",Última Chamada para Istambul (2023)
+http://tvget.live:80/movie/epg/epg/1393105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="George Foreman: Sua História (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65k7FeAQfYCUXml5vT1vvHAYJoD.jpg" group-title="F • Lançamentos",George Foreman: Sua História (2023)
+http://tvget.live:80/movie/epg/epg/1393106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Nome é Gal (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWKWDxF2oCYvl7PoShG253oIp27.jpg" group-title="F • Lançamentos",Meu Nome é Gal (2023)
+http://tvget.live:80/movie/epg/epg/1393107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paisagem com Mão Invisível (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAdpCl52gwMV3JFFRB7UXOb3AjE.jpg" group-title="F • Lançamentos",Paisagem com Mão Invisível (2023)
+http://tvget.live:80/movie/epg/epg/1393108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cara a Cara com o ETA (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUThEccecvgCERVJEUzZUBdqFO2.jpg" group-title="F • Lançamentos",Cara a Cara com o ETA (2023)
+http://tvget.live:80/movie/epg/epg/1393109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Travessuras de Natal (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7STsarMQHxB4J8iOu0iGOtW9hU6.jpg" group-title="F • Lançamentos",Travessuras de Natal (2023)
+http://tvget.live:80/movie/epg/epg/1393110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TPM! Meu amor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90JTN1pQ0GrQBGCZSC39xGkeX36.jpg" group-title="F • Lançamentos",TPM! Meu amor (2023)
+http://tvget.live:80/movie/epg/epg/1393111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="הנפש הטובה" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90JTN1pQ0GrQBGCZSC39xGkeX36.jpg" group-title="F • Lançamentos",הנפש הטובה
+http://tvget.live:80/movie/epg/epg/1393112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elis & Tom" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90JTN1pQ0GrQBGCZSC39xGkeX36.jpg" group-title="F • Lançamentos",Elis & Tom
+http://tvget.live:80/movie/epg/epg/1393113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Clube de Leitores Assassinos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rn7PFMpdUUEPxaf6AYMVF91DUfJ.jpg" group-title="F • Lançamentos",O Clube de Leitores Assassinos (2023)
+http://tvget.live:80/movie/epg/epg/1393114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Urkel Salva o Papai Noel: O Filme! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSBIk1EQrt2DJHQHjYqQCHQeHRt.jpg" group-title="F • Lançamentos",Urkel Salva o Papai Noel: O Filme! (2023)
+http://tvget.live:80/movie/epg/epg/1393115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Palmo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkmcRI2BzuWP9lltlsB4x420O8d.jpg" group-title="F • Lançamentos",Um Palmo (2021)
+http://tvget.live:80/movie/epg/epg/1393116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fluxo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDBN58VZHct93SyqWGj4fpOgLlu.jpg" group-title="F • Lançamentos",Fluxo (2023)
+http://tvget.live:80/movie/epg/epg/1393117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mundo Depois de Nós (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwHZInQ0MBa1DxHV66ExCCUzBf5.jpg" group-title="F • Lançamentos",O Mundo Depois de Nós (2023)
+http://tvget.live:80/movie/epg/epg/1393118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Informante (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfziuazNnGF9ASMoaSLtwZHGp9T.jpg" group-title="F • Lançamentos",A Informante (2023)
+http://tvget.live:80/movie/epg/epg/1393119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Família Quer que Eu Case (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPnDVNrtIZDHKmvCWN5dMGzI4Uu.jpg" group-title="F • Lançamentos",Minha Família Quer que Eu Case (2023)
+http://tvget.live:80/movie/epg/epg/1393120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="After: Para Sempre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxb7NBx8jjqxiz3MIE3KMyqp45d.jpg" group-title="F • Lançamentos",After: Para Sempre (2023)
+http://tvget.live:80/movie/epg/epg/1393121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Livro dos Sonhos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhTJqpZbr3AmuqTRjLpux62JgRI.jpg" group-title="F • Lançamentos",O Livro dos Sonhos (2023)
+http://tvget.live:80/movie/epg/epg/1393122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Exorcista: O Devoto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJtfth9oaDWx1PwzT0vGKNXwjKz.jpg" group-title="F • Lançamentos",O Exorcista: O Devoto (2023)
+http://tvget.live:80/movie/epg/epg/1393123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Há Algo no Celeiro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbhe0l7WhcMMAjwvfiyFlnQ8diD.jpg" group-title="F • Lançamentos",Há Algo no Celeiro (2023)
+http://tvget.live:80/movie/epg/epg/1393124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lista de Beijos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVNUvJpvfu1ggHz1NZ0ilFfmFeW.jpg" group-title="F • Lançamentos",A Lista de Beijos (2023)
+http://tvget.live:80/movie/epg/epg/1393125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Primeiro Natal do Mundo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jiJBmfxciWm9PFJgvOfOs8GM4ok.jpg" group-title="F • Lançamentos",O Primeiro Natal do Mundo (2023)
+http://tvget.live:80/movie/epg/epg/1393126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Navio de Sangue (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z40Iwyn9XpwUumPnA4BmGMpvDRF.jpg" group-title="F • Lançamentos",Navio de Sangue (2023)
+http://tvget.live:80/movie/epg/epg/1393127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Megera Domada 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k00QQRSHFbz1miYda8QxclXLAyk.jpg" group-title="F • Lançamentos",A Megera Domada 2 (2023)
+http://tvget.live:80/movie/epg/epg/1393128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eulália (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vk09bOU0CM0FIzQZhnjURlQmcxs.jpg" group-title="F • Lançamentos",Eulália (2023)
+http://tvget.live:80/movie/epg/epg/1393129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tração (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azMQZjuulbfaL8uahlA8cHY3EyJ.jpg" group-title="F • Lançamentos",Tração (2023)
+http://tvget.live:80/movie/epg/epg/1393130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Família Extraordinária (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcmLl584q80csyGwH0q65nDg1cA.jpg" group-title="F • Lançamentos",Uma Família Extraordinária (2023)
+http://tvget.live:80/movie/epg/epg/1393131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Whindersson Nunes: Isso não é um culto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/om3ojwYvXOkEifztuSIFKqUruly.jpg" group-title="F • Lançamentos",Whindersson Nunes: Isso não é um culto (2023)
+http://tvget.live:80/movie/epg/epg/1393132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="História de um Crime: O Cabeleireiro das Estrelas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nICXAVBBJzyVfNSF1QgPB8bGrx.jpg" group-title="F • Lançamentos",História de um Crime: O Cabeleireiro das Estrelas (2023)
+http://tvget.live:80/movie/epg/epg/1393133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jester: A Morte Sorri (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMvd6QBbXFsRG1LHoEVJafWj6Xj.jpg" group-title="F • Lançamentos",Jester: A Morte Sorri (2023)
+http://tvget.live:80/movie/epg/epg/1393134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Olhar Alheio (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tg03Fi59XjsvYRjkC0FApZIbiP3.jpg" group-title="F • Lançamentos",Olhar Alheio (2023)
+http://tvget.live:80/movie/epg/epg/1393135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Natal do Pequeno Batman (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2wpjvGFA9ZdQFZn4Phg6QKZRBH.jpg" group-title="F • Lançamentos",O Natal do Pequeno Batman (2023)
+http://tvget.live:80/movie/epg/epg/1393136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jornada Para o Inferno (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRJUdzPrqh1QcVBWEU54qQzB8sR.jpg" group-title="F • Lançamentos",Jornada Para o Inferno (2023)
+http://tvget.live:80/movie/epg/epg/1393137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tempos de Barbárie – Ato I: Terapia de Vingança (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fB4SsQK4OW1CZYGySRfJmMs2hhx.jpg" group-title="F • Lançamentos",Tempos de Barbárie – Ato I: Terapia de Vingança (2023)
+http://tvget.live:80/movie/epg/epg/1393138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Finestkind (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90D6sXfbXKhDpd4S1cHICdAe8VD.jpg" group-title="F • Lançamentos",Finestkind (2023)
+http://tvget.live:80/movie/epg/epg/1393139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Lesson (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktB7bt09HRQT701hVS8C23tkN6N.jpg" group-title="F • Lançamentos",The Lesson (2023)
+http://tvget.live:80/movie/epg/epg/1393140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Good Boy (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvAqmHk9dfuk9aqcKxZfvo9o0Ed.jpg" group-title="F • Lançamentos",Good Boy (2022)
+http://tvget.live:80/movie/epg/epg/1393141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Leo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg" group-title="F • Lançamentos",Leo (2023)
+http://tvget.live:80/movie/epg/epg/1393142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missão Condor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dX4zUmTl86s1ao92aKJG1pbrjhO.jpg" group-title="F • Lançamentos",Missão Condor (2023)
+http://tvget.live:80/movie/epg/epg/1393143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mavka: Aventura na Floresta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adyriBXnBuhdRgAllYAurnDQtQb.jpg" group-title="F • Lançamentos",Mavka: Aventura na Floresta (2023)
+http://tvget.live:80/movie/epg/epg/1393144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Archies (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gac9PmhdOKjamQh28gH4kA08TrE.jpg" group-title="F • Lançamentos",The Archies (2023)
+http://tvget.live:80/movie/epg/epg/1393145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ressurreição de Charles Manson (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pB090ok6FEOAqPG2rVMdW7jxJe9.jpg" group-title="F • Lançamentos",A Ressurreição de Charles Manson (2023)
+http://tvget.live:80/movie/epg/epg/1393146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário de um Banana no Natal: Casa dos Horrores (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tbFuwWZOcAXySQ2A1KpxExUirH.jpg" group-title="F • Lançamentos",Diário de um Banana no Natal: Casa dos Horrores (2023)
+http://tvget.live:80/movie/epg/epg/1393147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S.O.S. do Divórcio (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFShacQN5wVtmLTP4TSpEUSnFMj.jpg" group-title="F • Lançamentos",S.O.S. do Divórcio (2023)
+http://tvget.live:80/movie/epg/epg/1393148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jung (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7zr5n3neNFjBLDen97gb3M4UCk.jpg" group-title="F • Lançamentos",Jung (1996)
+http://tvget.live:80/movie/epg/epg/1393149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Seven Deadly Sins: Fúria de Edimburgo – Parte 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9WwpYRfKz3LcGva19v1SXsln1h.jpg" group-title="F • Lançamentos",The Seven Deadly Sins: Fúria de Edimburgo – Parte 2 (2023)
+http://tvget.live:80/movie/epg/epg/1393150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Napoleão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lkM8eyWLdzHwvhB1jBUxpCLmLR.jpg" group-title="F • Lançamentos",Napoleão (2023)
+http://tvget.live:80/movie/epg/epg/1393151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Caras Malvados: Um Natal do Mal (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHTEgWMPg7AdeotObEUqdOo98Zx.jpg" group-title="F • Lançamentos",Os Caras Malvados: Um Natal do Mal (2023)
+http://tvget.live:80/movie/epg/epg/1393152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Seu Natal ou no Meu 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHGyCnATtIc2tLS84sXDgDuJaQX.jpg" group-title="F • Lançamentos",No Seu Natal ou no Meu 2 (2023)
+http://tvget.live:80/movie/epg/epg/1393153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Who Children in Need Special 2023 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/puBx3OZnrcLWMhfsMXgmxd5FZET.jpg" group-title="F • Lançamentos",Doctor Who Children in Need Special 2023 (2023)
+http://tvget.live:80/movie/epg/epg/1393154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perdida no Deserto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kkXGyrpA1OzDXl9ubNn8R89YoM.jpg" group-title="F • Lançamentos",Perdida no Deserto (2023)
+http://tvget.live:80/movie/epg/epg/1393155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LyiadeCXEsoqmph0fZZhoCBWJa.jpg" group-title="F • Lançamentos",Família (2023)
+http://tvget.live:80/movie/epg/epg/1393156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones e A Relíquia do Destino (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9EnfMH0nTPCna87Mh3G8Q6W2wze.jpg" group-title="F • Lançamentos",Indiana Jones e A Relíquia do Destino (2023)
+http://tvget.live:80/movie/epg/epg/1393157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BlackBerry (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neV35lK7em4rIY9QIoH1cruErPA.jpg" group-title="F • Lançamentos",BlackBerry (2023)
+http://tvget.live:80/movie/epg/epg/1393158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Silver e o Livro dos Sonhos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjCpMUo4VBFZhlLiqHUNXJwzuQ1.jpg" group-title="F • Lançamentos",Silver e o Livro dos Sonhos (2023)
+http://tvget.live:80/movie/epg/epg/1393159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pérola (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxMltz3kizRdQbnZznGEuF16cik.jpg" group-title="F • Lançamentos",Pérola (2023)
+http://tvget.live:80/movie/epg/epg/1393160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dentro (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dKvmZixT4EyVVA0bcDDlZPx7yo.jpg" group-title="F • Lançamentos",Dentro (2018)
+http://tvget.live:80/movie/epg/epg/1393161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Plano em Família (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CezGI4ORSgVKk5Ch3UUWtL7SET.jpg" group-title="F • Lançamentos",Plano em Família (2023)
+http://tvget.live:80/movie/epg/epg/1393162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rodeio Rock (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yF6DYBbShJuKbUShdU8UFVquk8i.jpg" group-title="F • Lançamentos",Rodeio Rock (2023)
+http://tvget.live:80/movie/epg/epg/1393163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Five Nights at Freddy's" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yF6DYBbShJuKbUShdU8UFVquk8i.jpg" group-title="F • Lançamentos",Five Nights at Freddy's
+http://tvget.live:80/movie/epg/epg/1393164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Coletivo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/araUzE6drxWABCMSKvnKHV11vr1.jpg" group-title="F • Lançamentos",O Coletivo (2023)
+http://tvget.live:80/movie/epg/epg/1393165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Natal de Costume (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4CQkH3BFqhwQxJIDQLJLmiDubV.jpg" group-title="F • Lançamentos",O Natal de Costume (2023)
+http://tvget.live:80/movie/epg/epg/1393166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casamento Grego 3 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVmsjW1QEIJ8ixG0H6ymqBqaxEc.jpg" group-title="F • Lançamentos",Casamento Grego 3 (2023)
+http://tvget.live:80/movie/epg/epg/1393167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Garras Vorazes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPbPjAreXTrbM8HZCG6NmvXqA5R.jpg" group-title="F • Lançamentos",Garras Vorazes (2023)
+http://tvget.live:80/movie/epg/epg/1393168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Isabella (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UkAAZ3rcwiFsuxudm26UrPot4O.jpg" group-title="F • Lançamentos",Isabella (1990)
+http://tvget.live:80/movie/epg/epg/1393169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Amor de Natal (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wH4pwosOFLgFQn6Ahlk0jahKbjC.jpg" group-title="F • Lançamentos",Um Amor de Natal (2023)
+http://tvget.live:80/movie/epg/epg/1393170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trocados (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvzfsE88SJAKql3IGl2Y2KdQpAV.jpg" group-title="F • Lançamentos",Trocados (2023)
+http://tvget.live:80/movie/epg/epg/1393171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="María (1918)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrSlGqMHcvC8keoIx9u0NMjiDWc.jpg" group-title="F • Lançamentos",María (1918)
+http://tvget.live:80/movie/epg/epg/1393172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Enche! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jX8vNKif3C8UPc5pNHnyCz0sr5X.jpg" group-title="F • Lançamentos",Não Enche! (2023)
+http://tvget.live:80/movie/epg/epg/1393173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Abra! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbTCIcPUUSz0fyww8b9aY9MOHqt.jpg" group-title="F • Lançamentos",Não Abra! (2023)
+http://tvget.live:80/movie/epg/epg/1393329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mission (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSLbmZ6R1VaNM1Kr1EJcdvHV94v.jpg" group-title="F • Lançamentos",The Mission (2023)
+http://tvget.live:80/movie/epg/epg/1393330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="50 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYZqLmQhRkBwvVhR9qWhQaRntl9.jpg" group-title="F • Lançamentos",50 (2018)
+http://tvget.live:80/movie/epg/epg/1444119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 Dias de um Homem Bom (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihMCcc0vBQQyphiaoyoTvpJlTPi.jpg" group-title="F • Lançamentos",10 Dias de um Homem Bom (2023)
+http://tvget.live:80/movie/epg/epg/1444736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4BbMMQZh2m5M51adJo5MsAqNF0.jpg" group-title="F • Lançamentos",10 (2022)
+http://tvget.live:80/movie/epg/epg/1445002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="sr (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4BbMMQZh2m5M51adJo5MsAqNF0.jpg" group-title="F • Lançamentos",sr (2024)
+http://tvget.live:80/movie/epg/epg/1445409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Super Mario Bros. (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yt5bbMfKpg1nRr4k5edxs7tPK2m.jpg" group-title="F • Lançamentos",Super Mario Bros. (1993)
+http://tvget.live:80/movie/epg/epg/1445602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sra. Harris Vai a Paris (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCp4P08sqOeazheX4GiRRyg5PMm.jpg" group-title="F • Lançamentos",Sra. Harris Vai a Paris (2022)
+http://tvget.live:80/movie/epg/epg/1445759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tire 5 Cartas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/seWAFVnbZZZQQIzLpOvMf07sT3o.jpg" group-title="F • Lançamentos",Tire 5 Cartas (2023)
+http://tvget.live:80/movie/epg/epg/1445941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="90 Minutos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKAj8jKy3C32KUS6VOGBmpeThGE.jpg" group-title="F • Lançamentos",90 Minutos (2022)
+http://tvget.live:80/movie/epg/epg/1445977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lâmina dos 47 Ronins (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCNloDOXFDMn2GnXFcbtjfn1i7z.jpg" group-title="F • Lançamentos",Lâmina dos 47 Ronins (2022)
+http://tvget.live:80/movie/epg/epg/1446050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="80 for Brady: Quatro Amigas e uma Paixão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZBOc7sXmK618zujlxaiyLTq2e0.jpg" group-title="F • Lançamentos",80 for Brady: Quatro Amigas e uma Paixão (2023)
+http://tvget.live:80/movie/epg/epg/1446093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os aventureiros - A origem (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKyfHivRX3wRbY4zgN1oFdjqBqH.jpg" group-title="F • Lançamentos",Os aventureiros - A origem (2023)
+http://tvget.live:80/movie/epg/epg/1446342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reis Magos vs. Papai Noel (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvDJbZYs2p4eOdyJ8R2dfdJp2Qq.jpg" group-title="F • Lançamentos",Reis Magos vs. Papai Noel (2022)
+http://tvget.live:80/movie/epg/epg/1446695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 Noites com a Minha Ex (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GUOSsdQrchL57N4HTAncDEWxKO.jpg" group-title="F • Lançamentos",30 Noites com a Minha Ex (2022)
+http://tvget.live:80/movie/epg/epg/1446790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 Dias de um Homem Mau (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fl0vUwiKyxEauecs9UCh8cGRzZH.jpg" group-title="F • Lançamentos",10 Dias de um Homem Mau (2023)
+http://tvget.live:80/movie/epg/epg/1446987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Melhor Natal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZ4p6JbxSQxHFE98kff48j8Hu0y.jpg" group-title="F • Lançamentos",O Melhor Natal (2022)
+http://tvget.live:80/movie/epg/epg/1447094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lista do Sr. Malcolm (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76SeGCukVxqZFAJkke4fkk4uVN9.jpg" group-title="F • Lançamentos",A Lista do Sr. Malcolm (2022)
+http://tvget.live:80/movie/epg/epg/1447344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marcados: A História do Racismo nos EUA (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKr6pPEtvyc0wGiiFseLNPvYhz9.jpg" group-title="F • Lançamentos",Marcados: A História do Racismo nos EUA (2023)
+http://tvget.live:80/movie/epg/epg/1505496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Incompatível com a Vida (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3hjvbZuXRVmfGanJyx0AdGzoPB.jpg" group-title="F • Lançamentos",Incompatível com a Vida (2023)
+http://tvget.live:80/movie/epg/epg/1505497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aporia (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BnoaS3M8zEVE6pCkOoyyEjswCH.jpg" group-title="F • Lançamentos",Aporia (2023)
+http://tvget.live:80/movie/epg/epg/1505498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinos da Lua das Flores (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg" group-title="F • Lançamentos",Assassinos da Lua das Flores (2023)
+http://tvget.live:80/movie/epg/epg/1505499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jornada Para Belém (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tv0Ta1lAIZYuLKAcQhnRTe8bUTV.jpg" group-title="F • Lançamentos",Jornada Para Belém (2023)
+http://tvget.live:80/movie/epg/epg/1505500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="South Park: Entrando no Panderverso (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uC0REiubjJ2dXh5y8UVHbFd4E7.jpg" group-title="F • Lançamentos",South Park: Entrando no Panderverso (2023)
+http://tvget.live:80/movie/epg/epg/1505501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sol Lunar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x29rKMGLUrQ2W2U8oNPpMC2guwR.jpg" group-title="F • Lançamentos",Sol Lunar (2023)
+http://tvget.live:80/movie/epg/epg/1505502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criptofraude (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HHMl8k7cugjUUXQYx85eD0A0tf.jpg" group-title="F • Lançamentos",Criptofraude (2024)
+http://tvget.live:80/movie/epg/epg/1505503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Afonso Padilha: Gerações (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0e0pI3OoaNEfLx6z4FkUkzlJEK.jpg" group-title="F • Lançamentos",Afonso Padilha: Gerações (2023)
+http://tvget.live:80/movie/epg/epg/1505504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vivo ou Morto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fl6akfUcmfuTgLw2FromKDct8tS.jpg" group-title="F • Lançamentos",Vivo ou Morto (2023)
+http://tvget.live:80/movie/epg/epg/1505505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Incompatível com a Vida (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3hjvbZuXRVmfGanJyx0AdGzoPB.jpg" group-title="F • Lançamentos",Incompatível com a Vida (2023)
+http://tvget.live:80/movie/epg/epg/1505526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aporia (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BnoaS3M8zEVE6pCkOoyyEjswCH.jpg" group-title="F • Lançamentos",Aporia (2023)
+http://tvget.live:80/movie/epg/epg/1505527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinos da Lua das Flores (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg" group-title="F • Lançamentos",Assassinos da Lua das Flores (2023)
+http://tvget.live:80/movie/epg/epg/1505528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jornada Para Belém (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tv0Ta1lAIZYuLKAcQhnRTe8bUTV.jpg" group-title="F • Lançamentos",Jornada Para Belém (2023)
+http://tvget.live:80/movie/epg/epg/1505529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="South Park (Não Recomendado Para Menores) (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/opc6DIkByOp9vOt14jzfu8oVjbM.jpg" group-title="F • Lançamentos",South Park (Não Recomendado Para Menores) (2023)
+http://tvget.live:80/movie/epg/epg/1505530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sol Lunar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x29rKMGLUrQ2W2U8oNPpMC2guwR.jpg" group-title="F • Lançamentos",Sol Lunar (2023)
+http://tvget.live:80/movie/epg/epg/1505531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criptofraude (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HHMl8k7cugjUUXQYx85eD0A0tf.jpg" group-title="F • Lançamentos",Criptofraude (2024)
+http://tvget.live:80/movie/epg/epg/1505532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Afonso Padilha: Gerações (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0e0pI3OoaNEfLx6z4FkUkzlJEK.jpg" group-title="F • Lançamentos",Afonso Padilha: Gerações (2023)
+http://tvget.live:80/movie/epg/epg/1505533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vivo ou Morto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fl6akfUcmfuTgLw2FromKDct8tS.jpg" group-title="F • Lançamentos",Vivo ou Morto (2023)
+http://tvget.live:80/movie/epg/epg/1505534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marcados: A História do Racismo nos EUA (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKr6pPEtvyc0wGiiFseLNPvYhz9.jpg" group-title="F • Lançamentos",Marcados: A História do Racismo nos EUA (2023)
+http://tvget.live:80/movie/epg/epg/1505571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aporia (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BnoaS3M8zEVE6pCkOoyyEjswCH.jpg" group-title="F • Lançamentos",Aporia (2023)
+http://tvget.live:80/movie/epg/epg/1505572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinos da Lua das Flores (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg" group-title="F • Lançamentos",Assassinos da Lua das Flores (2023)
+http://tvget.live:80/movie/epg/epg/1505573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jornada Para Belém (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tv0Ta1lAIZYuLKAcQhnRTe8bUTV.jpg" group-title="F • Lançamentos",Jornada Para Belém (2023)
+http://tvget.live:80/movie/epg/epg/1505574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sol Lunar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x29rKMGLUrQ2W2U8oNPpMC2guwR.jpg" group-title="F • Lançamentos",Sol Lunar (2023)
+http://tvget.live:80/movie/epg/epg/1505576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Incompatível com a Vida (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3hjvbZuXRVmfGanJyx0AdGzoPB.jpg" group-title="F • Lançamentos",Incompatível com a Vida (2023)
+http://tvget.live:80/movie/epg/epg/1505581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aporia (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BnoaS3M8zEVE6pCkOoyyEjswCH.jpg" group-title="F • Lançamentos",Aporia (2023)
+http://tvget.live:80/movie/epg/epg/1505582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinos da Lua das Flores (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg" group-title="F • Lançamentos",Assassinos da Lua das Flores (2023)
+http://tvget.live:80/movie/epg/epg/1505583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jornada Para Belém (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tv0Ta1lAIZYuLKAcQhnRTe8bUTV.jpg" group-title="F • Lançamentos",Jornada Para Belém (2023)
+http://tvget.live:80/movie/epg/epg/1505584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="South Park (Não Recomendado Para Menores) (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/opc6DIkByOp9vOt14jzfu8oVjbM.jpg" group-title="F • Lançamentos",South Park (Não Recomendado Para Menores) (2023)
+http://tvget.live:80/movie/epg/epg/1505585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sol Lunar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x29rKMGLUrQ2W2U8oNPpMC2guwR.jpg" group-title="F • Lançamentos",Sol Lunar (2023)
+http://tvget.live:80/movie/epg/epg/1505586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criptofraude (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HHMl8k7cugjUUXQYx85eD0A0tf.jpg" group-title="F • Lançamentos",Criptofraude (2024)
+http://tvget.live:80/movie/epg/epg/1505587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Afonso Padilha: Nada Planejado (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKxhCCVGZ2UrVfkgWZBnxi5yOfd.jpg" group-title="F • Lançamentos",Afonso Padilha: Nada Planejado (2023)
+http://tvget.live:80/movie/epg/epg/1505588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vivo ou Morto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fl6akfUcmfuTgLw2FromKDct8tS.jpg" group-title="F • Lançamentos",Vivo ou Morto (2023)
+http://tvget.live:80/movie/epg/epg/1505589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 Dias de um Homem Bom" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89ZwIY5Zx3VoqHaNOvwAAPcbuZE.jpg" group-title="F • Lançamentos",10 Dias de um Homem Bom
+http://tvget.live:80/movie/epg/epg/1505591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sra. Harris Vai a Paris" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89ZwIY5Zx3VoqHaNOvwAAPcbuZE.jpg" group-title="F • Lançamentos",Sra. Harris Vai a Paris
+http://tvget.live:80/movie/epg/epg/1505592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tire 5 Cartas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89ZwIY5Zx3VoqHaNOvwAAPcbuZE.jpg" group-title="F • Lançamentos",Tire 5 Cartas
+http://tvget.live:80/movie/epg/epg/1505593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="90 Minutos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89ZwIY5Zx3VoqHaNOvwAAPcbuZE.jpg" group-title="F • Lançamentos",90 Minutos
+http://tvget.live:80/movie/epg/epg/1505594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lâmina Dos 47 Ronins" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89ZwIY5Zx3VoqHaNOvwAAPcbuZE.jpg" group-title="F • Lançamentos",Lâmina Dos 47 Ronins
+http://tvget.live:80/movie/epg/epg/1505595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Incompatível com a Vida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89ZwIY5Zx3VoqHaNOvwAAPcbuZE.jpg" group-title="F • Lançamentos",Incompatível com a Vida
+http://tvget.live:80/movie/epg/epg/1505602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinos da Lua das Flores" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89ZwIY5Zx3VoqHaNOvwAAPcbuZE.jpg" group-title="F • Lançamentos",Assassinos da Lua das Flores
+http://tvget.live:80/movie/epg/epg/1505604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="80 for Brady: Quatro Amigas e uma Paixão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NhA8MQFwBcfV2v7neorbOBq5sQ.jpg" group-title="F • Lançamentos",80 for Brady: Quatro Amigas e uma Paixão
+http://tvget.live:80/movie/epg/epg/1508392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reis Magos vs. Papai Noel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NhA8MQFwBcfV2v7neorbOBq5sQ.jpg" group-title="F • Lançamentos",Reis Magos vs. Papai Noel
+http://tvget.live:80/movie/epg/epg/1508393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 Noites com a Minha Ex" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NhA8MQFwBcfV2v7neorbOBq5sQ.jpg" group-title="F • Lançamentos",30 Noites com a Minha Ex
+http://tvget.live:80/movie/epg/epg/1508394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 Dias de um Homem Mau" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NhA8MQFwBcfV2v7neorbOBq5sQ.jpg" group-title="F • Lançamentos",10 Dias de um Homem Mau
+http://tvget.live:80/movie/epg/epg/1508395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lista do Sr. Malcolm" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NhA8MQFwBcfV2v7neorbOBq5sQ.jpg" group-title="F • Lançamentos",A Lista do Sr. Malcolm
+http://tvget.live:80/movie/epg/epg/1508396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marcados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NhA8MQFwBcfV2v7neorbOBq5sQ.jpg" group-title="F • Lançamentos",Marcados
+http://tvget.live:80/movie/epg/epg/1508397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aporia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NhA8MQFwBcfV2v7neorbOBq5sQ.jpg" group-title="F • Lançamentos",Aporia
+http://tvget.live:80/movie/epg/epg/1508398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jornada Para Belém" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NhA8MQFwBcfV2v7neorbOBq5sQ.jpg" group-title="F • Lançamentos",Jornada Para Belém
+http://tvget.live:80/movie/epg/epg/1508399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="South Park" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NhA8MQFwBcfV2v7neorbOBq5sQ.jpg" group-title="F • Lançamentos",South Park
+http://tvget.live:80/movie/epg/epg/1508400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sol Lunar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NhA8MQFwBcfV2v7neorbOBq5sQ.jpg" group-title="F • Lançamentos",Sol Lunar
+http://tvget.live:80/movie/epg/epg/1508401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criptofraude" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NhA8MQFwBcfV2v7neorbOBq5sQ.jpg" group-title="F • Lançamentos",Criptofraude
+http://tvget.live:80/movie/epg/epg/1508402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Afonso Padilha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NhA8MQFwBcfV2v7neorbOBq5sQ.jpg" group-title="F • Lançamentos",Afonso Padilha
+http://tvget.live:80/movie/epg/epg/1508403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vivo ou Morto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NhA8MQFwBcfV2v7neorbOBq5sQ.jpg" group-title="F • Lançamentos",Vivo ou Morto
+http://tvget.live:80/movie/epg/epg/1508404.mp4
