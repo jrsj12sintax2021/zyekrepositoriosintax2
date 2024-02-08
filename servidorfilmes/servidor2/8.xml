@@ -1,1 +1,73 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="13: O Musical (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ndpRWh8iOvckVtHptIsD4OtayN.jpg" group-title="F • Dança",13: O Musical (2022)
+http://tvget.live:80/movie/epg/epg/1389052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Magic Mike: A Última Dança (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raPPX7aRjqc33360tdadlzWDzo2.jpg" group-title="F • Dança",Magic Mike: A Última Dança (2023)
+http://tvget.live:80/movie/epg/epg/1389053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High Strung: Ao Ritmo do Sonho (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqFHODEFfJ3vnQkrLk2XQgw2GQ7.jpg" group-title="F • Dança",High Strung: Ao Ritmo do Sonho (2016)
+http://tvget.live:80/movie/epg/epg/1389054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Tênis Encantados (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ju8duC4TXVqRTePcEww9VVtXbxU.jpg" group-title="F • Dança",Os Tênis Encantados (2022)
+http://tvget.live:80/movie/epg/epg/1389055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cats (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XIZDh3n6BZAy00PqXpK1D16tZg.jpg" group-title="F • Dança",Cats (2019)
+http://tvget.live:80/movie/epg/epg/1389056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Bamba (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Znulqtc7cdqlUC69HGf26Ef5fi.jpg" group-title="F • Dança",La Bamba (1987)
+http://tvget.live:80/movie/epg/epg/1389057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Semana da Minha Vida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfjdBn9rOoMZQgCqySlpjZv4L2V.jpg" group-title="F • Dança",A Semana da Minha Vida (2021)
+http://tvget.live:80/movie/epg/epg/1389058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dança Comigo? (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBjSWrqs84g8fSbuCoU3WC0t8VX.jpg" group-title="F • Dança",Dança Comigo? (2004)
+http://tvget.live:80/movie/epg/epg/1389059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escolha Perfeita 3 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PqsJb2h2Uu4ymo0yj130IxbF6S.jpg" group-title="F • Dança",A Escolha Perfeita 3 (2017)
+http://tvget.live:80/movie/epg/epg/1389060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Honey: No Ritmo dos Seus Sonhos (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cZZdpU9GmLriGpH23MQoXub3WS.jpg" group-title="F • Dança",Honey: No Ritmo dos Seus Sonhos (2003)
+http://tvget.live:80/movie/epg/epg/1389061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Nesta Dança: Hip Hop no Pedaço (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olzI5TV6et8d7bcernEaHkYddgt.jpg" group-title="F • Dança",Entre Nesta Dança: Hip Hop no Pedaço (2004)
+http://tvget.live:80/movie/epg/epg/1389062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Poder do Ritmo (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ob5LmGbWIuZz0GcKAnzCoqjOKt0.jpg" group-title="F • Dança",O Poder do Ritmo (2007)
+http://tvget.live:80/movie/epg/epg/1389063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vem Dançar (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itRvr89o6OOjLJ3900eWsPAyrVZ.jpg" group-title="F • Dança",Vem Dançar (2006)
+http://tvget.live:80/movie/epg/epg/1389064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fabulosa Aventura da Sharpay (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwZe91BYGQLVhQ1opbKwRf1hQV5.jpg" group-title="F • Dança",A Fabulosa Aventura da Sharpay (2011)
+http://tvget.live:80/movie/epg/epg/1389065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Poder do Ritmo 2 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdh5FNmEc4oRCR7stGraJTbc49j.jpg" group-title="F • Dança",O Poder do Ritmo 2 (2010)
+http://tvget.live:80/movie/epg/epg/1389066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High School Musical (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bg1eLo2OjySRYKaTO89ZDsqUcJ4.jpg" group-title="F • Dança",High School Musical (2006)
+http://tvget.live:80/movie/epg/epg/1389067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sob a Luz da Fama: Acampamento de Dança (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifA8P2Jx9pQM5rQLi335GKeQfj2.jpg" group-title="F • Dança",Sob a Luz da Fama: Acampamento de Dança (2016)
+http://tvget.live:80/movie/epg/epg/1389068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1Sg3GuHDz9uhrKqYozOeCMLSpj.jpg" group-title="F • Dança",Chicago (2002)
+http://tvget.live:80/movie/epg/epg/1389069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batalhas: Freestyle (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdgUNCruHI6jX9TU4vvplgpDtL7.jpg" group-title="F • Dança",Batalhas: Freestyle (2022)
+http://tvget.live:80/movie/epg/epg/1389070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tumbledown (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Dg1MqdqAaoia58KaXSNETn3Qya.jpg" group-title="F • Dança",Tumbledown (2015)
+http://tvget.live:80/movie/epg/epg/1389071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sob a Luz da Fama (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95Et0t08Nv6S8FD593HpXyvcRt8.jpg" group-title="F • Dança",Sob a Luz da Fama (2000)
+http://tvget.live:80/movie/epg/epg/1389072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escolha Perfeita 2 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHPcO7Ybp7s2Gg359UMdASGGUir.jpg" group-title="F • Dança",A Escolha Perfeita 2 (2015)
+http://tvget.live:80/movie/epg/epg/1389073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Pedaço do Meu Coração (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3l5BUsadsBQuodKkD9PhwjOiJf.jpg" group-title="F • Dança",Um Pedaço do Meu Coração (2019)
+http://tvget.live:80/movie/epg/epg/1389074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stardust (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/woOQx1s4mNVAprRpky3ntRgdlf4.jpg" group-title="F • Dança",Stardust (2020)
+http://tvget.live:80/movie/epg/epg/1389075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Passo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1P2bHU0CyV40llLcwsaSOxuMXff.jpg" group-title="F • Dança",O Grande Passo (2020)
+http://tvget.live:80/movie/epg/epg/1389076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High School Musical 2 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/la2kiVWDm2vuB4APZDgCCmuBh4K.jpg" group-title="F • Dança",High School Musical 2 (2007)
+http://tvget.live:80/movie/epg/epg/1389077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Apimentadas: Torça ou Morra (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3EJ27MY8WMm4RU06oX9zh2P9lF.jpg" group-title="F • Dança",As Apimentadas: Torça ou Morra (2022)
+http://tvget.live:80/movie/epg/epg/1389078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocketman (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCfzNtsMVGYVJNsAEgVCBmuXHYF.jpg" group-title="F • Dança",Rocketman (2019)
+http://tvget.live:80/movie/epg/epg/1389079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escolha Perfeita (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pcXYNwR1RYjbQUDNEdGAEfxABq.jpg" group-title="F • Dança",A Escolha Perfeita (2012)
+http://tvget.live:80/movie/epg/epg/1389080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High School Musical 3: Ano da Formatura (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uvSRLL5oJY3tDq68vza16bf4cE.jpg" group-title="F • Dança",High School Musical 3: Ano da Formatura (2008)
+http://tvget.live:80/movie/epg/epg/1389081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Fantasma da Ópera (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ie03D5WcIKW5AHXM59KTU6TRvmf.jpg" group-title="F • Dança",O Fantasma da Ópera (1989)
+http://tvget.live:80/movie/epg/epg/1389082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flashdance: Em Ritmo de Embalo (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TLUFZ5fP7HFUrCOiVZYuOwMm5K.jpg" group-title="F • Dança",Flashdance: Em Ritmo de Embalo (1983)
+http://tvget.live:80/movie/epg/epg/1389083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha do Ano (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/duPGelL3vYPltSd4fWEIj422IuW.jpg" group-title="F • Dança",A Batalha do Ano (2013)
+http://tvget.live:80/movie/epg/epg/1389084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Sonho de Ontem (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnxUfNb1PHrFaUgyGnLQ1WGSmdA.jpg" group-title="F • Dança",O Sonho de Ontem (2022)
+http://tvget.live:80/movie/epg/epg/1389085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Ela Dança (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3oHgnOmLp2teAZ5g2UZNkAcTR7i.jpg" group-title="F • Dança",Como Ela Dança (2008)
+http://tvget.live:80/movie/epg/epg/1389086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Point: Paixão à Dança (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7ijpc3yvoynohvUGzI9MOmFoOA.jpg" group-title="F • Dança",Breaking Point: Paixão à Dança (2023)
+http://tvget.live:80/movie/epg/epg/1389087.mp4
