@@ -1,1 +1,961 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="Falcões da Noite (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIkcfN2UY1CLRKORn4O8KwZ942V.jpg" group-title="F • Clássicos",Falcões da Noite (1981)
+http://tvget.live:80/movie/epg/epg/1386632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gotcha!: Uma Arma do Barulho (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltQr2XmZvpVco4u5DSCEOR6nF3o.jpg" group-title="F • Clássicos",Gotcha!: Uma Arma do Barulho (1985)
+http://tvget.live:80/movie/epg/epg/1386633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Simbad Contra o Olho do Tigre (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2FrQh0avNqhvqEC6RTq9AVMwKdi.jpg" group-title="F • Clássicos",Simbad Contra o Olho do Tigre (1977)
+http://tvget.live:80/movie/epg/epg/1386634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esta Noite Encarnarei no Teu Cadáver (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/phmZd2XaMTz3bRXh1czzz3gwq8I.jpg" group-title="F • Clássicos",Esta Noite Encarnarei no Teu Cadáver (1967)
+http://tvget.live:80/movie/epg/epg/1386635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Queimando Tudo (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OjE3uWqwX5YiRRkuWT7inclQyx.jpg" group-title="F • Clássicos",Queimando Tudo (1978)
+http://tvget.live:80/movie/epg/epg/1386636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Museu de Cera (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9edFJpV936elzJAxKr05TkifMv.jpg" group-title="F • Clássicos",Museu de Cera (1953)
+http://tvget.live:80/movie/epg/epg/1386637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Amante de Minha Mulher (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1suSEwODEkJr54Ncu1yrPQJvMMJ.jpg" group-title="F • Clássicos",O Amante de Minha Mulher (1979)
+http://tvget.live:80/movie/epg/epg/1386638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Filmes Classicos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1suSEwODEkJr54Ncu1yrPQJvMMJ.jpg" group-title="F • Clássicos",Filmes Classicos
+http://tvget.live:80/movie/epg/epg/1393051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colheita Maldita 5: Campos do Terror (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MgNa8JE739eiasSOifeoKts2G4.jpg" group-title="F • Clássicos",Colheita Maldita 5: Campos do Terror (1998)
+http://tvget.live:80/movie/epg/epg/1386640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hellraiser IV: Herança Maldita (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbGWf8zBKH2hPMGM3uLtG2ua1eU.jpg" group-title="F • Clássicos",Hellraiser IV: Herança Maldita (1996)
+http://tvget.live:80/movie/epg/epg/1386641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Monstro do Pântano (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmsCcK1Vk17VQjErfuukgID93zx.jpg" group-title="F • Clássicos",O Monstro do Pântano (1982)
+http://tvget.live:80/movie/epg/epg/1386642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raposa de Fogo (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hG8cvRON30sWwiCUibcv2TboQ9A.jpg" group-title="F • Clássicos",Raposa de Fogo (1982)
+http://tvget.live:80/movie/epg/epg/1386643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Benção Mortal (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afVFFmEd1zFJ553hmK1djKHVnkk.jpg" group-title="F • Clássicos",Benção Mortal (1981)
+http://tvget.live:80/movie/epg/epg/1386644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vítimas de Uma Paixão (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHn4viYVEGFaMIlFfUoeX2V2exJ.jpg" group-title="F • Clássicos",Vítimas de Uma Paixão (1989)
+http://tvget.live:80/movie/epg/epg/1386645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LUrKtRWSLIvCRupdA75vhMgQ9K.jpg" group-title="F • Clássicos",Eu (1987)
+http://tvget.live:80/movie/epg/epg/1386646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Primeiro Assalto de Trem (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hTbVRlFxd7rwBK6wI4WZY13my3.jpg" group-title="F • Clássicos",O Primeiro Assalto de Trem (1978)
+http://tvget.live:80/movie/epg/epg/1386647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Lamparina (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgaJd0GWOuV8AnEMlKvh7xfJ9f4.jpg" group-title="F • Clássicos",O Lamparina (1964)
+http://tvget.live:80/movie/epg/epg/1386648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Canhões de Navarone (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWOcOmSdKXKsjgf3FLR2asyK68r.jpg" group-title="F • Clássicos",Os Canhões de Navarone (1961)
+http://tvget.live:80/movie/epg/epg/1386649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caravana da Coragem: Uma Aventura Ewok (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpcfyJyb7208pLWxNcLayIS9VDR.jpg" group-title="F • Clássicos",Caravana da Coragem: Uma Aventura Ewok (1984)
+http://tvget.live:80/movie/epg/epg/1386650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Divórcio à Italiana (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yYsJHPt2MOr0dve9sG4U6CLJ1V.jpg" group-title="F • Clássicos",Divórcio à Italiana (1961)
+http://tvget.live:80/movie/epg/epg/1386651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Nome da Rosa (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8o6U4vBbAop4344tMnzdu8pN7Qy.jpg" group-title="F • Clássicos",O Nome da Rosa (1986)
+http://tvget.live:80/movie/epg/epg/1386652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caminhos Violentos (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8pwefIKTSNSoNheEqib49g5F3jQ.jpg" group-title="F • Clássicos",Caminhos Violentos (1986)
+http://tvget.live:80/movie/epg/epg/1386653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eles Vivem (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eaItFukc7nG2NGz3ZzpTrKSrhgw.jpg" group-title="F • Clássicos",Eles Vivem (1988)
+http://tvget.live:80/movie/epg/epg/1386654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pecado Mora ao Lado (1955)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvLGc3gJQ32PIXnw9Rk1W7fdKxr.jpg" group-title="F • Clássicos",O Pecado Mora ao Lado (1955)
+http://tvget.live:80/movie/epg/epg/1386655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Impacto Fulminante (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9J8lyyHdZQQtiRGtabCwHVeLMLz.jpg" group-title="F • Clássicos",Impacto Fulminante (1983)
+http://tvget.live:80/movie/epg/epg/1386656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tuff Turf: O Rebelde (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hvHqC6VhgC8OpxRqTLng5k1Aw9.jpg" group-title="F • Clássicos",Tuff Turf: O Rebelde (1985)
+http://tvget.live:80/movie/epg/epg/1386657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Testa-de-Ferro Por Acaso (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3h39YWLBuFd4SGi2eqNazEQlPv7.jpg" group-title="F • Clássicos",Testa-de-Ferro Por Acaso (1976)
+http://tvget.live:80/movie/epg/epg/1386658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cidadela dos Robinsons (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iX7dcRZQH5DZf3Y33Uv3poJY8LZ.jpg" group-title="F • Clássicos",A Cidadela dos Robinsons (1960)
+http://tvget.live:80/movie/epg/epg/1386659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trindade Violenta (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osjexM9Yol8UwdTr5fce5zJkyvy.jpg" group-title="F • Clássicos",Trindade Violenta (1956)
+http://tvget.live:80/movie/epg/epg/1386660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Franco Atirador (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjeaIyoZOWnPCX5E1JvzmkNv4QC.jpg" group-title="F • Clássicos",O Franco Atirador (1978)
+http://tvget.live:80/movie/epg/epg/1386661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="20.000 Léguas Submarinas (1954)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6IkR2Ol5vVbMIJm9r2BJmhOkW1.jpg" group-title="F • Clássicos",20.000 Léguas Submarinas (1954)
+http://tvget.live:80/movie/epg/epg/1386662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tempo de Glória (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGfE62Tzbwcumt4lgrnnALJsspO.jpg" group-title="F • Clássicos",Tempo de Glória (1989)
+http://tvget.live:80/movie/epg/epg/1386663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halloween (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7JAX5EGk4GgsEnus6OxyzwpFp7.jpg" group-title="F • Clássicos",Halloween (2018)
+http://tvget.live:80/movie/epg/epg/1386664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Selvagens da Noite (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EGQFgs0CrjscXrU3JG7OOMfDGJ.jpg" group-title="F • Clássicos",Os Selvagens da Noite (1979)
+http://tvget.live:80/movie/epg/epg/1386665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alcatraz: Fuga Impossível (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxmqEhjMIC5OPc6uQVGHhArWNSV.jpg" group-title="F • Clássicos",Alcatraz: Fuga Impossível (1979)
+http://tvget.live:80/movie/epg/epg/1386666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diane (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t61tZcGo4JG7arcCAdKIeL3qFKk.jpg" group-title="F • Clássicos",Diane (1956)
+http://tvget.live:80/movie/epg/epg/1386667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras do Fusca (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2owUFcJsLJw7e6k6CliDRWkoGX4.jpg" group-title="F • Clássicos",As Novas Aventuras do Fusca (1974)
+http://tvget.live:80/movie/epg/epg/1386668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Christine: O Carro Assassino (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQgflKBffMBXkOsM0PpLl2nWFyn.jpg" group-title="F • Clássicos",Christine: O Carro Assassino (1983)
+http://tvget.live:80/movie/epg/epg/1386669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sete Homens e Um Destino (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fV45HAC5kxY2fbUKKT2vNyYDZNr.jpg" group-title="F • Clássicos",Sete Homens e Um Destino (2016)
+http://tvget.live:80/movie/epg/epg/1386670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pequeno Mágico (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJ7tk6rEjbS6XV9eYpplnKkGytc.jpg" group-title="F • Clássicos",O Pequeno Mágico (1982)
+http://tvget.live:80/movie/epg/epg/1386671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="República dos Assassinos (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5nSOfVMQVBGx8jpIsq87YJE7VK.jpg" group-title="F • Clássicos",República dos Assassinos (1979)
+http://tvget.live:80/movie/epg/epg/1386672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elvis e Eu (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iabuDbY2TCer2P4F1GBSsYo2C8.jpg" group-title="F • Clássicos",Elvis e Eu (1988)
+http://tvget.live:80/movie/epg/epg/1386673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Monstro da Lagoa Negra (1954)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abjbpSakAEGVrpBothLIc1NJcPR.jpg" group-title="F • Clássicos",O Monstro da Lagoa Negra (1954)
+http://tvget.live:80/movie/epg/epg/1386674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arthur, o Milionário Sedutor (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecHwuHlUlxmsmBDF8rxelMcP9Tt.jpg" group-title="F • Clássicos", o Milionário Sedutor (1981)
+http://tvget.live:80/movie/epg/epg/1386675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Fugitivo (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/as4vrdeebZxWakKsJE1DdvsKQB9.jpg" group-title="F • Clássicos",O Fugitivo (1993)
+http://tvget.live:80/movie/epg/epg/1386676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Volta dos Mortos Vivos 3 (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SssSUnFLRkyuusJ2bPRcxfrDLW.jpg" group-title="F • Clássicos",A Volta dos Mortos Vivos 3 (1993)
+http://tvget.live:80/movie/epg/epg/1386677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desejo de Matar 2 (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/357EWbyESrXogZb4OiPva3yTLmy.jpg" group-title="F • Clássicos",Desejo de Matar 2 (1982)
+http://tvget.live:80/movie/epg/epg/1386678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Armadura de Deus (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nstPbqmWlOibLutLsVvgT7RarRk.jpg" group-title="F • Clássicos",Armadura de Deus (1986)
+http://tvget.live:80/movie/epg/epg/1386679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Guerreiro das Estrelas (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywREdWptnYYCGKfi52wMaZT3lev.jpg" group-title="F • Clássicos",O Último Guerreiro das Estrelas (1984)
+http://tvget.live:80/movie/epg/epg/1386680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patolino: A Ilha Fantástica (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxUjv0g1BkNdVQkvBE99Y918DpN.jpg" group-title="F • Clássicos",Patolino: A Ilha Fantástica (1983)
+http://tvget.live:80/movie/epg/epg/1386681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando para Matar (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Lqd45dh7xFRBEjIDTrDQgwLZQk.jpg" group-title="F • Clássicos",Comando para Matar (1985)
+http://tvget.live:80/movie/epg/epg/1386682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Projeto Filadélfia (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cU9mM7JRCAPqiVo96xxhOcVN0k.jpg" group-title="F • Clássicos",Projeto Filadélfia (1984)
+http://tvget.live:80/movie/epg/epg/1386683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sede de Viver (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzsydvH15z5EmeNPgunPb3GJgqh.jpg" group-title="F • Clássicos",Sede de Viver (1956)
+http://tvget.live:80/movie/epg/epg/1386684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ponte do Rio Kwai (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4NWsLsLogVh2XfLXbPaaGrX8Zz.jpg" group-title="F • Clássicos",A Ponte do Rio Kwai (1957)
+http://tvget.live:80/movie/epg/epg/1386685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tubarão 4: A Vingança (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbWaX7V6nyY0BowqPbQGNApmNoI.jpg" group-title="F • Clássicos",Tubarão 4: A Vingança (1987)
+http://tvget.live:80/movie/epg/epg/1386686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost: Do Outro Lado da Vida (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGSeOwr3XRP2M7bBjcOol8vi2jT.jpg" group-title="F • Clássicos",Ghost: Do Outro Lado da Vida (1990)
+http://tvget.live:80/movie/epg/epg/1386687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carlitos Contra o Relógio (1914)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uFAhOZ2SzzyFNdKMIndns9h0KX.jpg" group-title="F • Clássicos",Carlitos Contra o Relógio (1914)
+http://tvget.live:80/movie/epg/epg/1386688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sociedade dos Poetas Mortos (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMmbJEqEzupp4BYTcRkNsPDPvQE.jpg" group-title="F • Clássicos",Sociedade dos Poetas Mortos (1989)
+http://tvget.live:80/movie/epg/epg/1386689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duro de Matar (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rauTKnFle1sp4aXjtYgx4tCWNiK.jpg" group-title="F • Clássicos",Duro de Matar (1988)
+http://tvget.live:80/movie/epg/epg/1386690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cinco Invencíveis (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E6YkhGx3b2gvBF3FzULpU6jmPh.jpg" group-title="F • Clássicos",Os Cinco Invencíveis (1981)
+http://tvget.live:80/movie/epg/epg/1386691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Django (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYsDq0fTMC1XuEg63NOXfxzHBJY.jpg" group-title="F • Clássicos",Django (1966)
+http://tvget.live:80/movie/epg/epg/1386692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Goonies (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YGlQxEzEqQ5VYj64NvzbItXKPX.jpg" group-title="F • Clássicos",Os Goonies (1985)
+http://tvget.live:80/movie/epg/epg/1386693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Poderosa Afrodite (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1OA7BNHKHWE6cHnF0WcnUTtxSF.jpg" group-title="F • Clássicos",Poderosa Afrodite (1995)
+http://tvget.live:80/movie/epg/epg/1386694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corrida em Busca do Amor (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="F • Clássicos",Corrida em Busca do Amor (1972)
+http://tvget.live:80/movie/epg/epg/1386695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Campo dos Sonhos (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKMDWgdOVCMR11lH3RYB2VnR8YV.jpg" group-title="F • Clássicos",Campo dos Sonhos (1989)
+http://tvget.live:80/movie/epg/epg/1386696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Ninja: Guerreiro Americano (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krou0du5PObaJizEmCWSPCSZzoq.jpg" group-title="F • Clássicos",American Ninja: Guerreiro Americano (1985)
+http://tvget.live:80/movie/epg/epg/1386697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Região do Ódio (1954)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cgOpeLGPTsSlYbbcFKS7DHTaXF6.jpg" group-title="F • Clássicos",Região do Ódio (1954)
+http://tvget.live:80/movie/epg/epg/1386698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Gatinha Boa de Bola (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j31uGMR373sHmpPd6wIKcDmDFUA.jpg" group-title="F • Clássicos",Uma Gatinha Boa de Bola (1986)
+http://tvget.live:80/movie/epg/epg/1386699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mestres do Universo (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwJJg4WQvx8jLF55vNgQjqXJ4Qr.jpg" group-title="F • Clássicos",Mestres do Universo (1987)
+http://tvget.live:80/movie/epg/epg/1386700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Ninja 5: O Pequeno Ninja (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rpgZLSclQYO2CacduMlYajmbCg.jpg" group-title="F • Clássicos",American Ninja 5: O Pequeno Ninja (1993)
+http://tvget.live:80/movie/epg/epg/1386701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raízes da Ambição (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39fQQ7DBuG1pUceNVmbGkRyKskK.jpg" group-title="F • Clássicos",Raízes da Ambição (1978)
+http://tvget.live:80/movie/epg/epg/1386702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 Fantasmas (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVcigGnXNtYQoBAhTWGAS9o03jc.jpg" group-title="F • Clássicos",13 Fantasmas (2001)
+http://tvget.live:80/movie/epg/epg/1386703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lassie: A Força do Coração (1943)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8PwuoH4Mo0lAa9cqmwnjK8PSWV.jpg" group-title="F • Clássicos",Lassie: A Força do Coração (1943)
+http://tvget.live:80/movie/epg/epg/1386704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Caça-Fantasmas 2 (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hacjLeFkaqtsb3r9waXUeSoPUnn.jpg" group-title="F • Clássicos",Os Caça-Fantasmas 2 (1989)
+http://tvget.live:80/movie/epg/epg/1386705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky Balboa (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74fsV2oCO5fpv4kXgxXQCiRzyAU.jpg" group-title="F • Clássicos",Rocky Balboa (2006)
+http://tvget.live:80/movie/epg/epg/1386706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera 4 (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6f2IQoZl2vwT95AaCQz6EgYQ7sL.jpg" group-title="F • Clássicos",Máquina Mortífera 4 (1998)
+http://tvget.live:80/movie/epg/epg/1386707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chad Hanna (1940)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0gOb25QyYb3zR8KPyG4xX46WZb.jpg" group-title="F • Clássicos",Chad Hanna (1940)
+http://tvget.live:80/movie/epg/epg/1386708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 2: A Vingança de Freddy (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8McrcYLGX6Cn6QcrFgXQnnffFnm.jpg" group-title="F • Clássicos",A Hora do Pesadelo 2: A Vingança de Freddy (1985)
+http://tvget.live:80/movie/epg/epg/1386709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Essas Garotas (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hORLWsFsU2alaqELm0Qc39egEsJ.jpg" group-title="F • Clássicos",Essas Garotas (1988)
+http://tvget.live:80/movie/epg/epg/1386710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cyborg: O Dragão do Futuro (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EDL970loaMozKVT36ovPFf9tRD.jpg" group-title="F • Clássicos",Cyborg: O Dragão do Futuro (1989)
+http://tvget.live:80/movie/epg/epg/1386711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wild Bill (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KKZ8NNVVXfURBeXXw2BrZhHjb4.jpg" group-title="F • Clássicos",Wild Bill (2011)
+http://tvget.live:80/movie/epg/epg/1386712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragão Vermelho (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGkQ90ZA8OZHrlRdkljvPtMjRaK.jpg" group-title="F • Clássicos",Dragão Vermelho (2002)
+http://tvget.live:80/movie/epg/epg/1386713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Se Meu Fusca Falasse (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAPiPlFQwBTYPIq30fxFKlTZ24d.jpg" group-title="F • Clássicos",Se Meu Fusca Falasse (1968)
+http://tvget.live:80/movie/epg/epg/1386714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Escola da Vida (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPHUbIyybXzDaW8197y55aIRRfv.jpg" group-title="F • Clássicos",Na Escola da Vida (1983)
+http://tvget.live:80/movie/epg/epg/1386715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corrida Silenciosa (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ss4xx1KjGxkO5eJP96o8rOqAW3V.jpg" group-title="F • Clássicos",Corrida Silenciosa (1972)
+http://tvget.live:80/movie/epg/epg/1386716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Taberna do Inferno (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tF3YenU48fn1Ml0AMRvsG6nSP9V.jpg" group-title="F • Clássicos",A Taberna do Inferno (1978)
+http://tvget.live:80/movie/epg/epg/1386717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cemitério Maldito 2 (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcNAEV1Wak6ZyLwxvEbKW46xBWl.jpg" group-title="F • Clássicos",Cemitério Maldito 2 (1992)
+http://tvget.live:80/movie/epg/epg/1386718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trama Macabra (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aowHvi230KNvagaZGyYUCjJpR6u.jpg" group-title="F • Clássicos",Trama Macabra (1976)
+http://tvget.live:80/movie/epg/epg/1386719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capone (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75gDv38UgRtAukSxNXcjatyQmEa.jpg" group-title="F • Clássicos",Capone (2020)
+http://tvget.live:80/movie/epg/epg/1386720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loucademia de Polícia (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZUNkWNoqogFqhlgl8L517xeQSL.jpg" group-title="F • Clássicos",Loucademia de Polícia (1984)
+http://tvget.live:80/movie/epg/epg/1386721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Calhambeque Mágico (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjCleA4UHJKwgM5TFVOofXsxJGb.jpg" group-title="F • Clássicos",O Calhambeque Mágico (1968)
+http://tvget.live:80/movie/epg/epg/1386722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perseguição Mortal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cj6YmTAU7Jvn3w6d2NfjQzpX7Pw.jpg" group-title="F • Clássicos",Perseguição Mortal (2022)
+http://tvget.live:80/movie/epg/epg/1386723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Dois Super-Tiras em Miami (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78Upz7UwbYSJw0orKFMgX9cjiCN.jpg" group-title="F • Clássicos",Os Dois Super-Tiras em Miami (1985)
+http://tvget.live:80/movie/epg/epg/1386724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bebê de Rosemary (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9OaZXIFgAmgYPDcs06kks0c1Fr.jpg" group-title="F • Clássicos",O Bebê de Rosemary (1968)
+http://tvget.live:80/movie/epg/epg/1386725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tarde Demais para Esquecer (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUc4YWfDHvfUx5A7ySZ2U3lRzbC.jpg" group-title="F • Clássicos",Tarde Demais para Esquecer (1957)
+http://tvget.live:80/movie/epg/epg/1386726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Volta para o Futuro (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egrTG3M5KhO5E6nfgGLtUYeuERn.jpg" group-title="F • Clássicos",De Volta para o Futuro (1985)
+http://tvget.live:80/movie/epg/epg/1386727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Só Resta a Esperança (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xjA8VPLNU4FCE1LN5DkJ1fa2Td.jpg" group-title="F • Clássicos",Só Resta a Esperança (1987)
+http://tvget.live:80/movie/epg/epg/1386728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nasce uma Estrela (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8CNgb0AtZz7CSORffdwODK66iK.jpg" group-title="F • Clássicos",Nasce uma Estrela (2018)
+http://tvget.live:80/movie/epg/epg/1386729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cujo (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YB6GOozuJpDqlBR1kLEnwAILm9.jpg" group-title="F • Clássicos",Cujo (1983)
+http://tvget.live:80/movie/epg/epg/1386730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Juventude de Butch Cassidy (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aATCHEaorEJxe4QTUXjceuKQwDi.jpg" group-title="F • Clássicos",A Juventude de Butch Cassidy (1979)
+http://tvget.live:80/movie/epg/epg/1386731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Police Story: A Guerra das Drogas (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xT1ukY1zDksLbSX2eeguXi7TRK.jpg" group-title="F • Clássicos",Police Story: A Guerra das Drogas (1985)
+http://tvget.live:80/movie/epg/epg/1386732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Menino do Rio (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tvC9EPzr2RDakOsulnJrLiJnyF.jpg" group-title="F • Clássicos",Menino do Rio (1982)
+http://tvget.live:80/movie/epg/epg/1386733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loucademia de Polícia 6: Cidade em Estado de Sítio (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjWmXHqEshFUCS2LwyPp9PI4XjO.jpg" group-title="F • Clássicos",Loucademia de Polícia 6: Cidade em Estado de Sítio (1989)
+http://tvget.live:80/movie/epg/epg/1386734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky III: O Desafio Supremo (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBNk3DDAEqPXEdDl6XlLEE3U4RR.jpg" group-title="F • Clássicos",Rocky III: O Desafio Supremo (1982)
+http://tvget.live:80/movie/epg/epg/1386735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Primeiros Homens na Lua (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2PFsFokhDTuG2kouFBKuiJ22z6.jpg" group-title="F • Clássicos",Os Primeiros Homens na Lua (1964)
+http://tvget.live:80/movie/epg/epg/1386736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Espanto 2 (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whMgDO52v23QeWhMyDki5a3mgpu.jpg" group-title="F • Clássicos",A Hora do Espanto 2 (1988)
+http://tvget.live:80/movie/epg/epg/1386737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Conquista do Oeste (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6Jnu6ViAsI42VF0Qv8XtNbtxx5.jpg" group-title="F • Clássicos",A Conquista do Oeste (1962)
+http://tvget.live:80/movie/epg/epg/1386738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Massacre de Chicago (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNESk6Y5ViKmbOHPocKkatGbNb5.jpg" group-title="F • Clássicos",O Massacre de Chicago (1967)
+http://tvget.live:80/movie/epg/epg/1386739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Doze Condenados (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djGA2A1DuP8YYIkLmeiMzIgC9B9.jpg" group-title="F • Clássicos",Os Doze Condenados (1967)
+http://tvget.live:80/movie/epg/epg/1386740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Super Fly (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCj4IZ9l8NfOEiM4zHq3BRF2LzX.jpg" group-title="F • Clássicos",Super Fly (1972)
+http://tvget.live:80/movie/epg/epg/1386741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnaval no Fogo (1949)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jI4ANv9bOXCoVgoQqhaFqSZVkGR.jpg" group-title="F • Clássicos",Carnaval no Fogo (1949)
+http://tvget.live:80/movie/epg/epg/1386742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Náufragos do Titanic (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEPzO9I6LCk6Mxg1X4BsBk6oA3V.jpg" group-title="F • Clássicos",Náufragos do Titanic (1953)
+http://tvget.live:80/movie/epg/epg/1386743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Modelos Para Matar aka Vingança Macabra (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o87a6EEv01AM4gXoDdrFexIObXM.jpg" group-title="F • Clássicos",Modelos Para Matar aka Vingança Macabra (1979)
+http://tvget.live:80/movie/epg/epg/1386744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Caça-Fantasmas (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RjSQGuqwY2kqpNN7ibono0e1Cc.jpg" group-title="F • Clássicos",Os Caça-Fantasmas (1984)
+http://tvget.live:80/movie/epg/epg/1386745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem de Papel (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="F • Clássicos",O Homem de Papel (1976)
+http://tvget.live:80/movie/epg/epg/1386746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Ninja 4: O Grande Kickboxer Americano (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTI8NOoHZ5db34uu48inlXF5AKV.jpg" group-title="F • Clássicos",American Ninja 4: O Grande Kickboxer Americano (1990)
+http://tvget.live:80/movie/epg/epg/1386747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sexo (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thzaTeq3H68VrDUgEO9SKpDEQX2.jpg" group-title="F • Clássicos",Sexo (2001)
+http://tvget.live:80/movie/epg/epg/1386748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colheita Maldita 3: A Colheita Urbana (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oI0XvaZwmSDpTkJHuLCEO4so9Dk.jpg" group-title="F • Clássicos",Colheita Maldita 3: A Colheita Urbana (1995)
+http://tvget.live:80/movie/epg/epg/1386749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cruz e o Punhal (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYMz0xZQ7ZoPl7kJm7HEmwRP0hh.jpg" group-title="F • Clássicos",A Cruz e o Punhal (1970)
+http://tvget.live:80/movie/epg/epg/1386750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hellraiser II: Renascido das Trevas (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3R4m4O9X2jkYMsEY5LNpUSg7TLj.jpg" group-title="F • Clássicos",Hellraiser II: Renascido das Trevas (1988)
+http://tvget.live:80/movie/epg/epg/1386751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Nova Fúria do Dragão (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ftGge6Ak0TUu9YxQSYkfaowdvD.jpg" group-title="F • Clássicos",A Nova Fúria do Dragão (1976)
+http://tvget.live:80/movie/epg/epg/1386752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida de Brian (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zg9mTQqvf2Qava6KDzISVyZrPr.jpg" group-title="F • Clássicos",A Vida de Brian (1979)
+http://tvget.live:80/movie/epg/epg/1386753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Dois Indomáveis (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xi86WQgEfPEADexlsyCxyEhyonC.jpg" group-title="F • Clássicos",Os Dois Indomáveis (1971)
+http://tvget.live:80/movie/epg/epg/1386754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doutor Jivago (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xG9sb3Hq8SUy6hOq3AYHbBzVFKf.jpg" group-title="F • Clássicos",Doutor Jivago (1965)
+http://tvget.live:80/movie/epg/epg/1386755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sommersby: O Retorno de um Estranho (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAgQKLv0GK97Tr0bvdI66oXlEVb.jpg" group-title="F • Clássicos",Sommersby: O Retorno de um Estranho (1993)
+http://tvget.live:80/movie/epg/epg/1386756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Volta para o Futuro III (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/unnPJBVNTRDYuBgAdETlyLJ6hP9.jpg" group-title="F • Clássicos",De Volta para o Futuro III (1990)
+http://tvget.live:80/movie/epg/epg/1386757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="À Procura de Mr. Goodbar (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAivSeq1nNwSBIbM8zZGz6GXa9t.jpg" group-title="F • Clássicos",À Procura de Mr. Goodbar (1977)
+http://tvget.live:80/movie/epg/epg/1386758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gosto de Sangue (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTudHjeDpVAxARQGNSvb3dcEhVy.jpg" group-title="F • Clássicos",Gosto de Sangue (1984)
+http://tvget.live:80/movie/epg/epg/1386759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Expresso de Chicago (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDQhbuAJ7H5QXFTjyJhNcv7GL2b.jpg" group-title="F • Clássicos",O Expresso de Chicago (1976)
+http://tvget.live:80/movie/epg/epg/1386760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Escândalo da Princesa (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SGZGMxFhaHU0gu6RDWtFlFgkif.jpg" group-title="F • Clássicos",O Escândalo da Princesa (1960)
+http://tvget.live:80/movie/epg/epg/1386761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Praga Infernal (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcGZcDb62IdfIKVsVIezKQy9l15.jpg" group-title="F • Clássicos",Praga Infernal (1975)
+http://tvget.live:80/movie/epg/epg/1386762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bom Dia (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2aa1cI3OwmpYGYYxZSHvaQrGRNk.jpg" group-title="F • Clássicos",Bom Dia (1959)
+http://tvget.live:80/movie/epg/epg/1386763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Por Amor ou Por Dinheiro? (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLwlbYYJzywFqrYusrqgn3smc4U.jpg" group-title="F • Clássicos",Por Amor ou Por Dinheiro? (2005)
+http://tvget.live:80/movie/epg/epg/1386764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Errado (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ALmSTLhVyhJQdJat1Qs7vpLkIY.jpg" group-title="F • Clássicos",O Homem Errado (1956)
+http://tvget.live:80/movie/epg/epg/1386765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Ninja 3: Caçada de Sangue (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hzNG9iJidj1VoDmJkQ4LdO1T78.jpg" group-title="F • Clássicos",American Ninja 3: Caçada de Sangue (1989)
+http://tvget.live:80/movie/epg/epg/1386766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flash Gordon (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5PyiSSJ6lVsY8IbmPHBo1sp596h.jpg" group-title="F • Clássicos",Flash Gordon (1980)
+http://tvget.live:80/movie/epg/epg/1386767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerra nas Estrelas (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dw7X9YPjjAfIxKHW04V64Bb9TB0.jpg" group-title="F • Clássicos",Guerra nas Estrelas (1977)
+http://tvget.live:80/movie/epg/epg/1386768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gigolô Americano (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTIm3Ii62foR0i4rCdtOB6SNrkn.jpg" group-title="F • Clássicos",Gigolô Americano (1980)
+http://tvget.live:80/movie/epg/epg/1386769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Quarto Sábio (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Z8AYuaooPJwJWwawcj1YqUhkRx.jpg" group-title="F • Clássicos",O Quarto Sábio (1985)
+http://tvget.live:80/movie/epg/epg/1386770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barra Pesada (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYzK2t5Rqww4Vj7VCe786MFyQIy.jpg" group-title="F • Clássicos",Barra Pesada (1998)
+http://tvget.live:80/movie/epg/epg/1386771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moscou Contra 007 (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x06hUBmBeExMSs4Zot2V8Y3R24t.jpg" group-title="F • Clássicos",Moscou Contra 007 (1963)
+http://tvget.live:80/movie/epg/epg/1386772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bruma Assassina (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5csQ2xDDzT0nems52fcx1IHQvcK.jpg" group-title="F • Clássicos",A Bruma Assassina (1980)
+http://tvget.live:80/movie/epg/epg/1386773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hellraiser VII: O Retorno dos Mortos (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ljHM1MymU6CZBkmhIOsnq58HH9.jpg" group-title="F • Clássicos",Hellraiser VII: O Retorno dos Mortos (2005)
+http://tvget.live:80/movie/epg/epg/1386774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amargo Regresso (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnzOGO1LyeIEmjJgcjf7gt7Vdy4.jpg" group-title="F • Clássicos",Amargo Regresso (1978)
+http://tvget.live:80/movie/epg/epg/1386775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luz na Praça (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMG55defZjLOeZtafPX3Ec8Cfrn.jpg" group-title="F • Clássicos",Luz na Praça (1962)
+http://tvget.live:80/movie/epg/epg/1386776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halloween: O Início (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIoDPmYR9xSkQIUjqmjmu290lLW.jpg" group-title="F • Clássicos",Halloween: O Início (2007)
+http://tvget.live:80/movie/epg/epg/1386777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Busca Frenética (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aghOMI09eDrfOoZhcaTp3uNl5l9.jpg" group-title="F • Clássicos",Busca Frenética (1988)
+http://tvget.live:80/movie/epg/epg/1386778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogos de Guerra (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wp0pKfyNhAE2EgWapYWNl5Zm4v5.jpg" group-title="F • Clássicos",Jogos de Guerra (1983)
+http://tvget.live:80/movie/epg/epg/1386779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Serpente (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTPZuW98WFbVfWlpSn1TikSpZP2.jpg" group-title="F • Clássicos",A Serpente (2016)
+http://tvget.live:80/movie/epg/epg/1386780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ruas de Fogo (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyZGS5fsfZgfk6aQMYcX4HodZ1z.jpg" group-title="F • Clássicos",Ruas de Fogo (1984)
+http://tvget.live:80/movie/epg/epg/1386781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerra e Humanidade III: Uma Prece de Soldado (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkRDYYEStn8Lb0MTMxVyl5bNvTP.jpg" group-title="F • Clássicos",Guerra e Humanidade III: Uma Prece de Soldado (1961)
+http://tvget.live:80/movie/epg/epg/1386782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quadrinhos no Brasil (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvgS6erfUN8eTf2AUbSzMwtNL6v.jpg" group-title="F • Clássicos",Quadrinhos no Brasil (1969)
+http://tvget.live:80/movie/epg/epg/1386783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rogues Of Sherwood Forest (1950)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1B45sWxziX9jn4MDu8HpLWXhRj.jpg" group-title="F • Clássicos",Rogues Of Sherwood Forest (1950)
+http://tvget.live:80/movie/epg/epg/1386784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Noiva e Tanto (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8Q3MwOUTDfy9wYAGGX64xZ1iLv.jpg" group-title="F • Clássicos",Uma Noiva e Tanto (1993)
+http://tvget.live:80/movie/epg/epg/1386785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Se Don Juan Fosse Mulher (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htBDnXUIAEMukMMkbehTegrXYkJ.jpg" group-title="F • Clássicos",Se Don Juan Fosse Mulher (1973)
+http://tvget.live:80/movie/epg/epg/1386786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Menino da Bolha de Plástico (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbTnGQZZ0msG2HOvKbSTGTMcG1c.jpg" group-title="F • Clássicos",O Menino da Bolha de Plástico (1976)
+http://tvget.live:80/movie/epg/epg/1386787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rambo III (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxzoYPjVa9pKL3fOejP3fPJTPpl.jpg" group-title="F • Clássicos",Rambo III (1988)
+http://tvget.live:80/movie/epg/epg/1386788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vidas Secas (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ag7TYDyQ1IoHzaegGr0cooiy8Xu.jpg" group-title="F • Clássicos",Vidas Secas (1963)
+http://tvget.live:80/movie/epg/epg/1386789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contrato Para Matar (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbGf7VXP2A3oYrKsx5x7OKXxzw3.jpg" group-title="F • Clássicos",Contrato Para Matar (1977)
+http://tvget.live:80/movie/epg/epg/1386790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quanto Mais Quente Melhor (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmaiDTzvS9OCqgKRqG5nEQFIZeS.jpg" group-title="F • Clássicos",Quanto Mais Quente Melhor (1959)
+http://tvget.live:80/movie/epg/epg/1386791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anatomia de um crime (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXZBRVcDPPX5HWODNiYFcG264p4.jpg" group-title="F • Clássicos",Anatomia de um crime (1959)
+http://tvget.live:80/movie/epg/epg/1386792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Monstro do Armário (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFpF2BHoQw7ogQqfI80REV16SKg.jpg" group-title="F • Clássicos",O Monstro do Armário (1986)
+http://tvget.live:80/movie/epg/epg/1386793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tempos Modernos (1936)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJoaoYiBgAEUWa7RfihTrMMIurD.jpg" group-title="F • Clássicos",Tempos Modernos (1936)
+http://tvget.live:80/movie/epg/epg/1386794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estrela de Fogo (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crFcwTHch2s5zjL1ZNm89SDwVdt.jpg" group-title="F • Clássicos",Estrela de Fogo (1960)
+http://tvget.live:80/movie/epg/epg/1386795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Beautiful Blonde from Bashful Bend (1949)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1KfxkEjXD69aFSzHKnfeY5alZU.jpg" group-title="F • Clássicos",The Beautiful Blonde from Bashful Bend (1949)
+http://tvget.live:80/movie/epg/epg/1386796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Dragão Branco (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mVz0Hj92bGYpnyLgKUC6Zqueon.jpg" group-title="F • Clássicos",O Grande Dragão Branco (1988)
+http://tvget.live:80/movie/epg/epg/1386797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Cliente (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qs2Bacljc1ihbB2gpjsWK3EKshd.jpg" group-title="F • Clássicos",O Cliente (1994)
+http://tvget.live:80/movie/epg/epg/1386798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luar Sobre Parador (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqRNz3TgccDJqFE3AU1YExb5NSq.jpg" group-title="F • Clássicos",Luar Sobre Parador (1988)
+http://tvget.live:80/movie/epg/epg/1386799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Que É Que Há Gatinha? (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/seKbiGx8mjF04Bx4LVBQk741Eqv.jpg" group-title="F • Clássicos",O Que É Que Há Gatinha? (1965)
+http://tvget.live:80/movie/epg/epg/1386800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wonder Women (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxTFSLmbqRa8p8RiXNTEdZFh7QK.jpg" group-title="F • Clássicos",Wonder Women (1973)
+http://tvget.live:80/movie/epg/epg/1386801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ir ao Mar (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vp66UHpVSdJAViKgbzvdIX2dKbb.jpg" group-title="F • Clássicos",Ir ao Mar (1989)
+http://tvget.live:80/movie/epg/epg/1386802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Com 007 Viva e Deixe Morrer (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uz2oenTkYwKuaXgHkdb15UT7c3o.jpg" group-title="F • Clássicos",Com 007 Viva e Deixe Morrer (1973)
+http://tvget.live:80/movie/epg/epg/1386803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Recrutas da Pesada (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygtibqMpaK4Mhzz9EtKRAwEVrfM.jpg" group-title="F • Clássicos",Recrutas da Pesada (1981)
+http://tvget.live:80/movie/epg/epg/1386804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hellraiser: O Julgamento (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZb5TPQoMPSfoafUW9cDzBCuKRV.jpg" group-title="F • Clássicos",Hellraiser: O Julgamento (2018)
+http://tvget.live:80/movie/epg/epg/1386805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidadão Kane (1941)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLp8GbgdOExNdmXLeDddWXJxIwr.jpg" group-title="F • Clássicos",Cidadão Kane (1941)
+http://tvget.live:80/movie/epg/epg/1386806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Noite na Ópera (1935)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPUGLM7HYzqPa3uJ6V6HztJj0XC.jpg" group-title="F • Clássicos",Uma Noite na Ópera (1935)
+http://tvget.live:80/movie/epg/epg/1386807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Metido em Encrencas (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jz9ALPaROE4v7eFmJrn5vjKvw5x.jpg" group-title="F • Clássicos",Metido em Encrencas (1988)
+http://tvget.live:80/movie/epg/epg/1386808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky V (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMAdgsZd50sARk7EpSRaL34hoMc.jpg" group-title="F • Clássicos",Rocky V (1990)
+http://tvget.live:80/movie/epg/epg/1386809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Amigo Harvey (1950)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxOAa4eLz1avpa956znqceeMhk8.jpg" group-title="F • Clássicos",Meu Amigo Harvey (1950)
+http://tvget.live:80/movie/epg/epg/1386810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Homem Fora de Série (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDatmlOWle3gXnSN8rnob3PHKgL.jpg" group-title="F • Clássicos",Um Homem Fora de Série (1984)
+http://tvget.live:80/movie/epg/epg/1386811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Scarlet Pimpernel (1934)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sPfawJsdTnlmdNmPHrsOA9bx2I.jpg" group-title="F • Clássicos",The Scarlet Pimpernel (1934)
+http://tvget.live:80/movie/epg/epg/1386812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ewoks:  A Batalha de Endor (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmiu6FQsFZCtBZlzcnn5vbUG5CW.jpg" group-title="F • Clássicos",Ewoks:  A Batalha de Endor (1985)
+http://tvget.live:80/movie/epg/epg/1386813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dirty Harry na Lista Negra (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HZ1C8W0n9zLG2iznlbBpq5hHyG.jpg" group-title="F • Clássicos",Dirty Harry na Lista Negra (1988)
+http://tvget.live:80/movie/epg/epg/1386814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fúria Cega (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6v8xwGriYLxyJc0AiQFX3cx6r9l.jpg" group-title="F • Clássicos",Fúria Cega (1989)
+http://tvget.live:80/movie/epg/epg/1386815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brinquedo Assassino (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdnXDnuAWIc9pwobTQ5XknlcbbS.jpg" group-title="F • Clássicos",Brinquedo Assassino (1988)
+http://tvget.live:80/movie/epg/epg/1386816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Enigma de Outro Mundo (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCFQv7cUZUVoW9w0Tb6QSC69lSa.jpg" group-title="F • Clássicos",O Enigma de Outro Mundo (1982)
+http://tvget.live:80/movie/epg/epg/1386817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cara do Pai (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFmDrQ3yHENKHhfk3LH1wClhN14.jpg" group-title="F • Clássicos",A Cara do Pai (1981)
+http://tvget.live:80/movie/epg/epg/1386818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Prisioneiro de Zenda (1937)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvMF7iljOgOXLvkVsWGr5GrPE4j.jpg" group-title="F • Clássicos",O Prisioneiro de Zenda (1937)
+http://tvget.live:80/movie/epg/epg/1386819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cactus Jack (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27LNHdQfT130klWwdT5uiYhGHLT.jpg" group-title="F • Clássicos",Cactus Jack (2021)
+http://tvget.live:80/movie/epg/epg/1386820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 4: O Mestre dos Sonhos (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/HNZR6ndiLkaQlAdovVDVTl1LgL.jpg" group-title="F • Clássicos",A Hora do Pesadelo 4: O Mestre dos Sonhos (1988)
+http://tvget.live:80/movie/epg/epg/1386821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Punhos de Aço: Um Lutador de Rua (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80ZklXQdW17caBBXqfAuTy6mFhh.jpg" group-title="F • Clássicos",Punhos de Aço: Um Lutador de Rua (1980)
+http://tvget.live:80/movie/epg/epg/1386822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loucademia de Polícia 4: O Cidadão se Defende (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBkIktnJGKHIQLHRa8V7ByKJscA.jpg" group-title="F • Clássicos",Loucademia de Polícia 4: O Cidadão se Defende (1987)
+http://tvget.live:80/movie/epg/epg/1386823.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogo Perverso (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXoESA5tfxmCZjIhjiyLX5rjUyT.jpg" group-title="F • Clássicos",Jogo Perverso (1990)
+http://tvget.live:80/movie/epg/epg/1386824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Laranja Mecânica (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEPSMCXtUD3qoJvw7Jf4Gjsutw1.jpg" group-title="F • Clássicos",Laranja Mecânica (1971)
+http://tvget.live:80/movie/epg/epg/1386825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Milagre de Anne Sullivan (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9oLw5LXs4OlH3O3iAr417UcCXW.jpg" group-title="F • Clássicos",O Milagre de Anne Sullivan (1962)
+http://tvget.live:80/movie/epg/epg/1386826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Creepshow 2: Show de Horrores (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKO5wg4Lmcj1yBEl5hrM0Fnzuz0.jpg" group-title="F • Clássicos",Creepshow 2: Show de Horrores (1987)
+http://tvget.live:80/movie/epg/epg/1386827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Rua Chamada Pecado (1951)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwNvNjuOW9OCBOdPy32B7QYy5un.jpg" group-title="F • Clássicos",Uma Rua Chamada Pecado (1951)
+http://tvget.live:80/movie/epg/epg/1386828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky II: A Revanche (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkZ7uAeA37bLS5cos8w8uEF8K5b.jpg" group-title="F • Clássicos",Rocky II: A Revanche (1979)
+http://tvget.live:80/movie/epg/epg/1386829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Gangue da Tortinha de Maça (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtH1cXvZ0MERiytCm1MsqQ5laW5.jpg" group-title="F • Clássicos",A Gangue da Tortinha de Maça (1975)
+http://tvget.live:80/movie/epg/epg/1386830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Faça a Coisa Certa (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1WAtju1LpxB7m7QZOcXbTBHc0TN.jpg" group-title="F • Clássicos",Faça a Coisa Certa (1989)
+http://tvget.live:80/movie/epg/epg/1386831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Metamorphosis: Mutação Alienígena (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cx8mDA9Pb6HmyZ0bHQ71JN8OAMO.jpg" group-title="F • Clássicos",Metamorphosis: Mutação Alienígena (1993)
+http://tvget.live:80/movie/epg/epg/1386832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contatos Imediatos do Terceiro Grau (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXO1HXjuzZ4u1ZB1GuPHIDg5PSR.jpg" group-title="F • Clássicos",Contatos Imediatos do Terceiro Grau (1977)
+http://tvget.live:80/movie/epg/epg/1386833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conduzindo Miss Daisy (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FB6xnmvtW2vT1t4mKb5vs7JiE.jpg" group-title="F • Clássicos",Conduzindo Miss Daisy (1989)
+http://tvget.live:80/movie/epg/epg/1386834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quando é Preciso Ser Homem (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w46uDGfNsbaXVBhTNjHIzaeJhkl.jpg" group-title="F • Clássicos",Quando é Preciso Ser Homem (1970)
+http://tvget.live:80/movie/epg/epg/1386835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halloween H20: Vinte Anos Depois (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLWjQASwYGghD7gWxvt9BYwSwgW.jpg" group-title="F • Clássicos",Halloween H20: Vinte Anos Depois (1998)
+http://tvget.live:80/movie/epg/epg/1386836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Sol é Para Todos (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIsxcjmJW7ykIHJDuB2NqJUChIZ.jpg" group-title="F • Clássicos",O Sol é Para Todos (1962)
+http://tvget.live:80/movie/epg/epg/1386837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cuidado com Meu Guarda-Costas (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5x16VwAR8dVIVdKpM3AsZIzvTdG.jpg" group-title="F • Clássicos",Cuidado com Meu Guarda-Costas (1980)
+http://tvget.live:80/movie/epg/epg/1386838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7 Pistolas para os MacGregor (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tz2tRc4KE3vlWJmbpsZbJmxK10E.jpg" group-title="F • Clássicos",7 Pistolas para os MacGregor (1966)
+http://tvget.live:80/movie/epg/epg/1386839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Resgate do Titanic (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FuZ0DqR8lGPp9wIcQiKdxQHvHa.jpg" group-title="F • Clássicos",O Resgate do Titanic (1980)
+http://tvget.live:80/movie/epg/epg/1386840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem do Sapato Vermelho (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOQlbbxpGz07nq2hg5BYmWApR4W.jpg" group-title="F • Clássicos",O Homem do Sapato Vermelho (1985)
+http://tvget.live:80/movie/epg/epg/1386841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cavalgada dos Proscritos (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ij5tGpFDYqtL0dfOusO4Y2RHmsw.jpg" group-title="F • Clássicos",Cavalgada dos Proscritos (1980)
+http://tvget.live:80/movie/epg/epg/1386842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hellraiser: Revelações (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kpVCOl8XwuyalvVCIDLfth2rsR0.jpg" group-title="F • Clássicos",Hellraiser: Revelações (2011)
+http://tvget.live:80/movie/epg/epg/1386843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lobos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSucDXSl15c3AL1Qr79yIJUbZe7.jpg" group-title="F • Clássicos",Lobos (2019)
+http://tvget.live:80/movie/epg/epg/1386844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mad Max: Além da Cúpula do Trovão (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/71on6zQ8xHuKilxzs9Jd3xL4Jsa.jpg" group-title="F • Clássicos",Mad Max: Além da Cúpula do Trovão (1985)
+http://tvget.live:80/movie/epg/epg/1386845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chumbo Quente (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLH1wHLIXI8ejirfE31HGaFhmX4.jpg" group-title="F • Clássicos",Chumbo Quente (1972)
+http://tvget.live:80/movie/epg/epg/1386846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patolino em Os Caça Fantasmas (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2op0542aMkfq8la0JinfCLEDEXL.jpg" group-title="F • Clássicos",Patolino em Os Caça Fantasmas (1988)
+http://tvget.live:80/movie/epg/epg/1386847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Russos Estão Chegando! Os Russos Estão Chegando! (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRGeIp9MOAfFHH3Exr5Ago7hEuq.jpg" group-title="F • Clássicos",Os Russos Estão Chegando! Os Russos Estão Chegando! (1966)
+http://tvget.live:80/movie/epg/epg/1386848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Coração do Perigo (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdPGmQdr8hr41K2LKFUzEGBHzbQ.jpg" group-title="F • Clássicos",No Coração do Perigo (1984)
+http://tvget.live:80/movie/epg/epg/1386849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Céu se Enganou (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wabiqh9PejPf2lFDnxx8FfiPYdC.jpg" group-title="F • Clássicos",O Céu se Enganou (1989)
+http://tvget.live:80/movie/epg/epg/1386850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Surf no Hawaí (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHf9otrqXsOInEsCfupkP8LFXZH.jpg" group-title="F • Clássicos",Surf no Hawaí (1987)
+http://tvget.live:80/movie/epg/epg/1386851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Donos da Rua (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGcu4OVFf3r1oXwlafar7eyG9Tu.jpg" group-title="F • Clássicos",Os Donos da Rua (1991)
+http://tvget.live:80/movie/epg/epg/1386852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casablanca (1943)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg" group-title="F • Clássicos",Casablanca (1943)
+http://tvget.live:80/movie/epg/epg/1386853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cemitério Maldito (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5sBCDm9sFRS2LmlvBH7381Q53Wm.jpg" group-title="F • Clássicos",Cemitério Maldito (1989)
+http://tvget.live:80/movie/epg/epg/1386854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kickboxer: O Desafio do Dragão (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIgP4t0DPc67hBxNioKt6HbdmV2.jpg" group-title="F • Clássicos",Kickboxer: O Desafio do Dragão (1989)
+http://tvget.live:80/movie/epg/epg/1386855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bolha Assassina (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHVFeoVN0UvzjpDnGNWx9f2scUZ.jpg" group-title="F • Clássicos",A Bolha Assassina (1988)
+http://tvget.live:80/movie/epg/epg/1386856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tubarão 2 (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPO2Aelw74dXF1P8FZsHA0GgKQ1.jpg" group-title="F • Clássicos",Tubarão 2 (1978)
+http://tvget.live:80/movie/epg/epg/1386857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mundo Perdido (1925)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eSeJ8eg9vv8c91KGeeY4fl8zSK.jpg" group-title="F • Clássicos",O Mundo Perdido (1925)
+http://tvget.live:80/movie/epg/epg/1386858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Destino (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BiyKm5OYFYd9fTP6Llj8GLE90S.jpg" group-title="F • Clássicos",Sem Destino (1969)
+http://tvget.live:80/movie/epg/epg/1386859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="À Meia Noite Levarei Sua Alma (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/feLS7D7rTb0BqqygSVxAmf9wThp.jpg" group-title="F • Clássicos",À Meia Noite Levarei Sua Alma (1964)
+http://tvget.live:80/movie/epg/epg/1386860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha do Planeta dos Macacos (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rq6MQqiUR0hOMW9kpV1YLMbsq7E.jpg" group-title="F • Clássicos",A Batalha do Planeta dos Macacos (1973)
+http://tvget.live:80/movie/epg/epg/1386861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem de Palha (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eDub2VaMdy8mntxwGTE63g388q.jpg" group-title="F • Clássicos",O Homem de Palha (1973)
+http://tvget.live:80/movie/epg/epg/1386862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Robô em Curto Circuito (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5IOdsnPPaDtE3paa04HlkMZGA7e.jpg" group-title="F • Clássicos",Um Robô em Curto Circuito (1986)
+http://tvget.live:80/movie/epg/epg/1386863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 5: O Maior Horror de Freddy (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dixCFe1reuGK7Y0FvHfaKUE0IE.jpg" group-title="F • Clássicos",A Hora do Pesadelo 5: O Maior Horror de Freddy (1989)
+http://tvget.live:80/movie/epg/epg/1386864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excesso de Bagagem (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiGBneH1tfJpj6100qFB18R0vCB.jpg" group-title="F • Clássicos",Excesso de Bagagem (1997)
+http://tvget.live:80/movie/epg/epg/1386865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terra em Transe (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIHpoEpzrgzIJTpsIXcUl1xVu4u.jpg" group-title="F • Clássicos",Terra em Transe (1967)
+http://tvget.live:80/movie/epg/epg/1386866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Animal (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CELdSVvSMaXk7NX2v5EsMEL2dV.jpg" group-title="F • Clássicos",O Animal (1977)
+http://tvget.live:80/movie/epg/epg/1386867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tron: Uma Odisseia Eletrônica (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3eqQWTOzLciknJLWpRP5GNObpT.jpg" group-title="F • Clássicos",Tron: Uma Odisseia Eletrônica (1982)
+http://tvget.live:80/movie/epg/epg/1386868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Com a Lei e a Ordem (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWR7iVd02ylSZOgeTcF2NBZjbFw.jpg" group-title="F • Clássicos",Com a Lei e a Ordem (1953)
+http://tvget.live:80/movie/epg/epg/1386869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Tubarão (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89cOUTTvtmVd59ADg25j6OWovYj.jpg" group-title="F • Clássicos",O Último Tubarão (1981)
+http://tvget.live:80/movie/epg/epg/1386870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogo Bruto (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1s5yAP5Se4FKO2tvNzgo0gCgJ7P.jpg" group-title="F • Clássicos",Jogo Bruto (1986)
+http://tvget.live:80/movie/epg/epg/1386871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Confidências à Meia-Noite (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9J905v3dDr2FyTNESXjuZV2ztgx.jpg" group-title="F • Clássicos",Confidências à Meia-Noite (1959)
+http://tvget.live:80/movie/epg/epg/1386872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loucademia de Polícia 7: Missão Moscou (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbb8zAQaSrvlorO2MmzNWJjuBsS.jpg" group-title="F • Clássicos",Loucademia de Polícia 7: Missão Moscou (1994)
+http://tvget.live:80/movie/epg/epg/1392121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9 ½ Semanas de Amor (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etP3gu6FZdMdWnTwZEhEpF5UMhq.jpg" group-title="F • Clássicos",9 ½ Semanas de Amor (1986)
+http://tvget.live:80/movie/epg/epg/1386873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Natal Mágico (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBo1K3bZRay2bsOQbXjCQGGxXpr.jpg" group-title="F • Clássicos",O Natal Mágico (1985)
+http://tvget.live:80/movie/epg/epg/1386874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Caçadores de Atlântida (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQeVAdAPxnN7DXlG4PsLHtuksXc.jpg" group-title="F • Clássicos",Os Caçadores de Atlântida (1983)
+http://tvget.live:80/movie/epg/epg/1386875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Carro: A Máquina do Diabo (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkU0NbnWGZOQKMjVkiAFOZm39VH.jpg" group-title="F • Clássicos",O Carro: A Máquina do Diabo (1977)
+http://tvget.live:80/movie/epg/epg/1386876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela Adormecida (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iRYRBWKhwPI5lBT4DPhmNpmBOMU.jpg" group-title="F • Clássicos",A Bela Adormecida (1959)
+http://tvget.live:80/movie/epg/epg/1386877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 3: Os Guerreiros dos Sonhos (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rl1Iuzu2Vntz86mTHJ5BF0SAty.jpg" group-title="F • Clássicos",A Hora do Pesadelo 3: Os Guerreiros dos Sonhos (1987)
+http://tvget.live:80/movie/epg/epg/1386878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky: Um Lutador (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9B1DXcPNsJfTtc4x2LKA3bykoJ.jpg" group-title="F • Clássicos",Rocky: Um Lutador (1976)
+http://tvget.live:80/movie/epg/epg/1386879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Renegados Pela Justiça (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BTZifge3VPP6mI1JBHdkbXkxxA.jpg" group-title="F • Clássicos",Renegados Pela Justiça (1989)
+http://tvget.live:80/movie/epg/epg/1386880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Intocáveis (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/koEvh0qJ2cYdHD2fPGK6UGw7mo5.jpg" group-title="F • Clássicos",Os Intocáveis (1987)
+http://tvget.live:80/movie/epg/epg/1386881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dama do Lotação (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aO7s9eJxb33UzxBJcrKo67NSte.jpg" group-title="F • Clássicos",A Dama do Lotação (1978)
+http://tvget.live:80/movie/epg/epg/1386882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abracadabra (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkSi1jjm2X994dgKSEcwWaA74FI.jpg" group-title="F • Clássicos",Abracadabra (2017)
+http://tvget.live:80/movie/epg/epg/1386883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alvarez Kelly (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6kIcuVMyJJKmxy7bFbI9q1DWByR.jpg" group-title="F • Clássicos",Alvarez Kelly (1966)
+http://tvget.live:80/movie/epg/epg/1386884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Magnata (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sETEj1ieRCH4suyaW7D3q4XfFWJ.jpg" group-title="F • Clássicos",O Último Magnata (1976)
+http://tvget.live:80/movie/epg/epg/1386885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roxanne (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2XSGkpAIIof6Oi8Sr6wBvwt1Lk.jpg" group-title="F • Clássicos",Roxanne (1987)
+http://tvget.live:80/movie/epg/epg/1386886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Fantasmas Trapalhões (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vg0PfhA56MJgVZM7RMFdiXjdC0.jpg" group-title="F • Clássicos",Os Fantasmas Trapalhões (1987)
+http://tvget.live:80/movie/epg/epg/1386887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Galáxia do Terror (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpwDc5sBDzW54ncW1mvgnMW6gR8.jpg" group-title="F • Clássicos",Galáxia do Terror (1981)
+http://tvget.live:80/movie/epg/epg/1386888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Por Quê Estás Toda Nua? (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uh9tkPy1nPdiGtjQ1D2RjfJpR3F.jpg" group-title="F • Clássicos",Por Quê Estás Toda Nua? (1969)
+http://tvget.live:80/movie/epg/epg/1386889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Curtindo a Vida Adoidado (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUqhcfr5IoaE76NOIQl53gn3y3Q.jpg" group-title="F • Clássicos",Curtindo a Vida Adoidado (1986)
+http://tvget.live:80/movie/epg/epg/1386890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Que Caiu na Terra (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVjQBu0wcjcc5ywKTP589prNEP0.jpg" group-title="F • Clássicos",O Homem Que Caiu na Terra (1976)
+http://tvget.live:80/movie/epg/epg/1386891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Natal Mágico (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOLulGzaBSaOzuLkG0VfEnMKMZi.jpg" group-title="F • Clássicos",Um Natal Mágico (1989)
+http://tvget.live:80/movie/epg/epg/1386892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chuva de Milhões (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWf9N2fUVocgQGxfHcDhxuFRZrz.jpg" group-title="F • Clássicos",Chuva de Milhões (1985)
+http://tvget.live:80/movie/epg/epg/1386893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crepúsculo de Aço (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nq4YZBnmIS6b1LG9WssPivtAHzT.jpg" group-title="F • Clássicos",Crepúsculo de Aço (1987)
+http://tvget.live:80/movie/epg/epg/1386894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hellraiser VI: Caçador do Inferno (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4PuWtfsv72JyLUwgmEaittaedd.jpg" group-title="F • Clássicos",Hellraiser VI: Caçador do Inferno (2002)
+http://tvget.live:80/movie/epg/epg/1386895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez na América (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8E2lZjt28MR6Dzc3QOiVzM8PvXU.jpg" group-title="F • Clássicos",Era Uma Vez na América (1984)
+http://tvget.live:80/movie/epg/epg/1386896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ninho de Cobras (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNTPHPTUIBZV7sdezKUPIINj9Xi.jpg" group-title="F • Clássicos",Ninho de Cobras (1970)
+http://tvget.live:80/movie/epg/epg/1386897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desejo de Matar 3 (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1G0T6Krq6yGn2v8wFuUffCmlES.jpg" group-title="F • Clássicos",Desejo de Matar 3 (1985)
+http://tvget.live:80/movie/epg/epg/1386898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Outro Lado da Meia-Noite (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Na4Plc9nF4RqZkszoe0hYJxwSU.jpg" group-title="F • Clássicos",O Outro Lado da Meia-Noite (1977)
+http://tvget.live:80/movie/epg/epg/1386899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fúria Silenciosa (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxJm7yFKkbp5UojwOi71nNr3cmE.jpg" group-title="F • Clássicos",Fúria Silenciosa (1982)
+http://tvget.live:80/movie/epg/epg/1386900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loucademia de Polícia 2: A Primeira Missão (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jCLtgtj4Vr28ODC4Fr0H06HBDt9.jpg" group-title="F • Clássicos",Loucademia de Polícia 2: A Primeira Missão (1985)
+http://tvget.live:80/movie/epg/epg/1386901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mad Max (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zodXxYkC29wsXkOmSsSyZXd3SJl.jpg" group-title="F • Clássicos",Mad Max (1979)
+http://tvget.live:80/movie/epg/epg/1386902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Possessão (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfoWD61gaKSTgXsq4TPDscY7WyT.jpg" group-title="F • Clássicos",Possessão (2012)
+http://tvget.live:80/movie/epg/epg/1386903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ensina-me a Viver (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOqcJ82tPemMZSitQ9ZO4XJIU3H.jpg" group-title="F • Clássicos",Ensina-me a Viver (1971)
+http://tvget.live:80/movie/epg/epg/1386904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deadly Twins (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yr4U7K82GN5j7UmcZtAB0yP9p7m.jpg" group-title="F • Clássicos",Deadly Twins (1985)
+http://tvget.live:80/movie/epg/epg/1386905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bete Balanço (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzhS66IsRdZjB0EJQvMUKeTHp1f.jpg" group-title="F • Clássicos",Bete Balanço (1984)
+http://tvget.live:80/movie/epg/epg/1386906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alligator: O Jacaré Gigante (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y28JDP0GazBu0BB1BWUCCk1igz5.jpg" group-title="F • Clássicos",Alligator: O Jacaré Gigante (1980)
+http://tvget.live:80/movie/epg/epg/1386907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerra nas Estrelas: O Retorno de Jedi (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4jlKpK1IzTtOtTdAzrgWm8jvmS.jpg" group-title="F • Clássicos",Guerra nas Estrelas: O Retorno de Jedi (1983)
+http://tvget.live:80/movie/epg/epg/1386908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Negócios de Família (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz8GzXety1Zwc82ycfegHtzS0Ui.jpg" group-title="F • Clássicos",Negócios de Família (1989)
+http://tvget.live:80/movie/epg/epg/1386909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perseguidor Implacável (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIklSP4Yu0ij7TpXyaYWTbmTqsI.jpg" group-title="F • Clássicos",Perseguidor Implacável (1971)
+http://tvget.live:80/movie/epg/epg/1386910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Espanto (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NVxEbBRFNQPmUrSSi4n66wSidV.jpg" group-title="F • Clássicos",A Hora do Espanto (1985)
+http://tvget.live:80/movie/epg/epg/1386911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A mosca (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXNZY2MOkcV51cm1kkUET2EsxwP.jpg" group-title="F • Clássicos",A mosca (2017)
+http://tvget.live:80/movie/epg/epg/1386912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coração Satânico (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x29lRNO7o6Vhf4SFxL3JqFoMujH.jpg" group-title="F • Clássicos",Coração Satânico (1987)
+http://tvget.live:80/movie/epg/epg/1386913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halloween: A Lenda de Jack (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1PHkDuVYkuuOdcNDRJT3g7LfNXi.jpg" group-title="F • Clássicos",Halloween: A Lenda de Jack (2018)
+http://tvget.live:80/movie/epg/epg/1386914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halloween II: O Pesadelo Continua (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wCCqM7JSSt6PJFNMEC2fxflDjP.jpg" group-title="F • Clássicos",Halloween II: O Pesadelo Continua (1981)
+http://tvget.live:80/movie/epg/epg/1386915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Volta ao Planeta dos Macacos (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3uyXDKSVhE5Ls37NXymvbUiBNgh.jpg" group-title="F • Clássicos",De Volta ao Planeta dos Macacos (1970)
+http://tvget.live:80/movie/epg/epg/1386916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halloween 5: A Vingança de Michael Myers (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDCoAeD7T1HQ0OnkQ27bC3G2e6P.jpg" group-title="F • Clássicos",Halloween 5: A Vingança de Michael Myers (1989)
+http://tvget.live:80/movie/epg/epg/1386917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Intermediário (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/312IkSZ3BnDmkxRMSanLPkXQuuH.jpg" group-title="F • Clássicos",O Intermediário (1976)
+http://tvget.live:80/movie/epg/epg/1386918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coração de Trovão (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nW58DJaRiRtYHKzoKZ5s1St6Km.jpg" group-title="F • Clássicos",Coração de Trovão (1992)
+http://tvget.live:80/movie/epg/epg/1386919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Selvagem da Motocicleta (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhNdTxG5ah4RFcDjkEJOqAP7gfN.jpg" group-title="F • Clássicos",O Selvagem da Motocicleta (1983)
+http://tvget.live:80/movie/epg/epg/1386920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Falcão: O Campeão dos Campeões (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEf1CrF8sH3vSXbYIggoinf48ch.jpg" group-title="F • Clássicos",Falcão: O Campeão dos Campeões (1987)
+http://tvget.live:80/movie/epg/epg/1386921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem do Terno Cinzento (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QzwRqjq45qQtbCVMHM1xhzcBdx.jpg" group-title="F • Clássicos",O Homem do Terno Cinzento (1956)
+http://tvget.live:80/movie/epg/epg/1386922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Núpcias Reais (1951)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hOyBgsmSApFl10ZfaYxUTQu5Ze.jpg" group-title="F • Clássicos",Núpcias Reais (1951)
+http://tvget.live:80/movie/epg/epg/1386923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa do Espanto (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kiIZdDYP2vUV3PZrgY5vJBHhhdf.jpg" group-title="F • Clássicos",A Casa do Espanto (1986)
+http://tvget.live:80/movie/epg/epg/1386924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Griffin and Phoenix (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i77whLCPR0p1tXplwswMapZmQv7.jpg" group-title="F • Clássicos",Griffin and Phoenix (1976)
+http://tvget.live:80/movie/epg/epg/1386925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem e o Limite (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKHBp2h19CrVedXA0CprrMM370q.jpg" group-title="F • Clássicos",O Homem e o Limite (1975)
+http://tvget.live:80/movie/epg/epg/1386926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Pássaros (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2jTzJ7jUrbabB03JdNwk2D00OMB.jpg" group-title="F • Clássicos",Os Pássaros (1963)
+http://tvget.live:80/movie/epg/epg/1386927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Splash: Uma Sereia em Minha Vida (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72iWmZzs8KVcVAMrerjShzKozmm.jpg" group-title="F • Clássicos",Splash: Uma Sereia em Minha Vida (1984)
+http://tvget.live:80/movie/epg/epg/1386928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Volta para o Futuro II (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CZjdqLtH1qsuzt8ouCFUJv88hT.jpg" group-title="F • Clássicos",De Volta para o Futuro II (1989)
+http://tvget.live:80/movie/epg/epg/1386929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky IV (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcjJ4SBzdDQcWRPkqkEyYU0Ic1k.jpg" group-title="F • Clássicos",Rocky IV (1985)
+http://tvget.live:80/movie/epg/epg/1386930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera 3 (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkEX64OnvSNP2HnESRjPuuUsi2F.jpg" group-title="F • Clássicos",Máquina Mortífera 3 (1992)
+http://tvget.live:80/movie/epg/epg/1386931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rambo: Programado Para Matar (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDJ4YOz7baCHH6ZJPut9NcCgNl1.jpg" group-title="F • Clássicos",Rambo: Programado Para Matar (1982)
+http://tvget.live:80/movie/epg/epg/1386932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Copper Canyon (1950)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmLYLDatsV1HEbkZH261JHIbLUV.jpg" group-title="F • Clássicos",Copper Canyon (1950)
+http://tvget.live:80/movie/epg/epg/1386933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fugindo do Passado (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jepRBZNXgsINrbtSiSEdtCYbRMM.jpg" group-title="F • Clássicos",Fugindo do Passado (1998)
+http://tvget.live:80/movie/epg/epg/1386934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Damien" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGqJUvZpnMMrjFlBWopwPz5ifYD.jpg" group-title="F • Clássicos",Damien
+http://tvget.live:80/movie/epg/epg/1386935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Império da Paixão (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVHc6e5Ke171X881fs5utEWFLyY.jpg" group-title="F • Clássicos",O Império da Paixão (1978)
+http://tvget.live:80/movie/epg/epg/1386936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hellraiser VIII: O Mundo do Inferno (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24HyxD9zOsGkQBa7f5TX0doRLGD.jpg" group-title="F • Clássicos",Hellraiser VIII: O Mundo do Inferno (2005)
+http://tvget.live:80/movie/epg/epg/1386937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colheita Maldita 2: O Sacrifício Final (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekeSv4vl3ylodwCMvhe0ZbeaV0e.jpg" group-title="F • Clássicos",Colheita Maldita 2: O Sacrifício Final (1992)
+http://tvget.live:80/movie/epg/epg/1386938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera 2 (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmLVl0IJuOuZn5RiyBgxEXQ5cai.jpg" group-title="F • Clássicos",Máquina Mortífera 2 (1989)
+http://tvget.live:80/movie/epg/epg/1386939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Comando 10 de Navarone (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bFRwivCZuXx7fHWt4SpYaiHkNL.jpg" group-title="F • Clássicos",O Comando 10 de Navarone (1978)
+http://tvget.live:80/movie/epg/epg/1386940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 7: O Retorno de Freddy Krueger (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDSwfjnBxoXtdAXL2aj2PEauMKT.jpg" group-title="F • Clássicos",A Hora do Pesadelo 7: O Retorno de Freddy Krueger (1994)
+http://tvget.live:80/movie/epg/epg/1386941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Caso dos Irmãos Naves (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJJWCopEx0H9cj7gt1M5IJ8fPiD.jpg" group-title="F • Clássicos",O Caso dos Irmãos Naves (1967)
+http://tvget.live:80/movie/epg/epg/1386942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1984 (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrdQlicxuyTg3zyVqq78EsA4Z6J.jpg" group-title="F • Clássicos",1984 (1984)
+http://tvget.live:80/movie/epg/epg/1386943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scarface (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg" group-title="F • Clássicos",Scarface (1983)
+http://tvget.live:80/movie/epg/epg/1386944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operação Dragão (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9p7sdR6GUeYdr3Bw4vRTOkbpPEg.jpg" group-title="F • Clássicos",Operação Dragão (1973)
+http://tvget.live:80/movie/epg/epg/1386945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem do Morcego (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIxUUMVU6TFFfcLc7W9IMLBEoBO.jpg" group-title="F • Clássicos",O Homem do Morcego (1980)
+http://tvget.live:80/movie/epg/epg/1386946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Top Gun (1955)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRfQNdS3PoOe2Uq7ZYFQV9qs6Cd.jpg" group-title="F • Clássicos",Top Gun (1955)
+http://tvget.live:80/movie/epg/epg/1386947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Par ou Ímpar (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iRxGNJUSW3eFDJKTJgCeURjeD2y.jpg" group-title="F • Clássicos",Par ou Ímpar (1978)
+http://tvget.live:80/movie/epg/epg/1386948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Frenesi (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96EJJpORyZCVZIzLGDVPlRsNzi5.jpg" group-title="F • Clássicos",Frenesi (1972)
+http://tvget.live:80/movie/epg/epg/1386949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sexta-Feira 13 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvq04cYX1TriZJYFPaUQ0AmTf7I.jpg" group-title="F • Clássicos",Sexta-Feira 13 (2009)
+http://tvget.live:80/movie/epg/epg/1386950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Abutres Têm Fome (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSe3luHwbHBexKzwB0wDM9tXJdg.jpg" group-title="F • Clássicos",Os Abutres Têm Fome (1970)
+http://tvget.live:80/movie/epg/epg/1386951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Papai é um Robô (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oz954ONX3OYdgFU7ZtuVAtbYKhB.jpg" group-title="F • Clássicos",Papai é um Robô (1991)
+http://tvget.live:80/movie/epg/epg/1386952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loucademia de Polícia 5: Missão Miami Beach (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fITAJXdFohdmhSNHcg328DeLDQg.jpg" group-title="F • Clássicos",Loucademia de Polícia 5: Missão Miami Beach (1988)
+http://tvget.live:80/movie/epg/epg/1386953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="...E o Vento Levou (1939)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/erwBUaSZLgMo79KRcQYw0bAV9h3.jpg" group-title="F • Clássicos",...E o Vento Levou (1939)
+http://tvget.live:80/movie/epg/epg/1386954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Piranha (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNt4H6rAIwj3b8SKEK1AshbFDt4.jpg" group-title="F • Clássicos",Piranha (1978)
+http://tvget.live:80/movie/epg/epg/1386955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Festa de Solteiro (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g21reHaOOWHum1udj9VBjiM5Mai.jpg" group-title="F • Clássicos",A Última Festa de Solteiro (1984)
+http://tvget.live:80/movie/epg/epg/1386956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superman: O Filme (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKK8syhz0sEoRVjb6OKULuMLCq3.jpg" group-title="F • Clássicos",Superman: O Filme (1978)
+http://tvget.live:80/movie/epg/epg/1386957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escola de Aeromoças (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIFCoDBC7RuvaBFENVgbUHJ12MR.jpg" group-title="F • Clássicos",Escola de Aeromoças (1986)
+http://tvget.live:80/movie/epg/epg/1386958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Águia Pousou (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZ8U6rBNOMqi9kZzL5DjYZaVfT6.jpg" group-title="F • Clássicos",A Águia Pousou (1976)
+http://tvget.live:80/movie/epg/epg/1386959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Volta dos Mortos Vivos (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DGsNitU2bO1n94GNwEeGX4PLMG.jpg" group-title="F • Clássicos",A Volta dos Mortos Vivos (1985)
+http://tvget.live:80/movie/epg/epg/1386960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brinquedo Assassino 2 (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFAA6XeDXsSOTfztEOlXU25leen.jpg" group-title="F • Clássicos",Brinquedo Assassino 2 (1990)
+http://tvget.live:80/movie/epg/epg/1386961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matador de Aluguel (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Tt1TQeOI4TpXu1cBUgNGNGeznW.jpg" group-title="F • Clássicos",Matador de Aluguel (2011)
+http://tvget.live:80/movie/epg/epg/1386962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Daniel (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iS1sPMk0JVp4rQmQFFQkQ71jPTU.jpg" group-title="F • Clássicos",Daniel (2023)
+http://tvget.live:80/movie/epg/epg/1386963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Monstro de Duas Faces (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDj7aUuVE3GDvw3EzJLoWaGw4Qc.jpg" group-title="F • Clássicos",O Monstro de Duas Faces (1960)
+http://tvget.live:80/movie/epg/epg/1386964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Máquina Quase Mortífera (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sagFSgq5RPU9glBgOEN42AyFnIC.jpg" group-title="F • Clássicos",Máquina Quase Mortífera (1993)
+http://tvget.live:80/movie/epg/epg/1386965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inverno de Sangue em Veneza (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mL2EtHbasWpgrJ9gilPELhevymV.jpg" group-title="F • Clássicos",Inverno de Sangue em Veneza (1973)
+http://tvget.live:80/movie/epg/epg/1386966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tempo de Massacre (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjG0ychE7hmBBxmqztz7QsWCXz.jpg" group-title="F • Clássicos",Tempo de Massacre (1966)
+http://tvget.live:80/movie/epg/epg/1386967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coração Selvagem (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WjmqlAZ5CatX1nblAWoQSxlBbV.jpg" group-title="F • Clássicos",Coração Selvagem (1990)
+http://tvget.live:80/movie/epg/epg/1386968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonhos Alucinantes (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vR8H0KSUYptRjheMjysyidpbPSP.jpg" group-title="F • Clássicos",Sonhos Alucinantes (1971)
+http://tvget.live:80/movie/epg/epg/1386969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cuidado Com As Gêmeas (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bII9aifgZkxvJFGVYDqRLcyRJLz.jpg" group-title="F • Clássicos",Cuidado Com As Gêmeas (1988)
+http://tvget.live:80/movie/epg/epg/1386970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loucademia de Polícia 3: De Volta ao Treinamento (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rw0w3a6Ql2kngXRdFNvdgAbfiql.jpg" group-title="F • Clássicos",Loucademia de Polícia 3: De Volta ao Treinamento (1986)
+http://tvget.live:80/movie/epg/epg/1386971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Enigma de Andrômeda (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtA3Ol4Ldnk01N0tBLP3EEFtPkv.jpg" group-title="F • Clássicos",O Enigma de Andrômeda (1971)
+http://tvget.live:80/movie/epg/epg/1386972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fuga de Sobibor (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqJstAdfzh1eOf6rKzQ3p8sA1Ul.jpg" group-title="F • Clássicos",Fuga de Sobibor (1987)
+http://tvget.live:80/movie/epg/epg/1386973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Aparição (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmKiLCYL0MK1wrRRPuu7lsGPoJs.jpg" group-title="F • Clássicos",A Aparição (1986)
+http://tvget.live:80/movie/epg/epg/1386974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duelo no Texas (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UX24C3reBv7gAsEsh5F8suTyUg.jpg" group-title="F • Clássicos",Duelo no Texas (1963)
+http://tvget.live:80/movie/epg/epg/1386975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atração Fatal (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSfJwVpXW1QqUV4ldAQScv5gmjj.jpg" group-title="F • Clássicos",Atração Fatal (1987)
+http://tvget.live:80/movie/epg/epg/1386976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Memórias Secretas (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwuS3GdKxEBitSfQNoLX0yKgpWk.jpg" group-title="F • Clássicos",Memórias Secretas (2015)
+http://tvget.live:80/movie/epg/epg/1386977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Dragão Chinês (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHJNefejNktGY7onhed4y3V65mT.jpg" group-title="F • Clássicos",O Dragão Chinês (1971)
+http://tvget.live:80/movie/epg/epg/1386978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Incrível Mulher Que Encolheu (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6Hgp9LS0TQiawk6sPefjg1mHbg.jpg" group-title="F • Clássicos",A Incrível Mulher Que Encolheu (1981)
+http://tvget.live:80/movie/epg/epg/1386979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caminhos Perigosos (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3KhqxwKjvmw3ATNG29C6KhcNql.jpg" group-title="F • Clássicos",Caminhos Perigosos (1973)
+http://tvget.live:80/movie/epg/epg/1386980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Voo do Dragão (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntoWVqH3ZRa5XW2U1PpmjaLBb76.jpg" group-title="F • Clássicos",O Voo do Dragão (1972)
+http://tvget.live:80/movie/epg/epg/1386981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Único Sobrevivente (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIJDnW9nutBsvSMX3D8J71rDRHA.jpg" group-title="F • Clássicos",O Único Sobrevivente (1984)
+http://tvget.live:80/movie/epg/epg/1386982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Labirinto: A Magia do Tempo (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMybltHkdlQOuvhF3lJ7MSMRgVk.jpg" group-title="F • Clássicos",Labirinto: A Magia do Tempo (1986)
+http://tvget.live:80/movie/epg/epg/1386983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Braddock: O Super Comando (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxO8lmpVY0ccLWIzWw8s9BE8poe.jpg" group-title="F • Clássicos",Braddock: O Super Comando (1984)
+http://tvget.live:80/movie/epg/epg/1386984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quero Ser Grande (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJgc36oSlup6uhWoXURB6d4Gyd8.jpg" group-title="F • Clássicos",Quero Ser Grande (1988)
+http://tvget.live:80/movie/epg/epg/1386985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Criatura do Cemitério (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTba2c5bRMzAxmLEE8qyNq3jUvG.jpg" group-title="F • Clássicos",A Criatura do Cemitério (1990)
+http://tvget.live:80/movie/epg/epg/1386986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Máskara (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLLC7AldfrYUot7lsw3ePFSs87e.jpg" group-title="F • Clássicos",O Máskara (1994)
+http://tvget.live:80/movie/epg/epg/1386987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dois Missionários do Barulho (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wf98EUHdj8KQPPzdvkjeC5A3QSA.jpg" group-title="F • Clássicos",Dois Missionários do Barulho (1974)
+http://tvget.live:80/movie/epg/epg/1386988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mestre Invencível (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2KO4o1kJIgz8Zuucx50YwQx281.jpg" group-title="F • Clássicos",O Mestre Invencível (1978)
+http://tvget.live:80/movie/epg/epg/1386989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crocodilo Dundee II (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oT1xCT6wSZxSEO01W3L86bxErNi.jpg" group-title="F • Clássicos",Crocodilo Dundee II (1988)
+http://tvget.live:80/movie/epg/epg/1386990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2001: Uma Odisséia no Espaço (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jPHKChBVWfWxXYO1yN4FZF1U2S.jpg" group-title="F • Clássicos",2001: Uma Odisséia no Espaço (1968)
+http://tvget.live:80/movie/epg/epg/1386991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tubarão 3 (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnOT2gTupHDYY2AN9gYLklSUiPo.jpg" group-title="F • Clássicos",Tubarão 3 (1983)
+http://tvget.live:80/movie/epg/epg/1386992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Topázio (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AuYKW9X9Utjtxyh1hgy8DL2leb.jpg" group-title="F • Clássicos",Topázio (1969)
+http://tvget.live:80/movie/epg/epg/1386993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Signo do Zorro (1958)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcsoK9bCizKIHTPUSSpLITgd4dc.jpg" group-title="F • Clássicos",O Signo do Zorro (1958)
+http://tvget.live:80/movie/epg/epg/1386994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Eleitos: Onde o Futuro Começa (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlklPwU7VNj799oGPNnE3Gl4l3p.jpg" group-title="F • Clássicos",Os Eleitos: Onde o Futuro Começa (1983)
+http://tvget.live:80/movie/epg/epg/1386995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Poderoso Chefão (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg" group-title="F • Clássicos",O Poderoso Chefão (1972)
+http://tvget.live:80/movie/epg/epg/1386996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Ninja 2: A Volta do Guerreiro Americano (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0MIWur5XEnuSk0sb262ynxXIxs.jpg" group-title="F • Clássicos",American Ninja 2: A Volta do Guerreiro Americano (1987)
+http://tvget.live:80/movie/epg/epg/1386997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jogo da Vida e da Morte (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXU4UPZg7jtH2qn48HoG2FSaCWM.jpg" group-title="F • Clássicos",O Jogo da Vida e da Morte (1972)
+http://tvget.live:80/movie/epg/epg/1386998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pacto Sinistro (1951)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mFX7RqJ48O9hPJmp1LDsWxLtRZ.jpg" group-title="F • Clássicos",Pacto Sinistro (1951)
+http://tvget.live:80/movie/epg/epg/1386999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colheita Maldita (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooZbBL28oXDHfc8xSt2VRHU8jkO.jpg" group-title="F • Clássicos",Colheita Maldita (2020)
+http://tvget.live:80/movie/epg/epg/1387000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Inocência do Primeiro Amor (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEpbtvhgLC8agFc1eDo7uG1nETa.jpg" group-title="F • Clássicos",A Inocência do Primeiro Amor (1986)
+http://tvget.live:80/movie/epg/epg/1387001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Terror das Mulheres (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgFJlGH4xz5RtXFihndDYz3faeJ.jpg" group-title="F • Clássicos",O Terror das Mulheres (1961)
+http://tvget.live:80/movie/epg/epg/1387002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Braddock 2: O Início da Missão (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rCGFMqk4ewvk1T2dpqMcJyVdMx.jpg" group-title="F • Clássicos",Braddock 2: O Início da Missão (1985)
+http://tvget.live:80/movie/epg/epg/1387003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Planeta dos Macacos (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTYTjSUqdra9WKzp7w2aOwYDosS.jpg" group-title="F • Clássicos",O Planeta dos Macacos (1968)
+http://tvget.live:80/movie/epg/epg/1387004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iron Will" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="F • Clássicos",Iron Will
+http://tvget.live:80/movie/epg/epg/1387005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Paraíso do Havaí (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PLfdCgjqD3Gm9UeeaF3e8iTo3M.jpg" group-title="F • Clássicos",No Paraíso do Havaí (1966)
+http://tvget.live:80/movie/epg/epg/1387006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beau Geste (1939)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDRHfwghNNXy4ASdus5GSzyTX6x.jpg" group-title="F • Clássicos",Beau Geste (1939)
+http://tvget.live:80/movie/epg/epg/1387007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clube dos Cinco (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zw0mZVGem821we1Is7ObEmL23pN.jpg" group-title="F • Clássicos",Clube dos Cinco (1985)
+http://tvget.live:80/movie/epg/epg/1387008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cantando na Chuva (1952)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLUOxyl1myKTQGMTCnuA9RRArHS.jpg" group-title="F • Clássicos",Cantando na Chuva (1952)
+http://tvget.live:80/movie/epg/epg/1387009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crocodilo Dundee (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYJj9QRGV0n6gQ9UqeLnOMDtIc4.jpg" group-title="F • Clássicos",Crocodilo Dundee (1986)
+http://tvget.live:80/movie/epg/epg/1387010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ninotchka (1939)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYsSoCtlpbX60udRMKIUdjcjzbv.jpg" group-title="F • Clássicos",Ninotchka (1939)
+http://tvget.live:80/movie/epg/epg/1387011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soledade (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28xnHHeDIijFsvmZKEMJNnc5PYA.jpg" group-title="F • Clássicos",Soledade (2023)
+http://tvget.live:80/movie/epg/epg/1387012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contato Mortal (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQ7qCfAPJ10qDl8HhCnehXV8yix.jpg" group-title="F • Clássicos",Contato Mortal (1988)
+http://tvget.live:80/movie/epg/epg/1387013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ritual de Sangue (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78IKCCEbttE2qZcBhznXJvvZxlI.jpg" group-title="F • Clássicos",Ritual de Sangue (1988)
+http://tvget.live:80/movie/epg/epg/1387014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Arena da Morte (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUFBoAM0gRmJGnQMEITblK3b1YF.jpg" group-title="F • Clássicos",A Arena da Morte (1989)
+http://tvget.live:80/movie/epg/epg/1387015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MacArthur (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="F • Clássicos",MacArthur (1999)
+http://tvget.live:80/movie/epg/epg/1387016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Doce Esporte do Sexo (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFgfeKWw3g8v2IGowKmg7lvJ0sr.jpg" group-title="F • Clássicos",O Doce Esporte do Sexo (1971)
+http://tvget.live:80/movie/epg/epg/1387017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desiree (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjUAbShGtAixWe00pLqpYp6kluL.jpg" group-title="F • Clássicos",Desiree (2014)
+http://tvget.live:80/movie/epg/epg/1387018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cleopatra Jones" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="F • Clássicos",Cleopatra Jones
+http://tvget.live:80/movie/epg/epg/1387019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hellraiser V: Inferno (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwp3kINXKqNql7kmMtDTX0ourBW.jpg" group-title="F • Clássicos",Hellraiser V: Inferno (2000)
+http://tvget.live:80/movie/epg/epg/1387020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hellraiser III: Inferno na Terra (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fUGY25YXbdEGT0eocTMrzcbVio.jpg" group-title="F • Clássicos",Hellraiser III: Inferno na Terra (1992)
+http://tvget.live:80/movie/epg/epg/1387021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Poderoso Chefão: Parte II (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7g6wvsWHxBQujUcSXvZLhdFpDUy.jpg" group-title="F • Clássicos",O Poderoso Chefão: Parte II (1974)
+http://tvget.live:80/movie/epg/epg/1387022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Procurado Vivo ou Morto (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9sygEfPe4doNDNT96xGOQ47cGM.jpg" group-title="F • Clássicos",Procurado Vivo ou Morto (1987)
+http://tvget.live:80/movie/epg/epg/1387023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Garotos Perdidos (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlzkIfReoFJbPkbV67NcsuMcu6T.jpg" group-title="F • Clássicos",Os Garotos Perdidos (1987)
+http://tvget.live:80/movie/epg/epg/1387024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fera da Guerra (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ag0oez7oBuk8xCQ5pvb4pSj544Z.jpg" group-title="F • Clássicos",A Fera da Guerra (1988)
+http://tvget.live:80/movie/epg/epg/1387025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Tira da Pesada (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjcOukmiJKp4oMrIXOa3hlvODph.jpg" group-title="F • Clássicos",Um Tira da Pesada (1984)
+http://tvget.live:80/movie/epg/epg/1387026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Super Snooper: Um Tira Genial (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5W0daye7lDGiWw7pQaGGx8D3Duv.jpg" group-title="F • Clássicos",Super Snooper: Um Tira Genial (1980)
+http://tvget.live:80/movie/epg/epg/1387027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Dez Mandamentos (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJI5sg5IOVAlxTmxbtT6nYdyiTk.jpg" group-title="F • Clássicos",Os Dez Mandamentos (1956)
+http://tvget.live:80/movie/epg/epg/1387028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Primeiro Ano do Resto de Nossas Vidas (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oBI07hgtm8jTER2sh2VNNWOLLo.jpg" group-title="F • Clássicos",O Primeiro Ano do Resto de Nossas Vidas (1985)
+http://tvget.live:80/movie/epg/epg/1387029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corra que a Polícia Vem Aí! (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYCWSKbC4fwzaKEJ9QFx8MsH7bJ.jpg" group-title="F • Clássicos",Corra que a Polícia Vem Aí! (1988)
+http://tvget.live:80/movie/epg/epg/1387030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fúria do Dragão (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FDpiMP6ETXiFRVVN7vE4YqLF9I.jpg" group-title="F • Clássicos",A Fúria do Dragão (1972)
+http://tvget.live:80/movie/epg/epg/1387031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ladrão de Casaca (1955)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5koxjrZWh4C6pUr6B6fcjhSwlff.jpg" group-title="F • Clássicos",Ladrão de Casaca (1955)
+http://tvget.live:80/movie/epg/epg/1387032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raça Brava (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LJ3iQgvfScjM0PMk3fnpCl6HRi.jpg" group-title="F • Clássicos",Raça Brava (1966)
+http://tvget.live:80/movie/epg/epg/1387033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Gangue da Tortinha de Maçã Ataca Novamente (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pa6OKnJstZnU5klsYp665gCFnnU.jpg" group-title="F • Clássicos",A Gangue da Tortinha de Maçã Ataca Novamente (1979)
+http://tvget.live:80/movie/epg/epg/1387034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rock Estrela (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGWIc0okSyGBflvg71X66tbmgS5.jpg" group-title="F • Clássicos",Rock Estrela (1986)
+http://tvget.live:80/movie/epg/epg/1387035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Jovens Pistoleiros (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsjaEPserDMXR6aNUByepN2jtb2.jpg" group-title="F • Clássicos",Os Jovens Pistoleiros (1988)
+http://tvget.live:80/movie/epg/epg/1387036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mE6PI7AR9GYCOu7M0zmTuzJGGCa.jpg" group-title="F • Clássicos",Máquina Mortífera (1987)
+http://tvget.live:80/movie/epg/epg/1387037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nico (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jeRBNELjOABGhkUyV1GN40QqQT.jpg" group-title="F • Clássicos",Nico (2022)
+http://tvget.live:80/movie/epg/epg/1387038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paula: A História de uma Subversiva (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ly0LOvdTE9QaqUFFcb2MVXBJsVZ.jpg" group-title="F • Clássicos",Paula: A História de uma Subversiva (1979)
+http://tvget.live:80/movie/epg/epg/1387039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Giselle (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3JWic65gcvhEm5Jk92UlJheIxl.jpg" group-title="F • Clássicos",Giselle (1980)
+http://tvget.live:80/movie/epg/epg/1387040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Volta da Gangue dos Dobermans (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmO4qu6wiRfOGoFkGqh0pI190TS.jpg" group-title="F • Clássicos",A Volta da Gangue dos Dobermans (1973)
+http://tvget.live:80/movie/epg/epg/1387041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Purple Rain (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkQmzaSuDj8QyXmwNhCceCAmwUe.jpg" group-title="F • Clássicos",Purple Rain (1984)
+http://tvget.live:80/movie/epg/epg/1387042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Orca: A Baleia Assassina (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPPE5rdxtv3yF4a9HkIyRVHV8Gp.jpg" group-title="F • Clássicos",Orca: A Baleia Assassina (1977)
+http://tvget.live:80/movie/epg/epg/1387043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brinquedo Assassino 3 (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zA6DKHMHhCCKKAfR7oEiUwF10JR.jpg" group-title="F • Clássicos",Brinquedo Assassino 3 (1991)
+http://tvget.live:80/movie/epg/epg/1387044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Mundo de 2020 (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AH9Sxg5RXWXn3jf81ngHuq2jzz.jpg" group-title="F • Clássicos",No Mundo de 2020 (1973)
+http://tvget.live:80/movie/epg/epg/1387045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Pecado Foi Nascer (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byuzNYdh41VK5YRVyi8W1VAvdYg.jpg" group-title="F • Clássicos",Meu Pecado Foi Nascer (1957)
+http://tvget.live:80/movie/epg/epg/1387046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Lenda (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ez19OSc43Im8d6UEeYn6oIRasNK.jpg" group-title="F • Clássicos",Bruce Lee: A Lenda (1984)
+http://tvget.live:80/movie/epg/epg/1387047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Poderoso Chefão: Parte III (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8GROCjgD8amoFufSx2USKrOy7d.jpg" group-title="F • Clássicos",O Poderoso Chefão: Parte III (1990)
+http://tvget.live:80/movie/epg/epg/1387048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caldeira do Diabo (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z97ypFXtNL2TxEHKHBPCnwzCSKW.jpg" group-title="F • Clássicos",A Caldeira do Diabo (1957)
+http://tvget.live:80/movie/epg/epg/1387049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando Delta (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7BjrvVjnCneceCaHGG7KaR12nR.jpg" group-title="F • Clássicos",Comando Delta (1986)
+http://tvget.live:80/movie/epg/epg/1387050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colheita Maldita 666: Isaac Está de Volta (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEXiSX2MOhbLgobtVcwy1iHEe9b.jpg" group-title="F • Clássicos",Colheita Maldita 666: Isaac Está de Volta (1999)
+http://tvget.live:80/movie/epg/epg/1387051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bom Burguês (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/puCmtXM9HbH9b74oaJoQq0Xvnyb.jpg" group-title="F • Clássicos",O Bom Burguês (1983)
+http://tvget.live:80/movie/epg/epg/1387052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Aventureiros do Bairro Proibido (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjziUc5HK1emyez9lBGHre3jD4i.jpg" group-title="F • Clássicos",Os Aventureiros do Bairro Proibido (1986)
+http://tvget.live:80/movie/epg/epg/1387053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mad Max 2: A Caçada Continua (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ixMMSl9fOtaRCe1xGvkF1It1BbR.jpg" group-title="F • Clássicos",Mad Max 2: A Caçada Continua (1981)
+http://tvget.live:80/movie/epg/epg/1387054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espiões Sem Rosto (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1oS0hE1uD19yTvNffDjc0QEKHU.jpg" group-title="F • Clássicos",Espiões Sem Rosto (1988)
+http://tvget.live:80/movie/epg/epg/1387055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tex: Um Retrato da Juventude (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rcDrPgiri9xcf8LxhHlxDPIJzC0.jpg" group-title="F • Clássicos",Tex: Um Retrato da Juventude (1982)
+http://tvget.live:80/movie/epg/epg/1387056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tubarão (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iD2XVowFgHngYGamCAdq2T44gMr.jpg" group-title="F • Clássicos",Tubarão (1975)
+http://tvget.live:80/movie/epg/epg/1387057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Primeiro Homem no Espaço (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKBIGRetSbZ6cBRWqaNzwHvkgy9.jpg" group-title="F • Clássicos",O Primeiro Homem no Espaço (1959)
+http://tvget.live:80/movie/epg/epg/1387058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="F.I.S.T. (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiqQHB0vZg9O6z7VvAefV3fSPqX.jpg" group-title="F • Clássicos",F.I.S.T. (1978)
+http://tvget.live:80/movie/epg/epg/1387059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thelma & Louise (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbRAGLzbC75QfiKD1lKjmnQGuph.jpg" group-title="F • Clássicos",Thelma & Louise (1991)
+http://tvget.live:80/movie/epg/epg/1387060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spartaco (1913)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KDRBnVLmjxPqPa3Qb4lS2tMDcX.jpg" group-title="F • Clássicos",Spartaco (1913)
+http://tvget.live:80/movie/epg/epg/1387061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Salsa (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pG2idDr0clzRLiMQ8M2pzrNZjrQ.jpg" group-title="F • Clássicos",Salsa (2000)
+http://tvget.live:80/movie/epg/epg/1387062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marketa Lazarová (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wD5vjA8yImgeAgvxBN4lwWvWuQG.jpg" group-title="F • Clássicos",Marketa Lazarová (1967)
+http://tvget.live:80/movie/epg/epg/1387063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Que Não Vendeu Sua Alma (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlS8n2miCLdG0LSrxdZ9vyE68ea.jpg" group-title="F • Clássicos",O Homem Que Não Vendeu Sua Alma (1966)
+http://tvget.live:80/movie/epg/epg/1387064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crepúsculo de Uma Raça (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYc1NuT9Cvm6GHAdf5nlEXb3evl.jpg" group-title="F • Clássicos",Crepúsculo de Uma Raça (1964)
+http://tvget.live:80/movie/epg/epg/1387065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clube Paraíso (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmnXc5r8IF64G16zK9wJkiBDFhY.jpg" group-title="F • Clássicos",Clube Paraíso (1986)
+http://tvget.live:80/movie/epg/epg/1387066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inimigo Meu (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y42vSa0Kv9czbCKJiaeDGGRLXpa.jpg" group-title="F • Clássicos",Inimigo Meu (1985)
+http://tvget.live:80/movie/epg/epg/1387067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inferno Vermelho (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cDFRPabBNYZBYx1BQKyuj38aMS.jpg" group-title="F • Clássicos",Inferno Vermelho (1988)
+http://tvget.live:80/movie/epg/epg/1387068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2 Campeões de Shaolin (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mneHVPY5va2aTRTXCzxOZpk4uoy.jpg" group-title="F • Clássicos",2 Campeões de Shaolin (1980)
+http://tvget.live:80/movie/epg/epg/1387069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mulher Faz o Homem (1939)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GsIOdWlIqUmpujcgGFW7Gl9W5K.jpg" group-title="F • Clássicos",A Mulher Faz o Homem (1939)
+http://tvget.live:80/movie/epg/epg/1387070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="12 Homens e uma Sentença (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8RGf4SbVCObCySZ4PIGsn5wFm6.jpg" group-title="F • Clássicos",12 Homens e uma Sentença (1957)
+http://tvget.live:80/movie/epg/epg/1387071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Rainha Diaba (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IYNTH9hj2iIvDds6dPbWqzeDTC.jpg" group-title="F • Clássicos",A Rainha Diaba (1974)
+http://tvget.live:80/movie/epg/epg/1387072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Festim Diabólico (1948)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8seinZRE1salogxVC5xB0EPtncl.jpg" group-title="F • Clássicos",Festim Diabólico (1948)
+http://tvget.live:80/movie/epg/epg/1387073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Condenação Brutal (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDyEClXTDc13iEXjEZaw6mNb4uy.jpg" group-title="F • Clássicos",Condenação Brutal (1989)
+http://tvget.live:80/movie/epg/epg/1387074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Segredo do Abismo (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUmlHbK05F38QNnVDTDXa5qXFgF.jpg" group-title="F • Clássicos",O Segredo do Abismo (1989)
+http://tvget.live:80/movie/epg/epg/1387075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Tira da Pesada 2 (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GNeRazaEV0TrfnIgaMOrLYrjfx.jpg" group-title="F • Clássicos",Um Tira da Pesada 2 (1987)
+http://tvget.live:80/movie/epg/epg/1387076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Circo (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1shzqApUDv7GlstuPWe23XmbvE.jpg" group-title="F • Clássicos",O Circo (1965)
+http://tvget.live:80/movie/epg/epg/1387077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quando as Metralhadoras Cospem (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3J3yL1PGIIppDg80hsYzmVis6Zs.jpg" group-title="F • Clássicos",Quando as Metralhadoras Cospem (1976)
+http://tvget.live:80/movie/epg/epg/1387078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Braddock 3: O Resgate (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAqbmhgUO65EuIysncrxoqOWnvC.jpg" group-title="F • Clássicos",Braddock 3: O Resgate (1988)
+http://tvget.live:80/movie/epg/epg/1387079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Recruta Benjamin (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fs2bTvbMsTgotMD10kC7MTKBIHm.jpg" group-title="F • Clássicos",A Recruta Benjamin (1980)
+http://tvget.live:80/movie/epg/epg/1387080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E.T.: O Extraterrestre (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8j5igb0iuV9TYudw9SuMV5GT9K9.jpg" group-title="F • Clássicos",E.T.: O Extraterrestre (1982)
+http://tvget.live:80/movie/epg/epg/1387081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="McQuade: O Lobo Solitário (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddsKrcL7iiK66cJyj3JVyZKdm2q.jpg" group-title="F • Clássicos",McQuade: O Lobo Solitário (1983)
+http://tvget.live:80/movie/epg/epg/1387082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Fiel Camareiro (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97gqMm7iw73J99wQmqrf7RE0wcM.jpg" group-title="F • Clássicos",O Fiel Camareiro (2015)
+http://tvget.live:80/movie/epg/epg/1387083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jornada nas Estrelas: O Filme (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHgbWah5GVryVCjI21Gpsxb8FnM.jpg" group-title="F • Clássicos",Jornada nas Estrelas: O Filme (1979)
+http://tvget.live:80/movie/epg/epg/1387084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karatê Kid 4: A Nova Aventura (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYLW0WvEVEmmsFQMDEIkbrUkEox.jpg" group-title="F • Clássicos",Karatê Kid 4: A Nova Aventura (1994)
+http://tvget.live:80/movie/epg/epg/1387085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Lobisomem (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQA7jDJfTaTVAS3wNpAE04iNBLj.jpg" group-title="F • Clássicos",A Hora do Lobisomem (1985)
+http://tvget.live:80/movie/epg/epg/1387086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chamas da Vingança (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qU8xM8nFsXvUYSZsRQOdIti267.jpg" group-title="F • Clássicos",Chamas da Vingança (2022)
+http://tvget.live:80/movie/epg/epg/1393082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fortaleza (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aee2Vcu6D32WV6XWvsFxxVWOxVO.jpg" group-title="F • Clássicos",A Fortaleza (1992)
+http://tvget.live:80/movie/epg/epg/1393085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inspiração Trágica (1947)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4Xky20Yi1S5tsQD7tqP714XH7T.jpg" group-title="F • Clássicos",Inspiração Trágica (1947)
+http://tvget.live:80/movie/epg/epg/1393214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa da Noite Eterna (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmy8Uspj789NzrgS62leaeANKyX.jpg" group-title="F • Clássicos",A Casa da Noite Eterna (1973)
+http://tvget.live:80/movie/epg/epg/1393215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vestígios do Dia (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUyGOKTkPRAP1jmO9skJL3PZ6bf.jpg" group-title="F • Clássicos",Vestígios do Dia (1993)
+http://tvget.live:80/movie/epg/epg/1393216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perseguicao" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUyGOKTkPRAP1jmO9skJL3PZ6bf.jpg" group-title="F • Clássicos",Perseguicao
+http://tvget.live:80/movie/epg/epg/1393217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caminho do Oeste (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9E0w4E3wazxx4qm70MJSTWHnBI.jpg" group-title="F • Clássicos",A Caminho do Oeste (1967)
+http://tvget.live:80/movie/epg/epg/1393218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iron Will: O Grande Desafio (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Jr4xLsi3Zt5KHAh8MHH97PlT7V.jpg" group-title="F • Clássicos",Iron Will: O Grande Desafio (1994)
+http://tvget.live:80/movie/epg/epg/1393219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Top Secret! Superconfidencial (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzWUEkw1vN13ztIfkxIBygrbwwp.jpg" group-title="F • Clássicos",Top Secret! Superconfidencial (1984)
+http://tvget.live:80/movie/epg/epg/1393220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Aventura na Africa (1952)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNwc3qLpZkg5WtIHYiyxS8KBbNv.jpg" group-title="F • Clássicos",Uma Aventura na Africa (1952)
+http://tvget.live:80/movie/epg/epg/1393221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cleópatra Jones (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJkx2JgPTAR0jAcOdo6V8kBANkD.jpg" group-title="F • Clássicos",Cleópatra Jones (1973)
+http://tvget.live:80/movie/epg/epg/1393222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Mulher para Dois (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k044gQLEcTcYC699lV3fNjXJSbY.jpg" group-title="F • Clássicos",Uma Mulher para Dois (1993)
+http://tvget.live:80/movie/epg/epg/1393223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A 20 Milhões de Milhas da Terra (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TfrpVIuDPU8dXzfQUwbZkhQqJb.jpg" group-title="F • Clássicos",A 20 Milhões de Milhas da Terra (1957)
+http://tvget.live:80/movie/epg/epg/1393224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arthur (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ziUaDrduZGMfvyGXrdy7LwHS1W.jpg" group-title="F • Clássicos",Arthur (2017)
+http://tvget.live:80/movie/epg/epg/1393225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Serpent (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvMoan3rxCDZpNf59BmAP2G8q5x.jpg" group-title="F • Clássicos",The Serpent (2021)
+http://tvget.live:80/movie/epg/epg/1393226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo o que Você Sempre Quis Saber Sobre Sexo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvMoan3rxCDZpNf59BmAP2G8q5x.jpg" group-title="F • Clássicos",Tudo o que Você Sempre Quis Saber Sobre Sexo
+http://tvget.live:80/movie/epg/epg/1393227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excessos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvMoan3rxCDZpNf59BmAP2G8q5x.jpg" group-title="F • Clássicos",Excessos
+http://tvget.live:80/movie/epg/epg/1393228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Profecia II (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/izID2fUZbp1b1RvuO1GRqQIPW7K.jpg" group-title="F • Clássicos",A Profecia II (1978)
+http://tvget.live:80/movie/epg/epg/1393229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viagem ao Centro da Terra (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7KHgqrsNe7DOU3XIcPEuP7xMECV.jpg" group-title="F • Clássicos",Viagem ao Centro da Terra (1959)
+http://tvget.live:80/movie/epg/epg/1393230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Horizonte de Glórias (1951)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCIoWmBPN9rkJH1z9sccozEmfIa.jpg" group-title="F • Clássicos",Horizonte de Glórias (1951)
+http://tvget.live:80/movie/epg/epg/1393231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007 Na Mira dos Assassinos (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbytkyUibUnksjBEpIwcMxQJTfJ.jpg" group-title="F • Clássicos",007 Na Mira dos Assassinos (1985)
+http://tvget.live:80/movie/epg/epg/1393232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Sessão de Cinema (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FmbehOWCL4ilkkNkXASPWW5rlI.jpg" group-title="F • Clássicos",A Última Sessão de Cinema (1971)
+http://tvget.live:80/movie/epg/epg/1393233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perseguicao␍" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24WSZJyiQbLuH1esYnVhJOvQXNx.jpg" group-title="F • Clássicos",Perseguicao␍
+http://tvget.live:80/movie/epg/epg/1393334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Vingador do Futuro (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFk3iW5ZvkAV7ZrNPYitB0sSxbw.jpg" group-title="F • Clássicos",O Vingador do Futuro (1990)
+http://tvget.live:80/movie/epg/epg/1505495.mp4
