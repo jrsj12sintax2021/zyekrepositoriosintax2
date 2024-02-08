@@ -1,1 +1,161 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="Blade: O Caçador de Vampiros (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyivyoXd6zP09tS1PP7b35sB84h.jpg" group-title="F • Marvel",Blade: O Caçador de Vampiros (1998)
+http://tvget.live:80/movie/epg/epg/1101922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blade 2 - O Cacador de Vampiros - 2002" tvg-logo="http://urlon.me/ZgY1Fj" group-title="F • Marvel",Blade 2 - O Cacador de Vampiros - 2002
+http://tvget.live:80/movie/epg/epg/1101923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blade: Trinity (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rodqqX8NLe3cdcgBMc4CFTPidTy.jpg" group-title="F • Marvel",Blade: Trinity (2004)
+http://tvget.live:80/movie/epg/epg/1101924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitã Marvel (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg" group-title="F • Marvel",Capitã Marvel (2019)
+http://tvget.live:80/movie/epg/epg/1101925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitão América: O Primeiro Vingador (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f976JQnjMhCTa1yLXz7UH1pV4DG.jpg" group-title="F • Marvel",Capitão América: O Primeiro Vingador (2011)
+http://tvget.live:80/movie/epg/epg/1101926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitão América 2: O Soldado Invernal (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88iNcBQl9eK6DWIlek9NG2b5fLX.jpg" group-title="F • Marvel",Capitão América 2: O Soldado Invernal (2014)
+http://tvget.live:80/movie/epg/epg/1101927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitão América: Guerra Civil (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8IoDJYGMoo4nEkjGADW2TtZRoWF.jpg" group-title="F • Marvel",Capitão América: Guerra Civil (2016)
+http://tvget.live:80/movie/epg/epg/1101928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho - 2016" tvg-logo="http://urlon.me/ZgYMul" group-title="F • Marvel",Doutor Estranho - 2016
+http://tvget.live:80/movie/epg/epg/1101929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez Um Deadpool - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6mbdXVinpYl4pWZ6CkySX6dUZ9.jpg" group-title="F • Marvel",Era Uma Vez Um Deadpool - 2018
+http://tvget.live:80/movie/epg/epg/1101930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eternos - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzezdUZEnpiUIlxpdyLO1R08Lqm.jpg" group-title="F • Marvel",Eternos - 2022
+http://tvget.live:80/movie/epg/epg/1101931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardioes da Galaxia - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xaY92XMToaSnBuvCui3LHzNGqZB.jpg" group-title="F • Marvel",Guardioes da Galaxia - 2014
+http://tvget.live:80/movie/epg/epg/1101932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardioes da Galaxia Vol. 2 - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXi3ExbRXnZCPbdHQkppQdcdMUF.jpg" group-title="F • Marvel",Guardioes da Galaxia Vol. 2 - 2017
+http://tvget.live:80/movie/epg/epg/1101933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7w6s8TdJ0Wdayz2MCHZA5wIk9nq.jpg" group-title="F • Marvel",Homem de Ferro - 2008
+http://tvget.live:80/movie/epg/epg/1101934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro 2 - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7NFIOapixCJV3zA3sF823KVrNL.jpg" group-title="F • Marvel",Homem de Ferro 2 - 2010
+http://tvget.live:80/movie/epg/epg/1101935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro 3 - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzL3IlELFTRnRLdGqRv33SecqtD.jpg" group-title="F • Marvel",Homem de Ferro 3 - 2013
+http://tvget.live:80/movie/epg/epg/1101936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha 1 - 2002" tvg-logo="http://urlon.me/Zxo" group-title="F • Marvel",Homem-Aranha 1 - 2002
+http://tvget.live:80/movie/epg/epg/1101937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha 2 - 2004" tvg-logo="http://urlon.me/Zxa" group-title="F • Marvel",Homem-Aranha 2 - 2004
+http://tvget.live:80/movie/epg/epg/1101938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha 3 - 2007" tvg-logo="http://urlon.me/ZxI" group-title="F • Marvel",Homem-Aranha 3 - 2007
+http://tvget.live:80/movie/epg/epg/1101939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha no Aranhaverso - 2018" tvg-logo="http://urlon.me/ZkX" group-title="F • Marvel",Homem-Aranha no Aranhaverso - 2018
+http://tvget.live:80/movie/epg/epg/1101940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha: De Volta ao Lar - 2017" tvg-logo="http://urlon.me/ZxW" group-title="F • Marvel",Homem-Aranha: De Volta ao Lar - 2017
+http://tvget.live:80/movie/epg/epg/1101941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha: Longe de Casa - 2019" tvg-logo="http://urlon.me/Z78" group-title="F • Marvel",Homem-Aranha: Longe de Casa - 2019
+http://tvget.live:80/movie/epg/epg/1101942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga - 2015" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/Ant_Man-Poster.jpg" group-title="F • Marvel",Homem-Formiga - 2015
+http://tvget.live:80/movie/epg/epg/1101943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga e a Vespa - 2018" tvg-logo="http://urlon.me/ZxV" group-title="F • Marvel",Homem-Formiga e a Vespa - 2018
+http://tvget.live:80/movie/epg/epg/1101944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hulk - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Kl74sn1p6thqUFU6atZA81NHfi.jpg" group-title="F • Marvel",Hulk - 2003
+http://tvget.live:80/movie/epg/epg/1101945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motoqueiro Fantasma 1 - 2007" tvg-logo="http://urlon.me/Zxp" group-title="F • Marvel",Motoqueiro Fantasma 1 - 2007
+http://tvget.live:80/movie/epg/epg/1101946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motoqueiro Fantasma 2 - Espirito de Vinganca - 2011" tvg-logo="http://urlon.me/Zxc" group-title="F • Marvel",Motoqueiro Fantasma 2 - Espirito de Vinganca - 2011
+http://tvget.live:80/movie/epg/epg/1101947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Espetacular Homem-Aranha 1 - 2012" tvg-logo="http://urlon.me/Zx0" group-title="F • Marvel",O Espetacular Homem-Aranha 1 - 2012
+http://tvget.live:80/movie/epg/epg/1101948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Espetacular Homem-Aranha 2 - A Ameaca de Electro - 2014" tvg-logo="http://urlon.me/Zxt" group-title="F • Marvel",O Espetacular Homem-Aranha 2 - A Ameaca de Electro - 2014
+http://tvget.live:80/movie/epg/epg/1101949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrivel Hulk - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8RddLhz0bHigZwltYlngPZJII0.jpg" group-title="F • Marvel",O Incrivel Hulk - 2008
+http://tvget.live:80/movie/epg/epg/1101950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores: The Avengers - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="F • Marvel",Os Vingadores: The Avengers - 2012
+http://tvget.live:80/movie/epg/epg/1101951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thor 1 - 2011" tvg-logo="http://urlon.me/Zxl" group-title="F • Marvel",Thor 1 - 2011
+http://tvget.live:80/movie/epg/epg/1101952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thor 2 - O Mundo Sombrio - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oip30thvJBpJRveA13Rtd2am5Qg.jpg" group-title="F • Marvel",Thor 2 - O Mundo Sombrio - 2013
+http://tvget.live:80/movie/epg/epg/1101953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thor 3 - Ragnarok - 2017" tvg-logo="http://urlon.me/ZxQ" group-title="F • Marvel",Thor 3 - Ragnarok - 2017
+http://tvget.live:80/movie/epg/epg/1101954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Venom - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysV0NOrxUelK290XONEQePpw4zB.jpg" group-title="F • Marvel",Venom - 2018
+http://tvget.live:80/movie/epg/epg/1101955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Venom: Tempo de Carnificina - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5UzYZquMwO9FVn15R2eK2itmHu.jpg" group-title="F • Marvel",Venom: Tempo de Carnificina - 2021
+http://tvget.live:80/movie/epg/epg/1101956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingadores: Era de Ultron - 2015" tvg-logo="http://urlon.me/ZxG" group-title="F • Marvel",Vingadores: Era de Ultron - 2015
+http://tvget.live:80/movie/epg/epg/1101957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingadores: Guerra Infinita - 2018" tvg-logo="http://urlon.me/ZxY" group-title="F • Marvel",Vingadores: Guerra Infinita - 2018
+http://tvget.live:80/movie/epg/epg/1101958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingadores: Ultimato - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg" group-title="F • Marvel",Vingadores: Ultimato - 2019
+http://tvget.live:80/movie/epg/epg/1101959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viuva Negra - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKq1Vlw0Bqe2EEvdmIkkkgPQAGf.jpg" group-title="F • Marvel",Viuva Negra - 2021
+http://tvget.live:80/movie/epg/epg/1101960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 1 - O Filme - 2000" tvg-logo="http://urlon.me/ZLG" group-title="F • Marvel",X-Men 1 - O Filme - 2000
+http://tvget.live:80/movie/epg/epg/1101961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 10 - Logan - 2017" tvg-logo="http://urlon.me/ZSc" group-title="F • Marvel",X-Men 10 - Logan - 2017
+http://tvget.live:80/movie/epg/epg/1101962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 11 - Deadpool 2 - 2018" tvg-logo="http://urlon.me/Z0F" group-title="F • Marvel",X-Men 11 - Deadpool 2 - 2018
+http://tvget.live:80/movie/epg/epg/1101963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 12 - Fenix Negra - 2019" tvg-logo="http://urlon.me/ZgY3SW" group-title="F • Marvel",X-Men 12 - Fenix Negra - 2019
+http://tvget.live:80/movie/epg/epg/1101964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 2 - 2003" tvg-logo="https://img.elo7.com.br/product/original/2678F93/big-poster-x-men-2-2003-lo01-tamanho-90x60-cm-nerd.jpg" group-title="F • Marvel",X-Men 2 - 2003
+http://tvget.live:80/movie/epg/epg/1101965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 3 - O Confronto Final - 2006" tvg-logo="http://urlon.me/ZLc" group-title="F • Marvel",X-Men 3 - O Confronto Final - 2006
+http://tvget.live:80/movie/epg/epg/1101966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 4 - Origens: Wolverine - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUqx0nGiUGeDRQtCWItG3lpuFjY.jpg" group-title="F • Marvel",X-Men 4 - Origens: Wolverine - 2009
+http://tvget.live:80/movie/epg/epg/1101967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 5 - Primeira Classe - 2011" tvg-logo="https://2.bp.blogspot.com/-3R7YBLnNl68/TelgbyazHHI/AAAAAAAAE9U/0yrX40NPut8/s1600/poster-frances-04Mai2011.jpg" group-title="F • Marvel",X-Men 5 - Primeira Classe - 2011
+http://tvget.live:80/movie/epg/epg/1101968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 6 - Wolverine: Imortal - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCP2JfaRFdrFjxiXTUdNnfvyJ2K.jpg" group-title="F • Marvel",X-Men 6 - Wolverine: Imortal - 2013
+http://tvget.live:80/movie/epg/epg/1101969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 7 - Dias De Um Futuro Esquecido - 2014" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/X-Men_Dias_Futuro_Esquecido_2014.jpg" group-title="F • Marvel",X-Men 7 - Dias De Um Futuro Esquecido - 2014
+http://tvget.live:80/movie/epg/epg/1101970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 8 - Deadpool - 2016" tvg-logo="http://urlon.me/ZgYMAn" group-title="F • Marvel",X-Men 8 - Deadpool - 2016
+http://tvget.live:80/movie/epg/epg/1101971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 9 - Apocalipse - 2016" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e6/Xmen_apocalypse_ver18.jpg" group-title="F • Marvel",X-Men 9 - Apocalipse - 2016
+http://tvget.live:80/movie/epg/epg/1101972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitão América (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9Jq4feBhAJTjEj4CvNuMgRwUjW.jpg" group-title="F • Marvel",Capitão América (1990)
+http://tvget.live:80/movie/epg/epg/1391838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adSJ0DpgOsMwrpUH78cZpLGOOAk.jpg" group-title="F • Marvel",Homem de Ferro (2008)
+http://tvget.live:80/movie/epg/epg/1391839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha 3 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/63O5iixxXSmyOaBas7ek1tkeVra.jpg" group-title="F • Marvel",Homem-Aranha 3 (2007)
+http://tvget.live:80/movie/epg/epg/1391840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingadores: Guerra Infinita (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkHe0BfOo1f5N2q6rxgdYac7Zf6.jpg" group-title="F • Marvel",Vingadores: Guerra Infinita (2018)
+http://tvget.live:80/movie/epg/epg/1391841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thor: O Mundo Sombrio (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZgNyh3Z8xfBXPszT5GmAeVtsAT.jpg" group-title="F • Marvel",Thor: O Mundo Sombrio (2013)
+http://tvget.live:80/movie/epg/epg/1391842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitão América 2: O Soldado Invernal (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88iNcBQl9eK6DWIlek9NG2b5fLX.jpg" group-title="F • Marvel",Capitão América 2: O Soldado Invernal (2014)
+http://tvget.live:80/movie/epg/epg/1391843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardiões da Galáxia (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUGYYLTtE4k5T1DBki033J6qAwY.jpg" group-title="F • Marvel",Guardiões da Galáxia (2014)
+http://tvget.live:80/movie/epg/epg/1391844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro 3 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/C7MZwRTjvEy7gkWcLJeBGZFE1w.jpg" group-title="F • Marvel",Homem de Ferro 3 (2013)
+http://tvget.live:80/movie/epg/epg/1391845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga e a Vespa (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smRrzh8W4PfIYiqAEqc6U1D6Ekl.jpg" group-title="F • Marvel",Homem-Formiga e a Vespa (2018)
+http://tvget.live:80/movie/epg/epg/1391846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Espetacular Homem-Aranha 2: A Ameaça de Electro (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17jHyaXGTpYOJiIx0KsYxneBG7w.jpg" group-title="F • Marvel",O Espetacular Homem-Aranha 2: A Ameaça de Electro (2014)
+http://tvget.live:80/movie/epg/epg/1391847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores: The Avengers (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="F • Marvel",Os Vingadores: The Avengers (2012)
+http://tvget.live:80/movie/epg/epg/1391848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9D40jv8pi9uKnrVDPiN3JYYad72.jpg" group-title="F • Marvel",Pantera Negra (2018)
+http://tvget.live:80/movie/epg/epg/1391849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitão América: Guerra Civil (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8IoDJYGMoo4nEkjGADW2TtZRoWF.jpg" group-title="F • Marvel",Capitão América: Guerra Civil (2016)
+http://tvget.live:80/movie/epg/epg/1391850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Amor e Trovão (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/71XnRvkadkWZZowCGcuBi4XAKdJ.jpg" group-title="F • Marvel",Thor: Amor e Trovão (2022)
+http://tvget.live:80/movie/epg/epg/1391851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardiões da Galáxia: Especial de Festas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5v6VCc7bdxWDkKc5ilYsxhOeUp.jpg" group-title="F • Marvel",Guardiões da Galáxia: Especial de Festas (2022)
+http://tvget.live:80/movie/epg/epg/1391852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Ragnarok (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrF3WW4lJkIFtIY3nIyapZ7q0N8.jpg" group-title="F • Marvel",Thor: Ragnarok (2017)
+http://tvget.live:80/movie/epg/epg/1391853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men Origens: Wolverine (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnCHOYoWpbdvxFbIIABh8mQprSg.jpg" group-title="F • Marvel",X-Men Origens: Wolverine (2013)
+http://tvget.live:80/movie/epg/epg/1391854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha: Longe de Casa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg" group-title="F • Marvel",Homem-Aranha: Longe de Casa (2019)
+http://tvget.live:80/movie/epg/epg/1391855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha 2 (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y06FivvCfqapHB3iETOtbAqWdkD.jpg" group-title="F • Marvel",Homem-Aranha 2 (2004)
+http://tvget.live:80/movie/epg/epg/1391856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tango & Cash: Os Vingadores (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34eICraXrXH84mjPPIVvaK1ZR4X.jpg" group-title="F • Marvel",Tango & Cash: Os Vingadores (1989)
+http://tvget.live:80/movie/epg/epg/1391857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WIwz0qJpnVAiofTAhrmhbKxuvE.jpg" group-title="F • Marvel",Homem-Aranha (2002)
+http://tvget.live:80/movie/epg/epg/1391858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingadores: Ultimato (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg" group-title="F • Marvel",Vingadores: Ultimato (2019)
+http://tvget.live:80/movie/epg/epg/1391859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingadores: Era de Ultron (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/am8Kl0OOKSQei6XX2DBFhdegcXI.jpg" group-title="F • Marvel",Vingadores: Era de Ultron (2015)
+http://tvget.live:80/movie/epg/epg/1391860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro 2 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzROjQbgKWMVf2EldXipCcjpuBL.jpg" group-title="F • Marvel",Homem de Ferro 2 (2010)
+http://tvget.live:80/movie/epg/epg/1391861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitão América: O Primeiro Vingador (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f976JQnjMhCTa1yLXz7UH1pV4DG.jpg" group-title="F • Marvel",Capitão América: O Primeiro Vingador (2011)
+http://tvget.live:80/movie/epg/epg/1391862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Espetacular Homem-Aranha (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxSsFBCFuDhVQMCuIDoZcmHOqlY.jpg" group-title="F • Marvel",O Espetacular Homem-Aranha (2012)
+http://tvget.live:80/movie/epg/epg/1391863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha: De Volta ao Lar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg" group-title="F • Marvel",Homem-Aranha: De Volta ao Lar (2017)
+http://tvget.live:80/movie/epg/epg/1391864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiLqv1gwBENjbqTAdPxW4LhX6aA.jpg" group-title="F • Marvel",Homem-Formiga (2015)
+http://tvget.live:80/movie/epg/epg/1391865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha: No Aranhaverso (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybQSBSrINtjWsJQ6Ih8sva8HlEZ.jpg" group-title="F • Marvel",Homem-Aranha: No Aranhaverso (2018)
+http://tvget.live:80/movie/epg/epg/1505238.mp4
