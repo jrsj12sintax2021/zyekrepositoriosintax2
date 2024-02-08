@@ -1,0 +1,255 @@
+#EXTM3U
+#EXTINF:-1 group-title="DESENHOS | 24H",24H Charlie Brown e Snoopy
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/172266.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H DOUTORA BRINQUEDOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/172240.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H PATRULHA CANINA T05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/172239.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png",24H VINGADORES OS SUPER HERÓIS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/172236.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H MANNY MÃOS À OBRA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/172235.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H MUCHA LUTA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/172232.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H PATRULHA CANINA T06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/168752.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="http://4tv.site:2082/images/e20e628371e8bae3d42b580287f898ff.jpg",24H IRMÃOS A OBRA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/27943.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="http://capas.webplay.fun/futurama.png",24H FUTURAMA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/19914.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="http://capas.webplay.fun/simpsons2.png",24H OS SIMPSONS 2° Década 2000/2010
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/20954.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg",24H BOB ESPONJA T01 A 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/19495.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg",SHE-RA E AS PRINCESAS DO PODER
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/19525.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg",OS PADRINHOS MAGICOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/19527.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg",24H TICO E TECO OS DEFENSORES DA LEI
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/19534.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg",CLASSICOS HANNA BARBERA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/19538.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg",24H MUNDO BITA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/19953.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg",24H CAPITÃO CAVERNA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/19989.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg",24H DIGIMON
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/19993.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg",24H IRMÃO DO JOREL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/20000.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg",24H CONTOS ASSUSTADORES DA MASHA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/20003.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg",24H OS HERCULÓIDES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/20005.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg",24H PATRULHA CANINA T01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/20008.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="http://capas.webplay.fun/24horaslogo.jpg",24H PATRULHA CANINA T02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/20009.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H TRÊS ESPIÃS DEMAIS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/26828.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="http://4tv.site:2082/images/f27a1185506ccfec75265bd0eba611b4.jpg",24H TOM & JERRY CLASSICO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/27150.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="http://capas.webplay.fun/PATRULHA%20CANINA%201%C2%AA%20TEMPORADA.jpg",24H PATRULHA CANINA T03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/29345.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="http://capas.webplay.fun/PATRULHA%20CANINA%201%C2%AA%20TEMPORADA.jpg",24H PATRULHA CANINA T04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/29346.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H BUBU E AS CORUJINHAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35297.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H O SHOW DO GARFIELD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35298.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H DANIEL TIGRE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35299.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H GALINHA PINTADINHA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35300.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H LOUIE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35302.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H JESUS UM REINO SEM FRONTEIRA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35304.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="http://capas.webplay.fun/korra.png",24H AVATAR A LENDA DE KORA H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35305.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H CANÇÕES DE NINAR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35306.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H GALINHA PINTADINHA MINI
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35308.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H PEPE LEGAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35310.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H ANIMANIACS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35312.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H ZILLION
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35316.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="http://4tv.site:2082/images/43679c7d0fc2d1ee4da1bb8725208861.png",24H OS SIMPSONS 3° Década 2011/2020
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35317.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H PICA-PAU
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/19894.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H PEPPA PIG
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/19892.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H OS FLINTSTONES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/19889.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H OS SNORKS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35739.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H A TURMA DA PANTERA COR DE ROSA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35744.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H TURMA DO RONALDINHO GAUCHO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35745.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H O PODEROSO MIGTHOR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35746.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H PERDIDO NAS ESTRELAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35749.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H SCOOBY-DOO & SCOOBY-LOO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35753.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H TV COLOSSO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35756.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H FREAKAZOID
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35758.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H CASTORES PIRADOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35763.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H EU SOU O MAXIMO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35764.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H GATO FELIX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35766.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H BANANAS DE PIJAMAS DESENHO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35768.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H OS CAÇA FANTASMA DESENHO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35769.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H BOOBA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35772.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H MASHA E O URSO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35779.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H TAZ MANIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35780.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H OS JOVENS TITÃS EM AÇÃO T-01 Á 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35781.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H OS JOVENS TITÃS EM AÇÃO T05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35782.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H TV QUACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35786.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H TRANSFORMERS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35787.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png",24H SUPERCAMPEÕES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35789.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H PINK E O CEREBRO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35799.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H O PEQUENO SCOOBY-DOO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35800.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H OS MISTÉRIOS DE PIU-PIU E FRAJOLA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35802.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H O PEQUENO URSO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35803.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png",24H MUMIAS VIVAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35805.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H MISTER MAKER
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35806.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H MORANGUINHO AVENTURAS EM TUTTI FRUTI
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35811.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H MICKEY CLASSICO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35812.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H A TURMA DO ZÉ COLMÉIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35813.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="http://capas.webplay.fun/dragonballw.png",24H DRAGONBALL SUPER H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35815.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="http://capas.webplay.fun/dragonballw.png",24H DRAGONBALL Z SAGA SAYAJIN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35816.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H A CASA DO MICKEY MOUSE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35856.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H MEU AMIGÃOZÃO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35857.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H ANIMAZOO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35859.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H BABY LOONEY TUNES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35860.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H OS BACKYARDIGANS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35861.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H SAKURA CARDCAPTORS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35863.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H BEN 10 OMNIVERSE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35864.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H SUPER CHOQUE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35866.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H FRANKSTEIN JR E OS IMPOSSIVEÍS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35868.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H XODÓ DA VOVÓ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35869.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H TÁ CHOVENDO HAMBURGUER
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35874.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H CLARÊNCIO O OTIMISTA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35875.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H CORAGEM O CÃO COVARDE (HARDBLOG)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35876.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H AS AVENTURAS DE TOM & JERRY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35881.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H OS 7A
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35883.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H OQUE HÁ DE NOVO SCOOBY DOO?
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35884.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H PATO DONALD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35886.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H DUCK TALES CLÁSSICO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35893.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H FÁBULAS DA DISNEY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35894.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H FORMIGA ATÔMICA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35897.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H GALINHA BABY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35898.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H O SHOW DOS LOONEY TUNES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35900.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H O INCRÍVEL MUNDO DE GUMBALL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35901.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H JAKE E OS PIRATAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/35904.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="http://capas.webplay.fun/simpsons2.png",24H OS SIMPSONS 1ª Década 1989/1999
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/38313.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H SHAUN O CARNEIRO²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/38315.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H OGGY E AS BARATAS TONTAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/38316.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H Larva
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/154963.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H Família Dinossauro
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/154964.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H Bob Esponja Kamp Koral
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/154965.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H Scooby Doo Longas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/154966.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H Apenas um Show
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/155650.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H 3 PALAVRINHAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/155654.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H NARUTO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/155655.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H CAPITÃO PLANETA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/155663.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H INUYASHA (ANIME)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/155665.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H DR.STONE (ANIME)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/155669.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H VELOZES E FURIOSOS ESPIÕES DO ASFALTO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/155705.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H HORA DE AVENTURA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/155726.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H OS URSINHOS GUMMI
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/155774.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H DRAGON BALL SUPER HEROES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/168595.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="https://i.imgur.com/yOce4UT.jpg",24H OS JOVENS TITÃS EM AÇÃO T06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/175862.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H DIGIMON 2.000
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/176167.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H Tom & Jerry New York
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/176254.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H",24H O Máskara
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/177068.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png",24H Super Homem Anos 40
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/200849.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png",24H Pernalonga e Seus Amigos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/200850.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png",24H Luluzinha
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/200851.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png",24H Mickey Donald e Pateta
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/200880.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png",24H Bob Esponja T09 a T12
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/200881.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png",24H Thundercats
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/200887.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 group-title="DESENHOS | 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png",24H As Novas Aventuras do Superman
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/200888.m3u8|User-Agent=FooBar/1.2.3
