@@ -1,1 +1,361 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="Entre Irmãs (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr4gHti4EFjd1d7jXvr6KFuXFeT.jpg" group-title="F • Nacionais",Entre Irmãs (2017)
+http://tvget.live:80/movie/epg/epg/1391866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Foro Íntimo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8htevandDGCHfzGCiMAjaJDZJuN.jpg" group-title="F • Nacionais",Foro Íntimo (2017)
+http://tvget.live:80/movie/epg/epg/1391867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Juízo (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vckWdZHar1gWCxZV4xI6W4DNZa5.jpg" group-title="F • Nacionais",Juízo (2007)
+http://tvget.live:80/movie/epg/epg/1391868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Noite Não é Nada (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gAeS6GhBmJJkCAgspP1bpFHFgB.jpg" group-title="F • Nacionais",Uma Noite Não é Nada (2018)
+http://tvget.live:80/movie/epg/epg/1391869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nervo Craniano Zero (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30nkDuGDa9vIZbxBo6WNrCAb4Rh.jpg" group-title="F • Nacionais",Nervo Craniano Zero (2012)
+http://tvget.live:80/movie/epg/epg/1391870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Shaolin do Sertão (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHmD5ziiVvOM1femGTazj4bfkGK.jpg" group-title="F • Nacionais",O Shaolin do Sertão (2016)
+http://tvget.live:80/movie/epg/epg/1391871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Socorro (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dobuoy5MbwpkSDZgHepjORbi369.jpg" group-title="F • Nacionais",Socorro (2017)
+http://tvget.live:80/movie/epg/epg/1391872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abaixo a Gravidade (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yT6Erbvb6ZUNK31wzKPpGEG6pAj.jpg" group-title="F • Nacionais",Abaixo a Gravidade (2019)
+http://tvget.live:80/movie/epg/epg/1391873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Gogó do Paulinho (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmCAciCurvDWZJY8wo3lvo9S9b2.jpg" group-title="F • Nacionais",No Gogó do Paulinho (2020)
+http://tvget.live:80/movie/epg/epg/1391874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Doutrinador (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CTLPePcpr1knfbPhgJkHgnX3H.jpg" group-title="F • Nacionais",O Doutrinador (2018)
+http://tvget.live:80/movie/epg/epg/1391875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ligações Perigosas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXgXTdylM27Fq2N0IYhHXA4wI8b.jpg" group-title="F • Nacionais",Ligações Perigosas (2022)
+http://tvget.live:80/movie/epg/epg/1391876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Papai é Pop (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lXyjwOLz5IgYJbK4uuzUuLAVrg.jpg" group-title="F • Nacionais",Papai é Pop (2022)
+http://tvget.live:80/movie/epg/epg/1391877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Escola Atrapalhada (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6alKvMWu6od35k1rZalHL6pPRx.jpg" group-title="F • Nacionais",Uma Escola Atrapalhada (1990)
+http://tvget.live:80/movie/epg/epg/1391878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tinta Bruta (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zW8OKgJKaO5JHzZe6geZd2vpgT.jpg" group-title="F • Nacionais",Tinta Bruta (2018)
+http://tvget.live:80/movie/epg/epg/1391879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gospel (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXYnB3tNLaCg8YXJounvhybk0SH.jpg" group-title="F • Nacionais",Gospel (2022)
+http://tvget.live:80/movie/epg/epg/1391880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brasil (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zk2PzO3aCW4uSpNNjST2tioduj.jpg" group-title="F • Nacionais",Brasil (1981)
+http://tvget.live:80/movie/epg/epg/1391881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Made in China (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1WABVCwp81KWdCeRDvFOxuN1Is9.jpg" group-title="F • Nacionais",Made in China (2019)
+http://tvget.live:80/movie/epg/epg/1391882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cabeça a Prêmio (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrNUgejkvlLuAsBKerJRbhhW92p.jpg" group-title="F • Nacionais",Cabeça a Prêmio (2010)
+http://tvget.live:80/movie/epg/epg/1391883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Filha dos Trapalhões (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgDl0lZlkvKfPFTuivnGtqi2AOc.jpg" group-title="F • Nacionais",A Filha dos Trapalhões (1984)
+http://tvget.live:80/movie/epg/epg/1391884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fendas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7R6w9kQCa8xeHiOD7mt1zJtpJ2.jpg" group-title="F • Nacionais",Fendas (2021)
+http://tvget.live:80/movie/epg/epg/1391885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões e o Rei do Futebol (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Sj5cH5kJa79fvA2Pw5nL3n5Ouu.jpg" group-title="F • Nacionais",Os Trapalhões e o Rei do Futebol (1986)
+http://tvget.live:80/movie/epg/epg/1391886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu País (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bME5c4WJEvuJJycrMGi9GNwPx4U.jpg" group-title="F • Nacionais",Meu País (2011)
+http://tvget.live:80/movie/epg/epg/1391887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Trapalhão no Planalto dos Macacos (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kR69LiTcoxHzyWZP3BCZQW4z2J.jpg" group-title="F • Nacionais",O Trapalhão no Planalto dos Macacos (1976)
+http://tvget.live:80/movie/epg/epg/1391888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: O Meu Aniversário (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYvm8UD5ETdiUJ4rFGgfFdedgcS.jpg" group-title="F • Nacionais",Luccas Neto em: O Meu Aniversário (2023)
+http://tvget.live:80/movie/epg/epg/1391889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Tempo e o Vento (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIxXO2dYXW4TqkUApiFdl1DzROM.jpg" group-title="F • Nacionais",O Tempo e o Vento (2013)
+http://tvget.live:80/movie/epg/epg/1391890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tapete Vermelho (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zh8PPoN82hV73GOfwZ6LD14Q1zp.jpg" group-title="F • Nacionais",Tapete Vermelho (2005)
+http://tvget.live:80/movie/epg/epg/1391891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casa de Praia (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNyGsCqjmRUqE1Jiy7qdbJ6dTFZ.jpg" group-title="F • Nacionais",Casa de Praia (2018)
+http://tvget.live:80/movie/epg/epg/1391892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Buscador (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpeJyyX6panT3IiKFrEFwJ6oxRL.jpg" group-title="F • Nacionais",O Buscador (2019)
+http://tvget.live:80/movie/epg/epg/1391893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E Aí... Comeu? (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/be7n1ytxXUMCHXXOpwfjoIAeHhy.jpg" group-title="F • Nacionais",E Aí... Comeu? (2012)
+http://tvget.live:80/movie/epg/epg/1391894. comeu
+#EXTINF:-1 tvg-id="" tvg-name="A Morte Habita à Noite (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1jjEOP59fiHQRvlIucmqvDEx7A.jpg" group-title="F • Nacionais",A Morte Habita à Noite (2022)
+http://tvget.live:80/movie/epg/epg/1391895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Que Desafiou o Diabo (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ie5sQLxoOzga7YdVHFm8dL5nKgQ.jpg" group-title="F • Nacionais",O Homem Que Desafiou o Diabo (2007)
+http://tvget.live:80/movie/epg/epg/1391896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidade de Deus (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfnXixcGC060QcG6JPxN6AMdVsq.jpg" group-title="F • Nacionais",Cidade de Deus (2002)
+http://tvget.live:80/movie/epg/epg/1391897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vale Night (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rREjHnosAMceEM6A4shFCNqicOJ.jpg" group-title="F • Nacionais",Vale Night (2022)
+http://tvget.live:80/movie/epg/epg/1391898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escola Base: Um Repórter Enfrenta o Passado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arEmnjAJoOVAXUwz6DBBao21On1.jpg" group-title="F • Nacionais",Escola Base: Um Repórter Enfrenta o Passado (2022)
+http://tvget.live:80/movie/epg/epg/1391899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Sardas do Mundo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vasXCxcYhDnIcbOvyJG2KfHluvX.jpg" group-title="F • Nacionais",Todas as Sardas do Mundo (2019)
+http://tvget.live:80/movie/epg/epg/1391900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vai que Cola 2: O Começo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekJG2dZMOzEbKGI4PW45vc52Go8.jpg" group-title="F • Nacionais",Vai que Cola 2: O Começo (2019)
+http://tvget.live:80/movie/epg/epg/1391901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E a Vida Continua... (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGsZd5MPX8LCqE9Pwi5VPL4G6n6.jpg" group-title="F • Nacionais",E a Vida Continua... (2012)
+http://tvget.live:80/movie/epg/epg/1391902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Máscara Negra (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53tgL9U4WAaln5fAsJN1eMSZvk7.jpg" group-title="F • Nacionais",Máscara Negra (1996)
+http://tvget.live:80/movie/epg/epg/1391903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valentina (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gMZIwZSjOY56koM2ly0d8wfAKq.jpg" group-title="F • Nacionais",Valentina (2020)
+http://tvget.live:80/movie/epg/epg/1391904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Temporada (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCLmnSXPHLj6iXfrKQUhHvRdEER.jpg" group-title="F • Nacionais",Temporada (2019)
+http://tvget.live:80/movie/epg/epg/1391905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carandiru (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvL05T9KtkY6oPpMvrAmu18Nds3.jpg" group-title="F • Nacionais",Carandiru (2003)
+http://tvget.live:80/movie/epg/epg/1391906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fogaréu (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmf3NS6HXc5xMB5ctDB3rtdaBE7.jpg" group-title="F • Nacionais",Fogaréu (2022)
+http://tvget.live:80/movie/epg/epg/1391907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brasília 18% (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owdk8D70ytw6Q0mPJBM7MRnUYJU.jpg" group-title="F • Nacionais",Brasília 18% (2006)
+http://tvget.live:80/movie/epg/epg/1391908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sogra Perfeita (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31Mad8qY3gsWYd7OeOgDXqqsUlt.jpg" group-title="F • Nacionais",A Sogra Perfeita (2020)
+http://tvget.live:80/movie/epg/epg/1391909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carro Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51f9b3Om3vlKYEChC8XwI4lDfqB.jpg" group-title="F • Nacionais",Carro Rei (2022)
+http://tvget.live:80/movie/epg/epg/1391910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Trapalhão nas Minas do Rei Salomão (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23HLa72P9XzVox9qJGWeKSIr4Qp.jpg" group-title="F • Nacionais",O Trapalhão nas Minas do Rei Salomão (1977)
+http://tvget.live:80/movie/epg/epg/1391911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dente por Dente (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8HkVU1IWFD1lywIQa783LqN87w.jpg" group-title="F • Nacionais",Dente por Dente (2020)
+http://tvget.live:80/movie/epg/epg/1391912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ronaldo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTGCbtIMvAnVPCMeUfynxT7XI7X.jpg" group-title="F • Nacionais",Ronaldo (2015)
+http://tvget.live:80/movie/epg/epg/1391913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Trapalhão na Ilha do Tesouro (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cR9tU9Y2TL7yjf7WRzNtA2ekpSf.jpg" group-title="F • Nacionais",O Trapalhão na Ilha do Tesouro (1975)
+http://tvget.live:80/movie/epg/epg/1391914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidade de Deus: 10 Anos Depois (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iA4h5oong1fV9QboczoOITPDYbj.jpg" group-title="F • Nacionais",Cidade de Deus: 10 Anos Depois (2013)
+http://tvget.live:80/movie/epg/epg/1391915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Muitos Homens Num Só (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7lDnhKKv2h5wZQGINAwEXs1RDP.jpg" group-title="F • Nacionais",Muitos Homens Num Só (2015)
+http://tvget.live:80/movie/epg/epg/1391916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Medida Provisória (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqcMOzlR6UHhsCagmCaiaBHVjiL.jpg" group-title="F • Nacionais",Medida Provisória (2022)
+http://tvget.live:80/movie/epg/epg/1391917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Fama de Mau (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyoeEQKLhhypfmHmppIFk8wC6Xl.jpg" group-title="F • Nacionais",Minha Fama de Mau (2019)
+http://tvget.live:80/movie/epg/epg/1391918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Três Mosqueteiros Trapalhões (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWvE2QfjyRMQVUPiiiU0CLVO8xL.jpg" group-title="F • Nacionais",Os Três Mosqueteiros Trapalhões (1980)
+http://tvget.live:80/movie/epg/epg/1391919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Cangaceiro Trapalhão (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTeVkngp93Cxw1t5RpWy8ErSN4f.jpg" group-title="F • Nacionais",O Cangaceiro Trapalhão (1983)
+http://tvget.live:80/movie/epg/epg/1391920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Sangue é Vermelho (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2szRIWAsuhDxD20hHhmcEkzttd.jpg" group-title="F • Nacionais",Meu Sangue é Vermelho (2019)
+http://tvget.live:80/movie/epg/epg/1391921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Virando a Mesa (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29vmk4VC4sbpNrsuGxdAFQ4frt0.jpg" group-title="F • Nacionais",Virando a Mesa (2008)
+http://tvget.live:80/movie/epg/epg/1391922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Happy Hour (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCbc2VSOvpX2SXTLfaMZ57cfAyp.jpg" group-title="F • Nacionais",Happy Hour (2003)
+http://tvget.live:80/movie/epg/epg/1391923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Juntos e Enrolados (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciOCqvJiMQ3PkTEYLBv8q72QT9J.jpg" group-title="F • Nacionais",Juntos e Enrolados (2021)
+http://tvget.live:80/movie/epg/epg/1391924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reflexões de um Liquidificador (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVIbeWPhyGJE5rGRbUWeLyNJ6JX.jpg" group-title="F • Nacionais",Reflexões de um Liquidificador (2010)
+http://tvget.live:80/movie/epg/epg/1391925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Auto da Compadecida (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imcOp1kJsCsAFCoOtY5OnPrFbAf.jpg" group-title="F • Nacionais",O Auto da Compadecida (2000)
+http://tvget.live:80/movie/epg/epg/1391926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quatro Amigas Numa Fria (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QDkxzuZ1klmF3OYYM10xaMFIfu.jpg" group-title="F • Nacionais",Quatro Amigas Numa Fria (2022)
+http://tvget.live:80/movie/epg/epg/1391927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vai Dar Nada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Zo3vVuQJRDV9RTOdBI0580kgXB.jpg" group-title="F • Nacionais",Vai Dar Nada (2022)
+http://tvget.live:80/movie/epg/epg/1391928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Velho (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNYpkVgr4qCCiPYU07zaJkZiw2a.jpg" group-title="F • Nacionais",O Velho (2021)
+http://tvget.live:80/movie/epg/epg/1391929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Cinderelo Trapalhão (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7rTd4fzL9NgrslkYOZBGKAhja1.jpg" group-title="F • Nacionais",O Cinderelo Trapalhão (1979)
+http://tvget.live:80/movie/epg/epg/1391930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Nome é Bagdá (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRAPoeG3di2WKBlwNipPruNrSZS.jpg" group-title="F • Nacionais",Meu Nome é Bagdá (2021)
+http://tvget.live:80/movie/epg/epg/1391931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doutor Gama (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnQZz5SAHMB6DSEhM9bSZ6DdSw6.jpg" group-title="F • Nacionais",Doutor Gama (2021)
+http://tvget.live:80/movie/epg/epg/1391932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Amor Dá Trabalho (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmiAxBnhvLqTGnvVDptaLqIP3zP.jpg" group-title="F • Nacionais",O Amor Dá Trabalho (2019)
+http://tvget.live:80/movie/epg/epg/1391933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu Sou Mais Eu (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8crHQVVD8KfTxl7VeImVBEjG9Ei.jpg" group-title="F • Nacionais",Eu Sou Mais Eu (2019)
+http://tvget.live:80/movie/epg/epg/1391934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lisbela e o Prisioneiro (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUM3SPRziINfGbh576EnGV1mWqz.jpg" group-title="F • Nacionais",Lisbela e o Prisioneiro (2003)
+http://tvget.live:80/movie/epg/epg/1391935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Serial Kelly (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/EcU2NlxIsIIjPfFxo0Z0qjnOKe.jpg" group-title="F • Nacionais",Serial Kelly (2022)
+http://tvget.live:80/movie/epg/epg/1391936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Heróis Trapalhões: Uma Aventura na Selva (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzMEN8amxrPMN4TlENgH7DOi0q3.jpg" group-title="F • Nacionais",Os Heróis Trapalhões: Uma Aventura na Selva (1988)
+http://tvget.live:80/movie/epg/epg/1391937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bate Coração (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zC7Q8hAw9TkrG9npM6GJDI4zchG.jpg" group-title="F • Nacionais",Bate Coração (2019)
+http://tvget.live:80/movie/epg/epg/1391938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões na Guerra dos Planetas (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cU1M9bCqxrHZZvP2p9C79L8iZ5.jpg" group-title="F • Nacionais",Os Trapalhões na Guerra dos Planetas (1978)
+http://tvget.live:80/movie/epg/epg/1391939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Braço Direito (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfz55desDS1XAQVw9Jan42XyL0Q.jpg" group-title="F • Nacionais",O Braço Direito (2020)
+http://tvget.live:80/movie/epg/epg/1391940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rei e os Trapalhões (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yONCqje3LpI0oYob9pxg758C2d7.jpg" group-title="F • Nacionais",O Rei e os Trapalhões (1979)
+http://tvget.live:80/movie/epg/epg/1391941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Testamento do Senhor Napumoceno (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="F • Nacionais",O Testamento do Senhor Napumoceno (1997)
+http://tvget.live:80/movie/epg/epg/1391942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Casamento dos Trapalhões (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYtgB6HN3jVD5kCYt4fgwVeepZT.jpg" group-title="F • Nacionais",O Casamento dos Trapalhões (1988)
+http://tvget.live:80/movie/epg/epg/1391943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quanto Dura o Amor? (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w87ssYECDXIPJPTJArwoQwsLohI.jpg" group-title="F • Nacionais",Quanto Dura o Amor? (2009)
+http://tvget.live:80/movie/epg/epg/1391944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Impuros: O Filme (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UFRFJ8PoXdy1OA6XW0i1hGjyFF.jpg" group-title="F • Nacionais",Impuros: O Filme (2019)
+http://tvget.live:80/movie/epg/epg/1391945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Filmes Nacional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UFRFJ8PoXdy1OA6XW0i1hGjyFF.jpg" group-title="F • Nacionais",Filmes Nacional
+http://tvget.live:80/movie/epg/epg/1393059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sai de Baixo: O Filme (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ugyCJOhnaWRnUdVI8cxXzehay2.jpg" group-title="F • Nacionais",Sai de Baixo: O Filme (2019)
+http://tvget.live:80/movie/epg/epg/1391947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gigantes Solitários (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Go7a3aPegcFqz0d3QpVNGfBHus.jpg" group-title="F • Nacionais",Gigantes Solitários (2019)
+http://tvget.live:80/movie/epg/epg/1391948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Mãe é uma Peça 3: O Filme (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zw77BFPGJ73Lig8GwRzYj1XHq53.jpg" group-title="F • Nacionais",Minha Mãe é uma Peça 3: O Filme (2019)
+http://tvget.live:80/movie/epg/epg/1391949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paulo de Tarso e A História do Cristianismo Primitivo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rO7r7zgi5NU6I0pXf4jCSPRvHyU.jpg" group-title="F • Nacionais",Paulo de Tarso e A História do Cristianismo Primitivo (2019)
+http://tvget.live:80/movie/epg/epg/1391950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Viagem de Pedro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pW2wpWgb7DeKPbbrCsLG7bmju7B.jpg" group-title="F • Nacionais",A Viagem de Pedro (2022)
+http://tvget.live:80/movie/epg/epg/1391951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Caras de Pau em O Misterioso Roubo do Anel (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlpK18GBSsgJatpWxNY11u2eHfI.jpg" group-title="F • Nacionais",Os Caras de Pau em O Misterioso Roubo do Anel (2014)
+http://tvget.live:80/movie/epg/epg/1391952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tim Maia (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVE2wZU3Xd4yQDKSOwIrLhGGoB3.jpg" group-title="F • Nacionais",Tim Maia (2014)
+http://tvget.live:80/movie/epg/epg/1391953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chacrinha: O Velho Guerreiro (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ho8t3hb7K5PUFRKzgsB9hPPueuW.jpg" group-title="F • Nacionais",Chacrinha: O Velho Guerreiro (2018)
+http://tvget.live:80/movie/epg/epg/1391954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Skullz (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtMbbv3xyhIFJAVHZe5HnibuHMA.jpg" group-title="F • Nacionais",Skullz (2020)
+http://tvget.live:80/movie/epg/epg/1391955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Últimos Dias de Copacabana Jack (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/acVJ0bUTNR9bpdziUwcrq1G1tmR.jpg" group-title="F • Nacionais",Os Últimos Dias de Copacabana Jack (2018)
+http://tvget.live:80/movie/epg/epg/1391956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Querência (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6F1JHyxzsaZbCB7AXAhMPa4v3e.jpg" group-title="F • Nacionais",Querência (2019)
+http://tvget.live:80/movie/epg/epg/1391957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Faixa Preta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdXSgI3jxRbZOoBWxvpnMjkRfBV.jpg" group-title="F • Nacionais",O Faixa Preta (2022)
+http://tvget.live:80/movie/epg/epg/1391958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Exterminadores do Além Contra a Loira do Banheiro (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLsVyAJuFZPlQQPaC3LFpK750k1.jpg" group-title="F • Nacionais",Exterminadores do Além Contra a Loira do Banheiro (2018)
+http://tvget.live:80/movie/epg/epg/1391959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tô Ryca 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90Ga2enJJtaZMscAnyHCUqIg9gz.jpg" group-title="F • Nacionais",Tô Ryca 2 (2022)
+http://tvget.live:80/movie/epg/epg/1391960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carrossel: O Filme (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mFT1RnjzI83o65kh6NRsg2P8V8.jpg" group-title="F • Nacionais",Carrossel: O Filme (2015)
+http://tvget.live:80/movie/epg/epg/1391961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Curupira: O Demônio da Floresta (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mAyRqP88S4TRXBnVdePJrnckwg.jpg" group-title="F • Nacionais",Curupira: O Demônio da Floresta (2021)
+http://tvget.live:80/movie/epg/epg/1391962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noite Amarela (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybemQDHeF12nlbBFUvIK2yUcBeU.jpg" group-title="F • Nacionais",A Noite Amarela (2019)
+http://tvget.live:80/movie/epg/epg/1391963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Mãe é uma Peça 2: O Filme (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDApDWU6r9zxk9MZLc6rfnBb3vu.jpg" group-title="F • Nacionais",Minha Mãe é uma Peça 2: O Filme (2016)
+http://tvget.live:80/movie/epg/epg/1391964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Seita (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Qhadv77lcXs6WpfkgtAegQXEap.jpg" group-title="F • Nacionais",A Seita (2015)
+http://tvget.live:80/movie/epg/epg/1391965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Caubóis Do Apocalipse (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3hUfBBfkdH91A1xxvpWO3j5Ur7.jpg" group-title="F • Nacionais",Os Caubóis Do Apocalipse (2016)
+http://tvget.live:80/movie/epg/epg/1391966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Tio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6OgZGQBNiS6lnmzh7kywkSTK1v.jpg" group-title="F • Nacionais",O Tio (2020)
+http://tvget.live:80/movie/epg/epg/1391967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Seu Sangue (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwRj6djKmyyFJdTOJnu9KuUCE09.jpg" group-title="F • Nacionais",Sem Seu Sangue (2019)
+http://tvget.live:80/movie/epg/epg/1391968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carlinhos & Carlão (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wesoVz3mscgkxrzCVpEsQm9O03.jpg" group-title="F • Nacionais",Carlinhos & Carlão (2020)
+http://tvget.live:80/movie/epg/epg/1391969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Febre (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcCcRhvmCIfP5BGYBwRkVE1uDKW.jpg" group-title="F • Nacionais",A Febre (2021)
+http://tvget.live:80/movie/epg/epg/1391970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Aventura do Zico (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSnwoOBegJQpMLfHW1hsthZ6UVq.jpg" group-title="F • Nacionais",Uma Aventura do Zico (1998)
+http://tvget.live:80/movie/epg/epg/1391971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Amor Inesperado (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/innH2zbhjqeTKbMpX2j3gxPuQ1i.jpg" group-title="F • Nacionais",Um Amor Inesperado (2018)
+http://tvget.live:80/movie/epg/epg/1391972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões no Rabo do Cometa (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DGNbWQKpTwbugIOIRuMiMG1Gmv.jpg" group-title="F • Nacionais",Os Trapalhões no Rabo do Cometa (1986)
+http://tvget.live:80/movie/epg/epg/1391973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 Segundos Para Vencer (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWumRwvDooeDAaXSxncyMfY3rFv.jpg" group-title="F • Nacionais",10 Segundos Para Vencer (2018)
+http://tvget.live:80/movie/epg/epg/1391974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rasga Coração (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21TGdSdl4zPtggfmhNyNgPpFzfN.jpg" group-title="F • Nacionais",Rasga Coração (2018)
+http://tvget.live:80/movie/epg/epg/1391975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Quase Dupla (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRAOj1G4YWEmK3zDN4JlYFqaeWA.jpg" group-title="F • Nacionais",Uma Quase Dupla (2018)
+http://tvget.live:80/movie/epg/epg/1391976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quando o Sol se Põe (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmVlOftBeALFWUvxSKlYQG9WTE7.jpg" group-title="F • Nacionais",Quando o Sol se Põe (2020)
+http://tvget.live:80/movie/epg/epg/1391977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mal Nosso (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFhVtHcLkqhjD7jZ0OJAVpwP8DF.jpg" group-title="F • Nacionais",Mal Nosso (2017)
+http://tvget.live:80/movie/epg/epg/1391978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="L.O.C.A. – Liga das Obsessivas Compulsivas por Amor (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWdTBg9mugmDJPepAnTXrNe1aUx.jpg" group-title="F • Nacionais",L.O.C.A. – Liga das Obsessivas Compulsivas por Amor (2020)
+http://tvget.live:80/movie/epg/epg/1391979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Vendedor de Passados (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEDegnyXrIDoTKCWHvqCuOhzgOB.jpg" group-title="F • Nacionais",O Vendedor de Passados (2014)
+http://tvget.live:80/movie/epg/epg/1391980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Polícia Federal: A Lei é Para Todos (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYOBHagDwOv66TUzRy265qSWwTP.jpg" group-title="F • Nacionais",Polícia Federal: A Lei é Para Todos (2017)
+http://tvget.live:80/movie/epg/epg/1391981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo por um Pop Star (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SAAmvqFqYgO5AjKQLrvy4RozDM.jpg" group-title="F • Nacionais",Tudo por um Pop Star (2018)
+http://tvget.live:80/movie/epg/epg/1391982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Saltimbancos Trapalhões: Rumo a Hollywood (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yacasOzhUrO08YLwJxjk6oh0hIO.jpg" group-title="F • Nacionais",Os Saltimbancos Trapalhões: Rumo a Hollywood (2017)
+http://tvget.live:80/movie/epg/epg/1391983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidade dos Homens (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wq7tVRXXJcfSGBE2zPBNYw7GRv.jpg" group-title="F • Nacionais",Cidade dos Homens (2007)
+http://tvget.live:80/movie/epg/epg/1391984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Verão Fantasma (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhpDJzgI6y6pYjPyKaPoBHVG5gf.jpg" group-title="F • Nacionais",Verão Fantasma (2022)
+http://tvget.live:80/movie/epg/epg/1391985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Divisão (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcjQWaH8RfDi5TqwHZtViVQLjyT.jpg" group-title="F • Nacionais",A Divisão (2020)
+http://tvget.live:80/movie/epg/epg/1391986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carrossel 2: O Sumiço de Maria Joaquina (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/D5L9rLe9rWEA9wNXOtJt2jo1J1.jpg" group-title="F • Nacionais",Carrossel 2: O Sumiço de Maria Joaquina (2016)
+http://tvget.live:80/movie/epg/epg/1391987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Vida em Marte (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jFmp5RmaBAY0LoEYZb4KDp0GZc.jpg" group-title="F • Nacionais",Minha Vida em Marte (2018)
+http://tvget.live:80/movie/epg/epg/1391988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="É Fada! (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krowYpPk8PiINjZLnbFkk3Nvd5.jpg" group-title="F • Nacionais",É Fada! (2016)
+http://tvget.live:80/movie/epg/epg/1391989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Acampamento Intergaláctico (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bm77tBJy28DA1DzP7qExKOPWsEL.jpg" group-title="F • Nacionais",Acampamento Intergaláctico (2022)
+http://tvget.live:80/movie/epg/epg/1391990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sol Alegria (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbEkZORp3RYzDWs1t6XHYWSTyeY.jpg" group-title="F • Nacionais",Sol Alegria (2018)
+http://tvget.live:80/movie/epg/epg/1391991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Simbad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="F • Nacionais",Simbad
+http://tvget.live:80/movie/epg/epg/1391992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Segredo de Sara (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHwEfKRzzQJNRIbPn78lGy4CpAs.jpg" group-title="F • Nacionais",O Segredo de Sara (2021)
+http://tvget.live:80/movie/epg/epg/1391993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dissonantes (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axeEam7TkbW6rsGIhBr7h8EIIG1.jpg" group-title="F • Nacionais",Dissonantes (2022)
+http://tvget.live:80/movie/epg/epg/1391994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cazuza: O Tempo Não Pára (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ws9bdPeIE4Oq8JT4zsvC0BDmX9z.jpg" group-title="F • Nacionais",Cazuza: O Tempo Não Pára (2004)
+http://tvget.live:80/movie/epg/epg/1391995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Outro Lado do Paraíso (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLDfMzbXRTYI9GJ2q0MsCphCVfH.jpg" group-title="F • Nacionais",O Outro Lado do Paraíso (2014)
+http://tvget.live:80/movie/epg/epg/1391996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Legalidade (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyZZ2dYYoGC7NfhcW7SrFrZu9Jd.jpg" group-title="F • Nacionais",Legalidade (2019)
+http://tvget.live:80/movie/epg/epg/1391997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Virgem (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yVqc1K0XWiJAf6YvRgfzlezvEr.jpg" group-title="F • Nacionais",O Último Virgem (2016)
+http://tvget.live:80/movie/epg/epg/1391998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SP: Crônicas de uma Cidade Real (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lG5fvHUFo8NowqEkD7z5FA1rKqm.jpg" group-title="F • Nacionais",SP: Crônicas de uma Cidade Real (2018)
+http://tvget.live:80/movie/epg/epg/1391999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Camisa Mais Pesada do Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKKB3S6FUi1NYjfok1SOyYieSBs.jpg" group-title="F • Nacionais",A Camisa Mais Pesada do Mundo (2022)
+http://tvget.live:80/movie/epg/epg/1392000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casa Grande (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDH0jgLQjnMye2klApFrfA8AIe1.jpg" group-title="F • Nacionais",Casa Grande (2014)
+http://tvget.live:80/movie/epg/epg/1392001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noites Alienígenas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3PvQxw0Es9KiQEauVf7bjAZ639.jpg" group-title="F • Nacionais",Noites Alienígenas (2023)
+http://tvget.live:80/movie/epg/epg/1392002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Monstro Trapalhão (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7iUJv3KGBnTOAbbacnMpje1esf.jpg" group-title="F • Nacionais",O Incrível Monstro Trapalhão (1980)
+http://tvget.live:80/movie/epg/epg/1392003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Suspeita (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCMljmR6qS0LdtUEyA8sdahCWmC.jpg" group-title="F • Nacionais",A Suspeita (2022)
+http://tvget.live:80/movie/epg/epg/1392004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fala Sério! (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="F • Nacionais",Fala Sério! (2015)
+http://tvget.live:80/movie/epg/epg/1392005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Mãe é uma Peça: O Filme (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kj8VJEcqcxPmbuIjh5wf6FjMBH.jpg" group-title="F • Nacionais",Minha Mãe é uma Peça: O Filme (2013)
+http://tvget.live:80/movie/epg/epg/1392006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Saltimbancos Trapalhões (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJdSknYRayF1YMHJM0sSwyR828e.jpg" group-title="F • Nacionais",Os Saltimbancos Trapalhões (1981)
+http://tvget.live:80/movie/epg/epg/1392007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tropa de Elite (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atl4a9VFVP7JYvk4GeSgqhLOfjC.jpg" group-title="F • Nacionais",Tropa de Elite (2007)
+http://tvget.live:80/movie/epg/epg/1392008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vai Que Cola: O Filme (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6XIIaDO8jOQKc39iGLzXLRgNN4.jpg" group-title="F • Nacionais",Vai Que Cola: O Filme (2015)
+http://tvget.live:80/movie/epg/epg/1392009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bruna Louise: Demolição (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3zASk0BRyhtlS8TYDKoduMB2Ein.jpg" group-title="F • Nacionais",Bruna Louise: Demolição (2022)
+http://tvget.live:80/movie/epg/epg/1392010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Homens São de Marte... E é pra Lá Que Eu Vou! (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aa0RQfTuGNgvOzNzhIT6G0KnB0U.jpg" group-title="F • Nacionais",Os Homens São de Marte... E é pra Lá Que Eu Vou! (2014)
+http://tvget.live:80/movie/epg/epg/1392011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Pernas pro Ar 3 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAjpVUkkc0evIhRFpRIUXfb82mX.jpg" group-title="F • Nacionais",De Pernas pro Ar 3 (2019)
+http://tvget.live:80/movie/epg/epg/1392012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eduardo e Mônica (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eaCb1Rx0gCpJ6Zl60tyJZeJUu2H.jpg" group-title="F • Nacionais",Eduardo e Mônica (2022)
+http://tvget.live:80/movie/epg/epg/1392013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Rédea Curta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkGIrww1XY61uKVHi3jPW3HCSN8.jpg" group-title="F • Nacionais",Na Rédea Curta (2022)
+http://tvget.live:80/movie/epg/epg/1392014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem do Ano (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdzIfr6sDzrIqgciyVLHom9qan6.jpg" group-title="F • Nacionais",O Homem do Ano (2003)
+http://tvget.live:80/movie/epg/epg/1392015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pai da Rita (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1Xs4xqE7pk3A6cbq5ohJagoNt2.jpg" group-title="F • Nacionais",O Pai da Rita (2022)
+http://tvget.live:80/movie/epg/epg/1392016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bem-Aventurado (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfHFR3nBT0lLX3k3o03NpbZr2AB.jpg" group-title="F • Nacionais",O Bem-Aventurado (1966)
+http://tvget.live:80/movie/epg/epg/1392017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões e a Árvore da Juventude (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJtL538F4brfsSOrbxAAiRRBQqH.jpg" group-title="F • Nacionais",Os Trapalhões e a Árvore da Juventude (1991)
+http://tvget.live:80/movie/epg/epg/1392018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barba (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zELLKuH5I4QGr6Bh57WohwqvPs7.jpg" group-title="F • Nacionais",Barba (2011)
+http://tvget.live:80/movie/epg/epg/1392019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Central do Brasil (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20gvOww3EDFaDZyNowVGAHtXo0H.jpg" group-title="F • Nacionais",Central do Brasil (1998)
+http://tvget.live:80/movie/epg/epg/1392020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa Xuxa e os Trapalhões (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Cgup7klrAhrTrF176j7ScvjkT7.jpg" group-title="F • Nacionais",A Princesa Xuxa e os Trapalhões (1989)
+http://tvget.live:80/movie/epg/epg/1392021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Confissões de uma Garota Excluída (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGIy308alpX12xdBVsREgsHawQC.jpg" group-title="F • Nacionais",Confissões de uma Garota Excluída (2021)
+http://tvget.live:80/movie/epg/epg/1392022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Te Prego Lá Fora (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k06TIjqtbwplF2Q0EIHT229qUvC.jpg" group-title="F • Nacionais",Te Prego Lá Fora (2021)
+http://tvget.live:80/movie/epg/epg/1392023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tropa de Elite 2: O Inimigo Agora é Outro (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v39TyEFfzPUaj7uZlV6Xr5HD9tu.jpg" group-title="F • Nacionais",Tropa de Elite 2: O Inimigo Agora é Outro (2010)
+http://tvget.live:80/movie/epg/epg/1392024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões no Reino da Fantasia (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUm2JrHuGBXgVYB0V8qbG7hiaLA.jpg" group-title="F • Nacionais",Os Trapalhões no Reino da Fantasia (1985)
+http://tvget.live:80/movie/epg/epg/1392025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Auto da Boa Mentira (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUPmGxi00UJhzDYuXbvtCXRZEio.jpg" group-title="F • Nacionais",O Auto da Boa Mentira (2021)
+http://tvget.live:80/movie/epg/epg/1392026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rodrigo Sant'Anna: Cheguei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7ZkVFVoxDzbnAq3e3W9DWpy67Q.jpg" group-title="F • Nacionais",Rodrigo Sant'Anna: Cheguei (2022)
+http://tvget.live:80/movie/epg/epg/1392027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Galeria Futuro (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dJsqGb8pQydRTvz8clV49BbErI.jpg" group-title="F • Nacionais",Galeria Futuro (2021)
+http://tvget.live:80/movie/epg/epg/1392028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Orquestra dos Meninos (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozScGj82mP0Q7ebYGXKD30RrRCu.jpg" group-title="F • Nacionais",Orquestra dos Meninos (2008)
+http://tvget.live:80/movie/epg/epg/1392029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Processo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKpmIMJHb92mtZuULzY3o7pzbrD.jpg" group-title="F • Nacionais",O Processo (2018)
+http://tvget.live:80/movie/epg/epg/1392030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elis (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yucOU7hj0lA7YvCbUAbGYjbVfmM.jpg" group-title="F • Nacionais",Elis (2016)
+http://tvget.live:80/movie/epg/epg/1392031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Boas Maneiras (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1ptI7IlhLCikqi90DWcK79U7r0.jpg" group-title="F • Nacionais",As Boas Maneiras (2017)
+http://tvget.live:80/movie/epg/epg/1392032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Trapalhão na Arca de Noé (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ap2jhAD4O7GBjNv5Cbu5OQeYND.jpg" group-title="F • Nacionais",O Trapalhão na Arca de Noé (1983)
+http://tvget.live:80/movie/epg/epg/1392033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Mães de Chico Xavier (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9znC61R03glG9UV0YqtRg97L9Mf.jpg" group-title="F • Nacionais",As Mães de Chico Xavier (2011)
+http://tvget.live:80/movie/epg/epg/1392034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carmen Miranda: Bananas Is My Business (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jL164jkcMO2A5BUUHu4KF70zXai.jpg" group-title="F • Nacionais",Carmen Miranda: Bananas Is My Business (1995)
+http://tvget.live:80/movie/epg/epg/1392035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gata Velha Ainda Mia (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNgap23WAvPXo5k5ED9wP4GWeKl.jpg" group-title="F • Nacionais",Gata Velha Ainda Mia (2014)
+http://tvget.live:80/movie/epg/epg/1392036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Me Tira da Mira (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxr04nWw0BuGVqdFNK8W4na4FYD.jpg" group-title="F • Nacionais",Me Tira da Mira (2022)
+http://tvget.live:80/movie/epg/epg/1392037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cabras da Peste (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBo98gD5feDSh24DWpw3NStXjpz.jpg" group-title="F • Nacionais",Cabras da Peste (2021)
+http://tvget.live:80/movie/epg/epg/1392038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Farofeiros (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSUGsF1GSNLZAEjeePsDlHBhG0a.jpg" group-title="F • Nacionais",Os Farofeiros (2018)
+http://tvget.live:80/movie/epg/epg/1392039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Presepada (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mfz3ThkyLvGeUemvjnuLFRTFn3.jpg" group-title="F • Nacionais",A Presepada (2018)
+http://tvget.live:80/movie/epg/epg/1392040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mistério de Robin Hood (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uc4pjBZk3IUuVZwCjQH7gwPyfoA.jpg" group-title="F • Nacionais",O Mistério de Robin Hood (1990)
+http://tvget.live:80/movie/epg/epg/1393335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mussum: Um Filme do Cacildis (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ec0UeELw5HnGHzwkDtMZstFYpGC.jpg" group-title="F • Nacionais",Mussum: Um Filme do Cacildis (2019)
+http://tvget.live:80/movie/epg/epg/1393336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1 Contra Todos - A Liberdade Tem Seu Preço" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ec0UeELw5HnGHzwkDtMZstFYpGC.jpg" group-title="F • Nacionais",1 Contra Todos - A Liberdade Tem Seu Preço
+http://tvget.live:80/movie/epg/epg/1393337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anna (1951)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9gGtvVSbVuOt95DdelOISBtjlb.jpg" group-title="F • Nacionais",Anna (1951)
+http://tvget.live:80/movie/epg/epg/1505560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Fôlego (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/OhFCVQuDOth6iHUm8CsQySbyZm.jpg" group-title="F • Nacionais",Sem Fôlego (2017)
+http://tvget.live:80/movie/epg/epg/1508405.mp4
