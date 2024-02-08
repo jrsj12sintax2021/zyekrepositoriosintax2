@@ -1,1 +1,33 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="Shazam! (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwkriXzzP9FoiIF5nTdxBsUcds4.jpg" group-title="F • DC Universe",Shazam! (2019)
+http://tvget.live:80/movie/epg/epg/1389036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjEZrx9vSP40NKXhNxAGxvHxL9y.jpg" group-title="F • DC Universe",The Flash (2023)
+http://tvget.live:80/movie/epg/epg/1389037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman: A Perdição Chegou a Gotham (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTQMObXnPjV8Yo90hiC7quSz0U7.jpg" group-title="F • DC Universe",Batman: A Perdição Chegou a Gotham (2023)
+http://tvget.live:80/movie/epg/epg/1389038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman Begins (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e22BN2rABXSkDS8RChni1E9VSvP.jpg" group-title="F • DC Universe",Batman Begins (2005)
+http://tvget.live:80/movie/epg/epg/1389039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman: O Cavaleiro das Trevas (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWXaUWpWLdB4tu0mlVElTKboPgD.jpg" group-title="F • DC Universe",Batman: O Cavaleiro das Trevas (2008)
+http://tvget.live:80/movie/epg/epg/1389040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman: O Cavaleiro das Trevas Ressurge (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTiMHKsTeA30CXJS3byz2jG1MlR.jpg" group-title="F • DC Universe",Batman: O Cavaleiro das Trevas Ressurge (2012)
+http://tvget.live:80/movie/epg/epg/1389041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman vs Superman: A Origem da Justiça (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vh6pjeGH0GQupLepPCZn5PylcRg.jpg" group-title="F • DC Universe",Batman vs Superman: A Origem da Justiça (2016)
+http://tvget.live:80/movie/epg/epg/1389042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shazam! Fúria dos Deuses (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qDivmsYL79dQZngyT3oKd4L9tA.jpg" group-title="F • DC Universe",Shazam! Fúria dos Deuses (2023)
+http://tvget.live:80/movie/epg/epg/1389043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman & Robin (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGRDufDDSrFrv7VI4YnmWnslne0.jpg" group-title="F • DC Universe",Batman & Robin (1997)
+http://tvget.live:80/movie/epg/epg/1389044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg" group-title="F • DC Universe",Batman (1989)
+http://tvget.live:80/movie/epg/epg/1389045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem de Aço (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLdGhMTqdvWgMuxmSroaV2JX8sX.jpg" group-title="F • DC Universe",O Homem de Aço (2013)
+http://tvget.live:80/movie/epg/epg/1389046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sociedade da Justiça: 2ª Guerra Mundial (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haFimehtZoP6rSz53kEqXSKianS.jpg" group-title="F • DC Universe",Sociedade da Justiça: 2ª Guerra Mundial (2021)
+http://tvget.live:80/movie/epg/epg/1389047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Suicida (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UNw4Z105Eke1b4Eb1zldym9R6.jpg" group-title="F • DC Universe",Esquadrão Suicida (2016)
+http://tvget.live:80/movie/epg/epg/1389048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aquaman (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oB367uFcyU2uhGkFqo5RB4Evdji.jpg" group-title="F • DC Universe",Aquaman (2018)
+http://tvget.live:80/movie/epg/epg/1389049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman: O Retorno (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trmToqPh8XYS6tzI2Nmv5ctfuSI.jpg" group-title="F • DC Universe",Batman: O Retorno (1992)
+http://tvget.live:80/movie/epg/epg/1389050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman Eternamente (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEwd28NegRgXmZdiEJeVrclYZfX.jpg" group-title="F • DC Universe",Batman Eternamente (1995)
+http://tvget.live:80/movie/epg/epg/1389051.mp4
