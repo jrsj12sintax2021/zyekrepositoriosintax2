@@ -1,1 +1,933 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="A Volta do Todo Poderoso (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWI70Xl5PqmUuCsikSK54qY6uyO.jpg" group-title="F • Fantasia & Ficção",A Volta do Todo Poderoso (2007)
+http://tvget.live:80/movie/epg/epg/1391060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Ordem da Fênix (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg" group-title="F • Fantasia & Ficção",Harry Potter e a Ordem da Fênix (2007)
+http://tvget.live:80/movie/epg/epg/1391061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Garoto de Ouro (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pN0UFnqzkIFjmhH8ICKVAqxNBdo.jpg" group-title="F • Fantasia & Ficção",O Garoto de Ouro (2012)
+http://tvget.live:80/movie/epg/epg/1391062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Câmara Secreta (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/811j0Jf2D0mK1U6RxXJoZgOB29n.jpg" group-title="F • Fantasia & Ficção",Harry Potter e a Câmara Secreta (2002)
+http://tvget.live:80/movie/epg/epg/1391063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gremlins (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqeVsCO1j1RNT0oJjAOTVcHQH0K.jpg" group-title="F • Fantasia & Ficção",Gremlins (1984)
+http://tvget.live:80/movie/epg/epg/1391064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte lhe Cai Bem (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuQOOSx0SkPH6yw1sCvRItWXPUQ.jpg" group-title="F • Fantasia & Ficção",A Morte lhe Cai Bem (1992)
+http://tvget.live:80/movie/epg/epg/1391065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjos da Noite: Underworld (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sE19OYWcnAigvk8VTdLVfeirwif.jpg" group-title="F • Fantasia & Ficção",Anjos da Noite: Underworld (2003)
+http://tvget.live:80/movie/epg/epg/1391066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Liga Extraordinária (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQXs7u7ApBDMkChO0xjw8Sw0YfN.jpg" group-title="F • Fantasia & Ficção",A Liga Extraordinária (2003)
+http://tvget.live:80/movie/epg/epg/1391067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clube dos Anjos Caídos: Assassinatos Misteriosos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcG9oRbsI73rqin0l7px9Fkfv8n.jpg" group-title="F • Fantasia & Ficção",Clube dos Anjos Caídos: Assassinatos Misteriosos (2022)
+http://tvget.live:80/movie/epg/epg/1391068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Menino Que Queria Ser Rei (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKIfYhDlVt92kvWRLa0wQy73Pi2.jpg" group-title="F • Fantasia & Ficção",O Menino Que Queria Ser Rei (2019)
+http://tvget.live:80/movie/epg/epg/1391069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Próxima Parada: Natal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UchTIxOmVQattuwW4Mp0UxkY5h.jpg" group-title="F • Fantasia & Ficção",Próxima Parada: Natal (2021)
+http://tvget.live:80/movie/epg/epg/1391070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjos da Noite: O Despertar (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUe1eAnuCfRqLJsbbR8j1VFqwLa.jpg" group-title="F • Fantasia & Ficção",Anjos da Noite: O Despertar (2012)
+http://tvget.live:80/movie/epg/epg/1391071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rei Guerreiro (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6XBvViXzWH1JRc5NW5WHNtyNmG.jpg" group-title="F • Fantasia & Ficção",O Rei Guerreiro (2017)
+http://tvget.live:80/movie/epg/epg/1391072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Estranho Thomas (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AjBJMDVYVI97i0JN3Opkj9Eskj.jpg" group-title="F • Fantasia & Ficção",O Estranho Thomas (2013)
+http://tvget.live:80/movie/epg/epg/1391073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mortuary Collection (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WXeYnezavNI6hXH74aQYv6yFzj.jpg" group-title="F • Fantasia & Ficção",The Mortuary Collection (2020)
+http://tvget.live:80/movie/epg/epg/1391074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gremlins 2: A Nova Geração (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDVXvZoNz6o00I6JCJ99KkLIjmS.jpg" group-title="F • Fantasia & Ficção",Gremlins 2: A Nova Geração (1990)
+http://tvget.live:80/movie/epg/epg/1391075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Conto Sobre o Tempo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yE8knDkIZWSQACQEmxX7HdUtlP.jpg" group-title="F • Fantasia & Ficção",Um Conto Sobre o Tempo (2019)
+http://tvget.live:80/movie/epg/epg/1391076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Donnie Darko (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg" group-title="F • Fantasia & Ficção",Donnie Darko (2001)
+http://tvget.live:80/movie/epg/epg/1391077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Hobbit: A Desolação de Smaug (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/beqHE5BZY5LczMxJezL4FdY7mBp.jpg" group-title="F • Fantasia & Ficção",O Hobbit: A Desolação de Smaug (2013)
+http://tvget.live:80/movie/epg/epg/1391078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Estranha Vida de Timothy Green (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DzAiR21jQpuy832gIGCdUdnOvm.jpg" group-title="F • Fantasia & Ficção",A Estranha Vida de Timothy Green (2012)
+http://tvget.live:80/movie/epg/epg/1391079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Death Note (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TIww0w0uos85Op8eFP5qLlxhXL.jpg" group-title="F • Fantasia & Ficção",Death Note (2017)
+http://tvget.live:80/movie/epg/epg/1391080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Under Wraps: Uma Múmia no Halloween (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLnC8LxHyGEhZ1xnqxgjZhzYH7q.jpg" group-title="F • Fantasia & Ficção",Under Wraps: Uma Múmia no Halloween (2021)
+http://tvget.live:80/movie/epg/epg/1391081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="João e Maria (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpPYH3QSz1Nm9CVqtnbNHF7lPOH.jpg" group-title="F • Fantasia & Ficção",João e Maria (1988)
+http://tvget.live:80/movie/epg/epg/1391082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mona Lisa e a Lua de Sangue (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnszI3HhHQEs5VOprDaQU0j670J.jpg" group-title="F • Fantasia & Ficção",Mona Lisa e a Lua de Sangue (2022)
+http://tvget.live:80/movie/epg/epg/1391083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espada da Vingança: Até a Última Linha (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2rpMRcKjNPYhCDtRu5VSskvVgI.jpg" group-title="F • Fantasia & Ficção",Espada da Vingança: Até a Última Linha (2018)
+http://tvget.live:80/movie/epg/epg/1391084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Trem pro Natal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkVUORoeRbRnAq5IkN4Pwq45R07.jpg" group-title="F • Fantasia & Ficção",O Último Trem pro Natal (2021)
+http://tvget.live:80/movie/epg/epg/1391085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="João e Maria: Caçadores de Bruxas (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNAOG8mvstBhUE1jhbGkB87G2VV.jpg" group-title="F • Fantasia & Ficção",João e Maria: Caçadores de Bruxas (2013)
+http://tvget.live:80/movie/epg/epg/1391086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pinky (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMUsMBopO5L6m9xj0ZONO9fIzQz.jpg" group-title="F • Fantasia & Ficção",Pinky (2022)
+http://tvget.live:80/movie/epg/epg/1391087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonwalker (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3GwTPQkAcgDeAirRpEuJG8HDdRz.jpg" group-title="F • Fantasia & Ficção",Moonwalker (1988)
+http://tvget.live:80/movie/epg/epg/1391088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contos do Caçador de Sombras (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/myKEaA1a1fnDxjqDrz3ZI6U3Bxx.jpg" group-title="F • Fantasia & Ficção",Contos do Caçador de Sombras (2019)
+http://tvget.live:80/movie/epg/epg/1391089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liga dos Deuses (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7lvRYWyevRPsIDdGOE0jzUmakm.jpg" group-title="F • Fantasia & Ficção",Liga dos Deuses (2016)
+http://tvget.live:80/movie/epg/epg/1391090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Vampiro no Brooklyn (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2P6XsGp8LnwXffF5wJfgDoXTFDq.jpg" group-title="F • Fantasia & Ficção",Um Vampiro no Brooklyn (1995)
+http://tvget.live:80/movie/epg/epg/1391091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Hobbit: Uma Jornada Inesperada (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmHzmfcCWKyQZ8NFQkIYH8JdShI.jpg" group-title="F • Fantasia & Ficção",O Hobbit: Uma Jornada Inesperada (2012)
+http://tvget.live:80/movie/epg/epg/1391092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Juntos para Sempre (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cQQY3UzpQOodoa71yej3elNkqF.jpg" group-title="F • Fantasia & Ficção",Juntos para Sempre (2019)
+http://tvget.live:80/movie/epg/epg/1391093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arizona Dream" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cQQY3UzpQOodoa71yej3elNkqF.jpg" group-title="F • Fantasia & Ficção",Arizona Dream
+http://tvget.live:80/movie/epg/epg/1391094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonâmbulos (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOJc9y2jqaYoyPYAdHMfpJMMFyM.jpg" group-title="F • Fantasia & Ficção",Sonâmbulos (1992)
+http://tvget.live:80/movie/epg/epg/1391095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Serpente Branca" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOJc9y2jqaYoyPYAdHMfpJMMFyM.jpg" group-title="F • Fantasia & Ficção",A Serpente Branca
+http://tvget.live:80/movie/epg/epg/1391096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Cavaleiro Sem Cabeça (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxOuNnW2qrOOFtiPVJtx5aRAJoX.jpg" group-title="F • Fantasia & Ficção",A Lenda do Cavaleiro Sem Cabeça (1999)
+http://tvget.live:80/movie/epg/epg/1391097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Dragão (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPwFac33h25Yy1ISffga9nqc2GI.jpg" group-title="F • Fantasia & Ficção",A Lenda do Dragão (2011)
+http://tvget.live:80/movie/epg/epg/1391098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis: A Sociedade do Anel (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hi77F0o55uEhZid1eWRp830CRDx.jpg" group-title="F • Fantasia & Ficção",O Senhor dos Anéis: A Sociedade do Anel (2001)
+http://tvget.live:80/movie/epg/epg/1391099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clube dos Anjos Caídos: Heróis e Vilões (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JyigSCO9VLX50SjJSMfswhz0n.jpg" group-title="F • Fantasia & Ficção",Clube dos Anjos Caídos: Heróis e Vilões (2022)
+http://tvget.live:80/movie/epg/epg/1391100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mistério da Casa Assombrada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8EcGvxeF6F5nGapm279xDTTo6Y.jpg" group-title="F • Fantasia & Ficção",O Mistério da Casa Assombrada (2020)
+http://tvget.live:80/movie/epg/epg/1391101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Sereia em Paris (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxLjHNQKNsZXOHW2G4WQIzM2gI.jpg" group-title="F • Fantasia & Ficção",Uma Sereia em Paris (2020)
+http://tvget.live:80/movie/epg/epg/1391102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malévola (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ga1I9MwWnqXpbVBwE5NO1xTrpZS.jpg" group-title="F • Fantasia & Ficção",Malévola (2014)
+http://tvget.live:80/movie/epg/epg/1391103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ga1I9MwWnqXpbVBwE5NO1xTrpZS.jpg" group-title="F • Fantasia & Ficção",Os Cavaleiros do Zodíaco
+http://tvget.live:80/movie/epg/epg/1391104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fúria de Titãs 2 (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yyAOtBlWlMBOAUp2lWTRytVgOG.jpg" group-title="F • Fantasia & Ficção",Fúria de Titãs 2 (2012)
+http://tvget.live:80/movie/epg/epg/1391105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Prisioneiro de Azkaban (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg" group-title="F • Fantasia & Ficção",Harry Potter e o Prisioneiro de Azkaban (2004)
+http://tvget.live:80/movie/epg/epg/1391106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Torre Negra (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4IeczvPNloj3IrDm2NjALKMV01.jpg" group-title="F • Fantasia & Ficção",A Torre Negra (2017)
+http://tvget.live:80/movie/epg/epg/1391107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fada Madrinha (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NGfIT0w5twxgkvSTA7lQpW2K14.jpg" group-title="F • Fantasia & Ficção",Fada Madrinha (2020)
+http://tvget.live:80/movie/epg/epg/1391108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wu Kong: Contra a Ira dos Deuses (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGk95dWcHnAxh7mTm0o5qXQqaGD.jpg" group-title="F • Fantasia & Ficção",Wu Kong: Contra a Ira dos Deuses (2017)
+http://tvget.live:80/movie/epg/epg/1391109.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kaamelott: Parte 1 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mcovnajaLoy7dbv5arykJjDFFC.jpg" group-title="F • Fantasia & Ficção",Kaamelott: Parte 1 (2021)
+http://tvget.live:80/movie/epg/epg/1391110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Amigo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mcovnajaLoy7dbv5arykJjDFFC.jpg" group-title="F • Fantasia & Ficção",Meu Amigo
+http://tvget.live:80/movie/epg/epg/1391111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valhalla: A Lenda de Thor (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oD7ujF444E6lMnqnf8MqwNIpyc.jpg" group-title="F • Fantasia & Ficção",Valhalla: A Lenda de Thor (2019)
+http://tvget.live:80/movie/epg/epg/1391112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjos da Noite: A Evolução (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9THoEUKf4dAqtfujE8xDeQhuVYi.jpg" group-title="F • Fantasia & Ficção",Anjos da Noite: A Evolução (2006)
+http://tvget.live:80/movie/epg/epg/1391113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Relógio na Parede (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nu63HA3CkIq245FphWi2zCObLVJ.jpg" group-title="F • Fantasia & Ficção",O Mistério do Relógio na Parede (2018)
+http://tvget.live:80/movie/epg/epg/1391114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Era uma Vez um Boneco de Neve (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/334CebHp60Kg8xhMnJrrTtgiRxK.jpg" group-title="F • Fantasia & Ficção",Era uma Vez um Boneco de Neve (2020)
+http://tvget.live:80/movie/epg/epg/1391115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pequenos Grandes Heróis (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz8V4opEXdcY7qeU5djTdrfmuhX.jpg" group-title="F • Fantasia & Ficção",Pequenos Grandes Heróis (2020)
+http://tvget.live:80/movie/epg/epg/1391116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crônicas de Natal: Parte Dois (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axIreLP9hr0ENvr5kR1sncxuYue.jpg" group-title="F • Fantasia & Ficção",Crônicas de Natal: Parte Dois (2020)
+http://tvget.live:80/movie/epg/epg/1391117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjos da Noite: Guerras de Sangue (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mM2D6fQFz3BjQaIHwqSniglD4iX.jpg" group-title="F • Fantasia & Ficção",Anjos da Noite: Guerras de Sangue (2016)
+http://tvget.live:80/movie/epg/epg/1391118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Hobbit: A Batalha dos Cinco Exércitos (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tGL0dbQpAkK9ItUaDrUbTvTMDp.jpg" group-title="F • Fantasia & Ficção",O Hobbit: A Batalha dos Cinco Exércitos (2014)
+http://tvget.live:80/movie/epg/epg/1391119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gasparzinho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tGL0dbQpAkK9ItUaDrUbTvTMDp.jpg" group-title="F • Fantasia & Ficção",Gasparzinho
+http://tvget.live:80/movie/epg/epg/1391120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Solomon Kane: O Caçador de Demônios (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UuljHICDYZK72pYDSOZaHCnxMT.jpg" group-title="F • Fantasia & Ficção",Solomon Kane: O Caçador de Demônios (2009)
+http://tvget.live:80/movie/epg/epg/1391121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritos: A Morte Esta Ao Seu Lado (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvqiPilplvzdfnzDerCxIVsegX8.jpg" group-title="F • Fantasia & Ficção",Espíritos: A Morte Esta Ao Seu Lado (2004)
+http://tvget.live:80/movie/epg/epg/1391122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis: O Retorno do Rei (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXS3D94iIO9dheHrG0BhgUR4Wuy.jpg" group-title="F • Fantasia & Ficção",O Senhor dos Anéis: O Retorno do Rei (2003)
+http://tvget.live:80/movie/epg/epg/1391123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Undergods: Contos do Submundo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/puVUV2UWmuN6a4E0givje2q1HRu.jpg" group-title="F • Fantasia & Ficção",Undergods: Contos do Submundo (2020)
+http://tvget.live:80/movie/epg/epg/1391124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crônicas de Natal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKnSdQ0hjc9e6LG1e9r5EvjLfwy.jpg" group-title="F • Fantasia & Ficção",Crônicas de Natal (2018)
+http://tvget.live:80/movie/epg/epg/1391125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Príncipe Esquecido (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cktr5OUrHjTPUzRAwJvplpvZPEs.jpg" group-title="F • Fantasia & Ficção",O Príncipe Esquecido (2020)
+http://tvget.live:80/movie/epg/epg/1391126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bússola de Ouro (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9KqGkas7C6Cp802HhKNGQTDnbw.jpg" group-title="F • Fantasia & Ficção",A Bússola de Ouro (2007)
+http://tvget.live:80/movie/epg/epg/1391127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ilusionista (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvHWsmniMfN8vfXerzwQueacv6w.jpg" group-title="F • Fantasia & Ficção",O Ilusionista (2006)
+http://tvget.live:80/movie/epg/epg/1391128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mara e o Senhor do Fogo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14HR9B05TqPTqiLe3PjSIeHwRWM.jpg" group-title="F • Fantasia & Ficção",Mara e o Senhor do Fogo (2015)
+http://tvget.live:80/movie/epg/epg/1391129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinato em Yellowstone (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muKA4GHl51d4i2l0a7GeXz8ky8N.jpg" group-title="F • Fantasia & Ficção",Assassinato em Yellowstone (2022)
+http://tvget.live:80/movie/epg/epg/1391130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Relógio Encantado (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4k0WZtJOzO5xIR9AhVwrrfbHXRt.jpg" group-title="F • Fantasia & Ficção",O Relógio Encantado (2020)
+http://tvget.live:80/movie/epg/epg/1391131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Cálice de Fogo (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg" group-title="F • Fantasia & Ficção",Harry Potter e o Cálice de Fogo (2005)
+http://tvget.live:80/movie/epg/epg/1391132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Aprendiz de Feiticeiro (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3S6qfz9lDpJGZygIbeH2Qt6Hwlf.jpg" group-title="F • Fantasia & Ficção",O Aprendiz de Feiticeiro (2010)
+http://tvget.live:80/movie/epg/epg/1391133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis: As Duas Torres (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20eUL6eN89SM0U7KPDw8iR82mOT.jpg" group-title="F • Fantasia & Ficção",O Senhor dos Anéis: As Duas Torres (2002)
+http://tvget.live:80/movie/epg/epg/1391134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Céu Pode Esperar (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxvAV1sH49CDXCw40rua9O898is.jpg" group-title="F • Fantasia & Ficção",O Céu Pode Esperar (1978)
+http://tvget.live:80/movie/epg/epg/1391135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Troll da Montanha (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9qC2hL61IcVYEGyRonx6qakJWw.jpg" group-title="F • Fantasia & Ficção",O Troll da Montanha (2022)
+http://tvget.live:80/movie/epg/epg/1391136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antes que Termine o Dia (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRduoGq6vIeNQjsxc60OmF3gqip.jpg" group-title="F • Fantasia & Ficção",Antes que Termine o Dia (2004)
+http://tvget.live:80/movie/epg/epg/1391137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fantasmas À Solta 3: Sociedade do Mal (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUHOkNcRgQ1nZqCyLTi7MfSHn9v.jpg" group-title="F • Fantasia & Ficção",Fantasmas À Solta 3: Sociedade do Mal (2016)
+http://tvget.live:80/movie/epg/epg/1391138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardiões do Tempo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYkzHd81ZsLQHa12oUhBVIS7ToY.jpg" group-title="F • Fantasia & Ficção",Guardiões do Tempo (2020)
+http://tvget.live:80/movie/epg/epg/1391139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="David e os Duendes de Natal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGAkhpLoDsNddSRybFsrNM6kfAF.jpg" group-title="F • Fantasia & Ficção",David e os Duendes de Natal (2021)
+http://tvget.live:80/movie/epg/epg/1391140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mulher do Lago (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oaVXwWS2dXQVfiRA9swoUee9A3C.jpg" group-title="F • Fantasia & Ficção",A Mulher do Lago (1965)
+http://tvget.live:80/movie/epg/epg/1391141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fúria de Titãs (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/R21t8SVfr6sQQ5mzjkecEU02YW.jpg" group-title="F • Fantasia & Ficção",Fúria de Titãs (2010)
+http://tvget.live:80/movie/epg/epg/1391142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Busca do Castelo Dourado (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDKrLfuaqVAQ8L3etC7Kd34fjDu.jpg" group-title="F • Fantasia & Ficção",Em Busca do Castelo Dourado (2019)
+http://tvget.live:80/movie/epg/epg/1391143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kazaam (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6kXq27UVxf7zGCWSvygYYIp9eP.jpg" group-title="F • Fantasia & Ficção",Kazaam (1996)
+http://tvget.live:80/movie/epg/epg/1391144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Guerreiro da Luz (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/syRodizES8znM1whPr8eHaQZJyX.jpg" group-title="F • Fantasia & Ficção",O Guerreiro da Luz (2006)
+http://tvget.live:80/movie/epg/epg/1391145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Southbound (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lW7ulgzZE2lILFOGovXhnNfG0np.jpg" group-title="F • Fantasia & Ficção",Southbound (2015)
+http://tvget.live:80/movie/epg/epg/1391146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Circo dos Horrores (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sfshfTBXOFOAutfceewC6Rvgxq.jpg" group-title="F • Fantasia & Ficção",Circo dos Horrores (1960)
+http://tvget.live:80/movie/epg/epg/1391147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Máquina de Guerra (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwuCSeHmcIEvcy37KtGBvQVGXqk.jpg" group-title="F • Fantasia & Ficção",Máquina de Guerra (2017)
+http://tvget.live:80/movie/epg/epg/1391148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Labirinto do Fauno (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53ZMT8Y18gwLpInzRLMEebAZxew.jpg" group-title="F • Fantasia & Ficção",O Labirinto do Fauno (2006)
+http://tvget.live:80/movie/epg/epg/1391149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjos da Noite: A Rebelião (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atPv2WJzlD76ZQP3wjaixZooR1l.jpg" group-title="F • Fantasia & Ficção",Anjos da Noite: A Rebelião (2009)
+http://tvget.live:80/movie/epg/epg/1391150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Por uma Vida Menos Ordinária (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fajJGrpyh1KENajjgYamDGYV8Wn.jpg" group-title="F • Fantasia & Ficção",Por uma Vida Menos Ordinária (1997)
+http://tvget.live:80/movie/epg/epg/1391151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noitários de Arrepiar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NTrSviwKL8GxGySG0n1ooyiFMA.jpg" group-title="F • Fantasia & Ficção",Noitários de Arrepiar (2021)
+http://tvget.live:80/movie/epg/epg/1391152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Convenção das Bruxas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orrJiQs30G6zSkT8is4QOAtRpFM.jpg" group-title="F • Fantasia & Ficção",Convenção das Bruxas (2020)
+http://tvget.live:80/movie/epg/epg/1391153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Julgamento do Diabo (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tF0tC1cW5KdYybrOAdLNjfWdNUg.jpg" group-title="F • Fantasia & Ficção",O Julgamento do Diabo (2003)
+http://tvget.live:80/movie/epg/epg/1391154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e as Relíquias da Morte - Parte 1 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67FVFOTaeBUQnimhCWpUkDawDct.jpg" group-title="F • Fantasia & Ficção",Harry Potter e as Relíquias da Morte - Parte 1 (2010)
+http://tvget.live:80/movie/epg/epg/1391155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Invenção de Natal (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdqdvFt0AIwnX1spxVwaOOc9p4A.jpg" group-title="F • Fantasia & Ficção",Uma Invenção de Natal (2020)
+http://tvget.live:80/movie/epg/epg/1391156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Upside-Down Magic: Escola de Magia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1WXhpygouqZ0eOAUKhrlSVonyBi.jpg" group-title="F • Fantasia & Ficção",Upside-Down Magic: Escola de Magia (2020)
+http://tvget.live:80/movie/epg/epg/1391157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bright (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfWmA2k03GDWQmrcjusUcqBiYWT.jpg" group-title="F • Fantasia & Ficção",Bright (2017)
+http://tvget.live:80/movie/epg/epg/1391158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Império Proibido (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbUO3tYs0cckhwlDxBqyX7QiWND.jpg" group-title="F • Fantasia & Ficção",Império Proibido (2014)
+http://tvget.live:80/movie/epg/epg/1391159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dororo (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/86bonr5arJHbw1ZseCakK1PJhdP.jpg" group-title="F • Fantasia & Ficção",Dororo (2007)
+http://tvget.live:80/movie/epg/epg/1391160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida Diante de Seus Olhos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djREwz46Ssm5LlMD9yN2ckvzVWU.jpg" group-title="F • Fantasia & Ficção",A Vida Diante de Seus Olhos (2023)
+http://tvget.live:80/movie/epg/epg/1391161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eragon (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8f8WZjTzZ6TJYrKpyayCB4zKlw.jpg" group-title="F • Fantasia & Ficção",Eragon (2006)
+http://tvget.live:80/movie/epg/epg/1391162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Jornada Mágica de Emily (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bhp4YgYqHFMgEVdUOouDjqZ2bu.jpg" group-title="F • Fantasia & Ficção",A Jornada Mágica de Emily (2020)
+http://tvget.live:80/movie/epg/epg/1391163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caminhos da Floresta (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lV9VadnnXvv8qxoHkT9XWwGesQw.jpg" group-title="F • Fantasia & Ficção",Caminhos da Floresta (2014)
+http://tvget.live:80/movie/epg/epg/1391164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Anjo da Árvore (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUcaOwo1AQUrmlHdGbGzI1zi801.jpg" group-title="F • Fantasia & Ficção",O Anjo da Árvore (2020)
+http://tvget.live:80/movie/epg/epg/1391165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Enigma do Príncipe (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTQQ5l9mxA3Rob8PTyvrNNGuj6y.jpg" group-title="F • Fantasia & Ficção",Harry Potter e o Enigma do Príncipe (2009)
+http://tvget.live:80/movie/epg/epg/1391166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Pedra Filosofal (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1FfRmKRNXRSqXT5GlMo16MX2LX.jpg" group-title="F • Fantasia & Ficção",Harry Potter e a Pedra Filosofal (2001)
+http://tvget.live:80/movie/epg/epg/1391167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Edward Mãos de Tesoura (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8vmYMcvWaqqhEWt9EnTPdXDdy2F.jpg" group-title="F • Fantasia & Ficção",Edward Mãos de Tesoura (1990)
+http://tvget.live:80/movie/epg/epg/1391168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manual de Caça a Monstros (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEKwyhgdAfw41zcMc9VAuKOdNN8.jpg" group-title="F • Fantasia & Ficção",Manual de Caça a Monstros (2020)
+http://tvget.live:80/movie/epg/epg/1391169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resgate Mortal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyaHMBzzHfxuF8AxV6Cr0WWsq1T.jpg" group-title="F • Fantasia & Ficção",Resgate Mortal (2018)
+http://tvget.live:80/movie/epg/epg/1391209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invasão Cósmica (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5Jodmj8equxBklBlhZMHJtkp5J.jpg" group-title="F • Fantasia & Ficção",Invasão Cósmica (2021)
+http://tvget.live:80/movie/epg/epg/1391210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucy (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6f10Yn1vooCMhb6DrY6AvsK19Yh.jpg" group-title="F • Fantasia & Ficção",Lucy (2014)
+http://tvget.live:80/movie/epg/epg/1391211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cosmoball: Os Guardiões do Universo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7N1g4ctgM3hL0ubLYMzo3NbBqf.jpg" group-title="F • Fantasia & Ficção",Cosmoball: Os Guardiões do Universo (2020)
+http://tvget.live:80/movie/epg/epg/1391212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZ9VC2XGEqdPWOO8yA5BSBU5vDd.jpg" group-title="F • Fantasia & Ficção",Star Trek (2009)
+http://tvget.live:80/movie/epg/epg/1391213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Legado de Osiris: Ficção Científica Volume 1 (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fib4l4DflIhNdsQErxpRXdli78E.jpg" group-title="F • Fantasia & Ficção",O Legado de Osiris: Ficção Científica Volume 1 (2016)
+http://tvget.live:80/movie/epg/epg/1391214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Círculo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHOLNgnV82ZXleXESKJoKtaWYxx.jpg" group-title="F • Fantasia & Ficção",O Círculo (2017)
+http://tvget.live:80/movie/epg/epg/1391215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Teorema Zero (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5ktylv2y9SPkmJKZEpPj0L2itE.jpg" group-title="F • Fantasia & Ficção",O Teorema Zero (2013)
+http://tvget.live:80/movie/epg/epg/1391216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estou Pensando em Acabar com Tudo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roRRTAzpLJSo32jRGPDuUKZDfC.jpg" group-title="F • Fantasia & Ficção",Estou Pensando em Acabar com Tudo (2020)
+http://tvget.live:80/movie/epg/epg/1391217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Programa DNA (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS4iDFNLxRJngyzS7n2JoPvfhDp.jpg" group-title="F • Fantasia & Ficção",Programa DNA (2021)
+http://tvget.live:80/movie/epg/epg/1391218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Congo (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPNSToNIIpRO6y5Rh973leqQqNr.jpg" group-title="F • Fantasia & Ficção",Congo (1995)
+http://tvget.live:80/movie/epg/epg/1391219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Filmes Fiçção" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPNSToNIIpRO6y5Rh973leqQqNr.jpg" group-title="F • Fantasia & Ficção",Filmes Fiçção
+http://tvget.live:80/movie/epg/epg/1393056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gigantes de Aço (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pp74uUjwQTknGPqNrerj4FvU0ce.jpg" group-title="F • Fantasia & Ficção",Gigantes de Aço (2011)
+http://tvget.live:80/movie/epg/epg/1391221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caixa (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVZFQ8V8XBiIgFpWGlG5qyW5z15.jpg" group-title="F • Fantasia & Ficção",A Caixa (2009)
+http://tvget.live:80/movie/epg/epg/1391222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tropas Estelares 2 (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebRw2D08TOVxwU3VYxjOl1gTMID.jpg" group-title="F • Fantasia & Ficção",Tropas Estelares 2 (2004)
+http://tvget.live:80/movie/epg/epg/1391223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Doador de Memórias (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Abe0Pmz6cuW2mWVyVEkEetVFtgG.jpg" group-title="F • Fantasia & Ficção",O Doador de Memórias (2014)
+http://tvget.live:80/movie/epg/epg/1391224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tomorrowland: Um Lugar Onde Nada é Impossível (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aULFubx32WbnCIx2jaYxGnIfD56.jpg" group-title="F • Fantasia & Ficção",Tomorrowland: Um Lugar Onde Nada é Impossível (2015)
+http://tvget.live:80/movie/epg/epg/1391225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu Sou o Número Quatro (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnKKqP6pRZah0KayZMiT6ifZde4.jpg" group-title="F • Fantasia & Ficção",Eu Sou o Número Quatro (2011)
+http://tvget.live:80/movie/epg/epg/1391226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rupture: Superando O Medo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhqAPkNIsMlY1whbF9iYHjcl7RP.jpg" group-title="F • Fantasia & Ficção",Rupture: Superando O Medo (2016)
+http://tvget.live:80/movie/epg/epg/1391227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Quinto Elemento (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2fanPUgCGty1tmU9t3jtYEOEMS.jpg" group-title="F • Fantasia & Ficção",O Quinto Elemento (1997)
+http://tvget.live:80/movie/epg/epg/1391228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jung_E (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ig8TLhlSuGxchpzOciV7anfN7st.jpg" group-title="F • Fantasia & Ficção",Jung_E (2023)
+http://tvget.live:80/movie/epg/epg/1391229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Paradoxo Cloverfield (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5tMtsPWiypKCKk0fHyjAqz93gU.jpg" group-title="F • Fantasia & Ficção",O Paradoxo Cloverfield (2018)
+http://tvget.live:80/movie/epg/epg/1391230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nossos Sonhos de Marte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pENW055usqNIzYB7YM0R61qFPMu.jpg" group-title="F • Fantasia & Ficção",Nossos Sonhos de Marte (2022)
+http://tvget.live:80/movie/epg/epg/1391231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tropas Estelares 3 (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyeUcT7lS6AuRcJyZs33JG3Wi6X.jpg" group-title="F • Fantasia & Ficção",Tropas Estelares 3 (2008)
+http://tvget.live:80/movie/epg/epg/1391232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjos das Trevas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49my4P9or2BZpbOT3ATSqCRomDy.jpg" group-title="F • Fantasia & Ficção",Anjos das Trevas (2020)
+http://tvget.live:80/movie/epg/epg/1391233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prey (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13Wsjb9tnvwSZP6kllLxphiWZWh.jpg" group-title="F • Fantasia & Ficção",Prey (2019)
+http://tvget.live:80/movie/epg/epg/1391234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2036 Origem Desconhecida (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3StJTYXbU3OZ26Vh1PbczqfyCD.jpg" group-title="F • Fantasia & Ficção",2036 Origem Desconhecida (2018)
+http://tvget.live:80/movie/epg/epg/1391235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blackout: A Batalha Final (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntKsMxLTgSrvRoZA6vezQ6dOQj2.jpg" group-title="F • Fantasia & Ficção",Blackout: A Batalha Final (2019)
+http://tvget.live:80/movie/epg/epg/1391236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primeira Chegada (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wez4hCV7ltekZwRkQVyiKEZNrm5.jpg" group-title="F • Fantasia & Ficção",Primeira Chegada (2018)
+http://tvget.live:80/movie/epg/epg/1391237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien: O Oitavo Passageiro (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0VpOjqwobTpQK2SEZpXlqt5cqY.jpg" group-title="F • Fantasia & Ficção",Alien: O Oitavo Passageiro (1979)
+http://tvget.live:80/movie/epg/epg/1391238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Sem Fronteiras (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zC2lEQjA4X814UnvekmdkM5hXmk.jpg" group-title="F • Fantasia & Ficção",Star Trek: Sem Fronteiras (2016)
+http://tvget.live:80/movie/epg/epg/1391239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contatos de 4º Grau (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41uPD6OmmMVR3fmJK7Gzm2oN8xk.jpg" group-title="F • Fantasia & Ficção",Contatos de 4º Grau (2009)
+http://tvget.live:80/movie/epg/epg/1391240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Som do Trovão (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dVFkCziw0ZiS5Bp8Gw0YpfYcq32.jpg" group-title="F • Fantasia & Ficção",O Som do Trovão (2005)
+http://tvget.live:80/movie/epg/epg/1391241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MIB - Homens de Preto III (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tHxYSppbpdZMjEsL3a71Y47vNx.jpg" group-title="F • Fantasia & Ficção",MIB - Homens de Preto III (2012)
+http://tvget.live:80/movie/epg/epg/1391242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Projeto Adam (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11MJy6lkt7yTEIowEPIkaK4B7lM.jpg" group-title="F • Fantasia & Ficção",O Projeto Adam (2022)
+http://tvget.live:80/movie/epg/epg/1391243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tempestade de Meteoros (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVzlVwal128Q3mtGOBOC9W2XYcH.jpg" group-title="F • Fantasia & Ficção",Tempestade de Meteoros (2010)
+http://tvget.live:80/movie/epg/epg/1391244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonfall: Ameaça Lunar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ACl5NQBHeEvypdVlaaE868bwFs.jpg" group-title="F • Fantasia & Ficção",Moonfall: Ameaça Lunar (2022)
+http://tvget.live:80/movie/epg/epg/1391245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cubo (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcSWAcLOSJqq63bBIjQIOlKHb6L.jpg" group-title="F • Fantasia & Ficção",Cubo (1997)
+http://tvget.live:80/movie/epg/epg/1391246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mudo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9FYlvi3zZipJOcELZSXePdsLsJ.jpg" group-title="F • Fantasia & Ficção",Mudo (2018)
+http://tvget.live:80/movie/epg/epg/1391247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: O Despertar da Força (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqMDbo4rXnakFgc4C6LzPv6pG7F.jpg" group-title="F • Fantasia & Ficção",Star Wars: O Despertar da Força (2015)
+http://tvget.live:80/movie/epg/epg/1391248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Darkman: Vingança Sem Rosto (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jXoC81hLq4qXL9Rx2Q1qBlD1rP.jpg" group-title="F • Fantasia & Ficção",Darkman: Vingança Sem Rosto (1990)
+http://tvget.live:80/movie/epg/epg/1391249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Isolados: Medo Invisível (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irojlZd3fTBWgiLyxS7zmElokH7.jpg" group-title="F • Fantasia & Ficção",Isolados: Medo Invisível (2020)
+http://tvget.live:80/movie/epg/epg/1391250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla: O Devorador de Planetas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2F2rxcQJT9OXqsnWt5TcE2fe6Fw.jpg" group-title="F • Fantasia & Ficção",Godzilla: O Devorador de Planetas (2018)
+http://tvget.live:80/movie/epg/epg/1391251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maya (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxQ7M2MtNGAJnAomDOQM8wVxXjT.jpg" group-title="F • Fantasia & Ficção",Maya (2020)
+http://tvget.live:80/movie/epg/epg/1391252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Violação de Privacidade (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bB7v0RRCeLdzXeFFg1t5titpcTU.jpg" group-title="F • Fantasia & Ficção",Violação de Privacidade (2004)
+http://tvget.live:80/movie/epg/epg/1391253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cubo: A Caixa do Medo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OSTg5V4GkzD0p14whcFRcH4Tes.jpg" group-title="F • Fantasia & Ficção",Cubo: A Caixa do Medo (2021)
+http://tvget.live:80/movie/epg/epg/1391254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nova Ordem Espacial (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f32ne52ClTPFL9Ew2aPUhKoVn9e.jpg" group-title="F • Fantasia & Ficção",Nova Ordem Espacial (2021)
+http://tvget.live:80/movie/epg/epg/1391255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gravidade (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAc3HjzhIhO914nWlOeiaxkcfyU.jpg" group-title="F • Fantasia & Ficção",Gravidade (2018)
+http://tvget.live:80/movie/epg/epg/1391256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agulha no Palheiro Temporal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcpxPCl33cKMvbNDp6BoO5TJFI6.jpg" group-title="F • Fantasia & Ficção",Agulha no Palheiro Temporal (2021)
+http://tvget.live:80/movie/epg/epg/1391257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reviver (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXNrLUZmEmbhUT2hvGNH3smC7eE.jpg" group-title="F • Fantasia & Ficção",Reviver (2018)
+http://tvget.live:80/movie/epg/epg/1391258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Skylines 3 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2W4ZvACURDyhiNnSIaFPHfNbny3.jpg" group-title="F • Fantasia & Ficção",Skylines 3 (2020)
+http://tvget.live:80/movie/epg/epg/1391259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Equilibrium (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rHXNrxpi1hx39zy4nNz0tX9eeD0.jpg" group-title="F • Fantasia & Ficção",Equilibrium (2002)
+http://tvget.live:80/movie/epg/epg/1391260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Demolidor (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2BjAYQNwmdIZF6XQQ2rLOrios1Q.jpg" group-title="F • Fantasia & Ficção",O Demolidor (1993)
+http://tvget.live:80/movie/epg/epg/1391261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Distrito 9 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngDzpIMeVlwv0B3JNWqNVTRNfcU.jpg" group-title="F • Fantasia & Ficção",Distrito 9 (2009)
+http://tvget.live:80/movie/epg/epg/1391262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anon (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhBTO9n3fxy3HJt7WlR9h9vvVmk.jpg" group-title="F • Fantasia & Ficção",Anon (2018)
+http://tvget.live:80/movie/epg/epg/1391263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando Kill (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xn6t1nYJaUMmudnHHiK390AORNu.jpg" group-title="F • Fantasia & Ficção",Comando Kill (2016)
+http://tvget.live:80/movie/epg/epg/1391264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ad Astra (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="F • Fantasia & Ficção",Ad Astra (1983)
+http://tvget.live:80/movie/epg/epg/1391265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Enigma do Horizonte (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6OkBHLQxQeZHZ1lWMZQxJmGuEs.jpg" group-title="F • Fantasia & Ficção",O Enigma do Horizonte (1997)
+http://tvget.live:80/movie/epg/epg/1391266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agora Estamos Sozinhos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnW8wWx1xulYgHqXuVn9Pj7HnCX.jpg" group-title="F • Fantasia & Ficção",Agora Estamos Sozinhos (2018)
+http://tvget.live:80/movie/epg/epg/1391267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sharknado 5: Voracidade Global (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7t70IybSqrxfhgqJ6FFl0p1KsdO.jpg" group-title="F • Fantasia & Ficção",Sharknado 5: Voracidade Global (2017)
+http://tvget.live:80/movie/epg/epg/1391268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Soldado do Futuro (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4K6RAULPsyQtsztyByHSqfaJTz5.jpg" group-title="F • Fantasia & Ficção",O Soldado do Futuro (1998)
+http://tvget.live:80/movie/epg/epg/1391269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Expresso do Amanhã (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rtJNrpDuxHJiRormrY5S3GXwEu.jpg" group-title="F • Fantasia & Ficção",Expresso do Amanhã (2013)
+http://tvget.live:80/movie/epg/epg/1391270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BraveStorm (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naprix35dmLBA3dDwDZprVXfPd2.jpg" group-title="F • Fantasia & Ficção",BraveStorm (2017)
+http://tvget.live:80/movie/epg/epg/1391271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fuga do Planeta dos Macacos (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZt5dYtbIZ03apuexPHvjrOI6vI.jpg" group-title="F • Fantasia & Ficção",A Fuga do Planeta dos Macacos (1971)
+http://tvget.live:80/movie/epg/epg/1391272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien vs. Predador 2 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqMkAjKvj5gxoehS2LiCbCxgh5k.jpg" group-title="F • Fantasia & Ficção",Alien vs. Predador 2 (2007)
+http://tvget.live:80/movie/epg/epg/1391273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jornada nas Estrelas VI: A Terra Desconhecida (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DLF3vrVHNmaMTI5AIDYEUF7zdo.jpg" group-title="F • Fantasia & Ficção",Jornada nas Estrelas VI: A Terra Desconhecida (1991)
+http://tvget.live:80/movie/epg/epg/1391274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Turbo Kid (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArUqADkwycYtNVuXSoSXVrdJ8iJ.jpg" group-title="F • Fantasia & Ficção",Turbo Kid (2015)
+http://tvget.live:80/movie/epg/epg/1391275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="iBoy (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqwQPVosPSjfXRF6bO9Wg48ylAR.jpg" group-title="F • Fantasia & Ficção",iBoy (2017)
+http://tvget.live:80/movie/epg/epg/1391276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Old Strangers (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jd5swX0bQGq6dOc7XiptmF5muSQ.jpg" group-title="F • Fantasia & Ficção",Old Strangers (2022)
+http://tvget.live:80/movie/epg/epg/1391277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cubo Zero (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87ufWmIQPhm9UvBIrFSR1K9IKXk.jpg" group-title="F • Fantasia & Ficção",Cubo Zero (2004)
+http://tvget.live:80/movie/epg/epg/1391278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elysium (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QxAzqKf56IMHMMbPkaIkb3Ul6S.jpg" group-title="F • Fantasia & Ficção",Elysium (2013)
+http://tvget.live:80/movie/epg/epg/1391279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aranhas! Um Experimento Que Deu Errado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwWKxXedTIqWQ1bPXE4kkbjIjv8.jpg" group-title="F • Fantasia & Ficção",Aranhas! Um Experimento Que Deu Errado (2021)
+http://tvget.live:80/movie/epg/epg/1391280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animatrix (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPHRLYim486RsjbedS5mTFM5ni6.jpg" group-title="F • Fantasia & Ficção",Animatrix (2003)
+http://tvget.live:80/movie/epg/epg/1391281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Gente Se Vê Ontem (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sE2MSSjAHVU8gOz2SPQMaTQtO9c.jpg" group-title="F • Fantasia & Ficção",A Gente Se Vê Ontem (2019)
+http://tvget.live:80/movie/epg/epg/1391282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transcendence: A Revolução (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Y3F6z4W7f8yOqxNEZGbJg6xVJ9.jpg" group-title="F • Fantasia & Ficção",Transcendence: A Revolução (2014)
+http://tvget.live:80/movie/epg/epg/1391283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Edge of Extinction (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPQwTtppe0nzbFLSAMaqMnL8e4c.jpg" group-title="F • Fantasia & Ficção",Edge of Extinction (2020)
+http://tvget.live:80/movie/epg/epg/1391284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Preço do Amanhã (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xuFZVPVebRrRwiH14uST8m4ulXj.jpg" group-title="F • Fantasia & Ficção",O Preço do Amanhã (2011)
+http://tvget.live:80/movie/epg/epg/1391285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Além da Morte (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNO7ciFO3kNHMCPAWPzBsjBDb7g.jpg" group-title="F • Fantasia & Ficção",Além da Morte (2017)
+http://tvget.live:80/movie/epg/epg/1391286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jumper (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3pPZ9JhNz3VMmASVir5SMHvTDUU.jpg" group-title="F • Fantasia & Ficção",Jumper (2008)
+http://tvget.live:80/movie/epg/epg/1391287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Substitutos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ro4XtqD2bdgIoeK4Ysy3rvNOCju.jpg" group-title="F • Fantasia & Ficção",Substitutos (2023)
+http://tvget.live:80/movie/epg/epg/1391288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hellboy II: O Exército Dourado (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ud8b0ajDmnaf5aojJLVWCsUlZ1b.jpg" group-title="F • Fantasia & Ficção",Hellboy II: O Exército Dourado (2008)
+http://tvget.live:80/movie/epg/epg/1391289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerra nas Estrelas: O Império Contra-Ataca (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLGT8b4Ut10z44uYLaip4QiwKta.jpg" group-title="F • Fantasia & Ficção",Guerra nas Estrelas: O Império Contra-Ataca (1980)
+http://tvget.live:80/movie/epg/epg/1391290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerra dos Mundos (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aU42RNFpLgXsg0Tsgo8g8RPji0N.jpg" group-title="F • Fantasia & Ficção",Guerra dos Mundos (2005)
+http://tvget.live:80/movie/epg/epg/1391291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Salve-Se Quem Puder! (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3pW7MdAhFwDejNbMeJj0GOXusQ.jpg" group-title="F • Fantasia & Ficção",Salve-Se Quem Puder! (2020)
+http://tvget.live:80/movie/epg/epg/1391292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Universo no Olhar (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liySWQIA4AcpwAsEeTlS368IkF9.jpg" group-title="F • Fantasia & Ficção",O Universo no Olhar (2014)
+http://tvget.live:80/movie/epg/epg/1391293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jornada nas Estrelas V: A Última Fronteira (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohA8ogNltkGmyIiO3vpw3UUltmK.jpg" group-title="F • Fantasia & Ficção",Jornada nas Estrelas V: A Última Fronteira (1989)
+http://tvget.live:80/movie/epg/epg/1391294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ARQ (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xA9y9lqXkOJw6RbnAeRoOiG5eSS.jpg" group-title="F • Fantasia & Ficção",ARQ (2016)
+http://tvget.live:80/movie/epg/epg/1391295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien: A Ressurreição (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBQihuqaiRFZEzQh3M5uKXfmW15.jpg" group-title="F • Fantasia & Ficção",Alien: A Ressurreição (1997)
+http://tvget.live:80/movie/epg/epg/1391296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atomica: Ameaça Oculta (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Alii4LGgsgu6fA8S8PrBh7Pv04u.jpg" group-title="F • Fantasia & Ficção",Atomica: Ameaça Oculta (2017)
+http://tvget.live:80/movie/epg/epg/1391297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Invasão: Ocupação Alienígena (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4PqKV5M9lIxrFreEIRmo3f5WEd.jpg" group-title="F • Fantasia & Ficção",A Invasão: Ocupação Alienígena (2020)
+http://tvget.live:80/movie/epg/epg/1391298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Efeito Borboleta 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oGF8yxrzSEiBfx3pltTyWUC3KG.jpg" group-title="F • Fantasia & Ficção",Efeito Borboleta 2 (2006)
+http://tvget.live:80/movie/epg/epg/1391299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Jornada (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8swZAUefTHzK8cCEpgLOXzBH7QE.jpg" group-title="F • Fantasia & Ficção",A Última Jornada (2017)
+http://tvget.live:80/movie/epg/epg/1391300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sharknado (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHttBkuLDqodHDywcmJuqRM4h48.jpg" group-title="F • Fantasia & Ficção",Sharknado (2013)
+http://tvget.live:80/movie/epg/epg/1391301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Code 8: Renegados (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOj7bYYyMMqiqgh7Bu7qxLwtbsz.jpg" group-title="F • Fantasia & Ficção",Code 8: Renegados (2019)
+http://tvget.live:80/movie/epg/epg/1391302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jornada nas Estrelas: Primeiro Contato (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idKfn9XDzVSemYDw7tsohdRNA5b.jpg" group-title="F • Fantasia & Ficção",Jornada nas Estrelas: Primeiro Contato (1996)
+http://tvget.live:80/movie/epg/epg/1391303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra Lunar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCIF7srS60AK6Ejrb3s5HkCOHSz.jpg" group-title="F • Fantasia & Ficção",Sombra Lunar (2019)
+http://tvget.live:80/movie/epg/epg/1391304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cloverfield: Monstro (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhz6R8G702ECl8MgYo2JvN17ABR.jpg" group-title="F • Fantasia & Ficção",Cloverfield: Monstro (2008)
+http://tvget.live:80/movie/epg/epg/1391305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Realm (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y25Uq0gLQ1IvgEJkp1NKdfa1EgK.jpg" group-title="F • Fantasia & Ficção",The Realm (1999)
+http://tvget.live:80/movie/epg/epg/1391306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitã Nova (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktBMme7oOHPi2oY8t02OifrrYC1.jpg" group-title="F • Fantasia & Ficção",Capitã Nova (2021)
+http://tvget.live:80/movie/epg/epg/1391307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Interestelar (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg" group-title="F • Fantasia & Ficção",Interestelar (2014)
+http://tvget.live:80/movie/epg/epg/1391308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Projeto Wetware (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NhzMMDyiHKOoOnEe4c8DYhu7Il.jpg" group-title="F • Fantasia & Ficção",Projeto Wetware (2018)
+http://tvget.live:80/movie/epg/epg/1391309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eclipse Mortal (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7V4WfCUWYzMcBby8e6jAwVxw2Ai.jpg" group-title="F • Fantasia & Ficção",Eclipse Mortal (2000)
+http://tvget.live:80/movie/epg/epg/1391310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Núcleo: Missão ao Centro da Terra (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fgCPqrF94rfXw4cSJjexxcGL8l.jpg" group-title="F • Fantasia & Ficção",O Núcleo: Missão ao Centro da Terra (2003)
+http://tvget.live:80/movie/epg/epg/1391311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Procurada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zftgIV8k5PzFfumIq79a7qMapoH.jpg" group-title="F • Fantasia & Ficção",Procurada (2020)
+http://tvget.live:80/movie/epg/epg/1391312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viagem à Lua de Júpiter (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZUZk6PZZwn1o3guQBzewhi4H4x.jpg" group-title="F • Fantasia & Ficção",Viagem à Lua de Júpiter (2013)
+http://tvget.live:80/movie/epg/epg/1391313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Linha do Tempo (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SMUZv1s6f3tEbG2alKfS7JURDm.jpg" group-title="F • Fantasia & Ficção",Linha do Tempo (2003)
+http://tvget.live:80/movie/epg/epg/1391314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien vs. Predador (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/esrGz7pDcssKPIxykO52rimIILQ.jpg" group-title="F • Fantasia & Ficção",Alien vs. Predador (2004)
+http://tvget.live:80/movie/epg/epg/1391315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Círculo de Fogo: A Revolta (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIWM0wgkmUlrEnYYkZ73EdNL0aX.jpg" group-title="F • Fantasia & Ficção",Círculo de Fogo: A Revolta (2018)
+http://tvget.live:80/movie/epg/epg/1391316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Planeta dos Macacos: A Guerra (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNAvlP4VYF6H6a4EyIcdZP9QBrM.jpg" group-title="F • Fantasia & Ficção",Planeta dos Macacos: A Guerra (2017)
+http://tvget.live:80/movie/epg/epg/1391317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oblivion (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtLOOEIMRBywTONWfPLYEvWM1Md.jpg" group-title="F • Fantasia & Ficção",Oblivion (2013)
+http://tvget.live:80/movie/epg/epg/1391318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cocoon II: O Regresso (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKZaYNj3N2TYVQrtLI1Oz4iYSuW.jpg" group-title="F • Fantasia & Ficção",Cocoon II: O Regresso (1988)
+http://tvget.live:80/movie/epg/epg/1391319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kronos: O Fim Da Humanidade? (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAlGYFGssx7BoWtAPsz76uYCPWG.jpg" group-title="F • Fantasia & Ficção",Kronos: O Fim Da Humanidade? (2017)
+http://tvget.live:80/movie/epg/epg/1391320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Machete Mata (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zyIttMBPUzwaD7CoBLxmNsPBF9.jpg" group-title="F • Fantasia & Ficção",Machete Mata (2013)
+http://tvget.live:80/movie/epg/epg/1391321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lavalantula 2 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuQbYNdJ55PYxWcEi4S4ItIGAGm.jpg" group-title="F • Fantasia & Ficção",Lavalantula 2 (2017)
+http://tvget.live:80/movie/epg/epg/1391322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perdido em Marte (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fG3S4zdgnsaF77tJGK3rA9tHBu4.jpg" group-title="F • Fantasia & Ficção",Perdido em Marte (2015)
+http://tvget.live:80/movie/epg/epg/1391323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Colônia (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqwtE8USreQ48Kv1S0mtMHMX957.jpg" group-title="F • Fantasia & Ficção",A Colônia (1997)
+http://tvget.live:80/movie/epg/epg/1391324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vigilante do Amanhã: Ghost in the Shell (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KTaQLYRuac12gdPAYhXGHLSOW4.jpg" group-title="F • Fantasia & Ficção",A Vigilante do Amanhã: Ghost in the Shell (2017)
+http://tvget.live:80/movie/epg/epg/1391325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Exterminador do Futuro (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fo4SSoNT1ASI4JP7dOLrosWNWKa.jpg" group-title="F • Fantasia & Ficção",O Exterminador do Futuro (1984)
+http://tvget.live:80/movie/epg/epg/1391326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zathura: Uma Aventura Espacial (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arTLXKwxeM6RkapOeWcSY6GoEby.jpg" group-title="F • Fantasia & Ficção",Zathura: Uma Aventura Espacial (2005)
+http://tvget.live:80/movie/epg/epg/1391327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jornada nas Estrelas: A Reunião da Cúpula (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5B6B0FOUsLq1RKrskbpxH6Yxfig.jpg" group-title="F • Fantasia & Ficção",Jornada nas Estrelas: A Reunião da Cúpula (2009)
+http://tvget.live:80/movie/epg/epg/1391328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andron: O Labirinto Negro (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xl2pWUtcrjOMs1hvEA4bKUA5xOR.jpg" group-title="F • Fantasia & Ficção",Andron: O Labirinto Negro (2015)
+http://tvget.live:80/movie/epg/epg/1391329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Feche os Olhos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2rDGHK5qDTemDare180EJxspe5.jpg" group-title="F • Fantasia & Ficção",Não Feche os Olhos (2020)
+http://tvget.live:80/movie/epg/epg/1391330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Possuído (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvfSBB7z3ii0SdXOoLJDnknYGLK.jpg" group-title="F • Fantasia & Ficção",Possuído (2020)
+http://tvget.live:80/movie/epg/epg/1391331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Exterminador do Futuro: Gênesis (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bsLapI6DxME6niIb74aSD71DRH.jpg" group-title="F • Fantasia & Ficção",O Exterminador do Futuro: Gênesis (2015)
+http://tvget.live:80/movie/epg/epg/1391332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Projeto Gemini (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGYKbHCTOHNfjxXaiq0qPMQlrwc.jpg" group-title="F • Fantasia & Ficção",Projeto Gemini (2019)
+http://tvget.live:80/movie/epg/epg/1391333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desejos Ocultos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jM3pv9GEe137fdOzMgu3j7r2e0k.jpg" group-title="F • Fantasia & Ficção",Desejos Ocultos (2019)
+http://tvget.live:80/movie/epg/epg/1391334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Attraction 2: A Invasão (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zT6jdeKbBlGHpkFbWF7HZNv7rUB.jpg" group-title="F • Fantasia & Ficção",Attraction 2: A Invasão (2020)
+http://tvget.live:80/movie/epg/epg/1391335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alita: Anjo de Combate (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUOP8nSOcwymKeOS9L4iJbLXG74.jpg" group-title="F • Fantasia & Ficção",Alita: Anjo de Combate (2019)
+http://tvget.live:80/movie/epg/epg/1391336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Projeto Ithaca: Destruição Alienígena (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6v8i1ND88pVztcftWdC2KFvFNa.jpg" group-title="F • Fantasia & Ficção",Projeto Ithaca: Destruição Alienígena (2019)
+http://tvget.live:80/movie/epg/epg/1391337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Últimos na Terra (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/esoNM2wnJRkYyTUmcf3CP53Y47n.jpg" group-title="F • Fantasia & Ficção",Os Últimos na Terra (2015)
+http://tvget.live:80/movie/epg/epg/1391338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estado de Calamidade (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rOs4ljOxJSi5QkQZNl2hJtqWw4.jpg" group-title="F • Fantasia & Ficção",Estado de Calamidade (2017)
+http://tvget.live:80/movie/epg/epg/1391339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chrysalis: Um Futuro Não Muito Distante (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2JLHuxWC8riOnGXnOQvuawQBoO.jpg" group-title="F • Fantasia & Ficção",Chrysalis: Um Futuro Não Muito Distante (2007)
+http://tvget.live:80/movie/epg/epg/1391340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Conquista do Planeta dos Macacos (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDg8b2FgDQCVkLEkrUtqP6sdRew.jpg" group-title="F • Fantasia & Ficção",A Conquista do Planeta dos Macacos (1972)
+http://tvget.live:80/movie/epg/epg/1391341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Destruidor (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FsJzAansODVzyxARwVKfNdgFqO.jpg" group-title="F • Fantasia & Ficção",O Destruidor (1992)
+http://tvget.live:80/movie/epg/epg/1391342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Exterminador do Futuro 2: O Julgamento Final (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5uPlrjcVSI3z3duYeyRAP2E2D0.jpg" group-title="F • Fantasia & Ficção",O Exterminador do Futuro 2: O Julgamento Final (1991)
+http://tvget.live:80/movie/epg/epg/1391343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Revolta de Atlas: Parte II (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iwPz9zy1uCP73QMxhNs6gaTTom.jpg" group-title="F • Fantasia & Ficção",A Revolta de Atlas: Parte II (2012)
+http://tvget.live:80/movie/epg/epg/1391344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Destino de Júpiter (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1p4Fw1nqYOQcRgD63sJmX3ZjgU.jpg" group-title="F • Fantasia & Ficção",O Destino de Júpiter (2015)
+http://tvget.live:80/movie/epg/epg/1391345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jornada nas Estrelas IV: A Volta para Casa (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLnsbQZ1CQ54jKMwVTeCGFRwlQk.jpg" group-title="F • Fantasia & Ficção",Jornada nas Estrelas IV: A Volta para Casa (1986)
+http://tvget.live:80/movie/epg/epg/1391346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dois Amigos e uma Ameaça Alienígena (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDCuTGYlZChQ1acAVbXHJnAxiF7.jpg" group-title="F • Fantasia & Ficção",Dois Amigos e uma Ameaça Alienígena (2022)
+http://tvget.live:80/movie/epg/epg/1391347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Komodo vs. Cobra (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2dLwpe18MC3nIF5MmkWuB8waba9.jpg" group-title="F • Fantasia & Ficção",Komodo vs. Cobra (2005)
+http://tvget.live:80/movie/epg/epg/1391348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blade Runner 2049 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg" group-title="F • Fantasia & Ficção",Blade Runner 2049 (2017)
+http://tvget.live:80/movie/epg/epg/1391349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invasão Alienígena (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aM1Gf7LFy9NaKzytAQ9IzN3krOR.jpg" group-title="F • Fantasia & Ficção",Invasão Alienígena (2017)
+http://tvget.live:80/movie/epg/epg/1391350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rogue One: Uma História Star Wars (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74C2YX0NLWnozVMRS56d5CKDdEv.jpg" group-title="F • Fantasia & Ficção",Rogue One: Uma História Star Wars (2016)
+http://tvget.live:80/movie/epg/epg/1391351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Predestinado (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iESH7eRSIaZsmjnRyQCMpEg0bJU.jpg" group-title="F • Fantasia & Ficção",O Predestinado (2014)
+http://tvget.live:80/movie/epg/epg/1391352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stowaway (1932)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QtTXcMeFhG5qQ5JWcqg8Abx0NT.jpg" group-title="F • Fantasia & Ficção",Stowaway (1932)
+http://tvget.live:80/movie/epg/epg/1391353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Archive (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tjGwi7Y8Pji1WYKCnvdWuhQz1u.jpg" group-title="F • Fantasia & Ficção",Archive (2020)
+http://tvget.live:80/movie/epg/epg/1391354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Série Divergente: Insurgente (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0i7VfG5HAQT49ZKZNcef2booIq.jpg" group-title="F • Fantasia & Ficção",A Série Divergente: Insurgente (2015)
+http://tvget.live:80/movie/epg/epg/1391355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidade das Sombras (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eM4avuHgZYSo9uZmIBWFfgcCCNB.jpg" group-title="F • Fantasia & Ficção",Cidade das Sombras (1998)
+http://tvget.live:80/movie/epg/epg/1391356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Camisa de Força (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Y431Z4lwEqBT0rY59AXEhyHFfc.jpg" group-title="F • Fantasia & Ficção",Camisa de Força (2005)
+http://tvget.live:80/movie/epg/epg/1391357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Planeta dos Macacos: A Origem (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxe4ONZAgtC0mfsIuOyqVU9JREj.jpg" group-title="F • Fantasia & Ficção",Planeta dos Macacos: A Origem (2011)
+http://tvget.live:80/movie/epg/epg/1391358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MIB Homens de Preto: Internacional (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxopI5VyShCeAlJf3X4Q1T40Bub.jpg" group-title="F • Fantasia & Ficção",MIB Homens de Preto: Internacional (2019)
+http://tvget.live:80/movie/epg/epg/1391359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Bata na Porta (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7Vy1xgjuwIW0Pxj2qajimffzZM.jpg" group-title="F • Fantasia & Ficção",Não Bata na Porta (2017)
+http://tvget.live:80/movie/epg/epg/1391360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A 5ª Onda (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/asPv5M6bUn270EcUXUnEnC8CkB7.jpg" group-title="F • Fantasia & Ficção",A 5ª Onda (2016)
+http://tvget.live:80/movie/epg/epg/1391361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X: Eu Quero Acreditar (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtt7m7mjWcuq7XeEdbnVWUikVfu.jpg" group-title="F • Fantasia & Ficção",Arquivo X: Eu Quero Acreditar (2008)
+http://tvget.live:80/movie/epg/epg/1391362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S.U.M.1: O Soldado da Resistência (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RSEWZD65hUkfl4vwx75DYiVcet.jpg" group-title="F • Fantasia & Ficção",S.U.M.1: O Soldado da Resistência (2017)
+http://tvget.live:80/movie/epg/epg/1391363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stargate: A Chave para o Futuro da Humanidade (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wk4HYvaROrDJ1AgXo7lWI3c5zs.jpg" group-title="F • Fantasia & Ficção",Stargate: A Chave para o Futuro da Humanidade (1994)
+http://tvget.live:80/movie/epg/epg/1391364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Planeta Vermelho (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vO4aT28rwLjvGoKkgKlTcpwnSvX.jpg" group-title="F • Fantasia & Ficção",O Planeta Vermelho (2013)
+http://tvget.live:80/movie/epg/epg/1391365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Impacto Profundo (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TJV49ZbiZge0RK1VWesmm40qso.jpg" group-title="F • Fantasia & Ficção",Impacto Profundo (1998)
+http://tvget.live:80/movie/epg/epg/1391366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estranho Passageiro: Sputnik (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPQveAuNitVN9N1zG56t1mM4KxF.jpg" group-title="F • Fantasia & Ficção",Estranho Passageiro: Sputnik (2020)
+http://tvget.live:80/movie/epg/epg/1391367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O 6º Dia (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rl0puYa84YLu7q7CILHmupljpGD.jpg" group-title="F • Fantasia & Ficção",O 6º Dia (2000)
+http://tvget.live:80/movie/epg/epg/1391368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depois da Escuridão (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5pZrA9q4RM9KpLMen4WiM9MmKG.jpg" group-title="F • Fantasia & Ficção",Depois da Escuridão (2019)
+http://tvget.live:80/movie/epg/epg/1391369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Viajantes (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t62g56TaYiWIxF5Hsh50B3KKdSa.jpg" group-title="F • Fantasia & Ficção",As Viajantes (2019)
+http://tvget.live:80/movie/epg/epg/1391370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zona 414 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82JyOAFnlr8sCK49RisIZ0ooVi0.jpg" group-title="F • Fantasia & Ficção",Zona 414 (2021)
+http://tvget.live:80/movie/epg/epg/1391371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Planeta dos Macacos: O Confronto (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vLhF6R3lmhTjTVUdK4gI1s5a8v.jpg" group-title="F • Fantasia & Ficção",Planeta dos Macacos: O Confronto (2014)
+http://tvget.live:80/movie/epg/epg/1391372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Me Abandone Jamais (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHmr8i8ELpvovAWUjM8O7WTPw1N.jpg" group-title="F • Fantasia & Ficção",Não Me Abandone Jamais (2010)
+http://tvget.live:80/movie/epg/epg/1391373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Am Mother (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3jWxwWRFqvNDJTvBcmKJVHnzKK.jpg" group-title="F • Fantasia & Ficção",I Am Mother (2019)
+http://tvget.live:80/movie/epg/epg/1391374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cópias: De Volta à Vida (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2R1xCxt6b1lkeEk33u86hqQDe6.jpg" group-title="F • Fantasia & Ficção",Cópias: De Volta à Vida (2018)
+http://tvget.live:80/movie/epg/epg/1391375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidade Sitiada (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJGglhvEbjMQAhVc4lzMHTeUyav.jpg" group-title="F • Fantasia & Ficção",Cidade Sitiada (2010)
+http://tvget.live:80/movie/epg/epg/1391376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beavis e Butt-Head: Detonam o Universo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxTX60muv0sr9cu3e3k8OzqUwGv.jpg" group-title="F • Fantasia & Ficção",Beavis e Butt-Head: Detonam o Universo (2022)
+http://tvget.live:80/movie/epg/epg/1391377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Projeto Almanaque (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2krLUKMsKbnZk6j647IlkqlMZ2u.jpg" group-title="F • Fantasia & Ficção",Projeto Almanaque (2015)
+http://tvget.live:80/movie/epg/epg/1391378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crimes Cibernéticos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8g26F0slZmd66yhdor7Cx11EwK.jpg" group-title="F • Fantasia & Ficção",Crimes Cibernéticos (2019)
+http://tvget.live:80/movie/epg/epg/1391379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerra Alienígena (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4trb7VI220GFVUvFlO0cj11SWyi.jpg" group-title="F • Fantasia & Ficção",Guerra Alienígena (2018)
+http://tvget.live:80/movie/epg/epg/1391380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Planeta Vermelho (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLNe1qndPl7wBhwW21Tw9olr4z3.jpg" group-title="F • Fantasia & Ficção",Planeta Vermelho (2000)
+http://tvget.live:80/movie/epg/epg/1391381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cubo 2: Hypercubo (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjhxmYQcJcU8P2I5gwxw4z4IVAm.jpg" group-title="F • Fantasia & Ficção",Cubo 2: Hypercubo (2002)
+http://tvget.live:80/movie/epg/epg/1391382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prometheus (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1GZVllOORTiN0XTPdumt9CSAcc.jpg" group-title="F • Fantasia & Ficção",Prometheus (2012)
+http://tvget.live:80/movie/epg/epg/1391383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Involução (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLXmUDSepxnMbf19EJ0XU30tUC6.jpg" group-title="F • Fantasia & Ficção",Involução (2018)
+http://tvget.live:80/movie/epg/epg/1391384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tropas Estelares (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xb6NkoDkbep6lhn8K6YDPitALpr.jpg" group-title="F • Fantasia & Ficção",Tropas Estelares (1997)
+http://tvget.live:80/movie/epg/epg/1391385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Rebelião (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMicD9GcQWFbOTxjTQHPygxbmdO.jpg" group-title="F • Fantasia & Ficção",A Rebelião (2019)
+http://tvget.live:80/movie/epg/epg/1391386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Efeito Borboleta: Revelação (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/HdgTkLzVx08sfUyUNTivb2EoV7.jpg" group-title="F • Fantasia & Ficção",Efeito Borboleta: Revelação (2009)
+http://tvget.live:80/movie/epg/epg/1391387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Venom (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg" group-title="F • Fantasia & Ficção",Venom (2018)
+http://tvget.live:80/movie/epg/epg/1391388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Limite do Amanhã (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibubeKZuo4ZI2Zu2Dm2s0gmMvuk.jpg" group-title="F • Fantasia & Ficção",No Limite do Amanhã (2014)
+http://tvget.live:80/movie/epg/epg/1391389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Teste Beta (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7k9nCIecGo6lnrytPnjggX1yiyl.jpg" group-title="F • Fantasia & Ficção",Teste Beta (2021)
+http://tvget.live:80/movie/epg/epg/1391390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Skyline: Além do Horizonte (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5quRHrVGxJyhA1GLr8tk5RRNzET.jpg" group-title="F • Fantasia & Ficção",Skyline: Além do Horizonte (2017)
+http://tvget.live:80/movie/epg/epg/1391391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Looper: Assassinos do Futuro (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qi3aMCoFbnfpbd0XBLznLUn99xQ.jpg" group-title="F • Fantasia & Ficção",Looper: Assassinos do Futuro (2012)
+http://tvget.live:80/movie/epg/epg/1391392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caçador de Mutantes (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCxfoNHBQ8Pqrmnx5B0sYZMKt0j.jpg" group-title="F • Fantasia & Ficção",Caçador de Mutantes (2019)
+http://tvget.live:80/movie/epg/epg/1391393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe x Androides (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfEuG7GkU2LOiT2O32OEfynRJqV.jpg" group-title="F • Fantasia & Ficção",Mãe x Androides (2021)
+http://tvget.live:80/movie/epg/epg/1391394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Sem Sombra 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8kFpd03LLpK5pG6cCSQdQKhSme.jpg" group-title="F • Fantasia & Ficção",O Homem Sem Sombra 2 (2006)
+http://tvget.live:80/movie/epg/epg/1391395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MIB - Homens de Preto (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bUA0TD2COayMP6ur9Qbewdbbm2e.jpg" group-title="F • Fantasia & Ficção",MIB - Homens de Preto (1997)
+http://tvget.live:80/movie/epg/epg/1391396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ex (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPwJKQX7aLxCrFsUt8k9xFkHjDk.jpg" group-title="F • Fantasia & Ficção",Ex (2009)
+http://tvget.live:80/movie/epg/epg/1391397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jornada nas Estrelas: Nêmesis (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXp12dqRNk5JPoLN8pbW2VKL6GN.jpg" group-title="F • Fantasia & Ficção",Jornada nas Estrelas: Nêmesis (2002)
+http://tvget.live:80/movie/epg/epg/1391398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Joe (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xx5M3DkJaRfKPySib4DFyCsCOIm.jpg" group-title="F • Fantasia & Ficção",Little Joe (2019)
+http://tvget.live:80/movie/epg/epg/1391399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="John Carter: Entre Dois Mundos (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jseasEaaWH3Dos7ph0NzpDj0INV.jpg" group-title="F • Fantasia & Ficção",John Carter: Entre Dois Mundos (2012)
+http://tvget.live:80/movie/epg/epg/1391400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Hospedeiro (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/satZPvyiofuGeDyfqTD88pljtxB.jpg" group-title="F • Fantasia & Ficção",O Hospedeiro (2006)
+http://tvget.live:80/movie/epg/epg/1391401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monstros do Homem (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoYHGazS5wLQFJe7tqZ39M8dA7Q.jpg" group-title="F • Fantasia & Ficção",Monstros do Homem (2020)
+http://tvget.live:80/movie/epg/epg/1391402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Roda da Fortuna (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYINlLGUVcqPsb7VxCy8zEMhbq0.jpg" group-title="F • Fantasia & Ficção",A Roda da Fortuna (1953)
+http://tvget.live:80/movie/epg/epg/1391403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sharknado 2: A Segunda Onda (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uguzkptzBLzwse1LENsAXTU9LEV.jpg" group-title="F • Fantasia & Ficção",Sharknado 2: A Segunda Onda (2014)
+http://tvget.live:80/movie/epg/epg/1391404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blush (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRUTWExrqX40qUr5vZRR0MGAc7i.jpg" group-title="F • Fantasia & Ficção",Blush (2021)
+http://tvget.live:80/movie/epg/epg/1391405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Chegada (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4av3oWqgZ8QOl96xitvEovcu8jm.jpg" group-title="F • Fantasia & Ficção",A Chegada (2016)
+http://tvget.live:80/movie/epg/epg/1391406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Finch (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg" group-title="F • Fantasia & Ficção",Finch (2021)
+http://tvget.live:80/movie/epg/epg/1391407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Massa Cinzenta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svjoahV70ZyZVRAmU3CJKbNKtKD.jpg" group-title="F • Fantasia & Ficção",Massa Cinzenta (2023)
+http://tvget.live:80/movie/epg/epg/1391408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Poder Sem Limites (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d66KHiNTQU020qXJn3H5FyzXkDa.jpg" group-title="F • Fantasia & Ficção",Poder Sem Limites (2012)
+http://tvget.live:80/movie/epg/epg/1391409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gattaca: A Experiência Genética (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBZ04WQDujrGFdXRl9m5yH0RdBx.jpg" group-title="F • Fantasia & Ficção",Gattaca: A Experiência Genética (1997)
+http://tvget.live:80/movie/epg/epg/1391410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Riddick 3 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoNsvIBOIVegeCTzQBiOZUpC5Ml.jpg" group-title="F • Fantasia & Ficção",Riddick 3 (2013)
+http://tvget.live:80/movie/epg/epg/1391411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excursion (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cshPdcGrfcE9EqZCGUIFvTpMKis.jpg" group-title="F • Fantasia & Ficção",Excursion (2018)
+http://tvget.live:80/movie/epg/epg/1391412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mistério de Block Island (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHFfirwnNowh4ELytFnVIzQvAIl.jpg" group-title="F • Fantasia & Ficção",O Mistério de Block Island (2021)
+http://tvget.live:80/movie/epg/epg/1391413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aliens Roubaram Meu Corpo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5pWVVrefvwCnDSj5CNZhoCorey5.jpg" group-title="F • Fantasia & Ficção",Aliens Roubaram Meu Corpo (2020)
+http://tvget.live:80/movie/epg/epg/1391414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maldita Aranha Gigante (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldrII2ppGO00dKNm6YdymCUH6h4.jpg" group-title="F • Fantasia & Ficção",Maldita Aranha Gigante (2013)
+http://tvget.live:80/movie/epg/epg/1391415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2035: Dimensão Proibida (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpwy7M5g1mM4AsCSWKJMEQVyA02.jpg" group-title="F • Fantasia & Ficção",2035: Dimensão Proibida (2013)
+http://tvget.live:80/movie/epg/epg/1391416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="65: Ameaça Pré-Histórica (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwAUZ2yD6mgQl2lhuEkRDpl5lmR.jpg" group-title="F • Fantasia & Ficção",65: Ameaça Pré-Histórica (2023)
+http://tvget.live:80/movie/epg/epg/1391417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Efeito Borboleta (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvBGnEzDMK09PvH0fESCnrhpAeo.jpg" group-title="F • Fantasia & Ficção",Efeito Borboleta (2004)
+http://tvget.live:80/movie/epg/epg/1391418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien 3 (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBBdeybjF1dUxE7GFxurp2TxiT3.jpg" group-title="F • Fantasia & Ficção",Alien 3 (1992)
+http://tvget.live:80/movie/epg/epg/1391419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drones (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8DkSO5DHo4LpC8fqm7ctsDMhES.jpg" group-title="F • Fantasia & Ficção",Drones (2013)
+http://tvget.live:80/movie/epg/epg/1391420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chappie (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cg93jYwHiDVkesAkllPfeiO6brm.jpg" group-title="F • Fantasia & Ficção",Chappie (2015)
+http://tvget.live:80/movie/epg/epg/1391421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Auggie: Realidade Virtual (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8w3jW2qkHr9GTIEtXHkHy9QXQQv.jpg" group-title="F • Fantasia & Ficção",Auggie: Realidade Virtual (2021)
+http://tvget.live:80/movie/epg/epg/1391422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matrix Revolutions (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPsnWYgtHPghlF2p8maWWuXoMQN.jpg" group-title="F • Fantasia & Ficção",Matrix Revolutions (2003)
+http://tvget.live:80/movie/epg/epg/1391423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Sinal: Frequência do Medo (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNHZUOyVhpB7moA6MzUPudZWh0Y.jpg" group-title="F • Fantasia & Ficção",O Sinal: Frequência do Medo (2014)
+http://tvget.live:80/movie/epg/epg/1391424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mundo Perdido: Jurassic Park (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6kJSvM2tT542uKcNeRN0TJYsXc.jpg" group-title="F • Fantasia & Ficção",O Mundo Perdido: Jurassic Park (1997)
+http://tvget.live:80/movie/epg/epg/1391425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máquina do Tempo (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEUR9s3oWImmN1PdSvzzTm0ez1N.jpg" group-title="F • Fantasia & Ficção",A Máquina do Tempo (2002)
+http://tvget.live:80/movie/epg/epg/1391426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Superdeep (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhmiis5tWA6aHpcLgAqadt8NY5H.jpg" group-title="F • Fantasia & Ficção",The Superdeep (2020)
+http://tvget.live:80/movie/epg/epg/1391427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: A Guerra dos Clones (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJQfixW818LUdSXlCDL3JZm0S0g.jpg" group-title="F • Fantasia & Ficção",Star Wars: A Guerra dos Clones (2008)
+http://tvget.live:80/movie/epg/epg/1391428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oxigênio (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLj5Qqbph5aNB4pH2HyuKoDn914.jpg" group-title="F • Fantasia & Ficção",Oxigênio (2021)
+http://tvget.live:80/movie/epg/epg/1391429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo em Todo o Lugar ao Mesmo Tempo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bW21kbvqAt2kMGlaU8qY86C8kQE.jpg" group-title="F • Fantasia & Ficção",Tudo em Todo o Lugar ao Mesmo Tempo (2022)
+http://tvget.live:80/movie/epg/epg/1391430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Serenity: A Luta Pelo Amanhã (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfYHx3atJPUW0fCpQ0Kg8ZGDAnX.jpg" group-title="F • Fantasia & Ficção",Serenity: A Luta Pelo Amanhã (2005)
+http://tvget.live:80/movie/epg/epg/1391431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depois da Terra (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Kcjf0DXimg44Z1bEuzXUjJHNqi.jpg" group-title="F • Fantasia & Ficção",Depois da Terra (2013)
+http://tvget.live:80/movie/epg/epg/1391432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maze Runner: Correr ou Morrer (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHnRw9Kccevck2KdmzJ8Xf7zczM.jpg" group-title="F • Fantasia & Ficção",Maze Runner: Correr ou Morrer (2014)
+http://tvget.live:80/movie/epg/epg/1391433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dyFXQwmFHI1gMn2JEczgKD1hwO.jpg" group-title="F • Fantasia & Ficção",Godzilla (2014)
+http://tvget.live:80/movie/epg/epg/1391434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agente do Futuro (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uM6jUg2DcujMWCIptTvqSdKYlau.jpg" group-title="F • Fantasia & Ficção",Agente do Futuro (2014)
+http://tvget.live:80/movie/epg/epg/1391435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="400 Dias (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGH9FWmvUZsbVi3qqxXsI4v6NRw.jpg" group-title="F • Fantasia & Ficção",400 Dias (2015)
+http://tvget.live:80/movie/epg/epg/1391436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Warning (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UwzfI85ZoAXqdMrG878OudMQr6.jpg" group-title="F • Fantasia & Ficção",Warning (2021)
+http://tvget.live:80/movie/epg/epg/1391437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jornada nas Estrelas: Insurreição (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQg1M46bIcqozNYfhYPJs93Dd2w.jpg" group-title="F • Fantasia & Ficção",Jornada nas Estrelas: Insurreição (1998)
+http://tvget.live:80/movie/epg/epg/1391438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Outra Terra (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/93p5eYeAYc2sFXCaLSV5eapk9z1.jpg" group-title="F • Fantasia & Ficção",A Outra Terra (2011)
+http://tvget.live:80/movie/epg/epg/1391439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Colmeia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31zhbLJ3p5VzE6OfjdPJg5AWbCy.jpg" group-title="F • Fantasia & Ficção",A Colmeia (2022)
+http://tvget.live:80/movie/epg/epg/1391440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4:44: O Fim do Mundo (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sucQKYUdnXUbg7d9z9SM6amZVs3.jpg" group-title="F • Fantasia & Ficção",4:44: O Fim do Mundo (2012)
+http://tvget.live:80/movie/epg/epg/1391441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Visões (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Oia6d45z0rrfReGpzuxV9P8K3F.jpg" group-title="F • Fantasia & Ficção",Visões (2004)
+http://tvget.live:80/movie/epg/epg/1391442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meia Noite e Um (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xK3d7mT6D7v2y8jp5Kv7c9FXzen.jpg" group-title="F • Fantasia & Ficção",Meia Noite e Um (1993)
+http://tvget.live:80/movie/epg/epg/1391443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Titã (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZNgL1aXLdXSSTGdf9acxW7a5gR.jpg" group-title="F • Fantasia & Ficção",Titã (2018)
+http://tvget.live:80/movie/epg/epg/1391444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High Life: Uma Nova Vida (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OmHJI83sqYH2y82EJHkqqEKOt9.jpg" group-title="F • Fantasia & Ficção",High Life: Uma Nova Vida (2018)
+http://tvget.live:80/movie/epg/epg/1391445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher? (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/951oQ2gBIK3jjp02Dqq3fxm4qYs.jpg" group-title="F • Fantasia & Ficção",Mulher? (2022)
+http://tvget.live:80/movie/epg/epg/1391446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Timecop: O Guardião do Tempo (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZKI3qetwVjfLUyus6b2NPc7OWT.jpg" group-title="F • Fantasia & Ficção",Timecop: O Guardião do Tempo (1994)
+http://tvget.live:80/movie/epg/epg/1391447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Algorithm: BLISS (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYtL1lK8zKPTbIzNlhUsCoswLVA.jpg" group-title="F • Fantasia & Ficção",Algorithm: BLISS (2020)
+http://tvget.live:80/movie/epg/epg/1391448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rubikon: Ponto Sem Retorno (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8i2uZmhVk6lkqierZLFnBHnL24q.jpg" group-title="F • Fantasia & Ficção",Rubikon: Ponto Sem Retorno (2022)
+http://tvget.live:80/movie/epg/epg/1391449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heróis (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdDIi3kc1bniVTxyd81XehMRFtL.jpg" group-title="F • Fantasia & Ficção",Heróis (2009)
+http://tvget.live:80/movie/epg/epg/1391450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lapso Temporal (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntHjfpoOq1gD7PxMxw7pyH2fVXI.jpg" group-title="F • Fantasia & Ficção",Lapso Temporal (2014)
+http://tvget.live:80/movie/epg/epg/1391451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sunshine: Alerta Solar (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sbVPlGjEMlRzRWDfOsT1og4QhHj.jpg" group-title="F • Fantasia & Ficção",Sunshine: Alerta Solar (2007)
+http://tvget.live:80/movie/epg/epg/1391452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic Park 3 (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dObEUGvS4cTbVNi8ewvd6gLIv4.jpg" group-title="F • Fantasia & Ficção",Jurassic Park 3 (2001)
+http://tvget.live:80/movie/epg/epg/1391453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minority Report: A Nova Lei (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnl6gMM1AqA4lDMRRh1ZzPz3vYT.jpg" group-title="F • Fantasia & Ficção",Minority Report: A Nova Lei (2002)
+http://tvget.live:80/movie/epg/epg/1391454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Max Steel (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuEzNLF8yvzd169guYEFisqvy5z.jpg" group-title="F • Fantasia & Ficção",Max Steel (2016)
+http://tvget.live:80/movie/epg/epg/1391455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matrix Reloaded (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7DdXOXP6mH2y7Fv7ujrk5tlsh7.jpg" group-title="F • Fantasia & Ficção",Matrix Reloaded (2003)
+http://tvget.live:80/movie/epg/epg/1391456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13º Andar (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Wv6a0yNxTl7NH1f0FbPYC2kZvg.jpg" group-title="F • Fantasia & Ficção",13º Andar (1999)
+http://tvget.live:80/movie/epg/epg/1391457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Elevador (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzYA1BFXWGs6tUF9FCT8MOL345S.jpg" group-title="F • Fantasia & Ficção",O Elevador (2019)
+http://tvget.live:80/movie/epg/epg/1391458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jornada nas Estrelas II: A Ira de Khan (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9FyLkPyIXqZC1IunApc6e7xJ6l.jpg" group-title="F • Fantasia & Ficção",Jornada nas Estrelas II: A Ira de Khan (1982)
+http://tvget.live:80/movie/epg/epg/1391459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sinais (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5AV8UQEd7y7VZ4ZdiRTkC5TLTj.jpg" group-title="F • Fantasia & Ficção",Sinais (2002)
+http://tvget.live:80/movie/epg/epg/1391460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Filhos da Esperança (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BHTzFqP7hrjicDiSYf6wtS8Xb7.jpg" group-title="F • Fantasia & Ficção",Filhos da Esperança (2006)
+http://tvget.live:80/movie/epg/epg/1391461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guyver: Dark Hero (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHbyCAJs9w6znVhgdyRKHMcbGQ4.jpg" group-title="F • Fantasia & Ficção",Guyver: Dark Hero (1994)
+http://tvget.live:80/movie/epg/epg/1391462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IO – O Último na Terra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1zlj72JhgveCoLLUuYayGcVyhw.jpg" group-title="F • Fantasia & Ficção",IO – O Último na Terra (2019)
+http://tvget.live:80/movie/epg/epg/1391463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="G.I. Joe: Retaliação (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMDcTdeuAtCPJKee8YdOP7Y8ElT.jpg" group-title="F • Fantasia & Ficção",G.I. Joe: Retaliação (2013)
+http://tvget.live:80/movie/epg/epg/1391464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perdidos no Espaço (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lr3YP07PrcmH1ITSrsdHaUP3pb2.jpg" group-title="F • Fantasia & Ficção",Perdidos no Espaço (1998)
+http://tvget.live:80/movie/epg/epg/1391465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Lobo entre Nós (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43RUnOBA7VgEXzXw6Gx3lifullJ.jpg" group-title="F • Fantasia & Ficção",O Lobo entre Nós (2019)
+http://tvget.live:80/movie/epg/epg/1391466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Ar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/PSCKrkl3jPqe3f6Dbx3Tic1I5i.jpg" group-title="F • Fantasia & Ficção",Sem Ar (2023)
+http://tvget.live:80/movie/epg/epg/1391467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terra Formars: Missão em Marte (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1W6vl2ImY8U9t5Ce9Ewuiv7i81D.jpg" group-title="F • Fantasia & Ficção",Terra Formars: Missão em Marte (2016)
+http://tvget.live:80/movie/epg/epg/1391468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blecaute (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2jPm8nfFkrWOdmysEPvChFvDa0O.jpg" group-title="F • Fantasia & Ficção",Blecaute (2019)
+http://tvget.live:80/movie/epg/epg/1391469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avatar (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBHqxI9NFi2m9vkQ2PNCGaZJpxL.jpg" group-title="F • Fantasia & Ficção",Avatar (2009)
+http://tvget.live:80/movie/epg/epg/1391470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inimigo Mortal (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzz1t8UvSvISZxDxBmEd531nIPg.jpg" group-title="F • Fantasia & Ficção",Inimigo Mortal (2017)
+http://tvget.live:80/movie/epg/epg/1391471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Splice" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBhXy8b2dmO1CyTvqB3i3kLvsLS.jpg" group-title="F • Fantasia & Ficção",Splice
+http://tvget.live:80/movie/epg/epg/1391472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sob a Pele (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFu58Gwj4vUCE8MjDdXSilZhbdd.jpg" group-title="F • Fantasia & Ficção",Sob a Pele (2014)
+http://tvget.live:80/movie/epg/epg/1391473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MIB - Homens de Preto II (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJ7k5dLP4hW5ybQZVXDazLRsy97.jpg" group-title="F • Fantasia & Ficção",MIB - Homens de Preto II (2002)
+http://tvget.live:80/movie/epg/epg/1391474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Independence Day (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7KGNAWjp0QFcynhtLoLXXa3F4Hc.jpg" group-title="F • Fantasia & Ficção",Independence Day (1996)
+http://tvget.live:80/movie/epg/epg/1391475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Exército do Amanhã (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72f0kFmOutPhSaZkXs0oGDmfvRd.jpg" group-title="F • Fantasia & Ficção",Exército do Amanhã (2022)
+http://tvget.live:80/movie/epg/epg/1391476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A.I.: Inteligência Artificial (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBF8tF6k8yLZnOHaTH5G2IptYiy.jpg" group-title="F • Fantasia & Ficção",A.I.: Inteligência Artificial (2001)
+http://tvget.live:80/movie/epg/epg/1391477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terra à Deriva (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgXQFqjxQSeKZIQV3dmmh6fPOkT.jpg" group-title="F • Fantasia & Ficção",Terra à Deriva (2019)
+http://tvget.live:80/movie/epg/epg/1391478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maze Runner: Prova de Fogo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpdGT57Rn3mAZsNOkeDeINB6L9v.jpg" group-title="F • Fantasia & Ficção",Maze Runner: Prova de Fogo (2015)
+http://tvget.live:80/movie/epg/epg/1391479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Megatubarão 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/klGKGITBYYyTiHrph1VDSgGULOR.jpg" group-title="F • Fantasia & Ficção",Megatubarão 2 (2023)
+http://tvget.live:80/movie/epg/epg/1391480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cowboys & Aliens (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uZsGCP4rvOHVGCpMpYq5gNCuNI.jpg" group-title="F • Fantasia & Ficção",Cowboys & Aliens (2011)
+http://tvget.live:80/movie/epg/epg/1391481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antes de Marte (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ft3WF5vo61APXjDA2Y6dpFHbva.jpg" group-title="F • Fantasia & Ficção",Antes de Marte (2016)
+http://tvget.live:80/movie/epg/epg/1391482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fahrenheit 451 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58yr4Y6g1g3B8LB7RI8neUgEBpn.jpg" group-title="F • Fantasia & Ficção",Fahrenheit 451 (2018)
+http://tvget.live:80/movie/epg/epg/1391483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ufo - Estamos Sozinhos? (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQXidvkYTF3emnh9TtxGQ0HhwjX.jpg" group-title="F • Fantasia & Ficção",Ufo - Estamos Sozinhos? (2018)
+http://tvget.live:80/movie/epg/epg/1391484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duna (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PQdUB1KDxMxdw7KBdFFgI9kJPv.jpg" group-title="F • Fantasia & Ficção",Duna (2018)
+http://tvget.live:80/movie/epg/epg/1391485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Divergente (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rc25JS5MmHHXvuk1j99XQh777MB.jpg" group-title="F • Fantasia & Ficção",Divergente (2023)
+http://tvget.live:80/movie/epg/epg/1391486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros do Futuro (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wGb5BO3wBVVtnHY7ERdQIODjnl.jpg" group-title="F • Fantasia & Ficção",Guerreiros do Futuro (2018)
+http://tvget.live:80/movie/epg/epg/1391487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Extinção (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9nPnDDPrSgMw7TUrYShiZ3Ud07.jpg" group-title="F • Fantasia & Ficção",Extinção (2018)
+http://tvget.live:80/movie/epg/epg/1391488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Império dos Tubarões (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5L2UP16K1KYLJGDlDOqw08fDjqr.jpg" group-title="F • Fantasia & Ficção",Império dos Tubarões (2017)
+http://tvget.live:80/movie/epg/epg/1391489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hospedeira (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Wj9NLJaEUF9Cf0ovhuK0J7rJG0.jpg" group-title="F • Fantasia & Ficção",A Hospedeira (2013)
+http://tvget.live:80/movie/epg/epg/1391490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quando Chega a Calmaria (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pECCwVYrVO63IrjT5jR0UtFcT0u.jpg" group-title="F • Fantasia & Ficção",Quando Chega a Calmaria (2020)
+http://tvget.live:80/movie/epg/epg/1391491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Juízo Final (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ak5wTJgw71ixgM2L8oyZpBAUzHK.jpg" group-title="F • Fantasia & Ficção",Juízo Final (2008)
+http://tvget.live:80/movie/epg/epg/1391492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Experiência Alpha (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h80c7Bs2XfmeO2zHrH5lCWNd6d8.jpg" group-title="F • Fantasia & Ficção",Experiência Alpha (2021)
+http://tvget.live:80/movie/epg/epg/1391493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: O Caminho da Água (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbYQLLluS651W89jO7MOZcLSCUw.jpg" group-title="F • Fantasia & Ficção",Avatar: O Caminho da Água (2022)
+http://tvget.live:80/movie/epg/epg/1391494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spiderhead (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hTK0J9SGPLSTFwcbU0ELlJsnAY.jpg" group-title="F • Fantasia & Ficção",Spiderhead (2022)
+http://tvget.live:80/movie/epg/epg/1391495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ameaça no Espaço (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nv4QdbPFKg98gbaG0nj4Mhjcks.jpg" group-title="F • Fantasia & Ficção",Ameaça no Espaço (2020)
+http://tvget.live:80/movie/epg/epg/1391496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Amigo Robô (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ws9KWZ0aAt1rdX3XTN3tJWeuWNR.jpg" group-title="F • Fantasia & Ficção",Meu Amigo Robô (2023)
+http://tvget.live:80/movie/epg/epg/1391497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2067 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7D430eqZj8y3oVkLFfsWXGRcpEG.jpg" group-title="F • Fantasia & Ficção",2067 (2020)
+http://tvget.live:80/movie/epg/epg/1391498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corrective Measures: Fuga da Prisão (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIus2B83moSdfIkD4wD7tOaG5Y1.jpg" group-title="F • Fantasia & Ficção",Corrective Measures: Fuga da Prisão (2022)
+http://tvget.live:80/movie/epg/epg/1391499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu Sou a Lenda (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6urQ17k0Pepx8RoYVeRbwaCSVIS.jpg" group-title="F • Fantasia & Ficção",Eu Sou a Lenda (2007)
+http://tvget.live:80/movie/epg/epg/1391500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hellboy: The Seeds of Creation (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/358FTzyn2TusjvdqoW0lLMr7KTY.jpg" group-title="F • Fantasia & Ficção",Hellboy: The Seeds of Creation (2004)
+http://tvget.live:80/movie/epg/epg/1391501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prisioneiro X (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4YobAREegYa6UVTdD0uIm37gEf.jpg" group-title="F • Fantasia & Ficção",Prisioneiro X (2016)
+http://tvget.live:80/movie/epg/epg/1391502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Comitê da Vida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgaiRwn7rEImuzYAhuezLR7BtnU.jpg" group-title="F • Fantasia & Ficção",O Comitê da Vida (2021)
+http://tvget.live:80/movie/epg/epg/1391503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic Park: O Parque dos Dinossauros (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cV3JgTAq5mX6Zjy8GVSqXHncUHH.jpg" group-title="F • Fantasia & Ficção",Jurassic Park: O Parque dos Dinossauros (1993)
+http://tvget.live:80/movie/epg/epg/1391504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jornada nas Estrelas III: À Procura de Spock (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkqWTEnTDpP1BpXhzUq8U0lR1PK.jpg" group-title="F • Fantasia & Ficção",Jornada nas Estrelas III: À Procura de Spock (1984)
+http://tvget.live:80/movie/epg/epg/1391505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tropas Estelares: A Invasão (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHDNShZLOEPgtGsoOCeQkRQ7mUN.jpg" group-title="F • Fantasia & Ficção",Tropas Estelares: A Invasão (2012)
+http://tvget.live:80/movie/epg/epg/1391506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Independence Day: O Ressurgimento (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpQEX5OrVfI6KftsuqpGTapKYpT.jpg" group-title="F • Fantasia & Ficção",Independence Day: O Ressurgimento (2016)
+http://tvget.live:80/movie/epg/epg/1391507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Refúgio (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVTvlITAqPvH3fU0opjz08vakyc.jpg" group-title="F • Fantasia & Ficção",Refúgio (2021)
+http://tvget.live:80/movie/epg/epg/1391508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aposta Máxima (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uP8NB4mZaGvw9esaDIkbRzOcZtu.jpg" group-title="F • Fantasia & Ficção",Aposta Máxima (2013)
+http://tvget.live:80/movie/epg/epg/1391509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tubarão Assassino (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHAY4kvhzsU3Cn85uaIgpe7ch5M.jpg" group-title="F • Fantasia & Ficção",Tubarão Assassino (2018)
+http://tvget.live:80/movie/epg/epg/1391510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loop (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGFkJT5CHuCLy35G4aC5u56b2wh.jpg" group-title="F • Fantasia & Ficção",Loop (2019)
+http://tvget.live:80/movie/epg/epg/1391511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blade Runner: O Caçador de Andróides (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNg0TQ0SGxtYSmqR9FkI2wHtC8Y.jpg" group-title="F • Fantasia & Ficção",Blade Runner: O Caçador de Andróides (1982)
+http://tvget.live:80/movie/epg/epg/1391512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Escolhidos (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6reBLxU6m8aIgga1JyceE15gVY.jpg" group-title="F • Fantasia & Ficção",Os Escolhidos (2013)
+http://tvget.live:80/movie/epg/epg/1391513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os 12 Macacos (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VN4I4PphQCg3MkGwnqHGX65WY0.jpg" group-title="F • Fantasia & Ficção",Os 12 Macacos (1995)
+http://tvget.live:80/movie/epg/epg/1391514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dual (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDEse2TQRiyfhdlusSXBdkDOQRj.jpg" group-title="F • Fantasia & Ficção",Dual (2022)
+http://tvget.live:80/movie/epg/epg/1391515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogador N° 1 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LVitl8xzLi11ibfzgsmjGF6GGc.jpg" group-title="F • Fantasia & Ficção",Jogador N° 1 (2018)
+http://tvget.live:80/movie/epg/epg/1391516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Além da Escuridão (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUbsgqbA3SAa1Wt1bezMz1UwbXJ.jpg" group-title="F • Fantasia & Ficção",Além da Escuridão (2012)
+http://tvget.live:80/movie/epg/epg/1391517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha de Riddick (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkl3u70N9aS16czdZyvKRlsbf6Y.jpg" group-title="F • Fantasia & Ficção",A Batalha de Riddick (2004)
+http://tvget.live:80/movie/epg/epg/1391518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prisão Estelar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvfxfTUpjKslL1hp4KHhKlWRvsa.jpg" group-title="F • Fantasia & Ficção",Prisão Estelar (2018)
+http://tvget.live:80/movie/epg/epg/1391519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Synchronic (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GhVw9LDcVTRRdiExyqhLCVhi43.jpg" group-title="F • Fantasia & Ficção",Synchronic (2020)
+http://tvget.live:80/movie/epg/epg/1391520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tau (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqYOlCee3X7cKg05EOQH1htcHmy.jpg" group-title="F • Fantasia & Ficção",Tau (2018)
+http://tvget.live:80/movie/epg/epg/1391521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitão Sky e o Mundo de Amanhã (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbtAsFcRGuEpEe22VxtCl4CMz9C.jpg" group-title="F • Fantasia & Ficção",Capitão Sky e o Mundo de Amanhã (2004)
+http://tvget.live:80/movie/epg/epg/1391522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Skyline: A Invasão (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WAFnOEYC5RY1KiChSl6QE9VlyF.jpg" group-title="F • Fantasia & Ficção",Skyline: A Invasão (2010)
+http://tvget.live:80/movie/epg/epg/1391523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Passageiro Acidental (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n91IdvTOxogvs08HN0mYK7nY5T7.jpg" group-title="F • Fantasia & Ficção",Passageiro Acidental (2021)
+http://tvget.live:80/movie/epg/epg/1391524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Outlander: Guerreiro vs Predador (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vIc5fznKsQjE4d0H3H4Zy5bn9o.jpg" group-title="F • Fantasia & Ficção",Outlander: Guerreiro vs Predador (2008)
+http://tvget.live:80/movie/epg/epg/1391525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo Que Destruímos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84aTv6rwpadz46nCfoi26Pn5ra7.jpg" group-title="F • Fantasia & Ficção",Tudo Que Destruímos (2019)
+http://tvget.live:80/movie/epg/epg/1391526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sharknado: Corra para o 4º (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeoQJIBBvhP4TciwIdJsR8MOyE7.jpg" group-title="F • Fantasia & Ficção",Sharknado: Corra para o 4º (2016)
+http://tvget.live:80/movie/epg/epg/1391527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Level 16 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kILAL9kJdW3f6wk9Ai0tavgi6mp.jpg" group-title="F • Fantasia & Ficção",Level 16 (2018)
+http://tvget.live:80/movie/epg/epg/1391528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers: Agora e Sempre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lB1psIWct40ZSJPLp8wsQ98y0dI.jpg" group-title="F • Fantasia & Ficção",Power Rangers: Agora e Sempre (2023)
+http://tvget.live:80/movie/epg/epg/1391529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matrix (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDqMDI3xpbB9UQRyeXfei0MXhqb.jpg" group-title="F • Fantasia & Ficção",Matrix (1999)
+http://tvget.live:80/movie/epg/epg/1391530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aberrações (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdeW3VjDtXuVXQEQMO4n9fbx8Jf.jpg" group-title="F • Fantasia & Ficção",Aberrações (2019)
+http://tvget.live:80/movie/epg/epg/1391531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Okja (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHlRr2MfjK77VIIAO7p0R4jhsJI.jpg" group-title="F • Fantasia & Ficção",Okja (2017)
+http://tvget.live:80/movie/epg/epg/1391532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bill & Ted: Encare a Música (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8I2oy8pXP6T70bVxYSjwUTKn2DS.jpg" group-title="F • Fantasia & Ficção",Bill & Ted: Encare a Música (2020)
+http://tvget.live:80/movie/epg/epg/1391533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Série Divergente: Convergente (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAYhVm44sofmqaEGuQl4j5RL62S.jpg" group-title="F • Fantasia & Ficção",A Série Divergente: Convergente (2016)
+http://tvget.live:80/movie/epg/epg/1391534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bigbug (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afOW9clWoB4iWMtMG7XZWQpgS7o.jpg" group-title="F • Fantasia & Ficção",Bigbug (2022)
+http://tvget.live:80/movie/epg/epg/1391535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meteoro: A Fuga (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIxyRvHkgWvO66DnFgA2EGgQmpm.jpg" group-title="F • Fantasia & Ficção",Meteoro: A Fuga (2021)
+http://tvget.live:80/movie/epg/epg/1391536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babylon 5: O Caminho (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BcIRtnOOY1iOQtsF4DyWo38bLr.jpg" group-title="F • Fantasia & Ficção",Babylon 5: O Caminho (2023)
+http://tvget.live:80/movie/epg/epg/1391537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cowboys do Espaço (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/404i5MudhZwElz8XogmkCvngbKo.jpg" group-title="F • Fantasia & Ficção",Cowboys do Espaço (2000)
+http://tvget.live:80/movie/epg/epg/1391538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Starfish (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Bd1oJpSltgJtKgSbCaCXikKQk5.jpg" group-title="F • Fantasia & Ficção",The Starfish (2019)
+http://tvget.live:80/movie/epg/epg/1391539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Onde Está Segunda? (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMeTPAh5mekQA77Ue8fgpzQpfFb.jpg" group-title="F • Fantasia & Ficção",Onde Está Segunda? (2017)
+http://tvget.live:80/movie/epg/epg/1391540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contágio Em Alto Mar (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wV4dxHCsdwEKYUeGAvzq1cKDRU6.jpg" group-title="F • Fantasia & Ficção",Contágio Em Alto Mar (2020)
+http://tvget.live:80/movie/epg/epg/1391541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Mirror (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYi4BQhoj2ay3oJwT2x8kMNHpds.jpg" group-title="F • Fantasia & Ficção",Black Mirror (2011)
+http://tvget.live:80/movie/epg/epg/1391542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Viajante do Tempo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6SZ2fme18X5EPj7zN6bxeNHjEP.jpg" group-title="F • Fantasia & Ficção",O Viajante do Tempo (2021)
+http://tvget.live:80/movie/epg/epg/1391543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Edison: Poder e Corrupção (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOCg7qFAucF9GnPSSg4RGdGGe7m.jpg" group-title="F • Fantasia & Ficção",Edison: Poder e Corrupção (2005)
+http://tvget.live:80/movie/epg/epg/1391544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Sharknado: Já Estava na Hora (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNpEAfsW3rXTrn3bVqEzd89mzRG.jpg" group-title="F • Fantasia & Ficção",O Último Sharknado: Já Estava na Hora (2018)
+http://tvget.live:80/movie/epg/epg/1391545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Guardião dos Mundos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6McPx1oITdAFuaDlzl5NRCrcTOO.jpg" group-title="F • Fantasia & Ficção",O Guardião dos Mundos (2018)
+http://tvget.live:80/movie/epg/epg/1391546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Double Dragon (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZTYSD8ZesYMKqLRbmVfZUW1FiE.jpg" group-title="F • Fantasia & Ficção",Double Dragon (1994)
+http://tvget.live:80/movie/epg/epg/1391547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Autodestruição (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2A3FETGysWKyYREI3YGzfpNKr8K.jpg" group-title="F • Fantasia & Ficção",Autodestruição (2017)
+http://tvget.live:80/movie/epg/epg/1391548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Amanhecer Mais Escuro (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCMNQdHiFvjGfEgtpFARyZuoNwh.jpg" group-title="F • Fantasia & Ficção",O Amanhecer Mais Escuro (2016)
+http://tvget.live:80/movie/epg/epg/1391549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mad Genius (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxwLk18YDyi5EDRVX0hcGtAZmcD.jpg" group-title="F • Fantasia & Ficção",Mad Genius (2017)
+http://tvget.live:80/movie/epg/epg/1391550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Noel (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOkrJgY9oHl0FMkR8VqOgYEmp7f.jpg" group-title="F • Fantasia & Ficção",A Família Noel (2020)
+http://tvget.live:80/movie/epg/epg/1392124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Aventura de Natal (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGH3HQTib0J2NxDaNSddCmy1vwm.jpg" group-title="F • Fantasia & Ficção",Uma Aventura de Natal (2019)
+http://tvget.live:80/movie/epg/epg/1393317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jantar Está Servido (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0Ebzxx0YrBM7KP8SCmeIqkER5t.jpg" group-title="F • Fantasia & Ficção",O Jantar Está Servido (2020)
+http://tvget.live:80/movie/epg/epg/1393318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda da Serpente (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmJsSOQtuU7xwN48ATCPrI96ENM.jpg" group-title="F • Fantasia & Ficção",A Lenda da Serpente (2019)
+http://tvget.live:80/movie/epg/epg/1393319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Invasão Alienígena (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brSrzHtB7BqWmiKPrNYc7j1eKkR.jpg" group-title="F • Fantasia & Ficção",A Invasão Alienígena (2020)
+http://tvget.live:80/movie/epg/epg/1393325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aniquilação (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DUGK2WvnyiBJwKOYhTR9FHx2Mh.jpg" group-title="F • Fantasia & Ficção",Aniquilação (2018)
+http://tvget.live:80/movie/epg/epg/1393326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Viagem (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hf7Mqgy79fyhgKJ5JmEuyWgh6LA.jpg" group-title="F • Fantasia & Ficção",A Viagem (2012)
+http://tvget.live:80/movie/epg/epg/1393327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jornada nas Estrelas: Generations (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVyaD651EiuME23UdhoAHHg3BlV.jpg" group-title="F • Fantasia & Ficção",Jornada nas Estrelas: Generations (1994)
+http://tvget.live:80/movie/epg/epg/1393328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rebel Moon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24WSZJyiQbLuH1esYnVhJOvQXNx.jpg" group-title="F • Fantasia & Ficção",Rebel Moon
+http://tvget.live:80/movie/epg/epg/1393332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Constantine (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dd4uzgUAbBIiRW7dcY0AcgSWohJ.jpg" group-title="F • Fantasia & Ficção",Constantine (2005)
+http://tvget.live:80/movie/epg/epg/1393338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: Condenação (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzc5K7Lz4d3CM91pdQA7xAatDt7.jpg" group-title="F • Fantasia & Ficção",Resident Evil: Condenação (2012)
+http://tvget.live:80/movie/epg/epg/1505432.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Sobrevivente (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22yS21U9ycuoX9SUPmoEm7i7XRb.jpg" group-title="F • Fantasia & Ficção",O Sobrevivente (1987)
+http://tvget.live:80/movie/epg/epg/1505507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Invasão (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wq8H7AZRdQZcc9VE6oVjRvDkAG.jpg" group-title="F • Fantasia & Ficção",A Invasão (2018)
+http://tvget.live:80/movie/epg/epg/1505535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dumbo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8Krn1Fb8h3DsCgGMxmS1zmMN1n.jpg" group-title="F • Fantasia & Ficção",Dumbo (2019)
+http://tvget.live:80/movie/epg/epg/1505566.mp4
