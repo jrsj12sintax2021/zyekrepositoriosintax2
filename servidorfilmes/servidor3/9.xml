@@ -1,1 +1,13 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="007 Contra Spectre (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozwsRvKABRcF8VrNNvMkKt8KWyF.jpg" group-title="Filmes | Colecoes",007 Contra Spectre (2015)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Cassino Royale (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7b3qmLlvm2lvJ2gxsKQ42S3RTKR.jpg" group-title="Filmes | Colecoes",007: Cassino Royale (2006)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: O Amanhã Nunca Morre (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cURZ8FpxFzwZHCL07ABXJCVnORc.jpg" group-title="Filmes | Colecoes",007: O Amanhã Nunca Morre (1997)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: O Mundo Não é o Bastante (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9aWgoZRi3BOsExOYWygRbQilsDS.jpg" group-title="Filmes | Colecoes",007: O Mundo Não é o Bastante (1999)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Operação Skyfall (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waOFaJB4FRPyA2KylJncSG57mj0.jpg" group-title="Filmes | Colecoes",007: Operação Skyfall (2012)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Um Novo Dia para Morrer (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3Uub7CVKatqDOaNG9tsJs7ldYa.jpg" group-title="Filmes | Colecoes",007: Um Novo Dia para Morrer (2002)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88271.mp4
