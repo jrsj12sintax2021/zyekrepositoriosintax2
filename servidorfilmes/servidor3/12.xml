@@ -1,1 +1,393 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="Jane Goodall A Esperanca - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tn7oWdDC541wX7jTJMaLf9aBZsZ.jpg" group-title="Filmes | Documentarios",Jane Goodall A Esperanca - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/514957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Portugal Ecossistemas Extremos - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRxMU63XLUsOmYiJBI4LuMLPVYc.jpg" group-title="Filmes | Documentarios",Portugal Ecossistemas Extremos - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/514960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Texas Carlos Massacre - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ida9n9Vww0rYYSbQe4OKg9xLDgp.jpg" group-title="Filmes | Documentarios",Texas Carlos Massacre - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/514969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Teia do Predador - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7yeGExZkFZqZAOrH3TDgFUc2WI.jpg" group-title="Filmes | Documentarios",Na Teia do Predador - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/514970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Role Historias dos Rolezinhos - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmvEl6aS27tiPzpbbea1LeRqtWk.jpg" group-title="Filmes | Documentarios",Role Historias dos Rolezinhos - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/514974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Nome e Paul Walker - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTBWHgO4GPpxxDv9vgz9C1Ib2ym.jpg" group-title="Filmes | Documentarios",Meu Nome e Paul Walker - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/514978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter Uma Historia Magica - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1X20YWEyMpWcpYRwkgmTpYDFX2.jpg" group-title="Filmes | Documentarios",Harry Potter Uma Historia Magica - 2017
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/514979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fungos Fantasticos - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/giIGfFqirPk3I2azp8Ow98oOnzG.jpg" group-title="Filmes | Documentarios",Fungos Fantasticos - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/514986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marie Antonieta - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg" group-title="Filmes | Documentarios",Marie Antonieta - 2006
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/514987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Branco Da Raiz - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5pYZxpTRQhD7ftXdlTixpvPi95.jpg" group-title="Filmes | Documentarios",O Branco Da Raiz - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/514988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Running for Good - The Fiona Oakes Documentary - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8AQvXn8lX2otOwsatPpG1krvZtm.jpg" group-title="Filmes | Documentarios",Running for Good - The Fiona Oakes Documentary - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1066: A Batalha Pela Terra Media 1 - 2009" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6ExXTegt0TcCg2VGh2VLzNTU5Af.jpg" group-title="Filmes | Documentarios",1066: A Batalha Pela Terra Media 1 - 2009
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1066: A Batalha Pela Terra Media 2 - 2009" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6ExXTegt0TcCg2VGh2VLzNTU5Af.jpg" group-title="Filmes | Documentarios",1066: A Batalha Pela Terra Media 2 - 2009
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="11/9: A Vida Sob Ataque - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/toJzA1HcMVb9ra23VOw8bXykj8w.jpg" group-title="Filmes | Documentarios",11/9: A Vida Sob Ataque - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 Minutos - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVVrVSQNeiisXVFLsfDLjMCz8Vm.jpg" group-title="Filmes | Documentarios",13 Minutos - 2015
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="14 Montanhas, 8 Mil Metros e 7 Meses - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/saGMNCD6ayFqmOb9mX2MkkMmW7w.jpg" group-title="Filmes | Documentarios", 8 Mil Metros e 7 Meses - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1964: O Brasil Entre Armas e Livros - 2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWZlMTQyNWYtY2NjMS00ZGMxLTgzYTItYTNlZDQzNjY1ZTBjXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_FMjpg_UY634_.jpg" group-title="Filmes | Documentarios",1964: O Brasil Entre Armas e Livros - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7 Denuncias: As Consequencias do Caso COVID-19 - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8TMe2p5ENCuIb0tJRb21NRqiHU.jpg" group-title="Filmes | Documentarios",7 Denuncias: As Consequencias do Caso COVID-19 - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A 13ª Emenda - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcKNWD6IFPPsvkpvyZ548naz0is.jpg" group-title="Filmes | Documentarios",A 13ª Emenda - 2016
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cabana e Seus Segredos - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SqODyO1q3lzmynGF9MWKfkfKiC.jpg" group-title="Filmes | Documentarios",A Cabana e Seus Segredos - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Conspiracao da Vaca: O Segredo da Sustentabilidade - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rn3jsTgqQWPQRDof3eHT3wd500.jpg" group-title="Filmes | Documentarios",A Conspiracao da Vaca: O Segredo da Sustentabilidade - 2014
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Revolucao dos Games - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOAu6vIAQad94uc1IU4kHC52DXm.jpg" group-title="Filmes | Documentarios",A Revolucao dos Games - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Rosa Azul de Novalis - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBzmfJXFhG5gxQWFfGrAKvt46M6.jpg" group-title="Filmes | Documentarios",A Rosa Azul de Novalis - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Senhora que Morreu no Trailer - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmLgo06w3geHPARJ6GqPyO91Tdc.jpg" group-title="Filmes | Documentarios",A Senhora que Morreu no Trailer - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Trajetoria de Pablo Escobar - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/flQMqq77rP1GJMmeZSyn3CepTpg.jpg" group-title="Filmes | Documentarios",A Trajetoria de Pablo Escobar - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adele One Night Only - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7tO3IHm02FqRvE4R78bDkYX1Al.jpg" group-title="Filmes | Documentarios",Adele One Night Only - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Afogando-se em Plastico - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Le7az4v7nG2p4wgzBSzLllpeJH.jpg" group-title="Filmes | Documentarios",Afogando-se em Plastico - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Camera 10 - 2017" tvg-logo="http://cms-central.co:80/images/eGv4q0BG8lTFJFSeyfBAZjM4sK8.jpg" group-title="Filmes | Documentarios",Alex Camera 10 - 2017
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AlphaGo - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBebKFGVVuv6tDnUP8F5wKqxuNA.jpg" group-title="Filmes | Documentarios",AlphaGo - 2017
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alvorada - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVlNL8j0qr5ImAGuiEqviAJhFGd.jpg" group-title="Filmes | Documentarios",Alvorada - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amanda Knox - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/he85BGyoCi42KWtwkC2sXlqdkWQ.jpg" group-title="Filmes | Documentarios",Amanda Knox - 2016
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amy - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qL0RepWSNUuZoeDXfyhqowVYhrn.jpg" group-title="Filmes | Documentarios",Amy - 2015
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aparecida do Brasil - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rBKyjxMFQ1NTIfzGWgWNdMv7R0.jpg" group-title="Filmes | Documentarios",Aparecida do Brasil - 2017
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apollo 11 - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/woLMRroHyoTGoXyxdEeBJEYBFtu.jpg" group-title="Filmes | Documentarios",Apollo 11 - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apos o Furacao Maria - 2019" tvg-logo="http://urlon.me/ZFg" group-title="Filmes | Documentarios",Apos o Furacao Maria - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aprendendo a andar de skate em uma zona de guerra - se voce e uma garota - 2019" tvg-logo="http://urlon.me/ZgYMhi" group-title="Filmes | Documentarios",Aprendendo a andar de skate em uma zona de guerra - se voce e uma garota - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Artico Ameacado - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrO1aK7tyPpNRp0vn8n4KQt6KYu.jpg" group-title="Filmes | Documentarios",Artico Ameacado - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Mortes de Dick Johnson - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2h8bkpyGK0U5cVCH79Hzw1LT5qn.jpg" group-title="Filmes | Documentarios",As Mortes de Dick Johnson - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Tres Mortes de Marisela - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iJISbVE1dogW5Qp1fI6nUf7JFD.jpg" group-title="Filmes | Documentarios",As Tres Mortes de Marisela - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atentados em Londres - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqwmWg0eH4qxkelrx9bNJahW6rU.jpg" group-title="Filmes | Documentarios",Atentados em Londres - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atleta A - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3H8mRSMO63ISyf1NZpzP0dNQNQ.jpg" group-title="Filmes | Documentarios",Atleta A - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Lazar: Area 51 e os Discos Voadores - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ibnQLtq3BUXQPEjOUsIhyDDvS8.jpg" group-title="Filmes | Documentarios",Bob Lazar: Area 51 e os Discos Voadores - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Branco Sai, Preto Fica - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysObMZnc0LDqUV4rHCVr7jfpqwN.jpg" group-title="Filmes | Documentarios", Preto Fica - 2014
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brincando com Tubaroes - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSjLkaugGzwBwf4ecH4btXYWJRc.jpg" group-title="Filmes | Documentarios",Brincando com Tubaroes - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brothers in Blood: The Lions of Sabi Sand - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOOa0PCZmJqfUGD8QwMt3fnhVI8.jpg" group-title="Filmes | Documentarios",Brothers in Blood: The Lions of Sabi Sand - 2015
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carlos Ghosn - The Last Flight - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m14jmnniibAyciVzerPJhE9hHeL.jpg" group-title="Filmes | Documentarios",Carlos Ghosn - The Last Flight - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casting JonBenet - 2017" tvg-logo="http://urlon.me/ZgY1Bt" group-title="Filmes | Documentarios",Casting JonBenet - 2017
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cenas de um Homicidio: Uma Familia Vizinha - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fpm3Eu58yg4bUraRMUrE2Wrsk2.jpg" group-title="Filmes | Documentarios",Cenas de um Homicidio: Uma Familia Vizinha - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chao - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E0KTAa4Roq750YFrN5KjYtTWhZ.jpg" group-title="Filmes | Documentarios",Chao - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chico Rei Entre Nos - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJlEM9DpOmTKyZ8hv43bnIQRnU0.jpg" group-title="Filmes | Documentarios",Chico Rei Entre Nos - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidade de Deus - 10 Anos Depois - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dz3ynaQbL0etAuAv119jH8DfoEJ.jpg" group-title="Filmes | Documentarios",Cidade de Deus - 10 Anos Depois - 2013
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Com a Palavra, Arnaldo Antunes - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylHkmOKJwV1g5NKV4JKgfxqsnTB.jpg" group-title="Filmes | Documentarios", Arnaldo Antunes - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conor McGregor: Notorious - 2017" tvg-logo="http://urlon.me/OPR" group-title="Filmes | Documentarios",Conor McGregor: Notorious - 2017
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contornando a Morte - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sCawwtBif3Ggt6sr4DXG7SYf8d.jpg" group-title="Filmes | Documentarios",Contornando a Morte - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coracao Vagabundo - 2009" tvg-logo="http://urlon.me/6P0" group-title="Filmes | Documentarios",Coracao Vagabundo - 2009
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cordoba: misterios ocultos - 2019" tvg-logo="http://urlon.me/ZgYMZI" group-title="Filmes | Documentarios",Cordoba: misterios ocultos - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coronavirus: A Historia Nao Contada - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejOPt9fAfRly62x4556zC03ntrx.jpg" group-title="Filmes | Documentarios",Coronavirus: A Historia Nao Contada - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coronavirus: A origem - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llRfKnAIvrIOMeeuiz55Dz0P3ij.jpg" group-title="Filmes | Documentarios",Coronavirus: A origem - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crip Camp: Revolucao pela Inclusao -  2020" tvg-logo="https://image.tmdb.org/t/p/w116_and_h174_face/hBCoAbuFGiQeNQXU0QNjtR0RKzW.jpg" group-title="Filmes | Documentarios",Crip Camp: Revolucao pela Inclusao -  2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="David Attenborough e Nosso Planeta - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxdqWYOm3KnQthzJdEwtWzJtc06.jpg" group-title="Filmes | Documentarios",David Attenborough e Nosso Planeta - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De sidste mand i Aleppo - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wF3AXsybsoWLQLhkEyG5nrNi0L.jpg" group-title="Filmes | Documentarios",De sidste mand i Aleppo - 2017
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deep Web - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCpPVSodnlNTzgcefMwNFQT49aQ.jpg" group-title="Filmes | Documentarios",Deep Web - 2015
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Democracia em Vertigem - 2019" tvg-logo="http://urlon.me/ZgY1Bc" group-title="Filmes | Documentarios",Democracia em Vertigem - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Despertar - Data Limite - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ha6r0JOUQlspTbPF4CJyJoWo8G9.jpg" group-title="Filmes | Documentarios",Despertar - Data Limite - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duble de Risco - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RGlVTa8cczUUfmDJFHX5dzshjY.jpg" group-title="Filmes | Documentarios",Duble de Risco - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Educacao Americana: Fraude E Privilegio - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZJuctnatinO0OpnruGOWaT4Bga.jpg" group-title="Filmes | Documentarios",Educacao Americana: Fraude E Privilegio - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elefante - 2020" tvg-logo="https://image.tmdb.org/t/p/w1280/32jFoyxJSZ3cN2SHjqwFDQMdTJ8.jpg" group-title="Filmes | Documentarios",Elefante - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elementa - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbtaPJo8v3fko2oXUwTNcVpWe6Z.jpg" group-title="Filmes | Documentarios",Elementa - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Busca da Cerveja Perfeita - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sK5xllWNHnodiaRBXs37ya3v8gO.jpg" group-title="Filmes | Documentarios",Em Busca da Cerveja Perfeita - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em busca de Sheela - 2021" tvg-logo="http://cms-central.co:80/images/4uUmXmS1BNXieflgr884NnjYRFK.jpg" group-title="Filmes | Documentarios",Em busca de Sheela - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emicida: AmarElo - E Tudo Pra Ontem - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ac23UNPF7aNpxCRGdx9Aqfg4jsU.jpg" group-title="Filmes | Documentarios",Emicida: AmarElo - E Tudo Pra Ontem - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encontradas - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEx8zrZyN6fiRBTsxKYWWCmwJ9e.jpg" group-title="Filmes | Documentarios",Encontradas - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estou Me Guardando para Quando o Carnaval Chegar - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dP61HG05313kVMKQmHZ2yz5GZjw.jpg" group-title="Filmes | Documentarios",Estou Me Guardando para Quando o Carnaval Chegar - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu Sou Ali: A Historia de Muhammad Ali - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWUhh4v5NEMQwsXMtxlCUFtMfre.jpg" group-title="Filmes | Documentarios",Eu Sou Ali: A Historia de Muhammad Ali - 2014
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu sou Bolt - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ak7IufApenKjfbe2Xbg0NsuPPRa.jpg" group-title="Filmes | Documentarios",Eu sou Bolt - 2016
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Evelyn - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6DOsIQZQqXjpvdufdEztBTrP4f.jpg" group-title="Filmes | Documentarios",Evelyn - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Exit Elena - 2012" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71YLCoRf0qL._RI_.jpg" group-title="Filmes | Documentarios",Exit Elena - 2012
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Explicando... O Coronavirus - 2020" tvg-logo="http://urlon.me/ZgYYBq" group-title="Filmes | Documentarios",Explicando... O Coronavirus - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fake Famous - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAXVDwLbrzzqaX8hHSRoCwBVkWz.jpg" group-title="Filmes | Documentarios",Fake Famous - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fantasmas de Sugar Land - 2019" tvg-logo="http://urlon.me/OUr" group-title="Filmes | Documentarios",Fantasmas de Sugar Land - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Feministas: O Que Elas Estavam Pensando? - 2018" tvg-logo="http://urlon.me/OGl" group-title="Filmes | Documentarios",Feministas: O Que Elas Estavam Pensando? - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ferrari – Rumo a Imortalidade - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkN67j8e6fszSuRL7XuNMTY0oeT.jpg" group-title="Filmes | Documentarios",Ferrari – Rumo a Imortalidade - 2017
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Framing Britney Spears: A Vida de uma Estrela - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2VkT6ND0FgiywOWAnmk9HFpu58.jpg" group-title="Filmes | Documentarios",Framing Britney Spears: A Vida de uma Estrela - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Free Solo - 2018" tvg-logo="http://urlon.me/OGk" group-title="Filmes | Documentarios",Free Solo - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Friends: A Reuniao - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ik6jrK2gt2lFLzcq6lyLEmu9KRg.jpg" group-title="Filmes | Documentarios",Friends: A Reuniao - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gaga: Five Foot Two - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0NONcnzzvWoASFjFoDqXZUW6SV.jpg" group-title="Filmes | Documentarios",Gaga: Five Foot Two - 2017
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gelo em Chamas - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xWrasURZTWbSiulhyxCmJlYTkD.jpg" group-title="Filmes | Documentarios",Gelo em Chamas - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Greta Thunberg: O Futuro e Hoje - 2020" tvg-logo="http://cms-central.co:80/images/aWTO5TbnDqbk11O9OxJSYd7CNRT.jpg" group-title="Filmes | Documentarios",Greta Thunberg: O Futuro e Hoje - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerra das Colas - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGrDhp9TihUFqM7D0iDGJOKL9BM.jpg" group-title="Filmes | Documentarios",Guerra das Colas - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Honeyland - 2019" tvg-logo="http://urlon.me/ZgY1B2" group-title="Filmes | Documentarios",Honeyland - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ilha das Flores - 1989" tvg-logo="http://urlon.me/ZgY1BW" group-title="Filmes | Documentarios",Ilha das Flores - 1989
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Industria Americana - 2019" tvg-logo="http://urlon.me/ZgYMhz" group-title="Filmes | Documentarios",Industria Americana - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Irmaos de Sangue: Muhammad Ali e Malcolm X - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdOXdPIgbbCHXb51tWJZ0r8kZfe.jpg" group-title="Filmes | Documentarios",Irmaos de Sangue: Muhammad Ali e Malcolm X - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Irmas Sheppard: Das Ruas ao Podio - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNRbKzh8Xkz96j70P6KnjRf7WM4.jpg" group-title="Filmes | Documentarios",Irmas Sheppard: Das Ruas ao Podio - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Judas Collar - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jx1E1g3SWwPVNqPH1yPlFiDDvkq.jpg" group-title="Filmes | Documentarios",Judas Collar - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kim Jong-un: Uma Biografia Nao Autorizada - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8EHTRe3LB7LDbgjNSwbEGVQ45j.jpg" group-title="Filmes | Documentarios",Kim Jong-un: Uma Biografia Nao Autorizada - 2015
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La casa de papel: El fenomeno - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5E7gI52iwkXV9BEo5IfTKj36Lw7.jpg" group-title="Filmes | Documentarios",La casa de papel: El fenomeno - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lady Gucci: A Historia de Patrizia Reggiani  - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ozSkcueoXCKoRzNcjdWpZPuBLi.jpg" group-title="Filmes | Documentarios",Lady Gucci: A Historia de Patrizia Reggiani  - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Legado Italiano - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojNCJX1la8Kwtsk3kf20fGL6qPV.jpg" group-title="Filmes | Documentarios",Legado Italiano - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ligue Dja: O Lendario Walter Mercado - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBqSHu6jkWHbyNFmIvc2rmKQspN.jpg" group-title="Filmes | Documentarios",Ligue Dja: O Lendario Walter Mercado - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lixo Extraordinario - 2010" tvg-logo="http://urlon.me/ZgY1BL" group-title="Filmes | Documentarios",Lixo Extraordinario - 2010
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marianne e Leonard: Palavras de Amor - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vB0gEuF1uqSHCA7IUrLYiSm1zLr.jpg" group-title="Filmes | Documentarios",Marianne e Leonard: Palavras de Amor - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Sangue e Vermelho - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2szRIWAsuhDxD20hHhmcEkzttd.jpg" group-title="Filmes | Documentarios",Meu Sangue e Vermelho - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meus Herois Eram Cowboys - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZwLqOPiBrrUCheVTVB17ix2ap.jpg" group-title="Filmes | Documentarios",Meus Herois Eram Cowboys - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minimalismo Ja - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Dd0MeKXA0doqEiV73xgGz9Bk5r.jpg" group-title="Filmes | Documentarios",Minimalismo Ja - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Miss Americana - 2020" tvg-logo="https://image.tmdb.org/t/p/w116_and_h174_face/et5EC9WplytiuOgRcTt89d4H7p4.jpg" group-title="Filmes | Documentarios",Miss Americana - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mostra-Me O Pai - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3jXvhrgTi2jhliXtGLWTQfZFij.jpg" group-title="Filmes | Documentarios",Mostra-Me O Pai - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Octopus Teacher - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u96gR99ZUtdmE3bAzASnjZqzioR.jpg" group-title="Filmes | Documentarios",My Octopus Teacher - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nas Asas da Pan Am - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rG52BYvZi21t7Fe48twyTMdKD5H.jpg" group-title="Filmes | Documentarios",Nas Asas da Pan Am - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Coracao do Ouro: O Escandalo da Selecao Americana de Ginastica - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXsZvcUq8F7cweAY9uYDiMORVmO.jpg" group-title="Filmes | Documentarios",No Coracao do Ouro: O Escandalo da Selecao Americana de Ginastica - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ataque a Maratona de Boston - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuowzk8t7TX7GaU41YB62CT3DM1.jpg" group-title="Filmes | Documentarios",O Ataque a Maratona de Boston - 2016
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515562.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Comeco da Vida 2: La Fora - 2020" tvg-logo="http://cms-central.co:80/images/jFmESbCMQweG7DWpUV8prajgnpj.jpg" group-title="Filmes | Documentarios",O Comeco da Vida 2: La Fora - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Dilema das Redes - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VAXS2hbKwCKd3DEz57Cr6ch61s.jpg" group-title="Filmes | Documentarios",O Dilema das Redes - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Fenomeno Sertanejo - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8MqL8aIwB3MaJYAcjoYTOkszfjG.jpg" group-title="Filmes | Documentarios",O Fenomeno Sertanejo - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jardim das Aflicoes - 2017" tvg-logo="http://urlon.me/6Oq" group-title="Filmes | Documentarios",O Jardim das Aflicoes - 2017
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Legado de um Lunatico - 2019" tvg-logo="http://urlon.me/OG8" group-title="Filmes | Documentarios",O Legado de um Lunatico - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Que e Saude - 2017" tvg-logo="http://urlon.me/ZgY1ag" group-title="Filmes | Documentarios",O Que e Saude - 2017
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Sal da Terra - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/co47qUCNSa3LIPWwNcqq0PGhnJJ.jpg" group-title="Filmes | Documentarios",O Sal da Terra - 2014
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Segredo - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MwvHnVXqkTx7eMuFWuqfJ3ccIm.jpg" group-title="Filmes | Documentarios",O Segredo - 2006
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Sonho do Inutil - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAbWexCQA8j9RygbvuHyVZsaI6.jpg" group-title="Filmes | Documentarios",O Sonho do Inutil - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Olhar Instigado - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgNnCZj6TdujoYPjufLus2dHFkh.jpg" group-title="Filmes | Documentarios",Olhar Instigado - 2017
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operacao Resgate na Tailandia - The Rescue - 2018 (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ibkgLrUx5K2Ejoij3VkAJgnCCh.jpg" group-title="Filmes | Documentarios",Operacao Resgate na Tailandia - The Rescue - 2018 (L)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Arrependidos - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhfaCsQTYnCxS7NBvu6z57Y5B3u.jpg" group-title="Filmes | Documentarios",Os Arrependidos - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Donos da Verdade - 2020" tvg-logo="https://tinyurl.com/zrh3a6vp" group-title="Filmes | Documentarios",Os Donos da Verdade - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Quatro Paralamas - 2020" tvg-logo="http://cms-central.co:80/images/xaQmdKgU2g73kK4TYN1OBrw8ON7.jpg" group-title="Filmes | Documentarios",Os Quatro Paralamas - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Segredos de Saqqara - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4NyihqDHhkF4xIdGHvNJgjytB55.jpg" group-title="Filmes | Documentarios",Os Segredos de Saqqara - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pai, Filho, Patria - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulUEelaJcab8uNZGyytFSuumXB9.jpg" group-title="Filmes | Documentarios", Patria - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Para Sama - 2019" tvg-logo="http://urlon.me/ZgY1BV" group-title="Filmes | Documentarios",Para Sama - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Para sempre Chape - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYskC9OPOqYq5FaBvrPl7yWODZR.jpg" group-title="Filmes | Documentarios",Para sempre Chape - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Passarinheiros - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sf6ZqnnaVNgZvb6jstfYxRwfwY5.jpg" group-title="Filmes | Documentarios",Passarinheiros - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pegue a Bola, Passe a Bola - 2018" tvg-logo="http://urlon.me/OGw" group-title="Filmes | Documentarios", Passe a Bola - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pinguins: Vida ao Extremo - 2020" tvg-logo="http://urlon.me/ZgYY1g" group-title="Filmes | Documentarios",Pinguins: Vida ao Extremo - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Podio para Todos - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oso09gID2bFk9q3Cni8GNOuzTWZ.jpg" group-title="Filmes | Documentarios",Podio para Todos - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pole Dance: Danca do Poder - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CXQ5zOrhHGcw1imsRMwa7W8izS.jpg" group-title="Filmes | Documentarios",Pole Dance: Danca do Poder - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Por onde anda Makunaima - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsUTJV66vr1i2yhNbGNXBVQvRXV.jpg" group-title="Filmes | Documentarios",Por onde anda Makunaima - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Por Que Voce Me Matou? - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2eBUmtBLTzb0M2BDxuNqB9trlz.jpg" group-title="Filmes | Documentarios",Por Que Voce Me Matou? - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Por Toda Minha Vida - Mamonas Assassinas - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztkcAZvbt4GqJ9xcsGqVCXISkPV.jpg" group-title="Filmes | Documentarios",Por Toda Minha Vida - Mamonas Assassinas - 2009
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Predadores Perigosos - Os Mais Temidos Dos Oceanos - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkibZYsHEBYWzRD2RZ646nFBubD.jpg" group-title="Filmes | Documentarios",Predadores Perigosos - Os Mais Temidos Dos Oceanos - 2013
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Projeto Mercury: Os Sete Escolhidos - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sC3gj5GrU4wtkZt5BQTftnnqaNa.jpg" group-title="Filmes | Documentarios",Projeto Mercury: Os Sete Escolhidos - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quem e voce, Charlie Brown? - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JIcimC5sHTPCnSWl1cDuaANOtL.jpg" group-title="Filmes | Documentarios", Charlie Brown? - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rewind - 2019 (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMq3nv8zlShHy2E9NTOwdECsdN3.jpg" group-title="Filmes | Documentarios",Rewind - 2019 (L)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rompendo Barreiras: Nosso Planeta - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9RsguOUbJ7QGSvhX3746I2KZV2.jpg" group-title="Filmes | Documentarios",Rompendo Barreiras: Nosso Planeta - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ronaldo - 2015" tvg-logo="http://cms-central.co:80/images/qdr6Jx39KErvSeQFVREjxeEK4lk.jpg" group-title="Filmes | Documentarios",Ronaldo - 2015
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Schumacher - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucNYfsbX1Z4tjMSr3waxsHMVjve.jpg" group-title="Filmes | Documentarios",Schumacher - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Filtro: Flamengo - 2020" tvg-logo="http://urlon.me/ZgY1WI" group-title="Filmes | Documentarios",Sem Filtro: Flamengo - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ser Tao Velho Cerrado - 2018" tvg-logo="http://urlon.me/OGt" group-title="Filmes | Documentarios",Ser Tao Velho Cerrado - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seremos Historia? - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sX0zvrQDDTQKLJnFVrIVsFoeWEb.jpg" group-title="Filmes | Documentarios",Seremos Historia? - 2016
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shiny_Flakes: Drogas Online - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A90byJpjV0DvuozHQAxE5lZgd8D.jpg" group-title="Filmes | Documentarios",Shiny_Flakes: Drogas Online - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shirkers - O Filme Roubado - 2018" tvg-logo="http://urlon.me/OG0" group-title="Filmes | Documentarios",Shirkers - O Filme Roubado - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Silvio Santos: Especial 40 Anos SBT - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bVgILta9fDrXaB3kPy3Yt2vA94.jpg" group-title="Filmes | Documentarios",Silvio Santos: Especial 40 Anos SBT - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Slow Hustle: Corrupcao e Morte na Policia de Baltimore - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvxt5PKAArMgcRTzxcoUnuiM6Kz.jpg" group-title="Filmes | Documentarios",The Slow Hustle: Corrupcao e Morte na Policia de Baltimore - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Speed Cubers - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGsnBB3BquzGHSqSKqoF998oDVr.jpg" group-title="Filmes | Documentarios",The Speed Cubers - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Unauthorized Beverly Hills, 90210 Story - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvuikY6qY3JJfo5iJLciGd5lCmI.jpg" group-title="Filmes | Documentarios", 90210 Story - 2015
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toada para Jose Siqueira - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKd1tYSI9V9gjSocJ9wBvMHDOZ5.jpg" group-title="Filmes | Documentarios",Toada para Jose Siqueira - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tome Suas Pilulas - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yo2rBT7vdsyWFBH5aoJ8pk7am79.jpg" group-title="Filmes | Documentarios",Tome Suas Pilulas - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tony Parker: The Final Shot - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZgw36jwqby3sxT7jU8to8Sq9Di.jpg" group-title="Filmes | Documentarios",Tony Parker: The Final Shot - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tony Robbins: I Am Not Your Guru - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmDvMAjePKhcxAfbNvVUDqld779.jpg" group-title="Filmes | Documentarios",Tony Robbins: I Am Not Your Guru - 2016
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Torturado por Cristo - 2018" tvg-logo="http://urlon.me/ZgYYPj" group-title="Filmes | Documentarios",Torturado por Cristo - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trabalho Interno - 2010 " tvg-logo="http://urlon.me/ZgY1BI" group-title="Filmes | Documentarios",Trabalho Interno - 2010 
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Estranhos Identicos - 2018" tvg-logo="http://urlon.me/Zi8" group-title="Filmes | Documentarios",Tres Estranhos Identicos - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tributo a Dolly Parton - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXkELm9DENmIOuMgveR1RzjCctD.jpg" group-title="Filmes | Documentarios",Tributo a Dolly Parton - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Crime no Concurso de Sobremesas - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5a1f22pS8wz4R7PG2GFhQPhcVJw.jpg" group-title="Filmes | Documentarios",Um Crime no Concurso de Sobremesas - 2017
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Cancao para Latasha - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14iHzYmdS9hfAnwwwQfvGhewy7r.jpg" group-title="Filmes | Documentarios",Uma Cancao para Latasha - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Noite em Miami.. - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/izMwtiJk4JaMTnW7UyJIpY1rAvd.jpg" group-title="Filmes | Documentarios",Uma Noite em Miami.. - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Verdade Mais Inconveniente - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cF6ko5YUPIJaU47ql8eBbJBoDfB.jpg" group-title="Filmes | Documentarios",Uma Verdade Mais Inconveniente - 2017
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Untold: Pacto com o Diabo - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5utOakb8IF10Q0oRiej47dttWH.jpg" group-title="Filmes | Documentarios",Untold: Pacto com o Diabo - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vai! - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3ivftOFyiL0jrZXuQlneuqSUEB.jpg" group-title="Filmes | Documentarios",Vai! - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Virando a Mesa do Poder - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAfixuZIFVbWIsWytzROJDY85D7.jpg" group-title="Filmes | Documentarios",Virando a Mesa do Poder - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VIRUNGA - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b59YdJZyRUu04hnWdmmz4kPjbTF.jpg" group-title="Filmes | Documentarios",VIRUNGA - 2014
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Visita ao Inferno - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpRSncUqvtyRJCLGHb00Y2vnliK.jpg" group-title="Filmes | Documentarios",Visita ao Inferno - 2016
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viveiro - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KgPkiGDPo4AutgAypNaQE17Bkt.jpg" group-title="Filmes | Documentarios",Viveiro - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vozes que Inspiram - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qlQceN0IrqXXEIcFCcpm6B3jQb.jpg" group-title="Filmes | Documentarios",Vozes que Inspiram - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="What Happened, Miss Simone? - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfU6mfxPns34TRwxKhp5pyBIgJt.jpg" group-title="Filmes | Documentarios", Miss Simone? - 2015
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Winter on Fire: Ukraine's Fight for Freedom - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50ygDdzH1sK8b92FCurOexzJQOf.jpg" group-title="Filmes | Documentarios",Winter on Fire: Ukraine's Fight for Freedom - 2015
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wolfgang: O Chef Celebridade - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLHlrfajd9hjvDah2Zq2U2oKiuS.jpg" group-title="Filmes | Documentarios",Wolfgang: O Chef Celebridade - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/515930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quarentena Pra Quem - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eZplgtMxJROcCX39UVN45ndrlR.jpg" group-title="Filmes | Documentarios",Quarentena Pra Quem - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/559978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anelka - O incompreendido - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6mk7JtdWu2cUZV7vk6VN7cJNen.jpg" group-title="Filmes | Documentarios",Anelka - O incompreendido - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/559979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aventuras no Fundo do Mar - 2018" tvg-logo="http://urlon.me/ZgYYmY" group-title="Filmes | Documentarios",Aventuras no Fundo do Mar - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/559980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Betting on Zero - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNG4VITQkGd9iXHv0Ds7vmZdGYp.jpg" group-title="Filmes | Documentarios",Betting on Zero - 2017
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/559981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diego Maradona - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SRu5YKrA2qQoGBssEJQc3h04cd.jpg" group-title="Filmes | Documentarios",Diego Maradona - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/559982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elas Contra o Serial Killer - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HzDKFs2kOhxLm6oQlIAGKFpFK4.jpg" group-title="Filmes | Documentarios",Elas Contra o Serial Killer - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/559983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gabriel Medina - 2020" tvg-logo="http://urlon.me/ZgY1i4" group-title="Filmes | Documentarios",Gabriel Medina - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/559984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GIMS: On the Record - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDTIyjUIufAZZ3jMmHOfC1AkoYU.jpg" group-title="Filmes | Documentarios",GIMS: On the Record - 2020
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/559985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ICARO - 2017" tvg-logo="http://urlon.me/ZgY1ad" group-title="Filmes | Documentarios",ICARO - 2017
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/559986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Making a Murderer - 2015" tvg-logo="http://urlon.me/ZgY1Ba" group-title="Filmes | Documentarios",Making a Murderer - 2015
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/559987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minimalism: A Documentary About the Important Things - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9D2PbIfXwnsuCR1CRNaPNIbHTj.jpg" group-title="Filmes | Documentarios",Minimalism: A Documentary About the Important Things - 2015
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/559988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mussum - Um Filme do Cacildis" tvg-logo="http://urlon.me/6iu" group-title="Filmes | Documentarios",Mussum - Um Filme do Cacildis
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/559989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Papa Francisco: Um Homem de Palavra - 2018" tvg-logo="http://urlon.me/OPc" group-title="Filmes | Documentarios",Papa Francisco: Um Homem de Palavra - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/559990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Privacidade Violada - 2018" tvg-logo="http://urlon.me/Zzt" group-title="Filmes | Documentarios",Privacidade Violada - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/559991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Search for the Submarine I-52 - 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlQWKwXaqhd7BJWlA1psOVFkUEd.jpg" group-title="Filmes | Documentarios",Search for the Submarine I-52 - 2000
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/559992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Senna - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2627OjjqAA7CJr3ELP1aAJJB9Gf.jpg" group-title="Filmes | Documentarios",Senna - 2010
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/559993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sequestro - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYDQQg15CBtEvjiqhAfktXrfcFN.jpg" group-title="Filmes | Documentarios",Sequestro - 2009
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/559994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Servico Secreto Americano: Bastidores - 2018" tvg-logo="http://urlon.me/Zzg" group-title="Filmes | Documentarios",Servico Secreto Americano: Bastidores - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/559995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars Biomas - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZ4ttilu3NeU73bFaCfIBKi7nFy.jpg" group-title="Filmes | Documentarios",Star Wars Biomas - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/559996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Untold: Briga na NBA - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwnBAdT3hU6GYtIizGMPcfmR66T.jpg" group-title="Filmes | Documentarios",Untold: Briga na NBA - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/559997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trabalho Interno - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bTUK455ZQPdbHiRX1udYhdO8BH.jpg" group-title="Filmes | Documentarios",Trabalho Interno - 2010
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/586429.mp4
