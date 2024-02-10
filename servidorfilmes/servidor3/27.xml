@@ -1,1 +1,159 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="Capitã Marvel (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg" group-title="Filmes | Universo Marvel",Capitã Marvel (2019)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitão América 2: O Soldado Invernal (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBFPjLLHXkBojKpWDluJxnpM24h.jpg" group-title="Filmes | Universo Marvel",Capitão América 2: O Soldado Invernal (2014)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitão América: Guerra Civil (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lS5XvvUcJy5rJcbmBeX1GPoMnWJ.jpg" group-title="Filmes | Universo Marvel",Capitão América: Guerra Civil (2016)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitão América: O Primeiro Vingador (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYijVAPunk6neVW2KHKE4Lp45ZU.jpg" group-title="Filmes | Universo Marvel",Capitão América: O Primeiro Vingador (2011)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0amAZ8KJFxBQZOxOnWlKVT4STi.jpg" group-title="Filmes | Universo Marvel",Doutor Estranho (2016)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/89332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardiões da Galáxia (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xaY92XMToaSnBuvCui3LHzNGqZB.jpg" group-title="Filmes | Universo Marvel",Guardiões da Galáxia (2014)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/93253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardiões da Galáxia - Vol. 2 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXi3ExbRXnZCPbdHQkppQdcdMUF.jpg" group-title="Filmes | Universo Marvel",Guardiões da Galáxia - Vol. 2 (2017)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/89669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imYhKyT1tjFX3QLgzwIDa7JZhxi.jpg" group-title="Filmes | Universo Marvel",Homem de Ferro (2008)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/89927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro 2 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzROjQbgKWMVf2EldXipCcjpuBL.jpg" group-title="Filmes | Universo Marvel",Homem de Ferro 2 (2010)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/89925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro 3 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/C7MZwRTjvEy7gkWcLJeBGZFE1w.jpg" group-title="Filmes | Universo Marvel",Homem de Ferro 3 (2013)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/89926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha 2 (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y06FivvCfqapHB3iETOtbAqWdkD.jpg" group-title="Filmes | Universo Marvel",Homem-Aranha 2 (2004)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/89931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha 3 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/63O5iixxXSmyOaBas7ek1tkeVra.jpg" group-title="Filmes | Universo Marvel",Homem-Aranha 3 (2007)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/89922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha no Aranhaverso (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybQSBSrINtjWsJQ6Ih8sva8HlEZ.jpg" group-title="Filmes | Universo Marvel",Homem-Aranha no Aranhaverso (2018)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/89929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha: De Volta ao Lar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg" group-title="Filmes | Universo Marvel",Homem-Aranha: De Volta ao Lar (2017)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/89924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha: Longe de Casa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg" group-title="Filmes | Universo Marvel",Homem-Aranha: Longe de Casa (2019)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/89932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiLqv1gwBENjbqTAdPxW4LhX6aA.jpg" group-title="Filmes | Universo Marvel",Homem-Formiga (2015)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/93254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga e a Vespa (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smRrzh8W4PfIYiqAEqc6U1D6Ekl.jpg" group-title="Filmes | Universo Marvel",Homem-Formiga e a Vespa (2018)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/89923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Espetacular Homem-Aranha (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dODKvv9o9BOemWavnulutJBHM80.jpg" group-title="Filmes | Universo Marvel",O Espetacular Homem-Aranha (2012)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/91254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Espetacular Homem-Aranha 2: A Ameaça de Electro (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDbcaBs1IdBZccCM1R417XmPxKF.jpg" group-title="Filmes | Universo Marvel",O Espetacular Homem-Aranha 2: A Ameaça de Electro (2014)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/93256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbs56LeYAKu4WSsSsm2kTjpPn0y.jpg" group-title="Filmes | Universo Marvel",O Incrível Hulk (2008)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/90692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="Filmes | Universo Marvel",Os Vingadores (2012)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/91219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yQUnpc1BXgesJrfcdoRa6jTAnA.jpg" group-title="Filmes | Universo Marvel",Pantera Negra (2018)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/91295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thor (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yI6jOYR9xDpxXPKAO17YuIBfROd.jpg" group-title="Filmes | Universo Marvel",Thor (2011)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/92056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thor: O Mundo Sombrio (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oip30thvJBpJRveA13Rtd2am5Qg.jpg" group-title="Filmes | Universo Marvel",Thor: O Mundo Sombrio (2013)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/92057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Ragnarok (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLpIFiuWF1bKnBqi7LqnJcLHtN.jpg" group-title="Filmes | Universo Marvel",Thor: Ragnarok (2017)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/92058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingadores: Era de Ultron (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGIIl89vglo66yUfbuTxzNAs4y5.jpg" group-title="Filmes | Universo Marvel",Vingadores: Era de Ultron (2015)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/92377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingadores: Guerra Infinita (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89QTZmn34iwXYeCpVxhC9UrT8sX.jpg" group-title="Filmes | Universo Marvel",Vingadores: Guerra Infinita (2018)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/93251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingadores: Ultimato (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg" group-title="Filmes | Universo Marvel",Vingadores: Ultimato (2019)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/93252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blade 1 - O Cacador de Vampiros - 1998" tvg-logo="http://urlon.me/ZgY1Fv" group-title="Filmes | Universo Marvel",Blade 1 - O Cacador de Vampiros - 1998
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blade 2 - O Cacador de Vampiros - 2002" tvg-logo="http://urlon.me/ZgY1Fj" group-title="Filmes | Universo Marvel",Blade 2 - O Cacador de Vampiros - 2002
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blade 3 - Trinity - 2004" tvg-logo="http://urlon.me/ZgY1Fy" group-title="Filmes | Universo Marvel",Blade 3 - Trinity - 2004
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capita Marvel - 2019" tvg-logo="http://urlon.me/Zz3" group-title="Filmes | Universo Marvel",Capita Marvel - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitao America 1 - O Primeiro Vingador - 2011" tvg-logo="http://urlon.me/O8D" group-title="Filmes | Universo Marvel",Capitao America 1 - O Primeiro Vingador - 2011
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitao America 3 - Guerra Civil - 2016" tvg-logo="http://urlon.me/Z0q" group-title="Filmes | Universo Marvel",Capitao America 3 - Guerra Civil - 2016
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho - 2016" tvg-logo="http://urlon.me/ZgYMul" group-title="Filmes | Universo Marvel",Doutor Estranho - 2016
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez Um Deadpool - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6mbdXVinpYl4pWZ6CkySX6dUZ9.jpg" group-title="Filmes | Universo Marvel",Era Uma Vez Um Deadpool - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eternos - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzezdUZEnpiUIlxpdyLO1R08Lqm.jpg" group-title="Filmes | Universo Marvel",Eternos - 2022
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardioes da Galaxia - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xaY92XMToaSnBuvCui3LHzNGqZB.jpg" group-title="Filmes | Universo Marvel",Guardioes da Galaxia - 2014
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardioes da Galaxia Vol. 2 - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXi3ExbRXnZCPbdHQkppQdcdMUF.jpg" group-title="Filmes | Universo Marvel",Guardioes da Galaxia Vol. 2 - 2017
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7w6s8TdJ0Wdayz2MCHZA5wIk9nq.jpg" group-title="Filmes | Universo Marvel",Homem de Ferro - 2008
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro 2 - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7NFIOapixCJV3zA3sF823KVrNL.jpg" group-title="Filmes | Universo Marvel",Homem de Ferro 2 - 2010
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro 3 - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzL3IlELFTRnRLdGqRv33SecqtD.jpg" group-title="Filmes | Universo Marvel",Homem de Ferro 3 - 2013
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha 1 - 2002" tvg-logo="http://urlon.me/Zxo" group-title="Filmes | Universo Marvel",Homem-Aranha 1 - 2002
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha 2 - 2004" tvg-logo="http://urlon.me/Zxa" group-title="Filmes | Universo Marvel",Homem-Aranha 2 - 2004
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha 3 - 2007" tvg-logo="http://urlon.me/ZxI" group-title="Filmes | Universo Marvel",Homem-Aranha 3 - 2007
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha no Aranhaverso - 2018" tvg-logo="http://urlon.me/ZkX" group-title="Filmes | Universo Marvel",Homem-Aranha no Aranhaverso - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha: De Volta ao Lar - 2017" tvg-logo="http://urlon.me/ZxW" group-title="Filmes | Universo Marvel",Homem-Aranha: De Volta ao Lar - 2017
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha: Longe de Casa - 2019" tvg-logo="http://urlon.me/Z78" group-title="Filmes | Universo Marvel",Homem-Aranha: Longe de Casa - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga - 2015" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/Ant_Man-Poster.jpg" group-title="Filmes | Universo Marvel",Homem-Formiga - 2015
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga e a Vespa - 2018" tvg-logo="http://urlon.me/ZxV" group-title="Filmes | Universo Marvel",Homem-Formiga e a Vespa - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hulk - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Kl74sn1p6thqUFU6atZA81NHfi.jpg" group-title="Filmes | Universo Marvel",Hulk - 2003
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motoqueiro Fantasma 1 - 2007" tvg-logo="http://urlon.me/Zxp" group-title="Filmes | Universo Marvel",Motoqueiro Fantasma 1 - 2007
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motoqueiro Fantasma 2 - Espirito de Vinganca - 2011" tvg-logo="http://urlon.me/Zxc" group-title="Filmes | Universo Marvel",Motoqueiro Fantasma 2 - Espirito de Vinganca - 2011
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Espetacular Homem-Aranha 1 - 2012" tvg-logo="http://urlon.me/Zx0" group-title="Filmes | Universo Marvel",O Espetacular Homem-Aranha 1 - 2012
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Espetacular Homem-Aranha 2 - A Ameaca de Electro - 2014" tvg-logo="http://urlon.me/Zxt" group-title="Filmes | Universo Marvel",O Espetacular Homem-Aranha 2 - A Ameaca de Electro - 2014
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrivel Hulk - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8RddLhz0bHigZwltYlngPZJII0.jpg" group-title="Filmes | Universo Marvel",O Incrivel Hulk - 2008
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores: The Avengers - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="Filmes | Universo Marvel",Os Vingadores: The Avengers - 2012
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thor 1 - 2011" tvg-logo="http://urlon.me/Zxl" group-title="Filmes | Universo Marvel",Thor 1 - 2011
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thor 2 - O Mundo Sombrio - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oip30thvJBpJRveA13Rtd2am5Qg.jpg" group-title="Filmes | Universo Marvel",Thor 2 - O Mundo Sombrio - 2013
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thor 3 - Ragnarok - 2017" tvg-logo="http://urlon.me/ZxQ" group-title="Filmes | Universo Marvel",Thor 3 - Ragnarok - 2017
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Venom - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysV0NOrxUelK290XONEQePpw4zB.jpg" group-title="Filmes | Universo Marvel",Venom - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Venom: Tempo de Carnificina - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5UzYZquMwO9FVn15R2eK2itmHu.jpg" group-title="Filmes | Universo Marvel",Venom: Tempo de Carnificina - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingadores: Era de Ultron - 2015" tvg-logo="http://urlon.me/ZxG" group-title="Filmes | Universo Marvel",Vingadores: Era de Ultron - 2015
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingadores: Guerra Infinita - 2018" tvg-logo="http://urlon.me/ZxY" group-title="Filmes | Universo Marvel",Vingadores: Guerra Infinita - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingadores: Ultimato - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg" group-title="Filmes | Universo Marvel",Vingadores: Ultimato - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 1 - O Filme - 2000" tvg-logo="http://urlon.me/ZLG" group-title="Filmes | Universo Marvel",X-Men 1 - O Filme - 2000
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 10 - Logan - 2017" tvg-logo="http://urlon.me/ZSc" group-title="Filmes | Universo Marvel",X-Men 10 - Logan - 2017
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 11 - Deadpool 2 - 2018" tvg-logo="http://urlon.me/Z0F" group-title="Filmes | Universo Marvel",X-Men 11 - Deadpool 2 - 2018
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 12 - Fenix Negra - 2019" tvg-logo="http://urlon.me/ZgY3SW" group-title="Filmes | Universo Marvel",X-Men 12 - Fenix Negra - 2019
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 2 - 2003" tvg-logo="https://img.elo7.com.br/product/original/2678F93/big-poster-x-men-2-2003-lo01-tamanho-90x60-cm-nerd.jpg" group-title="Filmes | Universo Marvel",X-Men 2 - 2003
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 3 - O Confronto Final - 2006" tvg-logo="http://urlon.me/ZLc" group-title="Filmes | Universo Marvel",X-Men 3 - O Confronto Final - 2006
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 5 - Primeira Classe - 2011" tvg-logo="https://2.bp.blogspot.com/-3R7YBLnNl68/TelgbyazHHI/AAAAAAAAE9U/0yrX40NPut8/s1600/poster-frances-04Mai2011.jpg" group-title="Filmes | Universo Marvel",X-Men 5 - Primeira Classe - 2011
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 6 - Wolverine: Imortal - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCP2JfaRFdrFjxiXTUdNnfvyJ2K.jpg" group-title="Filmes | Universo Marvel",X-Men 6 - Wolverine: Imortal - 2013
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 7 - Dias De Um Futuro Esquecido - 2014" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/X-Men_Dias_Futuro_Esquecido_2014.jpg" group-title="Filmes | Universo Marvel",X-Men 7 - Dias De Um Futuro Esquecido - 2014
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 9 - Apocalipse - 2016" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e6/Xmen_apocalypse_ver18.jpg" group-title="Filmes | Universo Marvel",X-Men 9 - Apocalipse - 2016
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/502909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitao America 2 - O Soldado Invernal - 2014" tvg-logo="http://urlon.me/Z0l" group-title="Filmes | Universo Marvel",Capitao America 2 - O Soldado Invernal - 2014
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/559697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viuva Negra - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKq1Vlw0Bqe2EEvdmIkkkgPQAGf.jpg" group-title="Filmes | Universo Marvel",Viuva Negra - 2021
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/559775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 4 - Origens: Wolverine - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUqx0nGiUGeDRQtCWItG3lpuFjY.jpg" group-title="Filmes | Universo Marvel",X-Men 4 - Origens: Wolverine - 2009
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/559780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 8 - Deadpool - 2016" tvg-logo="http://urlon.me/ZgYMAn" group-title="Filmes | Universo Marvel",X-Men 8 - Deadpool - 2016
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/559781.mp4
