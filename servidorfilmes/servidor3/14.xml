@@ -1,1 +1,93 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="A Bruxinha e o Dragão (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nXP7x7vw3raOYwkUagwp3nShHP.jpg" group-title="Filmes | Família",A Bruxinha e o Dragão (2009)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bruxinha e o Dragão 2: Jornada Para Mandolan (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFmnnRUtUncWxNik6BZ1SkLsmQt.jpg" group-title="Filmes | Família",A Bruxinha e o Dragão 2: Jornada Para Mandolan (2011)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa de Praia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9gMQxT2zqo7peZPmj3XswUEkpt.jpg" group-title="Filmes | Família",A Casa de Praia (2019)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fabulosa Aventura da Sharpay (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwZe91BYGQLVhQ1opbKwRf1hQV5.jpg" group-title="Filmes | Família",A Fabulosa Aventura da Sharpay (2011)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Loja Mágica de Brinquedos (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zUkIhoqFiGQdNCRUOhEQ8Ut3L3.jpg" group-title="Filmes | Família",A Loja Mágica de Brinquedos (2007)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pedra Mágica (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKnQostymQJY6l3nrdQZ4iIhLSk.jpg" group-title="Filmes | Família",A Pedra Mágica (2009)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/93968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Visita (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3xKCqyrbDsplaV0fMJsn1ruQ2x.jpg" group-title="Filmes | Família",A Visita (2014)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abulele Meu Amigo Monstro (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Dd75aNfNCpbUlF63tS565G3J59.jpg" group-title="Filmes | Família",Abulele Meu Amigo Monstro (2015)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Viagens de Gulliver (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dVuMRrE6zFvivQPifg7CQnV1b5j.jpg" group-title="Filmes | Família",As Viagens de Gulliver (2010)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Buck: Meu Adorável Cão Selvagem (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hGtJNKsvRmadTWpZgoK29g3Bkf.jpg" group-title="Filmes | Família",Buck: Meu Adorável Cão Selvagem (2009)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Camp Rock (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iel8d19vD0vqQ2RcNDSXxztJ9zM.jpg" group-title="Filmes | Família",Camp Rock (2008)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Camp Rock 2: The Final Jam (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AawDtrVJa7TniY1tdk6nrkLW3IY.jpg" group-title="Filmes | Família",Camp Rock 2: The Final Jam (2010)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dança Comigo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sH8L5xmYdpcsvJupKXpd7Wbux0h.jpg" group-title="Filmes | Família",Dança Comigo (2019)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/89218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Volta a Ilha da Imaginação (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uidrRc6Sp44ViXaHkLswVGVwPCh.jpg" group-title="Filmes | Família",De Volta a Ilha da Imaginação (2013)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/89818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Descendentes 3 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moyDQs4U4D4b0kG7vfqt8DKskkI.jpg" group-title="Filmes | Família",Descendentes 3 (2019)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/89258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dumbo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8Krn1Fb8h3DsCgGMxmS1zmMN1n.jpg" group-title="Filmes | Família",Dumbo (2019)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/89356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Enquanto Houver Esperança (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PbPEEzeyxhQYRHSDLPvVyBMv2o.jpg" group-title="Filmes | Família",Enquanto Houver Esperança (2015)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/89430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estrada Para o Natal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXMTcc5eLhicFEAGKlEed8ElyYR.jpg" group-title="Filmes | Família",Estrada Para o Natal (2018)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/89484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Grande Menina, Pequena Mulher (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCAbCoD5qPyMxrzaAl1os9pPjGK.jpg" group-title="Filmes | Família", Pequena Mulher (2003)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/92319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jinxed (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2ClGoeLyX4Vmgzk6Q80OANCFi6.jpg" group-title="Filmes | Família",Jinxed (2013)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/90047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="João e Maria (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajMwoSZ2dDhSxdEJQnAdIbKAlgc.jpg" group-title="Filmes | Família",João e Maria (1988)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/90093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Juntos para Sempre (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xG5JqCNR90WIjbGUfQNMDNMuRQl.jpg" group-title="Filmes | Família",Juntos para Sempre (2019)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/90108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kim Possible (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmYNXdrYPZcQhR03oqE01TbvVL8.jpg" group-title="Filmes | Família",Kim Possible (2019)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/90135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lizzie McGuire: Um Sonho Popstar (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgPaGDE00m895H8DjkvHVL1W7XU.jpg" group-title="Filmes | Família",Lizzie McGuire: Um Sonho Popstar (2003)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/90209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lições Para Toda Vida (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dcBwSTu1jCM2GKs6zy9MESZzSO.jpg" group-title="Filmes | Família",Lições Para Toda Vida (2003)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/90210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malévola (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqifqRhUWjx5WT0OJPxWbcnzc2O.jpg" group-title="Filmes | Família",Malévola (2014)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/90286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malévola: Dona do Mal (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oP3TasnCKqSvGDv0sHLUhpioNVb.jpg" group-title="Filmes | Família",Malévola: Dona do Mal (2019)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/90281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Amigo Gooby (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPZrBnZGqiHcy6XpOBSbwglp275.jpg" group-title="Filmes | Família",Meu Amigo Gooby (2009)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/90372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Menino no Espelho (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3inJ0LKrccEK5mNqQzmJlGjLPy.jpg" group-title="Filmes | Família",O Menino no Espelho (2014)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/90876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Menino no Espelho (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3inJ0LKrccEK5mNqQzmJlGjLPy.jpg" group-title="Filmes | Família",O Menino no Espelho (2014)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/90990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Relógio na Parede (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nu63HA3CkIq245FphWi2zCObLVJ.jpg" group-title="Filmes | Família",O Mistério do Relógio na Parede (2018)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/91002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pequeno Órfão (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cdGOnHbMVqoUNcRfRNAKVZv3nm.jpg" group-title="Filmes | Família",O Pequeno Órfão (2018)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/90711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pequeno Órfão (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cdGOnHbMVqoUNcRfRNAKVZv3nm.jpg" group-title="Filmes | Família",O Pequeno Órfão (2018)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/91030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Feiticeiros de Waverly Place: O Filme (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLH4qYOgfpSrvZAnGAKuIS2feqN.jpg" group-title="Filmes | Família",Os Feiticeiros de Waverly Place: O Filme (2009)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/91159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Papai Bate um Bolão (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxnNBSI3jrvkgH7MeMTWZTli6tH.jpg" group-title="Filmes | Família",Papai Bate um Bolão (2005)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/91296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Para Sempre Natal (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adTHEb1N75PiKb5uhnfMCor3HB2.jpg" group-title="Filmes | Família",Para Sempre Natal (2016)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/91310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patas, Ossos e Rock ’n’ Roll (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIlNGp4lbBQH4vQMMdd9qgRhYBL.jpg" group-title="Filmes | Família", Ossos e Rock ’n’ Roll (2014)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/91321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patrick: Aprendendo a Amar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ib6i2qP4USS7ihw8GhdP64aTsJk.jpg" group-title="Filmes | Família",Patrick: Aprendendo a Amar (2018)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/91324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perdido pra Cachorro 3 (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcvzgsNPoS2ImrSkWCRl2bxMdbA.jpg" group-title="Filmes | Família",Perdido pra Cachorro 3 (2012)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/91358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Planeta 51 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrFyG31m8P83eTUsKbyu83cuwzF.jpg" group-title="Filmes | Família",Planeta 51 (2009)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/91404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rufus 2 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcAWtUu09ylQDhDKrKkAW9S7lA4.jpg" group-title="Filmes | Família",Rufus 2 (2017)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/91677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sing - Quem Canta Seus Males Espanta (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LEeSindznWQnXIglb7Ica9MITe.jpg" group-title="Filmes | Família",Sing - Quem Canta Seus Males Espanta (2016)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/91839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soul Surfer: Coragem de Viver (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQSwjATtm7ZUimm306RcGPzLMPG.jpg" group-title="Filmes | Família",Soul Surfer: Coragem de Viver (2011)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/91885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Anjo em Minha Vida (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29lc7HgBCMqFQwYiS34TA8maTfV.jpg" group-title="Filmes | Família",Um Anjo em Minha Vida (1996)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/92228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Mascote Chocante (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yClReGRYAZzKleiULPIwXi0vYq.jpg" group-title="Filmes | Família",Um Mascote Chocante (2009)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/92288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zoo: Uma Amizade Maior que a Vida (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMcKGUEKXeNZwhJizfsmNcFp6F0.jpg" group-title="Filmes | Família",Zoo: Uma Amizade Maior que a Vida (2018)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/92445.mp4
