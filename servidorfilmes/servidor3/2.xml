@@ -1,1 +1,17 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="Ó Paí, Ó 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykUgwSxCDCKPIYMJT17DTu3a6Bc.jpg" group-title=" Filmes | Cinema", Ó 2 (2023)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/465043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla Minus One (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXrCBynsyRGbOtoBeWjt1bRINuA.jpg" group-title=" Filmes | Cinema",Godzilla Minus One (2023)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/469448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All the World Is Sleeping (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8r5WZpT43Ihw5dPQRZiSA6rTKW3.jpg" group-title=" Filmes | Cinema",All the World Is Sleeping (2023)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/469555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Marvels (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmtrDKIKXRFkChgHGALZTiKDVo0.jpg" group-title=" Filmes | Cinema",As Marvels (2023)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/469556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinos da Lua das Flores (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg" group-title=" Filmes | Cinema",Assassinos da Lua das Flores (2023)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/469557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resistência (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2CroeECoXPpvJlbUxtrfDd4Rih.jpg" group-title=" Filmes | Cinema",Resistência (2023)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/469558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Secret Kingdom (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dteXMzVY53GBHUgrR7vigAartsP.jpg" group-title=" Filmes | Cinema",The Secret Kingdom (2023)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/469559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Adventures of Jurassic Pet 2  The Lost Secret - 2023" tvg-logo="http://5ce.co:80/images/wxDG3w316i5bQ4vw4qDAVE7tAR9_big.jpg" group-title=" Filmes | Cinema",The Adventures of Jurassic Pet 2  The Lost Secret - 2023
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/514807.mp4
