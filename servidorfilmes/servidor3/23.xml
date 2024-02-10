@@ -1,1 +1,91 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="A Estrela de Belém (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9LD4vsEFV1o1vSt0LQf7v8IHma.jpg" group-title="Filmes | Netflix",A Estrela de Belém (2017)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/469691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="100 Metros (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xONHMx9skbDotapUuRMOj9huXTq.jpg" group-title="Filmes | Netflix",100 Metros (2016)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 - O Jogador (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sn3dMJYxhxCJ6cMCXAtBUjAeg1.jpg" group-title="Filmes | Netflix",13 - O Jogador (2010)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/93447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 Assassinos (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndq5AirBAWW5zcRFIs4qu1YPk2V.jpg" group-title="Filmes | Netflix",13 Assassinos (2010)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="14 Montanhas, 8 Mil Metros e 7 Meses (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/saGMNCD6ayFqmOb9mX2MkkMmW7w.jpg" group-title="Filmes | Netflix", 8 Mil Metros e 7 Meses (2021)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/99618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1917 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0S4a7g5q35NYE2483H3lSwY0up.jpg" group-title="Filmes | Netflix",1917 (2019)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="22 de Julho (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fO1YmU5DvYdudmODO25PpRekiMX.jpg" group-title="Filmes | Netflix",22 de Julho (2018)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/92471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="47 Ronins (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKM4v6dZ1LSKzRQxN0YEbmCKGAH.jpg" group-title="Filmes | Netflix",47 Ronins (2013)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/87983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escavação (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ov6ES8aMntZJ6bbhOhhSwNoZbVf.jpg" group-title="Filmes | Netflix",A Escavação (2021)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bala Perdida (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7RWwkWraLdonauosvAgq1K67p1V.jpg" group-title="Filmes | Netflix",Bala Perdida (2020)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/89762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bastardos Inglórios (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q33bLgO3SP69mUdfWktG6LJGU27.jpg" group-title="Filmes | Netflix",Bastardos Inglórios (2009)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casamento Grego (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7InkKCZeGemG0MVUi0JKJkJdb8s.jpg" group-title="Filmes | Netflix",Casamento Grego (2002)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/109903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casamento Grego 2 (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibvwC70oqEZ3zNFomvyDaxDACxq.jpg" group-title="Filmes | Netflix",Casamento Grego 2 (2016)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/88987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deuses do Egito (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xJb2Nll3vHKztHVasHwf6603MB.jpg" group-title="Filmes | Netflix",Deuses do Egito (2016)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/89274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu Sou Todas as Meninas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWBXydaQ9vX3OIf0f1wNQ9Z0ElQ.jpg" group-title="Filmes | Netflix",Eu Sou Todas as Meninas (2021)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/89502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fração de Segundos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/om9LLjsNgwE36OEnIbFxlXK3YDn.jpg" group-title="Filmes | Netflix",Fração de Segundos (2019)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/93994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gladiador (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DUClyGA6OqjXv6yC0Imf6THGfp.jpg" group-title="Filmes | Netflix",Gladiador (2000)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/89632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic World: O Mundo dos Dinossauros (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsnQBbJ9FM68uibzVxlknFcyFYJ.jpg" group-title="Filmes | Netflix",Jurassic World: O Mundo dos Dinossauros (2015)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/90110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karate Kids (1990)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/The_next_karate_kid.jpg" group-title="Filmes | Netflix",Karate Kids (1990)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/90124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karatê Kid 2: A Hora da Verdade Continua (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgnolnYAgrORkSoY89TSIyy79Sq.jpg" group-title="Filmes | Netflix",Karatê Kid 2: A Hora da Verdade Continua (1986)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/90120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karatê Kid 3: O Desafio Final (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Ohd7jUOlJzbHVJj2LOSrctsuNg.jpg" group-title="Filmes | Netflix",Karatê Kid 3: O Desafio Final (1989)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/90121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karatê Kid 4: A Nova Aventura (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t54FvbWtndSRSFRZoVZVoCHspQp.jpg" group-title="Filmes | Netflix",Karatê Kid 4: A Nova Aventura (1994)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/90122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karatê Kid: A Hora da Verdade (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAB64Bp7S4JaMutZMEOWSycdge2.jpg" group-title="Filmes | Netflix",Karatê Kid: A Hora da Verdade (1984)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/90123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Major Grom Contra o Dr. Peste (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rShV4uPtjxy3T9OmblG1APJHGIj.jpg" group-title="Filmes | Netflix",Major Grom Contra o Dr. Peste (2021)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/92537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mosul (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vjephttoBH1ujOZcsqWlftLbhg.jpg" group-title="Filmes | Netflix",Mosul (2019)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/90469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Protetor (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGN5lxyM2zIjWXglRUTrtEd2qDs.jpg" group-title="Filmes | Netflix",O Protetor (2005)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/91072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Protetor 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3arTw3WKvPAiaIq9gWORJjYFTC5.jpg" group-title="Filmes | Netflix",O Protetor 2 (2018)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/91073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Mercenário (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iT9k4FyhjLcfMRH8Qzk3wR99pDC.jpg" group-title="Filmes | Netflix",O Último Mercenário (2021)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/93152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Projeto Gemini (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/io4qQplxQPBb6FbG8H0R9Mlleh9.jpg" group-title="Filmes | Netflix",Projeto Gemini (2019)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/91486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quebrando Regras (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4YL4IgRvZ1s7tbqfasuRkPnDy6V.jpg" group-title="Filmes | Netflix",Quebrando Regras (2008)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/91541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quebrando Regras 2 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCTsgWyQKmrMopvtMHtnGA2tghW.jpg" group-title="Filmes | Netflix",Quebrando Regras 2 (2011)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/91540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Relatos do Mundo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLqg9BjcecdzYGqURSdWgBUO3rX.jpg" group-title="Filmes | Netflix",Relatos do Mundo (2020)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/91613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resgate (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DS1Xh1dxfrR1H0sqATPxkwWFzi.jpg" group-title="Filmes | Netflix",Resgate (2020)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/91619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sicário: Terra de Ninguém (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dG4nBHtz2M0zhHPxUW1VuwilixD.jpg" group-title="Filmes | Netflix",Sicário: Terra de Ninguém (2015)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/91825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superfly: Crime e Poder (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gooCZPkWvosSIlLJSSiJSzS5jL.jpg" group-title="Filmes | Netflix",Superfly: Crime e Poder (2018)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/91938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Old Guard (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/knfExByNW2jCwtmIuwYYxzPKpkm.jpg" group-title="Filmes | Netflix",The Old Guard (2020)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/92745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Troco em Dobro (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kUoCeyFAfYZKrGI27gSsnnsHN0.jpg" group-title="Filmes | Netflix",Troco em Dobro (2020)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/92129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tropa de Elite (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/li38P5vIDBSCEZoDYsSNf93kJt9.jpg" group-title="Filmes | Netflix",Tropa de Elite (2007)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/92134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tropa de Elite 2: O Inimigo Agora é Outro (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v39TyEFfzPUaj7uZlV6Xr5HD9tu.jpg" group-title="Filmes | Netflix",Tropa de Elite 2: O Inimigo Agora é Outro (2010)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/92135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Truque de Mestre (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHYMdNQwBWYWrB1qPf6wTbPBvze.jpg" group-title="Filmes | Netflix",Truque de Mestre (2013)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/92142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Truque de Mestre: O 2º Ato (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uCUHxN5MD4vX6q1YEnpL6bQLiw.jpg" group-title="Filmes | Netflix",Truque de Mestre: O 2º Ato (2016)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/92143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingança & Castigo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29WYtxffy1NJhxXZ8al5XJ8US1s.jpg" group-title="Filmes | Netflix",Vingança & Castigo (2021)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/98368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7 Mulheres e Um Mistério (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FHo1tTKMWGwv9gxXASWhkctuC3.jpg" group-title="Filmes | Netflix",7 Mulheres e Um Mistério (2021)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/124075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Natal Cheio de Graça (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TDwAtynfhER7CXb7J61l4SyTCV.jpg" group-title="Filmes | Netflix",Um Natal Cheio de Graça (2022)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/125382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Natal Quase Perfeito (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9kBiibBdBP429uRb2uWFueZrxc.jpg" group-title="Filmes | Netflix",Um Natal Quase Perfeito (2016)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/128831.mp4
