@@ -1,1 +1,25 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="60 Minutos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5wjsuYh954HLagCnqrLpPT8xi7.jpg" group-title=" Filmes | Lançamentos 2024",60 Minutos (2024)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/469784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alarme de Incêndio (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXB0yZbECic73jLrqvCgcpL9dhU.jpg" group-title=" Filmes | Lançamentos 2024",Alarme de Incêndio (2024)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/469785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="8/1 – A Democracia Resiste (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WwyrCZORz8qR2iizhUEZx5iZDu.jpg" group-title=" Filmes | Lançamentos 2024",8/1 – A Democracia Resiste (2024)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/464388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Um Tiro Certo - 2024" tvg-logo="http://5ce.co:80/images/bE1UWSyYDpaTEnB6A7TsXmEt8iN_big.jpg" group-title=" Filmes | Lançamentos 2024",Mais Um Tiro Certo - 2024
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/468915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lift: Roubo nas Alturas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ca74jjIYRVDdsnlWk8JzyVY49dE.jpg" group-title=" Filmes | Lançamentos 2024",Lift: Roubo nas Alturas (2024)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/468914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justiça: Crise nas Infinitas Terras - Parte 1 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsiDOIO4APrPQQ4xx8vJW8N0uHV.jpg" group-title=" Filmes | Lançamentos 2024",Liga da Justiça: Crise nas Infinitas Terras - Parte 1 (2024)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/468913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criptofraude (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HHMl8k7cugjUUXQYx85eD0A0tf.jpg" group-title=" Filmes | Lançamentos 2024",Criptofraude (2024)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/468912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noite que Mudou o Pop (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5Dz7xZMxPbdaLn5nte4DCa61Gy.jpg" group-title=" Filmes | Lançamentos 2024",A Noite que Mudou o Pop (2024)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/597525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Orion e o Escuro (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u30bSp5Vc04wMkehvZJQJo35RC0.jpg" group-title=" Filmes | Lançamentos 2024",Orion e o Escuro (2024)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/597526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Underdoggs (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Eg4fntbZ6xOngbXta0irzqGM5N.jpg" group-title=" Filmes | Lançamentos 2024",Os Underdoggs (2024)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/597527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tributo Ary Fontoura (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVIapbKlMcOw7P3Bb9auLxUUxra.jpg" group-title=" Filmes | Lançamentos 2024",Tributo Ary Fontoura (2024)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/597528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beekeeper - Rede de Vingança (2024) (ING)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCGFvoxzaBbYM3I68s6F939fybN.jpg" group-title=" Filmes | Lançamentos 2024",Beekeeper - Rede de Vingança (2024) (ING)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/597529.mp4
