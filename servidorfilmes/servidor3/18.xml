@@ -1,1 +1,25 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="Navio Fantasma (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urUo9sIRlFk8WfGkREZs9AEq3C3.jpg" group-title="Filmes | HBO MAX",Navio Fantasma (2002)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/90554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="12 Vésperas de Natal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4H5tXCqSs40GLjpmIxJn42Gwcb.jpg" group-title="Filmes | HBO MAX",12 Vésperas de Natal (2022)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/469560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cozinheira Curiosa: Receita Assassina (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43PkvE2c5YQTPMpeHXemiZJbD3Q.jpg" group-title="Filmes | HBO MAX",A Cozinheira Curiosa: Receita Assassina (2022)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/469561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidadão Kane (1941)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLp8GbgdOExNdmXLeDddWXJxIwr.jpg" group-title="Filmes | HBO MAX",Cidadão Kane (1941)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/469562.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Wanna Dance with Somebody: A História de Whitney Houston (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkOVROMEixrM87hMtopn3JD92Uv.jpg" group-title="Filmes | HBO MAX",I Wanna Dance with Somebody: A História de Whitney Houston (2022)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/469563.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogada De Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Anvor6NY8DlQjAmIe67VqLbTvcn.jpg" group-title="Filmes | HBO MAX",Jogada De Amor (2022)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/469564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Verónica (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7CgVC1v0D027YHLacGiEF9RiQL.jpg" group-title="Filmes | HBO MAX",La Verónica (2022)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/469565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Se Preocupe, Querida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkEuGtrwmQwk7U3FYzIYhmAwDhG.jpg" group-title="Filmes | HBO MAX", Querida (2022)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/469566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Natal no Restaurante Chinês (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvWai64abofTjpZERA4xh6APzH5.jpg" group-title="Filmes | HBO MAX",Natal no Restaurante Chinês (2022)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/469567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operação Feliz Natal: O Golpe dos Duendes (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4ovmSAP2hTG1uARTxIYKi1qlbs.jpg" group-title="Filmes | HBO MAX",Operação Feliz Natal: O Golpe dos Duendes (2021)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/469568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Retorno a Seul (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpHImBbjf8mZlmRL5aE3tftapbR.jpg" group-title="Filmes | HBO MAX",Retorno a Seul (2022)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/469569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Mistério de Natal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NXBuV3xsweIIZeE89O8qFkoZDZ.jpg" group-title="Filmes | HBO MAX",Um Mistério de Natal (2022)
+http://pdsrv.io:80/movie/brailes123321/bra12345bra12/469570.mp4
