@@ -1,1 +1,63 @@
-test
+#EXTM3U 
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV JANGADEIRO -CEARA" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT TV JANGADEIRO -CEARA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/250891.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT SP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244161.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD " tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT SP FHD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244162.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT SP FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244163.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT SP UHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244164.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP 4K" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT SP 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244165.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT SP HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244166.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244167.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244168.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT INTERIOR HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT INTERIOR HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244169.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244170.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT DF FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT DF FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244171.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT DF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="Canais | SBT",SBT DF HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244172.m3u8
+#EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT RIO FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT RIO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244173.m3u8
+#EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT RIO HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT RIO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244174.m3u8
+#EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT RIO SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT RIO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244175.m3u8
+#EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT  SC HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT  SC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244178.m3u8
+#EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT ITAPOAN FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT ITAPOAN FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244179.m3u8
+#EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT ITAPOAN HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT ITAPOAN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244180.m3u8
+#EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT RS FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT RS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244181.m3u8
+#EXTINF:-1 tvg-id="sbtrs.br" tvg-name="SBT RS HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT RS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244182.m3u8
+#EXTINF:-1 tvg-id="sbtrs.br" tvg-name="SBT RS HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT RS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244183.m3u8
+#EXTINF:-1 tvg-id="Sbtminas.br" tvg-name="SBT TV ALTEROSA FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT TV ALTEROSA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244184.m3u8
+#EXTINF:-1 tvg-id="Sbtminas.br" tvg-name="SBT TV ALTEROSA HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT TV ALTEROSA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244185.m3u8
+#EXTINF:-1 tvg-id="Sbtminas.br" tvg-name="SBT TV ALTEROSA SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT TV ALTEROSA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244186.m3u8
+#EXTINF:-1 tvg-id="sbtrs.br" tvg-name="SBT RS SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT RS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244187.m3u8
+#EXTINF:-1 tvg-id="Sbtbrasilia.br" tvg-name="SBT REDE MASSA HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT REDE MASSA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244188.m3u8
+#EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT TV ARATU -BAHIA HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT TV ARATU -BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244189.m3u8
+#EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT - REDE MASSA NAIPI (PR) HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT - REDE MASSA NAIPI (PR) HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244195.m3u8
+#EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SCC (SBT)HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SCC (SBT)HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/244197.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD Internacional" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT FHD Internacional
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/284824.m3u8
