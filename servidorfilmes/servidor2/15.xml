@@ -1,87 +1,767 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="Vício Que Mata (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PJ4AHqd2TjoDYxCBUZj8Kghvga.jpg" group-title="F • Faroeste",Vício Que Mata (1962)
-http://tvget.live:80/movie/epg/epg/1391171.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cemitério Sem Cruzes (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTVGwPkgmhKnlssl9YUYZY6d027.jpg" group-title="F • Faroeste",Cemitério Sem Cruzes (1969)
-http://tvget.live:80/movie/epg/epg/1391172.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lucky Luke (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnBw87wu31s6VM6LKilokFwgqZu.jpg" group-title="F • Faroeste",Lucky Luke (1991)
-http://tvget.live:80/movie/epg/epg/1391173.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Trilha de Sangue (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSG7noMZN9Vx1EzHrAcx6sP41fa.jpg" group-title="F • Faroeste",Trilha de Sangue (2021)
-http://tvget.live:80/movie/epg/epg/1391174.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El Dorado (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5HwSBjcAX9As6qUpDDMhXle5Pu.jpg" group-title="F • Faroeste",El Dorado (1966)
-http://tvget.live:80/movie/epg/epg/1391175.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Black Jack (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYXm5MiaWFMrFHOO7PXsVaf8nvj.jpg" group-title="F • Faroeste",Black Jack (1979)
-http://tvget.live:80/movie/epg/epg/1391176.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Filmes Faroeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYXm5MiaWFMrFHOO7PXsVaf8nvj.jpg" group-title="F • Faroeste",Filmes Faroeste
-http://tvget.live:80/movie/epg/epg/1393055.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wanted: O Procurado (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqYUQzlG8HpmvwEMaCL4HPyRtBg.jpg" group-title="F • Faroeste",Wanted: O Procurado (1967)
-http://tvget.live:80/movie/epg/epg/1391178.mp4
-#EXTINF:-1 tvg-id="" tvg-name="T'ammazzo! - Raccomandati a Dio (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0gpfa9GzJcg8PaBnlSTHqX1bnF.jpg" group-title="F • Faroeste",T'ammazzo! - Raccomandati a Dio (1968)
-http://tvget.live:80/movie/epg/epg/1391179.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Vinhas da Ira (1940)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xg2lYQ05OJ0t7pI6ESV8d3zrydU.jpg" group-title="F • Faroeste",As Vinhas da Ira (1940)
-http://tvget.live:80/movie/epg/epg/1391180.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Trinity Ainda é Meu Nome (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GZFmtbGQjpMw8FmEDzQZQ9xpCg.jpg" group-title="F • Faroeste",Trinity Ainda é Meu Nome (1971)
-http://tvget.live:80/movie/epg/epg/1391181.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Floresta Do Escalpe (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OG6YCYabCBNcmXv5w4AP9uTbsb.jpg" group-title="F • Faroeste",A Floresta Do Escalpe (2021)
-http://tvget.live:80/movie/epg/epg/1391182.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Consciências Mortas (1943)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAiDUTELbMUJKOTroJLrbYMBk3i.jpg" group-title="F • Faroeste",Consciências Mortas (1943)
-http://tvget.live:80/movie/epg/epg/1391183.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Duas Pecadoras e Uma Mula (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRaO9OMNfsw03C04NHEgzBVWCiK.jpg" group-title="F • Faroeste",Duas Pecadoras e Uma Mula (2023)
-http://tvget.live:80/movie/epg/epg/1391184.mp4
-#EXTINF:-1 tvg-id="" tvg-name="American Western (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKU3jo2HDtVObF5CrUkz1z62Ikd.jpg" group-title="F • Faroeste",American Western (2022)
-http://tvget.live:80/movie/epg/epg/1391185.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Era uma Vez no Oeste (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBcaRQEZInpiQNSKKW5wjcEtXUS.jpg" group-title="F • Faroeste",Era uma Vez no Oeste (1968)
-http://tvget.live:80/movie/epg/epg/1391186.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arizona Colt (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRu2vcmzoemSettbMwMBUzhhp8p.jpg" group-title="F • Faroeste",Arizona Colt (1966)
-http://tvget.live:80/movie/epg/epg/1391187.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ben e Charlie (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZ927MqQIlJQ43T7tPgZr8qT2Jn.jpg" group-title="F • Faroeste",Ben e Charlie (1972)
-http://tvget.live:80/movie/epg/epg/1391188.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Matarei Um Por Um (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3dd5bDgebWRzjazArfvKWUkHPx.jpg" group-title="F • Faroeste",Matarei Um Por Um (1968)
-http://tvget.live:80/movie/epg/epg/1391189.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Desajustados (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruk7OR9bvGXXfiQzeX1gWIzdRni.jpg" group-title="F • Faroeste",Os Desajustados (1961)
-http://tvget.live:80/movie/epg/epg/1391190.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Paixão Perigosa (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyoY7KzmyZxI9GacB3OTb983f6Q.jpg" group-title="F • Faroeste",Paixão Perigosa (2015)
-http://tvget.live:80/movie/epg/epg/1391191.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros Desesperados (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMfcyQAb1YybrQEazNPZlPiG1ag.jpg" group-title="F • Faroeste",Cavaleiros Desesperados (2022)
-http://tvget.live:80/movie/epg/epg/1391192.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Marca da Forca (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nASOz9NuLD3hHoB0ku9shjFal78.jpg" group-title="F • Faroeste",A Marca da Forca (1968)
-http://tvget.live:80/movie/epg/epg/1391193.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tombstone: A Justiça Está Chegando (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEthjkLxhKY64GJOI4KUqWfmLou.jpg" group-title="F • Faroeste",Tombstone: A Justiça Está Chegando (1993)
-http://tvget.live:80/movie/epg/epg/1391194.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saskatchewan (1954)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvGkHcdEGB40Pmtqx1sLtxU0mt2.jpg" group-title="F • Faroeste",Saskatchewan (1954)
-http://tvget.live:80/movie/epg/epg/1391195.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Eu Quero Ele Morto (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdXkfjAqf3ORZL483nRHeayXDCV.jpg" group-title="F • Faroeste",Eu Quero Ele Morto (1968)
-http://tvget.live:80/movie/epg/epg/1391196.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ouro Demais Para Gringo (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0lfDzIL0VoNSOhRG4wMILIWXBs.jpg" group-title="F • Faroeste",Ouro Demais Para Gringo (1972)
-http://tvget.live:80/movie/epg/epg/1391197.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Duelo de Gigantes (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6aJoMydvF8sxSbM2v2g0jQUTMr.jpg" group-title="F • Faroeste",Duelo de Gigantes (1976)
-http://tvget.live:80/movie/epg/epg/1391198.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Josey Wales: O Fora da Lei (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1PsWTVCvxPa62jaSGkfKx6jxbOY.jpg" group-title="F • Faroeste",Josey Wales: O Fora da Lei (1976)
-http://tvget.live:80/movie/epg/epg/1391199.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gringo Não Perdoa, Mata (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqnrU71YTEzEBJibpqlbQXi2zP.jpg" group-title="F • Faroeste", Mata (1995)
-http://tvget.live:80/movie/epg/epg/1391200.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Oito Odiados (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfTo9U9OgOXODEEspNnYFuZdR1q.jpg" group-title="F • Faroeste",Os Oito Odiados (2015)
-http://tvget.live:80/movie/epg/epg/1391201.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pistoleiro de Sacramento (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeRdxSjT0KgJaBtyhu35TarHuSM.jpg" group-title="F • Faroeste",O Pistoleiro de Sacramento (1965)
-http://tvget.live:80/movie/epg/epg/1391202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chegou o Tempo de Matar (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aP8vATUjUqlwzp01lR4cvSQxOMu.jpg" group-title="F • Faroeste",Chegou o Tempo de Matar (1968)
-http://tvget.live:80/movie/epg/epg/1391203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tom Horn (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2psanhsRyBxZOlg9zg9uE54M32w.jpg" group-title="F • Faroeste",Tom Horn (1980)
-http://tvget.live:80/movie/epg/epg/1391204.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Django: O Bastardo (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxOLSvLNhN70dLaYrPGdwd09iPl.jpg" group-title="F • Faroeste",Django: O Bastardo (1969)
-http://tvget.live:80/movie/epg/epg/1391205.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rastros de Ódio (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FELCCgD1L7xpW0b0jsNyCzvNmp.jpg" group-title="F • Faroeste",Rastros de Ódio (1956)
-http://tvget.live:80/movie/epg/epg/1391206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Três Homens em Conflito (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bS6g13i3LByRPDcuA7rwGIqSoKT.jpg" group-title="F • Faroeste",Três Homens em Conflito (1966)
-http://tvget.live:80/movie/epg/epg/1391207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Quadrilha da Fronteira (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MpAmrkhrrkPXqQ9WEcdvv1ovLw.jpg" group-title="F • Faroeste",A Quadrilha da Fronteira (1971)
-http://tvget.live:80/movie/epg/epg/1391208.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Volta do Pistoleiro (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YvkbwDP08QRD0FkTpq1bYQy52Z.jpg" group-title="F • Faroeste",A Volta do Pistoleiro (1967)
-http://tvget.live:80/movie/epg/epg/1393320.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Morte nao Conta Dolares" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YvkbwDP08QRD0FkTpq1bYQy52Z.jpg" group-title="F • Faroeste",A Morte nao Conta Dolares
-http://tvget.live:80/movie/epg/epg/1393321.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Perseguido (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VggwzUUv9uZBEFdYROyzmX17PI.jpg" group-title="F • Faroeste",O Perseguido (2001)
-http://tvget.live:80/movie/epg/epg/1393322.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Heranca de Honra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VggwzUUv9uZBEFdYROyzmX17PI.jpg" group-title="F • Faroeste",Heranca de Honra
-http://tvget.live:80/movie/epg/epg/1393323.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Reze a Deus... e Cave Sua Sepultura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VggwzUUv9uZBEFdYROyzmX17PI.jpg" group-title="F • Faroeste",Reze a Deus... e Cave Sua Sepultura
-http://tvget.live:80/movie/epg/epg/1393324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2001: Uma Odisséia no Espaço (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jPHKChBVWfWxXYO1yN4FZF1U2S.jpg" group-title="FILMES - FICÇÃO",2001: Uma Odisséia no Espaço (1968)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/145907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2036 Origem Desconhecida (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3StJTYXbU3OZ26Vh1PbczqfyCD.jpg" group-title="FILMES - FICÇÃO",2036 Origem Desconhecida (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/84314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2067 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7D430eqZj8y3oVkLFfsWXGRcpEG.jpg" group-title="FILMES - FICÇÃO",2067 (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/26876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="3022 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dp1brl24LXGFU3JPFaDoljDONRz.jpg" group-title="FILMES - FICÇÃO",3022 (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/84316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7500 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL2uecLh2rTTbuVbOriXP0PhqIJ.jpg" group-title="FILMES - FICÇÃO",7500 (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/19425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A 5ª Onda (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcKNWD6IFPPsvkpvyZ548naz0is.jpg" group-title="FILMES - FICÇÃO",A 5ª Onda (2016)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/83493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha de Riddick (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkl3u70N9aS16czdZyvKRlsbf6Y.jpg" group-title="FILMES - FICÇÃO",A Batalha de Riddick (2004)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iQONLfZmFDgyo6m8yQir64jO8Z.jpg" group-title="FILMES - FICÇÃO",A Bela e a Fera (2010)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/83500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cor Que Caiu do Espaço (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xulMdGldIZY4AD5Wbtqf5GcK0b1.jpg" group-title="FILMES - FICÇÃO",A Cor Que Caiu do Espaço (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/72780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Criança Zombie (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOGd9M2bxx6yxpvfZ6p9pYD13W.jpg" group-title="FILMES - FICÇÃO",A Criança Zombie (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/18782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Criatura do Deserto (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//efzcG7seLhy6AmoVEHjhgKIpBK5.jpg" group-title="FILMES - FICÇÃO",A Criatura do Deserto (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/207216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Câmara do Medo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trtIbNNY72gR1S8Ds2pPppdQ92y.jpg" group-title="FILMES - FICÇÃO",A Câmara do Medo (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/19482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escola do Bem e do Mal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbo6sHohCSQDOY6RYPQX3zO886y.jpg" group-title="FILMES - FICÇÃO",A Escola do Bem e do Mal (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/142463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Experiência (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRssQeAvrXVYoCkgfQounfUQ1y1.jpg" group-title="FILMES - FICÇÃO",A Experiência (1995)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/2042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Experiência 4: O Despertar (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6liMsPS8l0P10gtkLcpC128Cdm.jpg" group-title="FILMES - FICÇÃO",A Experiência 4: O Despertar (2007)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/19485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Experiência II: A Mutação (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53IqPn7T5uP5SSv6ToQW0a3i9Rk.jpg" group-title="FILMES - FICÇÃO",A Experiência II: A Mutação (1998)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/19483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Experiência III (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eH7pQTCwenRToalvPAreFjdHDmG.jpg" group-title="FILMES - FICÇÃO",A Experiência III (2004)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/19484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Garota da Capa Vermelha (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aq9kdQZlUnS14exVkaVYvgxLWYl.jpg" group-title="FILMES - FICÇÃO",A Garota da Capa Vermelha (2011)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/83534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Gente Se Vê Ontem (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sE2MSSjAHVU8gOz2SPQMaTQtO9c.jpg" group-title="FILMES - FICÇÃO",A Gente Se Vê Ontem (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Guerra do Amanhã (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWQ3hI78Az2RHfzDpEuvougqUz7.jpg" group-title="FILMES - FICÇÃO",A Guerra do Amanhã (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/39682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Invasão: Ocupação Alienígena (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4PqKV5M9lIxrFreEIRmo3f5WEd.jpg" group-title="FILMES - FICÇÃO",A Invasão: Ocupação Alienígena (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/118137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Invasão: Ocupação Alienígena (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4PqKV5M9lIxrFreEIRmo3f5WEd.jpg" group-title="FILMES - FICÇÃO",A Invasão: Ocupação Alienígena (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/34538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Tarzan (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRwe397WjpHouR5sCRH48XBdpvr.jpg" group-title="FILMES - FICÇÃO",A Lenda de Tarzan (2016)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/83550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Cavaleiro Sem Cabeça (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxOuNnW2qrOOFtiPVJtx5aRAJoX.jpg" group-title="FILMES - FICÇÃO",A Lenda do Cavaleiro Sem Cabeça (1999)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Liga Extraordinária (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQXs7u7ApBDMkChO0xjw8Sw0YfN.jpg" group-title="FILMES - FICÇÃO",A Liga Extraordinária (2003)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/83555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição da Bela Adormecida (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8M9qjL1j47MYjxKjnLKEBHtg8j.jpg" group-title="FILMES - FICÇÃO",A Maldição da Bela Adormecida (2016)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/83563.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mulher do Lago (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//pHFUecfqY5BNdiG1ycYdPL3wPbQ.jpg" group-title="FILMES - FICÇÃO",A Mulher do Lago (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/217345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máquina De Lembranças (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZ3CUbcm17EXsO0k3Clv378hkqs.jpg" group-title="FILMES - FICÇÃO",A Máquina De Lembranças (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máquina do Tempo (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEUR9s3oWImmN1PdSvzzTm0ez1N.jpg" group-title="FILMES - FICÇÃO",A Máquina do Tempo (2002)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/87687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Origem (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3UoZhRHg6h2XYzwNAJJvGC2yev.jpg" group-title="FILMES - FICÇÃO",A Origem (2010)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/72829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Presença (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLHF1FezbFzI8JjCGrQ8QynajUj.jpg" group-title="FILMES - FICÇÃO",A Presença (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/35447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNQlyv4S1j0pnsMe48ARAgI7Ncp.jpg" group-title="FILMES - FICÇÃO",A Princesa (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/131873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Rebelião (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMicD9GcQWFbOTxjTQHPygxbmdO.jpg" group-title="FILMES - FICÇÃO",A Rebelião (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/2227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Seita (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Qhadv77lcXs6WpfkgtAegQXEap.jpg" group-title="FILMES - FICÇÃO",A Seita (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/87721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Torre Negra (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4IeczvPNloj3IrDm2NjALKMV01.jpg" group-title="FILMES - FICÇÃO",A Torre Negra (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vigilante do Amanhã: Ghost in the Shell (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEL5q8uE4z6GyyEqcvosjkJI3dp.jpg" group-title="FILMES - FICÇÃO",A Vigilante do Amanhã: Ghost in the Shell (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/18803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A-X-L: O Cão Robô (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sigvpZ41dHQlY7QWAXLVyhK5Ymj.jpg" group-title="FILMES - FICÇÃO",A-X-L: O Cão Robô (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abducted (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmofJaT8ceUIMn2CyUU7gfg0rnO.jpg" group-title="FILMES - FICÇÃO",Abducted (2013)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/89781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abracadabra 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8G7EaPTocE0ok3YNxo972woo9EP.jpg" group-title="FILMES - FICÇÃO",Abracadabra 2 (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/141233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abraham Lincoln: Caçador de Vampiros (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Rli2nwRdQ1ZFdIXk54XjtKoL4a.jpg" group-title="FILMES - FICÇÃO",Abraham Lincoln: Caçador de Vampiros (2012)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ad Astra - Rumo às Estrelas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wigZBAmNrIhxp2FNGOROUAeHvdh.jpg" group-title="FILMES - FICÇÃO",Ad Astra - Rumo às Estrelas (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adorável Avarento (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJxpPOifFvIc0OJCMhQtRGiWexu.jpg" group-title="FILMES - FICÇÃO",Adorável Avarento (1970)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/148285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agora Estamos Sozinhos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnW8wWx1xulYgHqXuVn9Pj7HnCX.jpg" group-title="FILMES - FICÇÃO",Agora Estamos Sozinhos (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/89799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agulha no Palheiro Temporal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcpxPCl33cKMvbNDp6BoO5TJFI6.jpg" group-title="FILMES - FICÇÃO",Agulha no Palheiro Temporal (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/89800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aladdin (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1d8HShFOmSWDwvqtvPEZqzlZbYl.jpg" group-title="FILMES - FICÇÃO",Aladdin (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Albatroz (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmRKjdDfElqgq72kJhHHbiERZG2.jpg" group-title="FILMES - FICÇÃO",Albatroz (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien 2 - Sulla terra (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOhLne5BOFgzg25HUicMgRNAXpZ.jpg" group-title="FILMES - FICÇÃO",Alien 2 - Sulla terra (1980)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/83667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien 3 (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBBdeybjF1dUxE7GFxurp2TxiT3.jpg" group-title="FILMES - FICÇÃO",Alien 3 (1992)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/83648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien vs. Predador (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcz6Y1xlmDM5odLTLwqjX8mXeJ3.jpg" group-title="FILMES - FICÇÃO",Alien vs. Predador (2004)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien vs. Predador 2 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqMkAjKvj5gxoehS2LiCbCxgh5k.jpg" group-title="FILMES - FICÇÃO",Alien vs. Predador 2 (2007)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien: A Ressurreição (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccDrEYas2aNIyjJvEl9FbwDjo5l.jpg" group-title="FILMES - FICÇÃO",Alien: A Ressurreição (1997)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/83649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien: Covenant (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNJqsL3ekBPUXsSDu6oABGZkJMM.jpg" group-title="FILMES - FICÇÃO",Alien: Covenant (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien: O Oitavo Passageiro (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0VpOjqwobTpQK2SEZpXlqt5cqY.jpg" group-title="FILMES - FICÇÃO",Alien: O Oitavo Passageiro (1979)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/83618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ameaça no Espaço (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nv4QdbPFKg98gbaG0nj4Mhjcks.jpg" group-title="FILMES - FICÇÃO",Ameaça no Espaço (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/26756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animais Fantásticos e Onde Habitam (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGkt9ekX5cgRYKRIiJM27Xp3piR.jpg" group-title="FILMES - FICÇÃO",Animais Fantásticos e Onde Habitam (2016)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/19868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animais Fantásticos: Os Crimes de Grindelwald (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxw7AVr2Eyoy2F4uaraLJmrnfE9.jpg" group-title="FILMES - FICÇÃO",Animais Fantásticos: Os Crimes de Grindelwald (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aniquilação (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DUGK2WvnyiBJwKOYhTR9FHx2Mh.jpg" group-title="FILMES - FICÇÃO",Aniquilação (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/83710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjos da Noite: A Evolução (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9THoEUKf4dAqtfujE8xDeQhuVYi.jpg" group-title="FILMES - FICÇÃO",Anjos da Noite: A Evolução (2006)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/21976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjos da Noite: A Rebelião (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atPv2WJzlD76ZQP3wjaixZooR1l.jpg" group-title="FILMES - FICÇÃO",Anjos da Noite: A Rebelião (2009)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/21977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjos da Noite: Guerras de Sangue (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mM2D6fQFz3BjQaIHwqSniglD4iX.jpg" group-title="FILMES - FICÇÃO",Anjos da Noite: Guerras de Sangue (2016)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/21979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjos da Noite: O Despertar (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUe1eAnuCfRqLJsbbR8j1VFqwLa.jpg" group-title="FILMES - FICÇÃO",Anjos da Noite: O Despertar (2012)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/21978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjos da Noite: Underworld (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sE19OYWcnAigvk8VTdLVfeirwif.jpg" group-title="FILMES - FICÇÃO",Anjos da Noite: Underworld (2003)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/21975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anon (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhBTO9n3fxy3HJt7WlR9h9vvVmk.jpg" group-title="FILMES - FICÇÃO",Anon (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/83728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antes que Termine o Dia (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRduoGq6vIeNQjsxc60OmF3gqip.jpg" group-title="FILMES - FICÇÃO",Antes que Termine o Dia (2004)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/83709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apollo 18 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9EPf0iGlIVF8EeUgOXlAUaoWM.jpg" group-title="FILMES - FICÇÃO",Apollo 18 (2011)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/72760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aquamarine (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygaNIj6w1BWOeMFcgRBw9q168RG.jpg" group-title="FILMES - FICÇÃO",Aquamarine (2006)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/217890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Archive (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tjGwi7Y8Pji1WYKCnvdWuhQz1u.jpg" group-title="FILMES - FICÇÃO",Archive (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/26303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Archive (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tjGwi7Y8Pji1WYKCnvdWuhQz1u.jpg" group-title="FILMES - FICÇÃO",Archive (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/72881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Armageddon (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czJoGeLEGF1lLxyAj8u3HMxBy7o.jpg" group-title="FILMES - FICÇÃO",Armageddon (1998)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Donas Da Noite (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiTQGLQNeuMwjWkHcJSQ46ZnLup.jpg" group-title="FILMES - FICÇÃO",As Donas Da Noite (2010)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/83867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Múmias do Faraó (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rHps2s8XFQYtyP0lUvF7682ExWo.jpg" group-title="FILMES - FICÇÃO",As Múmias do Faraó (2010)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/90167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninja (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkCdKgl24TMzwEfAtKrBNxqujv8.jpg" group-title="FILMES - FICÇÃO",As Tartarugas Ninja (1990)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/143969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninja (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udkk1VQY9wgarV7xZ9qcraa7Qsd.jpg" group-title="FILMES - FICÇÃO",As Tartarugas Ninja (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/83873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninja II: O Segredo do Ooze (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RPXIoMjVtT7OOPnbcXceyoFRTh.jpg" group-title="FILMES - FICÇÃO",As Tartarugas Ninja II: O Segredo do Ooze (1991)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/143968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninja III (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQ4DQb617N4ipB7LPfUIfGR3X9P.jpg" group-title="FILMES - FICÇÃO",As Tartarugas Ninja III (1993)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/143967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asterix nos Jogos Olímpicos (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6v8JYUOXK7xzhigOc0InkLIFVNt.jpg" group-title="FILMES - FICÇÃO",Asterix nos Jogos Olímpicos (2008)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/203337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atlantis: O Retorno de Milo (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/541LAj7Usd5SdgCuDCh0OnnJcmi.jpg" group-title="FILMES - FICÇÃO",Atlantis: O Retorno de Milo (2003)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/146774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Attraction 2: A Invasão (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zT6jdeKbBlGHpkFbWF7HZNv7rUB.jpg" group-title="FILMES - FICÇÃO",Attraction 2: A Invasão (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/22230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bigbug (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afOW9clWoB4iWMtMG7XZWQpgS7o.jpg" group-title="FILMES - FICÇÃO",Bigbug (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/82341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Mirror - Bandersnatch (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fR0VZ0VE598zl1lrYf7IfBqEwQ2.jpg" group-title="FILMES - FICÇÃO",Black Mirror - Bandersnatch (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/91111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blade II: O Caçador de Vampiros (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dK0SgvApvrboOTfm7FZc4wAITk.jpg" group-title="FILMES - FICÇÃO",Blade II: O Caçador de Vampiros (2002)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/91117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blade Runner 2049 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWD9E0Wgn8w6nMMutCNFAUiSHrX.jpg" group-title="FILMES - FICÇÃO",Blade Runner 2049 (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/91245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blade Runner: O Caçador de Andróides (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNg0TQ0SGxtYSmqR9FkI2wHtC8Y.jpg" group-title="FILMES - FICÇÃO",Blade Runner: O Caçador de Andróides (1982)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/149097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bliss: Em Busca da Felicidade (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QiUUOjiW40v3w2R9cY9s90ZfmR.jpg" group-title="FILMES - FICÇÃO",Bliss: Em Busca da Felicidade (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/25799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Branca de Neve e o Caçador (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlXNRuDfoCRLvnVwU41DLO0p3ze.jpg" group-title="FILMES - FICÇÃO",Branca de Neve e o Caçador (2012)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bright (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfWmA2k03GDWQmrcjusUcqBiYWT.jpg" group-title="FILMES - FICÇÃO",Bright (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/91164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cada Um na Sua Casa (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPaWNQKrQ3enUzNbEQqadWGAuwJ.jpg" group-title="FILMES - FICÇÃO",Cada Um na Sua Casa (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/91759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carro Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51f9b3Om3vlKYEChC8XwI4lDfqB.jpg" group-title="FILMES - FICÇÃO",Carro Rei (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/136331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caçador de Demônios (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/acfhS1No3R9rG4amSwmGg4tklKz.jpg" group-title="FILMES - FICÇÃO",Caçador de Demônios (2016)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/91752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caçadora de Gigantes (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1llJ6a7P4JShSqJtNGnmY8J6YC8.jpg" group-title="FILMES - FICÇÃO",Caçadora de Gigantes (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/91753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chamas da Vingança (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qU8xM8nFsXvUYSZsRQOdIti267.jpg" group-title="FILMES - FICÇÃO",Chamas da Vingança (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/134526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chappie (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cg93jYwHiDVkesAkllPfeiO6brm.jpg" group-title="FILMES - FICÇÃO",Chappie (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/80834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Circle (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbIL53MdZFJXsgxXaSOVuApWTs8.jpg" group-title="FILMES - FICÇÃO",Circle (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/91840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clay's Redemption (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4oVLpASA4Smo5MPcnegJAZhpSbQ.jpg" group-title="FILMES - FICÇÃO",Clay's Redemption (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/91845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Closer (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0CvjSYCwVgYLBw7ebWmKaR4vli.jpg" group-title="FILMES - FICÇÃO",Closer (2013)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/91849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Code 8: Renegados (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOj7bYYyMMqiqgh7Bu7qxLwtbsz.jpg" group-title="FILMES - FICÇÃO",Code 8: Renegados (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Constantine (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdnguGYGOLjIYrMUC3SUGdfh0lU.jpg" group-title="FILMES - FICÇÃO",Constantine (2005)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/72716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Constantine: Cidade dos Demônios - O Filme (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/el92WyplBfo6yFtOTmkoYeauLrf.jpg" group-title="FILMES - FICÇÃO",Constantine: Cidade dos Demônios - O Filme (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/72867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contato (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0gZKEAFCjVUhvRf33lHHSxKFWu.jpg" group-title="FILMES - FICÇÃO",Contato (1997)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/19486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contos do Amanhã (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sDSM31tW04ReR9DiuJhjeS41wM.jpg" group-title="FILMES - FICÇÃO",Contos do Amanhã (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/91900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contágio (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKCC5qNMJAdJwOKZoVSAzGJRO2x.jpg" group-title="FILMES - FICÇÃO",Contágio (2011)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contágio Em Alto Mar (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wV4dxHCsdwEKYUeGAvzq1cKDRU6.jpg" group-title="FILMES - FICÇÃO",Contágio Em Alto Mar (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/91898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cosmoball: Os Guardiões do Universo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7N1g4ctgM3hL0ubLYMzo3NbBqf.jpg" group-title="FILMES - FICÇÃO",Cosmoball: Os Guardiões do Universo (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/44560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Círculo de Fogo: A Revolta (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIWM0wgkmUlrEnYYkZ73EdNL0aX.jpg" group-title="FILMES - FICÇÃO",Círculo de Fogo: A Revolta (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/24625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cópias: De Volta à Vida (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2R1xCxt6b1lkeEk33u86hqQDe6.jpg" group-title="FILMES - FICÇÃO",Cópias: De Volta à Vida (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Darken – O Universo Paralelo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NiAom7x6McYHZxGHi3r8fUgH1F.jpg" group-title="FILMES - FICÇÃO",Darken – O Universo Paralelo (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/92828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Volta ao Jardim Secreto (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Iw38EampUN9flh7L3KxH4IeEhw.jpg" group-title="FILMES - FICÇÃO",De Volta ao Jardim Secreto (2000)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/73245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Demolidor: O Homem Sem Medo (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGXFYtKTH3hhNzUtLkL6l6HkMnJ.jpg" group-title="FILMES - FICÇÃO",Demolidor: O Homem Sem Medo (2003)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/80822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Demonios (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arZmu58y6UOVhhzGE83MTweMB9a.jpg" group-title="FILMES - FICÇÃO",Demonios (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/92870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depois do Universo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jv8PbopI3r3p0HrQJbLYcOzFHle.jpg" group-title="FILMES - FICÇÃO",Depois do Universo (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/142750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desastre L.A. : O Último Apocalipse Zumbi (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hiugiMqQKiWf8qlbb7iKgnka1T6.jpg" group-title="FILMES - FICÇÃO",Desastre L.A. : O Último Apocalipse Zumbi (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/92882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Descendentes (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i36xiPRiRgy8x261fk80CyVcaYF.jpg" group-title="FILMES - FICÇÃO",Descendentes (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Descendentes 2 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jGEBYg13Sa1J3D6KOlQ2EH8Uxg.jpg" group-title="FILMES - FICÇÃO",Descendentes 2 (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desculpe Te Incomodar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/765hS3KlZDDUiRmIbcH4Jp0V0s4.jpg" group-title="FILMES - FICÇÃO",Desculpe Te Incomodar (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/92885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deuses do Egito (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xJb2Nll3vHKztHVasHwf6603MB.jpg" group-title="FILMES - FICÇÃO",Deuses do Egito (2016)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dois Amigos e uma Ameaça Alienígena (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDCuTGYlZChQ1acAVbXHJnAxiF7.jpg" group-title="FILMES - FICÇÃO",Dois Amigos e uma Ameaça Alienígena (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/132247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Donnie Darko (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg" group-title="FILMES - FICÇÃO",Donnie Darko (2001)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/92961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dredd: O Juiz do Apocalipse (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3C9xnn1OFAeKl3862jBlx5cU8GA.jpg" group-title="FILMES - FICÇÃO",Dredd: O Juiz do Apocalipse (2012)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/92985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drones (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utTr0XDyL3IwMUXdydRPHV5Gek0.jpg" group-title="FILMES - FICÇÃO",Drones (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dual (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDEse2TQRiyfhdlusSXBdkDOQRj.jpg" group-title="FILMES - FICÇÃO",Dual (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/136375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Durante a Tormenta (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9budLmEhV6mw4ewT56JVL2sAIe7.jpg" group-title="FILMES - FICÇÃO",Durante a Tormenta (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E Se Fosse Verdade (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKerNhg6rr0XlEEwpVBG065Wn7f.jpg" group-title="FILMES - FICÇÃO",E Se Fosse Verdade (2005)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/93446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eclipse Mortal (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7V4WfCUWYzMcBby8e6jAwVxw2Ai.jpg" group-title="FILMES - FICÇÃO",Eclipse Mortal (2000)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Edge of Extinction (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPQwTtppe0nzbFLSAMaqMnL8e4c.jpg" group-title="FILMES - FICÇÃO",Edge of Extinction (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/93449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Edward Mãos de Tesoura (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8vmYMcvWaqqhEWt9EnTPdXDdy2F.jpg" group-title="FILMES - FICÇÃO",Edward Mãos de Tesoura (1990)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/19229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eles Vivem (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eaItFukc7nG2NGz3ZzpTrKSrhgw.jpg" group-title="FILMES - FICÇÃO",Eles Vivem (1988)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/74197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encontros (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7z2aUIV0Zy2fo5XQ14dKyFIgGRI.jpg" group-title="FILMES - FICÇÃO",Encontros (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/73169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Endangered Species (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAz5hduQNMgUhVKgBBZPjrVWB4H.jpg" group-title="FILMES - FICÇÃO",Endangered Species (2002)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/74201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ender's Game: O Jogo do Exterminador (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uy7oMawvnKCTQApdced7GYiQ6V5.jpg" group-title="FILMES - FICÇÃO",Ender's Game: O Jogo do Exterminador (2013)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/164510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Endiabrado (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jgk8lzSVMN1BZ8uJvbNVIVzTE9n.jpg" group-title="FILMES - FICÇÃO",Endiabrado (2000)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/93502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eragon (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8f8WZjTzZ6TJYrKpyayCB4zKlw.jpg" group-title="FILMES - FICÇÃO",Eragon (2006)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/93525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Errementari: O Ferreiro e o Diabo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bedYbbNKNbQFWWJ2lHTC1rSXFUy.jpg" group-title="FILMES - FICÇÃO",Errementari: O Ferreiro e o Diabo (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escrito nas Estrelas (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gh24M7PMbY3mW0vWkgXwKV89Aca.jpg" group-title="FILMES - FICÇÃO",Escrito nas Estrelas (1993)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/93533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estranhas Metamorfoses (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLaGTdIHIPoIxm0mdPanmLmXDRF.jpg" group-title="FILMES - FICÇÃO",Estranhas Metamorfoses (1982)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/74224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estranho Passageiro: Sputnik (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPQveAuNitVN9N1zG56t1mM4KxF.jpg" group-title="FILMES - FICÇÃO",Estranho Passageiro: Sputnik (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/27026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu Sou a Lenda (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6urQ17k0Pepx8RoYVeRbwaCSVIS.jpg" group-title="FILMES - FICÇÃO",Eu Sou a Lenda (2007)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/26973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Evangelion: 3.0+1.01 A Esperança (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQ6P7q6vrH8ym7knYmuA6SKmfFZ.jpg" group-title="FILMES - FICÇÃO",Evangelion: 3.0+1.01 A Esperança (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/93572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Experiência Alpha (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h80c7Bs2XfmeO2zHrH5lCWNd6d8.jpg" group-title="FILMES - FICÇÃO",Experiência Alpha (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/154770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Extermínio (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKAqttsESgFYAz3pkjxey3JxYUn.jpg" group-title="FILMES - FICÇÃO",Extermínio (2002)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/74234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ex_Machina: Instinto Artificial (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfpnFtgcYom9Gk9s1IyWiovpZYg.jpg" group-title="FILMES - FICÇÃO",Ex_Machina: Instinto Artificial (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/74230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Finch (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vNfKFyTxah0q1wFQ0Z9C8WLVRD.jpg" group-title="FILMES - FICÇÃO",Finch (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/71598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fúria de Titãs 2 (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yyAOtBlWlMBOAUp2lWTRytVgOG.jpg" group-title="FILMES - FICÇÃO",Fúria de Titãs 2 (2012)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/94872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fúria Sobre Rodas (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysYTf7VEPAtHWDgBMqqfsKWKadF.jpg" group-title="FILMES - FICÇÃO",Fúria Sobre Rodas (2011)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/162572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="G-Loc (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/slAzFdmaGKxKH9qI8OEIocD3z1u.jpg" group-title="FILMES - FICÇÃO",G-Loc (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/96208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gasparzinho, o Fantasminha Camarada (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s89ACIwVDsESNyWbpe495Iigq8e.jpg" group-title="FILMES - FICÇÃO", o Fantasminha Camarada (1995)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/75046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost: Do Outro Lado da Vida (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGSeOwr3XRP2M7bBjcOol8vi2jT.jpg" group-title="FILMES - FICÇÃO",Ghost: Do Outro Lado da Vida (1990)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/75055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gravidade (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHLufJ1bHy4PtEBJdPSTu4jIhZ0.jpg" group-title="FILMES - FICÇÃO",Gravidade (2013)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gremlins (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqeVsCO1j1RNT0oJjAOTVcHQH0K.jpg" group-title="FILMES - FICÇÃO",Gremlins (1984)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/75067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardiões do Tempo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYkzHd81ZsLQHa12oUhBVIS7ToY.jpg" group-title="FILMES - FICÇÃO",Guardiões do Tempo (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/121060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerra Alienígena (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4trb7VI220GFVUvFlO0cj11SWyi.jpg" group-title="FILMES - FICÇÃO",Guerra Alienígena (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/163859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerra dos Monstros (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQHHyINSbjOmM6gbikOmWZlaQoX.jpg" group-title="FILMES - FICÇÃO",Guerra dos Monstros (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/96287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerra Mundial Z (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HImW2XT2oN001IzZ4aw2IOLC4j.jpg" group-title="FILMES - FICÇÃO",Guerra Mundial Z (2013)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiro Virtual (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//5ITRvcMqKUETNskzw2mcU6C9k6d.jpg" group-title="FILMES - FICÇÃO",Guerreiro Virtual (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/220403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros do Futuro (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wGb5BO3wBVVtnHY7ERdQIODjnl.jpg" group-title="FILMES - FICÇÃO",Guerreiros do Futuro (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/96290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Han Solo: Uma História Star Wars (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAMEX0syUh6sbjBiysibzrFpbo.jpg" group-title="FILMES - FICÇÃO",Han Solo: Uma História Star Wars (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/96953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Câmara Secreta (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmsP4F5tjuOpnHsQAPba6YjHDFq.jpg" group-title="FILMES - FICÇÃO",Harry Potter e a Câmara Secreta (2002)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Ordem da Fênix (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzYRAgaTx8b6BBai73WyOnxgIB9.jpg" group-title="FILMES - FICÇÃO",Harry Potter e a Ordem da Fênix (2007)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Pedra Filosofal (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1FfRmKRNXRSqXT5GlMo16MX2LX.jpg" group-title="FILMES - FICÇÃO",Harry Potter e a Pedra Filosofal (2001)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e as Relíquias da Morte - Parte 1 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67FVFOTaeBUQnimhCWpUkDawDct.jpg" group-title="FILMES - FICÇÃO",Harry Potter e as Relíquias da Morte - Parte 1 (2010)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e as Relíquias da Morte - Parte 2 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg" group-title="FILMES - FICÇÃO",Harry Potter e as Relíquias da Morte - Parte 2 (2011)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Cálice de Fogo (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GRZge8h9MNAyqiaR3FWQczARUe.jpg" group-title="FILMES - FICÇÃO",Harry Potter e o Cálice de Fogo (2005)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Enigma do Príncipe (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSKNXome5vmnBVQCmpWN8do7Bpa.jpg" group-title="FILMES - FICÇÃO",Harry Potter e o Enigma do Príncipe (2009)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Prisioneiro de Azkaban (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg" group-title="FILMES - FICÇÃO",Harry Potter e o Prisioneiro de Azkaban (2004)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hellboy (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbaTEneOofwvAyg77R8HbFML2zT.jpg" group-title="FILMES - FICÇÃO",Hellboy (2004)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/96974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WIwz0qJpnVAiofTAhrmhbKxuvE.jpg" group-title="FILMES - FICÇÃO",Homem-Aranha (2002)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/69317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha 2 (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y06FivvCfqapHB3iETOtbAqWdkD.jpg" group-title="FILMES - FICÇÃO",Homem-Aranha 2 (2004)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/69164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hora do Recreio (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNqRmUjIei16VJvSKlCLaKSCCM.jpg" group-title="FILMES - FICÇÃO",Hora do Recreio (2001)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/147079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Am Mortal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZNbjTwJ36alybDWu7yKyMwXhGp.jpg" group-title="FILMES - FICÇÃO",I Am Mortal (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/82273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Am Mother (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3jWxwWRFqvNDJTvBcmKJVHnzKK.jpg" group-title="FILMES - FICÇÃO",I Am Mother (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/98706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Illang: A Brigada Lobo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQFYh3NevZzfSUu6TSrKdFgzQKd.jpg" group-title="FILMES - FICÇÃO",Illang: A Brigada Lobo (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/98722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Imortais (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6AAE8SUJR6PEPkiQHtBPPLqQDe.jpg" group-title="FILMES - FICÇÃO",Imortais (2011)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/75448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Impacto Profundo (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TJV49ZbiZge0RK1VWesmm40qso.jpg" group-title="FILMES - FICÇÃO",Impacto Profundo (1998)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Independence Day (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1LVwlMRU49i88u5NnI4haKCemZ.jpg" group-title="FILMES - FICÇÃO",Independence Day (1996)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Infinito (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3yAegenSHZgkMceNAzXTlBJYPg.jpg" group-title="FILMES - FICÇÃO",Infinito (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/44571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Interestelar (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg" group-title="FILMES - FICÇÃO",Interestelar (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/19234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Interreflections (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGb5HdsCYJCS7jFyAD6uKqri9Vt.jpg" group-title="FILMES - FICÇÃO",Interreflections (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/98813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invasión (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/U4rFsDAJyt0MM9at7Tew3LURTl.jpg" group-title="FILMES - FICÇÃO",Invasión (1969)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/98818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IO – O Último na Terra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1zlj72JhgveCoLLUuYayGcVyhw.jpg" group-title="FILMES - FICÇÃO",IO – O Último na Terra (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IO – O Último na Terra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1zlj72JhgveCoLLUuYayGcVyhw.jpg" group-title="FILMES - FICÇÃO",IO – O Último na Terra (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/104775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jack: O Caçador de Gigantes (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCp3BLjQc1qZTbw9VrEzuON9NEG.jpg" group-title="FILMES - FICÇÃO",Jack: O Caçador de Gigantes (2013)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/99359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Vorazes (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6jn53LMu07uPt8A42JWIKi1Beb.jpg" group-title="FILMES - FICÇÃO",Jogos Vorazes (2012)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Vorazes: A Esperança - O Final (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KSQkozSelQj6bq8NCKtINvsSSj.jpg" group-title="FILMES - FICÇÃO",Jogos Vorazes: A Esperança - O Final (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Vorazes: A Esperança - Parte 1 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hekpVNWOROZm57RS4OLW0ySkxx9.jpg" group-title="FILMES - FICÇÃO",Jogos Vorazes: A Esperança - Parte 1 (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Vorazes: Em Chamas (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1lky5ftnhLRpkoYWKssH8qvlRU.jpg" group-title="FILMES - FICÇÃO",Jogos Vorazes: Em Chamas (2013)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Johnny Mnemonic, o Cyborg do Futuro (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iH8Jgi8qvb7pnBfI8fVGaUbyRna.jpg" group-title="FILMES - FICÇÃO", o Cyborg do Futuro (1995)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/75622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jovens Bruxas: Nova Irmandade (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tZ3JJ2BevksKc0BwM4kdM3H6jV1.jpg" group-title="FILMES - FICÇÃO",Jovens Bruxas: Nova Irmandade (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="João e Maria: Caçadores de Bruxas (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNAOG8mvstBhUE1jhbGkB87G2VV.jpg" group-title="FILMES - FICÇÃO",João e Maria: Caçadores de Bruxas (2013)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/99431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jumbo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6PdiEQWUT3eNCNRrKyz4qqOMUw.jpg" group-title="FILMES - FICÇÃO",Jumbo (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/99557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kin (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyM6NktVICFnRj7tyvYBMUUq6g3.jpg" group-title="FILMES - FICÇÃO",Kin (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/100315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kingsman: O Círculo Dourado (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8lduAlGOXDYYKSlBeJ0CDyra0x.jpg" group-title="FILMES - FICÇÃO",Kingsman: O Círculo Dourado (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kingsman: Serviço Secreto (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6NVFbEAsLXMkD6UjwQ5InX2VZ8.jpg" group-title="FILMES - FICÇÃO",Kingsman: Serviço Secreto (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kronos: O Fim Da Humanidade? (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAlGYFGssx7BoWtAPsz76uYCPWG.jpg" group-title="FILMES - FICÇÃO",Kronos: O Fim Da Humanidade? (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/100323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loja de Unicórnios (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPi4SFZceSRD3Il9QiIDG6niTcT.jpg" group-title="FILMES - FICÇÃO",Loja de Unicórnios (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/100256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loucura do Tempo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XXc9fapIqFytmhxA3HxALfhi4j.jpg" group-title="FILMES - FICÇÃO",Loucura do Tempo (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/100268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lua de Júpiter (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yq55TlXbksYInqpWvDf7QckG9V.jpg" group-title="FILMES - FICÇÃO",Lua de Júpiter (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/81142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lua de Sangue (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr4yWDEJA5FGI6vWEDCP5Gllqtg.jpg" group-title="FILMES - FICÇÃO",Lua de Sangue (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/160661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lua Negra (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jjA9yK30Hm0sNcmuXJH5ZjQYkW.jpg" group-title="FILMES - FICÇÃO",Lua Negra (1975)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/100274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mad Max (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LNgfqTCR2FKFYT02oKjBj1NeKt.jpg" group-title="FILMES - FICÇÃO",Mad Max (1979)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mad Max 2: A Caçada Continua (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5inW7xf2kRoZDojXWfXLXK0fZ9z.jpg" group-title="FILMES - FICÇÃO",Mad Max 2: A Caçada Continua (1981)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mad Max: Além da Cúpula do Trovão (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4rv4JyeDmDKGaZgvmQxSkaCJXX.jpg" group-title="FILMES - FICÇÃO",Mad Max: Além da Cúpula do Trovão (1985)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mad Max: Estrada da Fúria (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tH64gzAHDFg7EFcgfkkZyHdGM5P.jpg" group-title="FILMES - FICÇÃO",Mad Max: Estrada da Fúria (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23823.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malévola (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFJ1wdt9jxDnjvf1Nz4AJf5fkuu.jpg" group-title="FILMES - FICÇÃO",Malévola (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malévola: Dona do Mal (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gpTx0f9rm3fSaWoIqWy42UgPVk.jpg" group-title="FILMES - FICÇÃO",Malévola: Dona do Mal (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Margaux: A Inteligência Mortal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//xUqJ8l6l3nAePq2TPGX4eVnkDqx.jpg" group-title="FILMES - FICÇÃO",Margaux: A Inteligência Mortal (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/208475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matrix (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDqMDI3xpbB9UQRyeXfei0MXhqb.jpg" group-title="FILMES - FICÇÃO",Matrix (1999)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/19222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matrix Reloaded (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7DdXOXP6mH2y7Fv7ujrk5tlsh7.jpg" group-title="FILMES - FICÇÃO",Matrix Reloaded (2003)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/19223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matrix Resurrections (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DT4WVqZqBEI9Kub18gZ3m1D89m.jpg" group-title="FILMES - FICÇÃO",Matrix Resurrections (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/73407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matrix Revolutions (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPsnWYgtHPghlF2p8maWWuXoMQN.jpg" group-title="FILMES - FICÇÃO",Matrix Revolutions (2003)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/19224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mayday (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNyaHdnXM5ewq0zI0qsdjrpMJ0g.jpg" group-title="FILMES - FICÇÃO",Mayday (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/101182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maze Runner: A Cura Mortal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBEpWurzTOiz520d1tRNhBXN7h9.jpg" group-title="FILMES - FICÇÃO",Maze Runner: A Cura Mortal (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maze Runner: Correr ou Morrer (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHnRw9Kccevck2KdmzJ8Xf7zczM.jpg" group-title="FILMES - FICÇÃO",Maze Runner: Correr ou Morrer (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maze Runner: Prova de Fogo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpdGT57Rn3mAZsNOkeDeINB6L9v.jpg" group-title="FILMES - FICÇÃO",Maze Runner: Prova de Fogo (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meia Noite e Um (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xK3d7mT6D7v2y8jp5Kv7c9FXzen.jpg" group-title="FILMES - FICÇÃO",Meia Noite e Um (1993)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/101194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meia Noite em Paris (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZLKPIPD1n687Xtb7L53voG0kGl.jpg" group-title="FILMES - FICÇÃO",Meia Noite em Paris (2011)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/101195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Memória Fragmentada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VscmBcqlTlOAZi7arTwtx8HStj.jpg" group-title="FILMES - FICÇÃO",Memória Fragmentada (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/81357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Sombrias (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbh5F9mWPFbbNsdXkjHMYmjncqQ.jpg" group-title="FILMES - FICÇÃO",Mentes Sombrias (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/101244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meteoro: A Fuga (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIxyRvHkgWvO66DnFgA2EGgQmpm.jpg" group-title="FILMES - FICÇÃO",Meteoro: A Fuga (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/73023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Amigo Totoro (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23KKTxDg6rxZVc66bloQQdPSr29.jpg" group-title="FILMES - FICÇÃO",Meu Amigo Totoro (1988)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/101254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Papai é Noel (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h39EEkZCT6K6k9uwkO3G2fk0UfV.jpg" group-title="FILMES - FICÇÃO",Meu Papai é Noel (1994)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/148290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Papai é Noel 2 (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKtcT1pZIR3eY8JkItZyuaQc72y.jpg" group-title="FILMES - FICÇÃO",Meu Papai é Noel 2 (2002)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/148277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MIB - Homens de Preto (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8vAXYbAZLIpsZAozbYj4aMttgV8.jpg" group-title="FILMES - FICÇÃO",MIB - Homens de Preto (1997)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MIB - Homens de Preto II (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSdBScrDKwigykf5X51mFAHusS1.jpg" group-title="FILMES - FICÇÃO",MIB - Homens de Preto II (2002)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MIB - Homens de Preto III (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOHPEDngKYdVhILHeaTbm6hmfg1.jpg" group-title="FILMES - FICÇÃO",MIB - Homens de Preto III (2012)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MIB Homens de Preto: Internacional (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxopI5VyShCeAlJf3X4Q1T40Bub.jpg" group-title="FILMES - FICÇÃO",MIB Homens de Preto: Internacional (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagre na Rua 34 (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXijZbmVxln5xwlzsaKzaZmVNId.jpg" group-title="FILMES - FICÇÃO",Milagre na Rua 34 (1994)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/148288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Zoe, Minha Vida (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRjDQti3zfY63DOmzid0N4uYrUP.jpg" group-title="FILMES - FICÇÃO", Minha Vida (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/26861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minhas Adoráveis Ex-Namoradas (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Hqz44MBvh9ZknMa34M8Gx7jb5y.jpg" group-title="FILMES - FICÇÃO",Minhas Adoráveis Ex-Namoradas (2009)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/101609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monstros do Homem (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoYHGazS5wLQFJe7tqZ39M8dA7Q.jpg" group-title="FILMES - FICÇÃO",Monstros do Homem (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/81380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonfall: Ameaça Lunar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ACl5NQBHeEvypdVlaaE868bwFs.jpg" group-title="FILMES - FICÇÃO",Moonfall: Ameaça Lunar (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/100109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Maravilha (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujQthWB6c0ojlARk28NSTmqidbF.jpg" group-title="FILMES - FICÇÃO",Mulher-Maravilha (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Maravilha 1984 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AweDlIiohqw4sjC7gCsPVd1zo77.jpg" group-title="FILMES - FICÇÃO",Mulher-Maravilha 1984 (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher? (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/951oQ2gBIK3jjp02Dqq3fxm4qYs.jpg" group-title="FILMES - FICÇÃO",Mulher? (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/217897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Máquinas Mortais (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBdtAsZNVPMOOYcq8zh0XULqU9T.jpg" group-title="FILMES - FICÇÃO",Máquinas Mortais (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe x Androides (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfEuG7GkU2LOiT2O32OEfynRJqV.jpg" group-title="FILMES - FICÇÃO",Mãe x Androides (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/80660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nekrotronic (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zT0G9rNziv26mx5Q2QS1ecwzaQ6.jpg" group-title="FILMES - FICÇÃO",Nekrotronic (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/21922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Limite da Realidade (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SbVGUGx4jnJoZAVgiRCJRdBD6e.jpg" group-title="FILMES - FICÇÃO",No Limite da Realidade (1983)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/102282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Olho do Furacão (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKugroGel7UUnM83Kcrn2afPTYB.jpg" group-title="FILMES - FICÇÃO",No Olho do Furacão (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nova Ordem Espacial (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f32ne52ClTPFL9Ew2aPUhKoVn9e.jpg" group-title="FILMES - FICÇÃO",Nova Ordem Espacial (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/25796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Feche os Olhos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vCBC2DX5jQjPpVe9oqeCa19l1Fo.jpg" group-title="FILMES - FICÇÃO",Não Feche os Olhos (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/81361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Feche os Olhos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2rDGHK5qDTemDare180EJxspe5.jpg" group-title="FILMES - FICÇÃO",Não Feche os Olhos (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/27031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Olhe para Cima (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Sc7Tjt7aPsdghYK32mDMFeZkqJ.jpg" group-title="FILMES - FICÇÃO",Não Olhe para Cima (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/75041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Arrebatamento 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nK01W0xiAfWmgftFSBWBZExcVKq.jpg" group-title="FILMES - FICÇÃO",O Arrebatamento 2 (2006)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/81425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Castelo Animado (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hTfaEWktMJPxCk5nZNtK7F86C9.jpg" group-title="FILMES - FICÇÃO",O Castelo Animado (2004)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/102852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Caçador e a Rainha do Gelo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIkesM1c2MxRuGitGiGZ9pmis7g.jpg" group-title="FILMES - FICÇÃO",O Caçador e a Rainha do Gelo (2016)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Culto (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2D0lOSwNAq1jUmeJgrdgPbBY9dK.jpg" group-title="FILMES - FICÇÃO",O Culto (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/102938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Céu da Meia-Noite (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgWWLoRyWvE5s6rrKgAIf2a0pni.jpg" group-title="FILMES - FICÇÃO",O Céu da Meia-Noite (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Destino de Júpiter (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1p4Fw1nqYOQcRgD63sJmX3ZjgU.jpg" group-title="FILMES - FICÇÃO",O Destino de Júpiter (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/102951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Elevador (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPdpX4JHv5fuJqqTMJPPNzrwBfv.jpg" group-title="FILMES - FICÇÃO",O Elevador (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Espaço Entre Nós (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ks84JvfZhjZZkmd7uVTYHUi81ge.jpg" group-title="FILMES - FICÇÃO",O Espaço Entre Nós (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Estranho Mundo de Jack (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyMGhuAWC7nYyolKJlFbT7pp02K.jpg" group-title="FILMES - FICÇÃO",O Estranho Mundo de Jack (1993)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/103359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Fantasma da Máquina (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbn7yUAOCPqGTXu5nY4dSjWiARo.jpg" group-title="FILMES - FICÇÃO",O Fantasma da Máquina (1993)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/144629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Filho do Máskara (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYiQoSOtnKqdlpIqNGr3JS7xKBx.jpg" group-title="FILMES - FICÇÃO",O Filho do Máskara (2005)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/81904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Fio Invisível (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88SjBbphHV55U6r4MpgEuGFdBLV.jpg" group-title="FILMES - FICÇÃO",O Fio Invisível (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/103419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Guardião dos Mundos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6McPx1oITdAFuaDlzl5NRCrcTOO.jpg" group-title="FILMES - FICÇÃO",O Guardião dos Mundos (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Bicentenário (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WEqZFMqi92KyweBbbNCwV8fDzp.jpg" group-title="FILMES - FICÇÃO",O Homem Bicentenário (1999)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/103394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem da Terra (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/10Zu585Eopx3tchb2DnLgjRcteh.jpg" group-title="FILMES - FICÇÃO",O Homem da Terra (2007)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/207121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Hóspede (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byuYlsxp53lRxa3jmgOjrpjdXOc.jpg" group-title="FILMES - FICÇÃO",O Hóspede (2011)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/103407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Sr. Blunden (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/woBicMCavmuqbgj4CiT84zB3rDq.jpg" group-title="FILMES - FICÇÃO",O Incrível Sr. Blunden (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/163842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Juiz (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVLxNo53QniZxxRaYPB3vY7PRFN.jpg" group-title="FILMES - FICÇÃO",O Juiz (1995)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/26851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Labirinto do Fauno (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53ZMT8Y18gwLpInzRLMEebAZxew.jpg" group-title="FILMES - FICÇÃO",O Labirinto do Fauno (2006)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/161702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mistério da Casa do Relógio (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nu63HA3CkIq245FphWi2zCObLVJ.jpg" group-title="FILMES - FICÇÃO",O Mistério da Casa do Relógio (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Paradoxo Cloverfield (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5tMtsPWiypKCKk0fHyjAqz93gU.jpg" group-title="FILMES - FICÇÃO",O Paradoxo Cloverfield (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/91850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Predador (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2B6yDvD0hre65fyRi9LC3UJ9uSq.jpg" group-title="FILMES - FICÇÃO",O Predador (1987)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/104282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Predador (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2B6yDvD0hre65fyRi9LC3UJ9uSq.jpg" group-title="FILMES - FICÇÃO",O Predador (1987)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/104284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Predador (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NQd3uDbOsEvpvDRGusZnUbRDOO.jpg" group-title="FILMES - FICÇÃO",O Predador (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Predador (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NQd3uDbOsEvpvDRGusZnUbRDOO.jpg" group-title="FILMES - FICÇÃO",O Predador (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/104283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Quarto Secreto (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEOAmwH3T3Hrfc8pWtlcE47VJpr.jpg" group-title="FILMES - FICÇÃO",O Quarto Secreto (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/163843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Quebra-Nozes e os Quatro Reinos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQziRQeYUIc9I3lVEcdwQJGy5dS.jpg" group-title="FILMES - FICÇÃO",O Quebra-Nozes e os Quatro Reinos (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rei Guerreiro (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6XBvViXzWH1JRc5NW5WHNtyNmG.jpg" group-title="FILMES - FICÇÃO",O Rei Guerreiro (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/104305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Reino Gelado 2 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZJGBPMZy2Fy1yFVHmLNK3BznP4.jpg" group-title="FILMES - FICÇÃO",O Reino Gelado 2 (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/104313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Sobrevivente (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGasiClJNhuQa80IZwwlV1Mb0Qm.jpg" group-title="FILMES - FICÇÃO",O Sobrevivente (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/112057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Soldado do Futuro (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4K6RAULPsyQtsztyByHSqfaJTz5.jpg" group-title="FILMES - FICÇÃO",O Soldado do Futuro (1998)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/104759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Troll da Montanha (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9qC2hL61IcVYEGyRonx6qakJWw.jpg" group-title="FILMES - FICÇÃO",O Troll da Montanha (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/147358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Universo no Olhar (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liySWQIA4AcpwAsEeTlS368IkF9.jpg" group-title="FILMES - FICÇÃO",O Universo no Olhar (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/104783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Caçador de Bruxas (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1ZUkSp18UvX53jaitbniAUXxZY.jpg" group-title="FILMES - FICÇÃO",O Último Caçador de Bruxas (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Onde Está Segunda? (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMeTPAh5mekQA77Ue8fgpzQpfFb.jpg" group-title="FILMES - FICÇÃO",Onde Está Segunda? (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/105393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operação Lua (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//ngDNlJhenTXDBsb9y1rUxH8ch5p.jpg" group-title="FILMES - FICÇÃO",Operação Lua (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/207023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os 12 Macacos (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//olT4pIcEwP3160jXETWP1zawaCe.jpg" group-title="FILMES - FICÇÃO",Os 12 Macacos (1995)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/82424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Caça-Fantasmas (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHDCkoSpljASWNZZ4IDQNyHKSsu.jpg" group-title="FILMES - FICÇÃO",Os Caça-Fantasmas (1984)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Caça-Fantasmas 2 (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hacjLeFkaqtsb3r9waXUeSoPUnn.jpg" group-title="FILMES - FICÇÃO",Os Caça-Fantasmas 2 (1989)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Fantasmas se Divertem (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUBUbtdeUxFK8CWyuV3Ca37LpiQ.jpg" group-title="FILMES - FICÇÃO",Os Fantasmas se Divertem (1988)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/105449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Instrumentos Mortais: Cidade dos Ossos (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWSPROw6QXxNeP4pwyMGOiv4lq5.jpg" group-title="FILMES - FICÇÃO",Os Instrumentos Mortais: Cidade dos Ossos (2013)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/82438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Novos Mutantes (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RcWaW43UWIJzhIp6bcmui2efd.jpg" group-title="FILMES - FICÇÃO",Os Novos Mutantes (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Portais (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGPUXyhQTOqskKdDOD3Fmicqfc0.jpg" group-title="FILMES - FICÇÃO",Os Portais (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/73249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Smurfs 2 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52p2PtBAebB0HwvfY5YIowT7sFI.jpg" group-title="FILMES - FICÇÃO",Os Smurfs 2 (2013)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/105485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Outlander: Guerreiro vs Predador (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vIc5fznKsQjE4d0H3H4Zy5bn9o.jpg" group-title="FILMES - FICÇÃO",Outlander: Guerreiro vs Predador (2008)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/82232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paciente Zero (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qefYo5f9bunDkqA28NxS77VzW25.jpg" group-title="FILMES - FICÇÃO",Paciente Zero (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/19221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Par Perfeito (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xFcKDY9RFUidat3VU8QIlSrZmf.jpg" group-title="FILMES - FICÇÃO",Par Perfeito (2010)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/106404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paralisia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nb3Pd0rx20JJb3QNg8Op75HKmFX.jpg" group-title="FILMES - FICÇÃO",Paralisia (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/106415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Passageiro Acidental (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n91IdvTOxogvs08HN0mYK7nY5T7.jpg" group-title="FILMES - FICÇÃO",Passageiro Acidental (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/27055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perdido em Marte (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6Uo3QAaUesiduyNX9hDLbaT9P8.jpg" group-title="FILMES - FICÇÃO",Perdido em Marte (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/106718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perdidos no Espaço (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lr3YP07PrcmH1ITSrsdHaUP3pb2.jpg" group-title="FILMES - FICÇÃO",Perdidos no Espaço (1998)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/106720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Piratas do Caribe: A Maldição do Pérola Negra (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Xcg7Ar4ketv4rl8yeK32yp9zQA.jpg" group-title="FILMES - FICÇÃO",Piratas do Caribe: A Maldição do Pérola Negra (2003)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Piratas do Caribe: A Vingança de Salazar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FavAT2tbkCvlGM5pbgnRgAlzIf.jpg" group-title="FILMES - FICÇÃO",Piratas do Caribe: A Vingança de Salazar (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Piratas do Caribe: Navegando em Águas Misteriosas (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdOc15GIOGJMqgsQXHUNeVHvVzM.jpg" group-title="FILMES - FICÇÃO",Piratas do Caribe: Navegando em Águas Misteriosas (2011)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Piratas do Caribe: No Fim do Mundo (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j15lZasREutscon6e61LSSNJoN7.jpg" group-title="FILMES - FICÇÃO",Piratas do Caribe: No Fim do Mundo (2007)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Piratas do Caribe: O Baú da Morte (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itQL3TgA6g6L3QfO7Wmile3Po3x.jpg" group-title="FILMES - FICÇÃO",Piratas do Caribe: O Baú da Morte (2006)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Planeta dos Macacos: A Guerra (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNAvlP4VYF6H6a4EyIcdZP9QBrM.jpg" group-title="FILMES - FICÇÃO",Planeta dos Macacos: A Guerra (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/112703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Planeta dos Macacos: O Confronto (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vLhF6R3lmhTjTVUdK4gI1s5a8v.jpg" group-title="FILMES - FICÇÃO",Planeta dos Macacos: O Confronto (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/104275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Planeta dos Macacos: O Confronto (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vLhF6R3lmhTjTVUdK4gI1s5a8v.jpg" group-title="FILMES - FICÇÃO",Planeta dos Macacos: O Confronto (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/106880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Planeta Proibido (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aq0OQfRS7hDDI8vyD0ICbH9eguC.jpg" group-title="FILMES - FICÇÃO",Planeta Proibido (1956)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/106881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Possuído (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvfSBB7z3ii0SdXOoLJDnknYGLK.jpg" group-title="FILMES - FICÇÃO",Possuído (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/163834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Power (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38teDX74nsxkv2ysWvNT5EPXQ9E.jpg" group-title="FILMES - FICÇÃO",Power (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/19487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers 2: Turbo (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12WiPNCitKVZ7Ff9c9aL18d6M6W.jpg" group-title="FILMES - FICÇÃO",Power Rangers 2: Turbo (1997)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/106938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Presas no Paraíso (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKuBMNDCrkE7c7YugHOpyWVwWSR.jpg" group-title="FILMES - FICÇÃO",Presas no Paraíso (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Projeto Almanaque (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2krLUKMsKbnZk6j647IlkqlMZ2u.jpg" group-title="FILMES - FICÇÃO",Projeto Almanaque (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/107597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Projeto Wetware (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//7NhzMMDyiHKOoOnEe4c8DYhu7Il.jpg" group-title="FILMES - FICÇÃO",Projeto Wetware (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/218994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prometheus (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1GZVllOORTiN0XTPdumt9CSAcc.jpg" group-title="FILMES - FICÇÃO",Prometheus (2012)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Próxima Parada: Apocalipse (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGf2Ms0ExStHa0QwZoreiykB63m.jpg" group-title="FILMES - FICÇÃO",Próxima Parada: Apocalipse (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/107605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pumpkinhead: A Vingança do Diabo (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKGOrsePSh721EewWCBVTstBNh4.jpg" group-title="FILMES - FICÇÃO",Pumpkinhead: A Vingança do Diabo (1988)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/144672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quando Chega a Calmaria (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pECCwVYrVO63IrjT5jR0UtFcT0u.jpg" group-title="FILMES - FICÇÃO",Quando Chega a Calmaria (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/134533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rainbow (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFg29SbNbXkcuSgbnwnTz4wie4x.jpg" group-title="FILMES - FICÇÃO",Rainbow (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/141300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rampage: Destruição Total (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bhqCvl771uepyt6wbzEiryxEoc.jpg" group-title="FILMES - FICÇÃO",Rampage: Destruição Total (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raposa de Fogo (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5kYzP2hljfdooEzl1lskWn7yoj.jpg" group-title="FILMES - FICÇÃO",Raposa de Fogo (1982)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/82485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Redenção (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CKKVhJq1Qu83HWeG4s3B8cRIIm.jpg" group-title="FILMES - FICÇÃO",Redenção (2016)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/82495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Refúgio (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tdzIzxZEYBFn0pi9aG0dCgl7Tr.jpg" group-title="FILMES - FICÇÃO",Refúgio (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/82041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Revolta (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVGX8gH9Z2jhh5WSjUXeLop4tn8.jpg" group-title="FILMES - FICÇÃO",Revolta (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Revolta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vp502uypaibcyQyTmabNSBoX86N.jpg" group-title="FILMES - FICÇÃO",Revolta (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/107750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Riddick 3 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoNsvIBOIVegeCTzQBiOZUpC5Ml.jpg" group-title="FILMES - FICÇÃO",Riddick 3 (2013)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RoboCop (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vFsWZGc2ciJVt888FbeKBKWv16.jpg" group-title="FILMES - FICÇÃO",RoboCop (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/18805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rubikon: Ponto Sem Retorno (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8i2uZmhVk6lkqierZLFnBHnL24q.jpg" group-title="FILMES - FICÇÃO",Rubikon: Ponto Sem Retorno (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/142514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sereias - Elas Existem (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydje305YYUys5m0O1O95gm4mwCw.jpg" group-title="FILMES - FICÇÃO",Sereias - Elas Existem (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Skyline: A Invasão (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ne2xAzlgSaWvBrYGw2LkO8W5pHi.jpg" group-title="FILMES - FICÇÃO",Skyline: A Invasão (2010)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/82555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Skylines 3 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2W4ZvACURDyhiNnSIaFPHfNbny3.jpg" group-title="FILMES - FICÇÃO",Skylines 3 (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/38568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra Lunar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCIF7srS60AK6Ejrb3s5HkCOHSz.jpg" group-title="FILMES - FICÇÃO",Sombra Lunar (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/19420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonho de Uma Noite de Verão - O Filme (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnE1nnCAsVDmFRdefg2pQxROt5K.jpg" group-title="FILMES - FICÇÃO",Sonho de Uma Noite de Verão - O Filme (1996)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/82566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spiderhead (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hTK0J9SGPLSTFwcbU0ELlJsnAY.jpg" group-title="FILMES - FICÇÃO",Spiderhead (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/120693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Splice - A Nova Espécie (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxZibGnPJJTq47J63RUSxG2vDf5.jpg" group-title="FILMES - FICÇÃO",Splice - A Nova Espécie (2009)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/109141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sr. Ninguém (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rHi1zLK0bnbrlB42B5xqD1oM2C7.jpg" group-title="FILMES - FICÇÃO",Sr. Ninguém (2009)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/148330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superinteligência (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupcc4ZF7BV4ofsSIArOkffXwWy.jpg" group-title="FILMES - FICÇÃO",Superinteligência (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/38569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superman 2: A Aventura Continua (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oOpi5evcEfw5w9hn09Re1VWvI8.jpg" group-title="FILMES - FICÇÃO",Superman 2: A Aventura Continua (1980)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/109168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superman: O Filme (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKK8syhz0sEoRVjb6OKULuMLCq3.jpg" group-title="FILMES - FICÇÃO",Superman: O Filme (1978)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/109170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Synchronic (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GhVw9LDcVTRRdiExyqhLCVhi43.jpg" group-title="FILMES - FICÇÃO",Synchronic (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/26869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tau (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqYOlCee3X7cKg05EOQH1htcHmy.jpg" group-title="FILMES - FICÇÃO",Tau (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/109332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tem Alienígenas no meu Quarto (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25KcoQPWwftvPzRRGGFB3I8Cnx8.jpg" group-title="FILMES - FICÇÃO",Tem Alienígenas no meu Quarto (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tempestade: Planeta em Fúria (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHg6a64rTJHBZ0N0vEu17HGOsnJ.jpg" group-title="FILMES - FICÇÃO",Tempestade: Planeta em Fúria (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/18256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tenet (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg" group-title="FILMES - FICÇÃO",Tenet (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terra à Deriva (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgXQFqjxQSeKZIQV3dmmh6fPOkT.jpg" group-title="FILMES - FICÇÃO",Terra à Deriva (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Changed (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfDa9X1SqgnMwSdLMiFprmKcLd8.jpg" group-title="FILMES - FICÇÃO",The Changed (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/101046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Connection (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4lzSUomhF0NvM2FQcp0y9EtkCr.jpg" group-title="FILMES - FICÇÃO",The Connection (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/26331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mortuary Collection (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WXeYnezavNI6hXH74aQYv6yFzj.jpg" group-title="FILMES - FICÇÃO",The Mortuary Collection (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/83744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Outer Wild (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvzoBJl5pnWgQ8wjREZpWEeaHdS.jpg" group-title="FILMES - FICÇÃO",The Outer Wild (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/83746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transformers: A Era da Extinção (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyDVzU2A8bdK4fsS4rWTsDcPPEB.jpg" group-title="FILMES - FICÇÃO",Transformers: A Era da Extinção (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/83792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transformers: A Vingança dos Derrotados (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZRc6MekG9uD56VtRqQysmHjdeI.jpg" group-title="FILMES - FICÇÃO",Transformers: A Vingança dos Derrotados (2009)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/83793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transformers: O Lado Oculto da Lua (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B1o592zAr0pny4qPGceT56Ug2m.jpg" group-title="FILMES - FICÇÃO",Transformers: O Lado Oculto da Lua (2011)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trocando os Pés (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0OL6zpJepJW5C6yPsAFRTGqGCg.jpg" group-title="FILMES - FICÇÃO",Trocando os Pés (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/163410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tron: Uma Odisseia Eletrônica (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3eqQWTOzLciknJLWpRP5GNObpT.jpg" group-title="FILMES - FICÇÃO",Tron: Uma Odisseia Eletrônica (1982)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/109535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tropas Estelares (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xb6NkoDkbep6lhn8K6YDPitALpr.jpg" group-title="FILMES - FICÇÃO",Tropas Estelares (1997)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ufo - Estamos Sozinhos? (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQXidvkYTF3emnh9TtxGQ0HhwjX.jpg" group-title="FILMES - FICÇÃO",Ufo - Estamos Sozinhos? (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/110142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ultraman R&B: O Filme - O Cristal da União (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xSRDVb7lyXlarTbqmwhkS027KH.jpg" group-title="FILMES - FICÇÃO",Ultraman R&B: O Filme - O Cristal da União (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/19488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ultravioleta (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f22q6UGTq0IRL7uM6hzqwjpW5DQ.jpg" group-title="FILMES - FICÇÃO",Ultravioleta (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/110145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Faz de Conta Que Acontece (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A95nNrCa98PTUHxBP3pCmcdkmZT.jpg" group-title="FILMES - FICÇÃO",Um Faz de Conta Que Acontece (2008)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/84004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Noite Alucinante 3 (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45ZqwOsINwknEc3HKtnGErvZhjR.jpg" group-title="FILMES - FICÇÃO",Uma Noite Alucinante 3 (1992)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/110254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Undergods: Contos do Submundo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//puVUV2UWmuN6a4E0givje2q1HRu.jpg" group-title="FILMES - FICÇÃO",Undergods: Contos do Submundo (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/217326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Upa – Meu Monstro Favorito (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmiaX4otZ78UyavaO24Ap1kNOF.jpg" group-title="FILMES - FICÇÃO",Upa – Meu Monstro Favorito (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viagem ao Centro da Terra (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7KHgqrsNe7DOU3XIcPEuP7xMECV.jpg" group-title="FILMES - FICÇÃO",Viagem ao Centro da Terra (1959)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/110375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viagem à Lua de Júpiter (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZUZk6PZZwn1o3guQBzewhi4H4x.jpg" group-title="FILMES - FICÇÃO",Viagem à Lua de Júpiter (2013)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/84072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viajantes - Instinto e Desejo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50mYEEOiueKarAhlHAz5qOTuIzX.jpg" group-title="FILMES - FICÇÃO",Viajantes - Instinto e Desejo (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/44655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vida (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKacW7BlSPHYvklyhSHvJrNl1CO.jpg" group-title="FILMES - FICÇÃO",Vida (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/110385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viveiro (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KgPkiGDPo4AutgAypNaQE17Bkt.jpg" group-title="FILMES - FICÇÃO",Viveiro (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/19437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Volcano (1942)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lki1fwPWfG3b6exnCevz7aSYBKw.jpg" group-title="FILMES - FICÇÃO",Volcano (1942)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/110446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Voldemort" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzjrL2KBb1xjbcqTKY3han9VbvE.jpg" group-title="FILMES - FICÇÃO",Voldemort
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Voltando do Inferno (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XVuzv16QH63OUMGIHrfBOctWUM.jpg" group-title="FILMES - FICÇÃO",Voltando do Inferno (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/110451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wander (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyMb0It6tKX3pE5l83hX9L9F5Gs.jpg" group-title="FILMES - FICÇÃO",Wander (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/44659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Warning (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7h9pn5dDOYAkJ3DhttkcXIoWIux.jpg" group-title="FILMES - FICÇÃO",Warning (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/82048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wolverine: Imortal (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCP2JfaRFdrFjxiXTUdNnfvyJ2K.jpg" group-title="FILMES - FICÇÃO",Wolverine: Imortal (2013)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wu Kong: Contra a Ira dos Deuses (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGk95dWcHnAxh7mTm0o5qXQqaGD.jpg" group-title="FILMES - FICÇÃO",Wu Kong: Contra a Ira dos Deuses (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/110479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 2 (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWMw0FMsY8DICgrQnrTSWbzEgtr.jpg" group-title="FILMES - FICÇÃO",X-Men 2 (2003)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men Origens: Wolverine (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xjVVXVXWU8qt1umkeTJd8sImBC.jpg" group-title="FILMES - FICÇÃO",X-Men Origens: Wolverine (2009)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men: Apocalipse (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6OjCxF8DW9huIdAPshWJpO0ldx.jpg" group-title="FILMES - FICÇÃO",X-Men: Apocalipse (2016)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men: Dias de um Futuro Esquecido (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bUm0nSsTA6kfFfZHgNbNFisVe7M.jpg" group-title="FILMES - FICÇÃO",X-Men: Dias de um Futuro Esquecido (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men: O Confronto Final (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7klqeHzrukZTFVgB4xEOIzqKcZ3.jpg" group-title="FILMES - FICÇÃO",X-Men: O Confronto Final (2006)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men: O Filme (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTAK1gU8vTaHt0W9I6PFYQsdhKP.jpg" group-title="FILMES - FICÇÃO",X-Men: O Filme (2000)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men: Primeira Classe (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqTCbMhG9X93sly2fvyiu6sHPIS.jpg" group-title="FILMES - FICÇÃO",X-Men: Primeira Classe (2011)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zoe (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hagf4LA3FRD2o1wI3LhNzl0t5vo.jpg" group-title="FILMES - FICÇÃO",Zoe (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/110487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zona Fria (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7e6HVE6JOJhZREu8SsZV2pLZyce.jpg" group-title="FILMES - FICÇÃO",Zona Fria (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/110493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zone 414 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIq2UwwrrVP033Mk3G5paUwYnp.jpg" group-title="FILMES - FICÇÃO",Zone 414 (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/80796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Awareness (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msgWkL23ZslTVZJRYJIng83mYny.jpg" group-title="FILMES - FICÇÃO",Awareness (2023)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/222396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superman: O Retorno (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7RZRxVuxjzX3sfyzjtn4SHmE9G.jpg" group-title="FILMES - FICÇÃO",Superman: O Retorno (2006)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/222689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Invasores (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//wTa17vyDah7zgOpmETbiMPqE0Uy.jpg" group-title="FILMES - FICÇÃO",Os Invasores (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/225675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="12 Horas Para o Fim do Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//gurQloozD4oBjjCBhqm3KPjxWxL.jpg" group-title="FILMES - FICÇÃO",12 Horas Para o Fim do Mundo (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/225709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prancer: Um Conto de Natal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//vdubjRZoszEOHFYr6FpIdqrKvxJ.jpg" group-title="FILMES - FICÇÃO",Prancer: Um Conto de Natal (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/225725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missão: Marte (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//ypPBUHYgs4q9Jp80kI3nqUviv3D.jpg" group-title="FILMES - FICÇÃO",Missão: Marte (2000)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/225922.mp4
