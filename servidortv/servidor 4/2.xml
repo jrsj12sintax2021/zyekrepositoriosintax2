@@ -1,0 +1,93 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="BR - BIS HD" tvg-name="BIS  FHD[H265]" tvg-logo="http://p6.vc/ONR" group-title="Canais | Art & Music",BIS  FHD[H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30177.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - BIS HD" tvg-name="BIS FHD" tvg-logo="http://p6.vc/ONP" group-title="Canais | Art & Music",BIS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/5.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - BIS HD" tvg-name="BIS HD" tvg-logo="http://p6.vc/AFQ" group-title="Canais | Art & Music",BIS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/18.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - BIS HD" tvg-name="BIS SD" tvg-logo="http://p6.vc/AFL" group-title="Canais | Art & Music",BIS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/12.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Fashion TV" tvg-name="FashionTV FHD" tvg-logo="http://p6.vc/ONW" group-title="Canais | Art & Music",FashionTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/38526.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Fashion TV" tvg-name="FashionTV FHD [H265]" tvg-logo="http://p6.vc/ONT" group-title="Canais | Art & Music",FashionTV FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30184.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Fashion TV" tvg-name="FashionTV HD" tvg-logo="http://p6.vc/ONV" group-title="Canais | Art & Music",FashionTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/38525.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="LIKE FHD" tvg-logo="http://p6.vc/VAX" group-title="Canais | Art & Music",LIKE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/125219.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="LIKE HD" tvg-logo="http://p6.vc/VAW" group-title="Canais | Art & Music",LIKE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/125218.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - MTV Brasil" tvg-name="MTV  FHD[H265]" tvg-logo="http://p6.vc/VAO" group-title="Canais | Art & Music",MTV  FHD[H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30175.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="MTV 00s" tvg-name="MTV 00s FHD" tvg-logo="http://p6.vc/VAV" group-title="Canais | Art & Music",MTV 00s FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/108973.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="MTV 00s" tvg-name="MTV 00s FHD[H265]" tvg-logo="http://p6.vc/VAS" group-title="Canais | Art & Music",MTV 00s FHD[H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/90688.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="MTV 00s" tvg-name="MTV 00s HD" tvg-logo="http://p6.vc/VAR" group-title="Canais | Art & Music",MTV 00s HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/90687.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="MTV 00s" tvg-name="MTV 00s SD" tvg-logo="http://p6.vc/AFH" group-title="Canais | Art & Music",MTV 00s SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/8.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - MTV Brasil" tvg-name="MTV FHD" tvg-logo="http://p6.vc/VAF" group-title="Canais | Art & Music",MTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/1.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - MTV Brasil" tvg-name="MTV HD" tvg-logo="http://p6.vc/VAK" group-title="Canais | Art & Music",MTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/15.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV Live FHD" tvg-logo="http://p6.vc/VAG" group-title="Canais | Art & Music",MTV Live FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/2.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV Live FHD [H265]" tvg-logo="http://p6.vc/VAL" group-title="Canais | Art & Music",MTV Live FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30172.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV Live HD" tvg-logo="http://p6.vc/AFM" group-title="Canais | Art & Music",MTV Live HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/13.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV Live SD" tvg-logo="http://p6.vc/VAJ" group-title="Canais | Art & Music",MTV Live SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/6.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - MTV Brasil" tvg-name="MTV SD" tvg-logo="http://p6.vc/AFI" group-title="Canais | Art & Music",MTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/9.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Multishow" tvg-name="Multishow FHD" tvg-logo="http://p6.vc/VAH" group-title="Canais | Art & Music",Multishow FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/3.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Multishow" tvg-name="MultiShow FHD [H265]" tvg-logo="http://p6.vc/VAM" group-title="Canais | Art & Music",MultiShow FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30173.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Multishow" tvg-name="MultiShow HD" tvg-logo="http://p6.vc/AFO" group-title="Canais | Art & Music",MultiShow HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/16.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Multishow" tvg-name="MultiShow SD" tvg-logo="http://p6.vc/AFJ" group-title="Canais | Art & Music",MultiShow SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/10.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Music Box Brasil" tvg-name="Music BOX Brasil FHD" tvg-logo="http://p6.vc/VAI" group-title="Canais | Art & Music",Music BOX Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/4.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Music Box Brasil" tvg-name="Music Box Brasil FHD[H265]" tvg-logo="http://p6.vc/VAP" group-title="Canais | Art & Music",Music Box Brasil FHD[H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30176.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Music Box Brasil" tvg-name="Music Box Brasil HD" tvg-logo="http://p6.vc/AFP" group-title="Canais | Art & Music",Music Box Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/17.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Music Box Brasil" tvg-name="Music Box Brasil SD" tvg-logo="http://p6.vc/AFK" group-title="Canais | Art & Music",Music Box Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/11.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Sabor & Arte" tvg-name="Sabor e Arte FHD" tvg-logo="" group-title="Canais | Art & Music",Sabor e Arte FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/127312.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Sabor & Arte" tvg-name="Sabor e Arte HD" tvg-logo="" group-title="Canais | Art & Music",Sabor e Arte HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/127311.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="Trace Brazuca FHD" tvg-logo="http://p6.vc/VAQ" group-title="Canais | Art & Music",Trace Brazuca FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/50878.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="Trace Brazuca HD" tvg-logo="http://p6.vc/VAU" group-title="Canais | Art & Music",Trace Brazuca HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/90690.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="Trace Brazuca SD" tvg-logo="http://p6.vc/VAT" group-title="Canais | Art & Music",Trace Brazuca SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/90689.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - WooHoo" tvg-name="WooHoo FHD" tvg-logo="http://p6.vc/AJW" group-title="Canais | Art & Music",WooHoo FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/133.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - WooHoo" tvg-name="WooHoo FHD [H265]" tvg-logo="http://p6.vc/VAN" group-title="Canais | Art & Music",WooHoo FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30174.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - WooHoo" tvg-name="WOOHOO HD" tvg-logo="http://p6.vc/AFN" group-title="Canais | Art & Music",WOOHOO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/14.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - WooHoo" tvg-name="WOOHOO SD" tvg-logo="http://p6.vc/AFG" group-title="Canais | Art & Music",WOOHOO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/7.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - MTV Brasil" tvg-name="MTV FHD [HDR]" tvg-logo="http://p6.vc/VAO" group-title="Canais | Art & Music",MTV FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130221.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV LIVE FHD [HDR]" tvg-logo="http://p6.vc/VAL" group-title="Canais | Art & Music",MTV LIVE FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130222.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - MTV Brasil" tvg-name="MTVs 00 FHD [HDR]" tvg-logo="http://p6.vc/VAS" group-title="Canais | Art & Music",MTVs 00 FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130223.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Multishow" tvg-name="Multishow FHD [HDR]" tvg-logo="http://p6.vc/AFO" group-title="Canais | Art & Music",Multishow FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130224.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Music Box Brasil" tvg-name="Music Box Brasil FHD [HDR]" tvg-logo="http://p6.vc/VAP" group-title="Canais | Art & Music",Music Box Brasil FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130225.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Sabor & Arte" tvg-name="Sabor e Arte FHD [HDR]" tvg-logo="http://p6.vc/AAME" group-title="Canais | Art & Music",Sabor e Arte FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130228.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="Trace Brazuca FHD [HDR]" tvg-logo="http://p6.vc/VAU" group-title="Canais | Art & Music",Trace Brazuca FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130226.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - WooHoo" tvg-name="Woohoo FHD [HDR]" tvg-logo="http://p6.vc/VAN" group-title="Canais | Art & Music",Woohoo FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130227.m3u8|User-Agent=FooBar/1.2.3
