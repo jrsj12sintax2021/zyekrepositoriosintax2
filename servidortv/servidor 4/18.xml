@@ -1,0 +1,47 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="BR - Canção Nova" tvg-name="Cancao Nova HD" tvg-logo="http://p6.vc/VPV" group-title="Canais | Religiosos",Cancao Nova HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/33379.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Canção Nova" tvg-name="Cancao Nova SD" tvg-logo="http://p6.vc/AYG" group-title="Canais | Religiosos",Cancao Nova SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/552.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - TV Novo Tempo" tvg-name="Novo Tempo FHD [H265]" tvg-logo="http://p6.vc/VPU" group-title="Canais | Religiosos",Novo Tempo FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30294.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - TV Novo Tempo" tvg-name="Novo Tempo HD" tvg-logo="http://p6.vc/VQD" group-title="Canais | Religiosos",Novo Tempo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/56182.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - TV Novo Tempo" tvg-name="Novo Tempo SD" tvg-logo="http://p6.vc/VQC" group-title="Canais | Religiosos",Novo Tempo SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/56181.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Rede21.br" tvg-name="Rede 21 HD" tvg-logo="http://p6.vc/VRI" group-title="Canais | Religiosos",Rede 21 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/69081.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Rede Plenitude TV HD" tvg-logo="http://p6.vc/VQF" group-title="Canais | Religiosos",Rede Plenitude TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/69082.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="Rede Vida FHD" tvg-logo="http://p6.vc/VPR" group-title="Canais | Religiosos",Rede Vida FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/545.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="Rede Vida HD" tvg-logo="http://p6.vc/AYC" group-title="Canais | Religiosos",Rede Vida HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/547.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="Rede Vida SD" tvg-logo="http://p6.vc/AYF" group-title="Canais | Religiosos",Rede Vida SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/551.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Santa Cruz Web Tv HD" tvg-logo="http://p6.vc/VQA" group-title="Canais | Religiosos",Santa Cruz Web Tv HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/53339.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - TV Aparecida" tvg-name="Tv Aparecida SD" tvg-logo="http://p6.vc/VPS" group-title="Canais | Religiosos",Tv Aparecida SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/548.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar" tvg-logo="http://p6.vc/VPY" group-title="Canais | Religiosos",TV Evangelizar
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/53335.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar Maringa HD" tvg-logo="http://p6.vc/VPZ" group-title="Canais | Religiosos",TV Evangelizar Maringa HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/53337.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar SD" tvg-logo="http://p6.vc/VQH" group-title="Canais | Religiosos",TV Evangelizar SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/109555.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV Gideoes HD" tvg-logo="http://p6.vc/VQG" group-title="Canais | Religiosos",TV Gideoes HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/69083.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="TV Pai Eterno" tvg-name="TV Pai Eterno" tvg-logo="http://p6.vc/VPT" group-title="Canais | Religiosos",TV Pai Eterno
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/5342.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno HD" tvg-logo="http://p6.vc/VQE" group-title="Canais | Religiosos",TV Pai Eterno HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/69080.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="RedeGospel.br" tvg-name="TV Rede Gospel" tvg-logo="http://p6.vc/VPX" group-title="Canais | Religiosos",TV Rede Gospel
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/53333.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="TV Universal (IURD)" tvg-logo="http://p6.vc/VPW" group-title="Canais | Religiosos",TV Universal (IURD)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/53286.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Tv Vianney HD" tvg-logo="http://p6.vc/VQB" group-title="Canais | Religiosos",Tv Vianney HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/53340.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - VIVA" tvg-name="VIVA FHD[H265]" tvg-logo="http://p6.vc/VMI" group-title="Canais | Religiosos",VIVA FHD[H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30298.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="[PT] ADB TV" tvg-logo="http://p6.vc/BJL" group-title="Canais | Religiosos",[PT] ADB TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/874.m3u8|User-Agent=FooBar/1.2.3
