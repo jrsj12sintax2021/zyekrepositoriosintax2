@@ -1,0 +1,263 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E FHD" tvg-logo="http://p6.vc/APQ" group-title="Canais | Filmes e Séries",A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/293.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E FHD [H265]" tvg-logo="http://p6.vc/WHI" group-title="Canais | Filmes e Séries",A&E FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30227.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E HD" tvg-logo="http://p6.vc/APV" group-title="Canais | Filmes e Séries",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/299.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E SD" tvg-logo="http://p6.vc/APV" group-title="Canais | Filmes e Séries",A&E SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/324.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC FHD" tvg-logo="http://p6.vc/WGS" group-title="Canais | Filmes e Séries",AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/294.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - AMC Brasil" tvg-name="AMC FHD [H265]" tvg-logo="http://p6.vc/WHJ" group-title="Canais | Filmes e Séries",AMC FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30228.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - AMC Brasil" tvg-name="AMC HD" tvg-logo="http://p6.vc/APW" group-title="Canais | Filmes e Séries",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/300.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - AMC Brasil" tvg-name="AMC SD" tvg-logo="http://p6.vc/AQS" group-title="Canais | Filmes e Séries",AMC SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/325.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN FHD" tvg-logo="http://p6.vc/APR" group-title="Canais | Filmes e Séries",AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/295.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN FHD[H265]" tvg-logo="http://p6.vc/WGX" group-title="Canais | Filmes e Séries",AXN FHD[H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30206.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN HD" tvg-logo="http://p6.vc/APX" group-title="Canais | Filmes e Séries",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/301.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN SD" tvg-logo="http://p6.vc/AQT" group-title="Canais | Filmes e Séries",AXN SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/326.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Canal Brasil" tvg-name="Canal Brasil FHD" tvg-logo="http://p6.vc/APU" group-title="Canais | Filmes e Séries",Canal Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/298.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Canal Brasil" tvg-name="Canal Brasil FHD [H265]" tvg-logo="http://p6.vc/WHL" group-title="Canais | Filmes e Séries",Canal Brasil FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30233.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Canal Brasil" tvg-name="Canal Brasil HD" tvg-logo="http://p6.vc/AQP" group-title="Canais | Filmes e Séries",Canal Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/322.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Canal Brasil" tvg-name="Canal Brasil SD" tvg-logo="http://p6.vc/ARP" group-title="Canais | Filmes e Séries",Canal Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/349.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="Cinecanal HD" tvg-logo="http://p6.vc/XTL" group-title="Canais | Filmes e Séries",Cinecanal HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/132946.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="Cinecanal SD" tvg-logo="http://p6.vc/XTN" group-title="Canais | Filmes e Séries",Cinecanal SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/132948.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Cinemax" tvg-name="CineMax FHD" tvg-logo="http://p6.vc/AOY" group-title="Canais | Filmes e Séries",CineMax FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/275.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Cinemax" tvg-name="CineMax FHD[H265]" tvg-logo="http://p6.vc/WHB" group-title="Canais | Filmes e Séries",CineMax FHD[H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30215.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Cinemax" tvg-name="CineMax HD" tvg-logo="http://p6.vc/APZ" group-title="Canais | Filmes e Séries",CineMax HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/303.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Cinemax" tvg-name="CineMax SD" tvg-logo="http://p6.vc/AQV" group-title="Canais | Filmes e Séries",CineMax SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/328.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Film & Arts" tvg-name="Film&Arts HD" tvg-logo="http://p6.vc/WKJ" group-title="Canais | Filmes e Séries",Film&Arts HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/92668.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Film & Arts" tvg-name="Film&Arts SD" tvg-logo="http://p6.vc/ARO" group-title="Canais | Filmes e Séries",Film&Arts SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/348.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - FX" tvg-name="FX FHD" tvg-logo="http://p6.vc/APC" group-title="Canais | Filmes e Séries",FX FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/279.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - FX" tvg-name="FX FHD [H265]" tvg-logo="http://p6.vc/WGY" group-title="Canais | Filmes e Séries",FX FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30211.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - FX" tvg-name="FX HD" tvg-logo="http://p6.vc/WGT" group-title="Canais | Filmes e Séries",FX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/308.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - FX" tvg-name="FX SD" tvg-logo="http://p6.vc/ARA" group-title="Canais | Filmes e Séries",FX SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/333.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Movie TV HD" tvg-logo="" group-title="Canais | Filmes e Séries",Gospel Movie TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/69085.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Lifetime Brazil" tvg-name="Life Time FHD" tvg-logo="http://p6.vc/APD" group-title="Canais | Filmes e Séries",Life Time FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/280.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Lifetime Brazil" tvg-name="Life Time FHD [H265]" tvg-logo="http://p6.vc/WJO" group-title="Canais | Filmes e Séries",Life Time FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30217.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Lifetime Brazil" tvg-name="Life Time HD" tvg-logo="http://p6.vc/AQE" group-title="Canais | Filmes e Séries",Life Time HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/309.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Lifetime Brazil" tvg-name="Life Time SD" tvg-logo="http://p6.vc/ARB" group-title="Canais | Filmes e Séries",Life Time SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/334.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Megapix" tvg-name="MegaPix FHD" tvg-logo="http://p6.vc/APE" group-title="Canais | Filmes e Séries",MegaPix FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/281.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Megapix" tvg-name="MegaPix FHD[H265]" tvg-logo="http://p6.vc/WHC" group-title="Canais | Filmes e Séries",MegaPix FHD[H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30218.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Megapix" tvg-name="Megapix HD" tvg-logo="http://p6.vc/AQF" group-title="Canais | Filmes e Séries",Megapix HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/310.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Megapix" tvg-name="MegaPix SD" tvg-logo="http://p6.vc/ARC" group-title="Canais | Filmes e Séries",MegaPix SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/335.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Paramount Channel" tvg-name="Paramount Network FHD" tvg-logo="http://p6.vc/APS" group-title="Canais | Filmes e Séries",Paramount Network FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/296.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Paramount Channel" tvg-name="Paramount Network FHD[H265]" tvg-logo="http://p6.vc/APS" group-title="Canais | Filmes e Séries",Paramount Network FHD[H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30213.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Paramount Channel" tvg-name="Paramount Network HD" tvg-logo="http://p6.vc/APS" group-title="Canais | Filmes e Séries",Paramount Network HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/311.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Paramount Channel" tvg-name="Paramount Network SD" tvg-logo="http://p6.vc/APS" group-title="Canais | Filmes e Séries",Paramount Network SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/336.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Sony" tvg-name="Sony Channel FHD" tvg-logo="http://p6.vc/AOX" group-title="Canais | Filmes e Séries",Sony Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/274.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Sony" tvg-name="Sony Channel FHD [H265]" tvg-logo="http://p6.vc/WJN" group-title="Canais | Filmes e Séries",Sony Channel FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30216.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Sony" tvg-name="Sony Channel HD" tvg-logo="http://p6.vc/APY" group-title="Canais | Filmes e Séries",Sony Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/302.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Sony" tvg-name="Sony Channel SD" tvg-logo="http://p6.vc/AQU" group-title="Canais | Filmes e Séries",Sony Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/327.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Space" tvg-name="Space FHD" tvg-logo="http://p6.vc/APF" group-title="Canais | Filmes e Séries",Space FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/282.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Space" tvg-name="Space FHD[H265]" tvg-logo="http://p6.vc/WHA" group-title="Canais | Filmes e Séries",Space FHD[H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30214.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Space" tvg-name="Space HD" tvg-logo="http://p6.vc/AQI" group-title="Canais | Filmes e Séries",Space HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/313.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Space" tvg-name="Space SD" tvg-logo="http://p6.vc/WGV" group-title="Canais | Filmes e Séries",Space SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/338.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="STAR.Channel.br" tvg-name="Star Channel FHD" tvg-logo="http://p6.vc/APP" group-title="Canais | Filmes e Séries",Star Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/292.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="STAR.Channel.br" tvg-name="Star Channel FHD[H265]" tvg-logo="http://p6.vc/WJM" group-title="Canais | Filmes e Séries",Star Channel FHD[H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30207.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="STAR.Channel.br" tvg-name="Star Channel HD" tvg-logo="http://p6.vc/AQA" group-title="Canais | Filmes e Séries",Star Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/304.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="STAR.Channel.br" tvg-name="Star Channel SD" tvg-logo="http://p6.vc/AQW" group-title="Canais | Filmes e Séries",Star Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/329.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Studio.Universal.br" tvg-name="Studio Universal FHD" tvg-logo="http://p6.vc/APG" group-title="Canais | Filmes e Séries",Studio Universal FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/283.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Studio Universal" tvg-name="Studio Universal FHD[H265]" tvg-logo="http://p6.vc/WHD" group-title="Canais | Filmes e Séries",Studio Universal FHD[H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30221.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Studio Universal" tvg-name="Studio Universal HD" tvg-logo="http://p6.vc/WGU" group-title="Canais | Filmes e Séries",Studio Universal HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/320.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Studio Universal" tvg-name="Studio Universal SD" tvg-logo="http://p6.vc/ARM" group-title="Canais | Filmes e Séries",Studio Universal SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/346.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Syfy" tvg-name="SYFY FHD" tvg-logo="http://p6.vc/APH" group-title="Canais | Filmes e Séries",SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/284.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Syfy" tvg-name="SyFy FHD [H265]" tvg-logo="http://p6.vc/WHE" group-title="Canais | Filmes e Séries",SyFy FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30222.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Syfy" tvg-name="SyFy HD" tvg-logo="http://p6.vc/AQH" group-title="Canais | Filmes e Séries",SyFy HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/312.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Syfy" tvg-name="SyFy SD" tvg-logo="http://p6.vc/ARE" group-title="Canais | Filmes e Séries",SyFy SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/337.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - TBS" tvg-name="TBS FHD" tvg-logo="http://p6.vc/API" group-title="Canais | Filmes e Séries",TBS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/285.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - TBS" tvg-name="TBS FHD [H265]" tvg-logo="http://p6.vc/WHF" group-title="Canais | Filmes e Séries",TBS FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30223.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - TBS" tvg-name="TBS HD" tvg-logo="http://p6.vc/AQO" group-title="Canais | Filmes e Séries",TBS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/321.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - TBS" tvg-name="TBS SD" tvg-logo="http://p6.vc/ARN" group-title="Canais | Filmes e Séries",TBS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/347.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - TCM" tvg-name="TCM FHD" tvg-logo="http://p6.vc/WKI" group-title="Canais | Filmes e Séries",TCM FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/59978.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - TCM" tvg-name="TCM HD" tvg-logo="http://p6.vc/WKH" group-title="Canais | Filmes e Séries",TCM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/50884.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - TCM" tvg-name="TCM SD" tvg-logo="http://p6.vc/ARF" group-title="Canais | Filmes e Séries",TCM SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/339.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - TLC" tvg-name="TLC FHD" tvg-logo="http://p6.vc/APJ" group-title="Canais | Filmes e Séries",TLC FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/286.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - TLC" tvg-name="TLC FHD [H265]" tvg-logo="http://p6.vc/WHK" group-title="Canais | Filmes e Séries",TLC FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30229.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - TLC" tvg-name="TLC HD" tvg-logo="http://p6.vc/AQJ" group-title="Canais | Filmes e Séries",TLC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/314.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - TLC" tvg-name="TLC SD" tvg-logo="http://p6.vc/ARG" group-title="Canais | Filmes e Séries",TLC SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/340.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="TNT.HD.br" tvg-name="TNT FHD" tvg-logo="http://p6.vc/APK" group-title="Canais | Filmes e Séries",TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/287.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="TNT.HD.br" tvg-name="TNT FHD [H265]" tvg-logo="http://p6.vc/WHG" group-title="Canais | Filmes e Séries",TNT FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30224.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="TNT.HD.br" tvg-name="TNT HD" tvg-logo="http://p6.vc/AQK" group-title="Canais | Filmes e Séries",TNT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/315.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas HD" tvg-logo="" group-title="Canais | Filmes e Séries",TNT Novelas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/148422.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas SD" tvg-logo="http://p6.vc/AAKS" group-title="Canais | Filmes e Séries",TNT Novelas SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/148423.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="TNT.Séries.HD.br" tvg-name="TNT SD" tvg-logo="http://p6.vc/AQK" group-title="Canais | Filmes e Séries",TNT SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/341.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="TNT.Séries.HD.br" tvg-name="TNT Series FHD" tvg-logo="http://p6.vc/APL" group-title="Canais | Filmes e Séries",TNT Series FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/288.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="TNT.Séries.HD.br" tvg-name="TNT Series FHD [H265]" tvg-logo="http://p6.vc/WHH" group-title="Canais | Filmes e Séries",TNT Series FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30225.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="TNT.Séries.HD.br" tvg-name="TNT Series HD" tvg-logo="http://p6.vc/AQL" group-title="Canais | Filmes e Séries",TNT Series HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/316.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - TNT Series" tvg-name="TNT Series SD" tvg-logo="http://p6.vc/ARI" group-title="Canais | Filmes e Séries",TNT Series SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/342.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Tru.TV.HD.br" tvg-name="TruTV FHD" tvg-logo="http://p6.vc/APM" group-title="Canais | Filmes e Séries",TruTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/289.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - truTV" tvg-name="TruTV FHD [H265]" tvg-logo="http://p6.vc/WJR" group-title="Canais | Filmes e Séries",TruTV FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30232.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Tru.TV.HD.br" tvg-name="TruTV HD" tvg-logo="http://p6.vc/AQQ" group-title="Canais | Filmes e Séries",TruTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/323.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Tru.TV.HD.br" tvg-name="TruTV SD" tvg-logo="http://p6.vc/ARQ" group-title="Canais | Filmes e Séries",TruTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/350.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Universal" tvg-name="Universal Channel FHD" tvg-logo="http://p6.vc/APN" group-title="Canais | Filmes e Séries",Universal Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/290.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Universal" tvg-name="Universal Channel FHD [H265]" tvg-logo="http://p6.vc/WJQ" group-title="Canais | Filmes e Séries",Universal Channel FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30230.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Universal" tvg-name="Universal Channel HD" tvg-logo="http://p6.vc/AQM" group-title="Canais | Filmes e Séries",Universal Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/317.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Universal" tvg-name="Universal Channel SD" tvg-logo="http://p6.vc/ARJ" group-title="Canais | Filmes e Séries",Universal Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/343.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Warner.HD.br" tvg-name="Warner Channel FHD" tvg-logo="http://p6.vc/APT" group-title="Canais | Filmes e Séries",Warner Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/297.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Warner.HD.br" tvg-name="Warner Channel FHD [H265]" tvg-logo="http://p6.vc/WJP" group-title="Canais | Filmes e Séries",Warner Channel FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30226.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Warner.HD.br" tvg-name="Warner Channel HD" tvg-logo="http://p6.vc/AQN" group-title="Canais | Filmes e Séries",Warner Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/319.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Warner Channel" tvg-name="Warner Channel SD" tvg-logo="http://p6.vc/ARL" group-title="Canais | Filmes e Séries",Warner Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/345.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="[CA] Adult Swim" tvg-logo="" group-title="Canais | Filmes e Séries",[CA] Adult Swim
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130925.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="[PT] Cine Mundo HD" tvg-logo="" group-title="Canais | Filmes e Séries",[PT] Cine Mundo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/108422.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="FoxComedyPortugal.pt" tvg-name="[PT] Fox Comedy FHD" tvg-logo="" group-title="Canais | Filmes e Séries",[PT] Fox Comedy FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/101316.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="FoxCrimePortugal.pt" tvg-name="[PT] Fox Crime FHD" tvg-logo="" group-title="Canais | Filmes e Séries",[PT] Fox Crime FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/101317.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="CanalHollywoodPortugal.pt" tvg-name="[PT] Hollywood FHD" tvg-logo="" group-title="Canais | Filmes e Séries",[PT] Hollywood FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/101314.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="[PT] Nos Studios FHD" tvg-logo="" group-title="Canais | Filmes e Séries",[PT] Nos Studios FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/101315.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-name="[PT] TVCine Action FHD" tvg-logo="" group-title="Canais | Filmes e Séries",[PT] TVCine Action FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/101334.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="[PT] TVCine Edition FHD" tvg-logo="" group-title="Canais | Filmes e Séries",[PT] TVCine Edition FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/101335.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="[PT] TVCine Emotion FHD" tvg-logo="" group-title="Canais | Filmes e Séries",[PT] TVCine Emotion FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/101336.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="[PT] TVCine Top" tvg-logo="" group-title="Canais | Filmes e Séries",[PT] TVCine Top
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/101337.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="MoviePlexEast.us" tvg-name="[US] MoviePlex FHD" tvg-logo="" group-title="Canais | Filmes e Séries",[US] MoviePlex FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/109521.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E FHD [HDR]" tvg-logo="http://p6.vc/WHI" group-title="Canais | Filmes e Séries",A&E FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130184.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - AMC Brasil" tvg-name="AMC FHD [HDR]" tvg-logo="http://p6.vc/WGS" group-title="Canais | Filmes e Séries",AMC FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130185.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN FHD [HDR]" tvg-logo="http://p6.vc/WGX" group-title="Canais | Filmes e Séries",AXN FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130186.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="Cinecanal FHD" tvg-logo="http://p6.vc/XTJ" group-title="Canais | Filmes e Séries",Cinecanal FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/132944.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="Cinecanal FHD [H265]" tvg-logo="http://p6.vc/XTM" group-title="Canais | Filmes e Séries",Cinecanal FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/132947.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="Cinecanal FHD [HDR]" tvg-logo="http://p6.vc/XTK" group-title="Canais | Filmes e Séries",Cinecanal FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/132945.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Cinemax" tvg-name="Cinemax FHD [HDR]" tvg-logo="http://p6.vc/AQV" group-title="Canais | Filmes e Séries",Cinemax FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130188.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="Film&Arts FHD" tvg-logo="http://p6.vc/WKJ" group-title="Canais | Filmes e Séries",Film&Arts FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/134867.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Film & Arts" tvg-name="Film&Arts FHD [HDR]" tvg-logo="http://p6.vc/WKJ" group-title="Canais | Filmes e Séries",Film&Arts FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130189.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - FX" tvg-name="FX FHD [HDR]" tvg-logo="http://p6.vc/WIH" group-title="Canais | Filmes e Séries",FX FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130190.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Lifetime Brazil" tvg-name="Life time FHD [HDR]" tvg-logo="http://p6.vc/ARB" group-title="Canais | Filmes e Séries",Life time FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130191.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Megapix" tvg-name="Megapix FHD [HDR]" tvg-logo="http://p6.vc/WIL" group-title="Canais | Filmes e Séries",Megapix FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130192.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Paramount Channel" tvg-name="Paramount Network FHD [HDR]" tvg-logo="http://p6.vc/APS" group-title="Canais | Filmes e Séries",Paramount Network FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130193.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Sony" tvg-name="Sony Channel FHD [HDR]" tvg-logo="http://p6.vc/WJN" group-title="Canais | Filmes e Séries",Sony Channel FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130187.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Space" tvg-name="Space FHD [HDR]" tvg-logo="http://p6.vc/WIN" group-title="Canais | Filmes e Séries",Space FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130194.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="STAR.Channel.br" tvg-name="Star Channel FHD [HDR]" tvg-logo="http://p6.vc/eLn" group-title="Canais | Filmes e Séries",Star Channel FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130195.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Studio Universal" tvg-name="Studio Universal FHD [HDR]" tvg-logo="http://p6.vc/ARM" group-title="Canais | Filmes e Séries",Studio Universal FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130196.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Syfy" tvg-name="SYFY FHD [HDR]" tvg-logo="http://p6.vc/WHE" group-title="Canais | Filmes e Séries",SYFY FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130197.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - TBS" tvg-name="TBS FHD [HDR]" tvg-logo="http://p6.vc/WHF" group-title="Canais | Filmes e Séries",TBS FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130198.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - TLC" tvg-name="TLC FHD [HDR]" tvg-logo="http://p6.vc/WHK" group-title="Canais | Filmes e Séries",TLC FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130199.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="TNT.HD.br" tvg-name="TNT FHD [HDR]" tvg-logo="http://p6.vc/WIG" group-title="Canais | Filmes e Séries",TNT FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130200.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas FHD" tvg-logo="http://p6.vc/AAKT" group-title="Canais | Filmes e Séries",TNT Novelas FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/148424.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas FHD [H265]" tvg-logo="" group-title="Canais | Filmes e Séries",TNT Novelas FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/148425.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="TNT.Séries.HD.br" tvg-name="TNT Series FHD [HDR]" tvg-logo="http://p6.vc/WIQ" group-title="Canais | Filmes e Séries",TNT Series FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130201.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Universal" tvg-name="Universal Channel FHD [HDR]" tvg-logo="http://p6.vc/eLm" group-title="Canais | Filmes e Séries",Universal Channel FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130202.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Warner.HD.br" tvg-name="Warner Channel FHD [HDR]" tvg-logo="http://p6.vc/eLq" group-title="Canais | Filmes e Séries",Warner Channel FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130203.m3u8|User-Agent=FooBar/1.2.3
