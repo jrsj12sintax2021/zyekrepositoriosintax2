@@ -1,0 +1,61 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="BR - Telecine Action" tvg-name="Telecine Action FHD" tvg-logo="http://p6.vc/AYP" group-title="Canais | Telecine",Telecine Action FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/562.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Telecine.Action.HD.br" tvg-name="Telecine Action FHD[H265]" tvg-logo="http://p6.vc/VSQ" group-title="Canais | Telecine",Telecine Action FHD[H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30242.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Telecine.Action.HD.br" tvg-name="Telecine Action HD" tvg-logo="http://p6.vc/AYV" group-title="Canais | Telecine",Telecine Action HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/568.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Telecine Action" tvg-name="Telecine Action SD" tvg-logo="http://p6.vc/AZB" group-title="Canais | Telecine",Telecine Action SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/574.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="Telecine Cult FHD" tvg-logo="http://p6.vc/AYU" group-title="Canais | Telecine",Telecine Cult FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/567.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Cultura.HD.br" tvg-name="Telecine Cult FHD[H265]" tvg-logo="http://p6.vc/VSR" group-title="Canais | Telecine",Telecine Cult FHD[H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30243.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="Telecine Cult HD" tvg-logo="http://p6.vc/AYW" group-title="Canais | Telecine",Telecine Cult HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/569.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="Telecine Cult SD" tvg-logo="http://p6.vc/AZC" group-title="Canais | Telecine",Telecine Cult SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/575.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Telecine Fun" tvg-name="Telecine Fun FHD" tvg-logo="http://p6.vc/AYQ" group-title="Canais | Telecine",Telecine Fun FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/563.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Telecine Fun" tvg-name="Telecine Fun FHD [H265]" tvg-logo="http://p6.vc/VSS" group-title="Canais | Telecine",Telecine Fun FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30244.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Telecine Fun" tvg-name="Telecine Fun HD" tvg-logo="http://p6.vc/AYX" group-title="Canais | Telecine",Telecine Fun HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/570.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Telecine.Fun.HD.br" tvg-name="Telecine Fun SD" tvg-logo="http://p6.vc/AZD" group-title="Canais | Telecine",Telecine Fun SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/576.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Telecine Pipoca" tvg-name="Telecine Pipoca FHD" tvg-logo="http://p6.vc/AYR" group-title="Canais | Telecine",Telecine Pipoca FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/564.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Telecine.Pipoca.HD.br" tvg-name="Telecine Pipoca FHD[H265]" tvg-logo="http://p6.vc/VST" group-title="Canais | Telecine",Telecine Pipoca FHD[H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30245.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Telecine Pipoca" tvg-name="Telecine Pipoca HD" tvg-logo="http://p6.vc/AYZ" group-title="Canais | Telecine",Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/572.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Telecine Pipoca" tvg-name="Telecine Pipoca SD" tvg-logo="http://p6.vc/AZF" group-title="Canais | Telecine",Telecine Pipoca SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/578.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Telecine Premium" tvg-name="Telecine Premium FHD" tvg-logo="http://p6.vc/AYS" group-title="Canais | Telecine",Telecine Premium FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/565.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Telecine Premium" tvg-name="Telecine Premium FHD[H265]" tvg-logo="http://p6.vc/VSU" group-title="Canais | Telecine",Telecine Premium FHD[H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30246.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Telecine Premium" tvg-name="Telecine Premium HD" tvg-logo="http://p6.vc/AZA" group-title="Canais | Telecine",Telecine Premium HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/573.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Telecine Premium" tvg-name="Telecine Premium SD" tvg-logo="http://p6.vc/AZG" group-title="Canais | Telecine",Telecine Premium SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/579.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Telecine Touch" tvg-name="Telecine Touch FHD" tvg-logo="http://p6.vc/AYT" group-title="Canais | Telecine",Telecine Touch FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/566.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Telecine Touch" tvg-name="Telecine Touch FHD[H265]" tvg-logo="http://p6.vc/VSV" group-title="Canais | Telecine",Telecine Touch FHD[H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30247.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Telecine Touch" tvg-name="Telecine Touch HD" tvg-logo="http://p6.vc/AYY" group-title="Canais | Telecine",Telecine Touch HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/571.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Telecine Touch" tvg-name="Telecine Touch SD" tvg-logo="http://p6.vc/AZE" group-title="Canais | Telecine",Telecine Touch SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/577.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Telecine Action" tvg-name="Telecine Action FHD [HDR]" tvg-logo="http://p6.vc/VSQ" group-title="Canais | Telecine",Telecine Action FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130244.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Telecine Cult" tvg-name="Telecine Cult FHD [HDR]" tvg-logo="http://p6.vc/VWK" group-title="Canais | Telecine",Telecine Cult FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130245.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Telecine Fun" tvg-name="Telecine Fun FHD [HDR]" tvg-logo="http://p6.vc/AYQ" group-title="Canais | Telecine",Telecine Fun FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130247.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Telecine Pipoca" tvg-name="Telecine Pipoca FHD [HDR]" tvg-logo="http://p6.vc/AYR" group-title="Canais | Telecine",Telecine Pipoca FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130248.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Telecine Premium" tvg-name="Telecine Premium FHD [HDR]" tvg-logo="http://p6.vc/VSU" group-title="Canais | Telecine",Telecine Premium FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130249.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - Telecine Touch" tvg-name="Telecine Touch FHD [HDR]" tvg-logo="http://p6.vc/VSV" group-title="Canais | Telecine",Telecine Touch FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130250.m3u8|User-Agent=FooBar/1.2.3
