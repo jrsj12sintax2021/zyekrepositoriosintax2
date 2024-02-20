@@ -1,0 +1,113 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico SD" tvg-logo="http://p6.vc/AXLE" group-title="Canais | BBB 24",BBB Mosaico SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186233.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 1" tvg-logo="http://p6.vc/AXKP" group-title="Canais | BBB 24",BBB CAM 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186218.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 1 HD" tvg-logo="http://p6.vc/AXMD" group-title="Canais | BBB 24",BBB Cam 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186258.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 1 SD" tvg-logo="http://p6.vc/AXLQ" group-title="Canais | BBB 24",BBB Cam 1 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186245.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 10" tvg-logo="http://p6.vc/AXJO" group-title="Canais | BBB 24",BBB CAM 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186209.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 10 HD" tvg-logo="http://p6.vc/AXLU" group-title="Canais | BBB 24",BBB Cam 10 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186249.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 10 SD" tvg-logo="http://p6.vc/AXLH" group-title="Canais | BBB 24",BBB Cam 10 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186236.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 11" tvg-logo="http://p6.vc/AXJN" group-title="Canais | BBB 24",BBB CAM 11
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186208.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 11 HD" tvg-logo="http://p6.vc/AXLT" group-title="Canais | BBB 24",BBB Cam 11 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186248.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 11 SD" tvg-logo="http://p6.vc/AXLG" group-title="Canais | BBB 24",BBB Cam 11 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186235.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 12" tvg-logo="http://p6.vc/AXJM" group-title="Canais | BBB 24",BBB CAM 12
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186207.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 2" tvg-logo="http://p6.vc/AXKO" group-title="Canais | BBB 24",BBB CAM 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186217.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 2 HD" tvg-logo="http://p6.vc/AXMC" group-title="Canais | BBB 24",BBB Cam 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186257.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 2 SD" tvg-logo="http://p6.vc/AXLP" group-title="Canais | BBB 24",BBB Cam 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186244.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 3" tvg-logo="http://p6.vc/AXJV" group-title="Canais | BBB 24",BBB CAM 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186216.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 3 HD" tvg-logo="http://p6.vc/AXMB" group-title="Canais | BBB 24",BBB Cam 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186256.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 3 SD" tvg-logo="http://p6.vc/AXLO" group-title="Canais | BBB 24",BBB Cam 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186243.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 4" tvg-logo="http://p6.vc/AXJU" group-title="Canais | BBB 24",BBB CAM 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186215.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 4 HD" tvg-logo="http://p6.vc/AXMA" group-title="Canais | BBB 24",BBB Cam 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186255.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 4 SD" tvg-logo="http://p6.vc/AXLN" group-title="Canais | BBB 24",BBB Cam 4 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186242.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 5" tvg-logo="http://p6.vc/AXJT" group-title="Canais | BBB 24",BBB CAM 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186214.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 5 HD" tvg-logo="http://p6.vc/AXLZ" group-title="Canais | BBB 24",BBB Cam 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186254.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 5 SD" tvg-logo="http://p6.vc/AXLM" group-title="Canais | BBB 24",BBB Cam 5 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186241.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 6" tvg-logo="http://p6.vc/AXJS" group-title="Canais | BBB 24",BBB CAM 6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186213.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 6 HD" tvg-logo="http://p6.vc/AXLY" group-title="Canais | BBB 24",BBB Cam 6 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186253.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 6 SD" tvg-logo="http://p6.vc/AXLL" group-title="Canais | BBB 24",BBB Cam 6 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186240.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 7" tvg-logo="http://p6.vc/AXJR" group-title="Canais | BBB 24",BBB CAM 7
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186212.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 7 HD" tvg-logo="http://p6.vc/AXLX" group-title="Canais | BBB 24",BBB Cam 7 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186252.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 7 SD" tvg-logo="http://p6.vc/AXLK" group-title="Canais | BBB 24",BBB Cam 7 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186239.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 8" tvg-logo="http://p6.vc/AXJQ" group-title="Canais | BBB 24",BBB CAM 8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186211.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 8 HD" tvg-logo="http://p6.vc/AXLW" group-title="Canais | BBB 24",BBB Cam 8 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186251.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 8 SD" tvg-logo="http://p6.vc/AXLJ" group-title="Canais | BBB 24",BBB Cam 8 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186238.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 9" tvg-logo="http://p6.vc/AXJP" group-title="Canais | BBB 24",BBB CAM 9
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186210.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 9 HD" tvg-logo="http://p6.vc/AXLV" group-title="Canais | BBB 24",BBB Cam 9 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186250.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 9 SD" tvg-logo="http://p6.vc/AXLI" group-title="Canais | BBB 24",BBB Cam 9 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186237.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB HD MOSAICO" tvg-logo="http://p6.vc/AXKQ" group-title="Canais | BBB 24",BBB HD MOSAICO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186219.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico HD" tvg-logo="http://p6.vc/AXLS" group-title="Canais | BBB 24",BBB Mosaico HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186247.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24" tvg-logo="http://p6.vc/AXJH" group-title="Canais | BBB 24",BBB 24
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186194.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 1 FHD" tvg-logo="http://p6.vc/AXLD" group-title="Canais | BBB 24",BBB Cam 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186232.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 1 FHD[HDR]" tvg-logo="http://p6.vc/AXMF" group-title="Canais | BBB 24",BBB CAM 1 FHD[HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186260.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 1 [H265]" tvg-logo="http://p6.vc/AXMH" group-title="Canais | BBB 24",BBB CAM 1 [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186262.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 10 FHD" tvg-logo="http://p6.vc/AXKU" group-title="Canais | BBB 24",BBB Cam 10 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186223.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 11 FHD" tvg-logo="http://p6.vc/AXKT" group-title="Canais | BBB 24",BBB Cam 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186222.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 2 FHD" tvg-logo="http://p6.vc/AXLC" group-title="Canais | BBB 24",BBB Cam 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186231.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 2 FHD[HDR]" tvg-logo="http://p6.vc/AXMG" group-title="Canais | BBB 24",BBB CAM 2 FHD[HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186261.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 2 [H265]" tvg-logo="http://p6.vc/AXMI" group-title="Canais | BBB 24",BBB CAM 2 [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186263.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 3 FHD" tvg-logo="http://p6.vc/AXLB" group-title="Canais | BBB 24",BBB Cam 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186230.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 4 FHD" tvg-logo="http://p6.vc/AXLA" group-title="Canais | BBB 24",BBB Cam 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186229.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 5 FHD" tvg-logo="http://p6.vc/AXKZ" group-title="Canais | BBB 24",BBB Cam 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186228.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 6 FHD" tvg-logo="http://p6.vc/AXKY" group-title="Canais | BBB 24",BBB Cam 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186227.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 7 FHD" tvg-logo="http://p6.vc/AXKX" group-title="Canais | BBB 24",BBB Cam 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186226.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 8 FHD" tvg-logo="http://p6.vc/AXKW" group-title="Canais | BBB 24",BBB Cam 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186225.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cam 9 FHD" tvg-logo="http://p6.vc/AXKV" group-title="Canais | BBB 24",BBB Cam 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186224.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico FHD" tvg-logo="http://p6.vc/AXKS" group-title="Canais | BBB 24",BBB Mosaico FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186221.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico FHD [HDR]" tvg-logo="http://p6.vc/AXME" group-title="Canais | BBB 24",BBB Mosaico FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186259.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico [H265]" tvg-logo="http://p6.vc/AXMJ" group-title="Canais | BBB 24",BBB Mosaico [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186264.m3u8|User-Agent=FooBar/1.2.3
