@@ -1,0 +1,55 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="NBA HD" tvg-logo="http://p6.vc/WKQ" group-title="Canais | NBA",NBA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/126460.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 1 HD" tvg-logo="http://p6.vc/ZJH" group-title="Canais | NBA",NBA League Pass 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/139171.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 1 SD" tvg-logo="http://p6.vc/ZJB" group-title="Canais | NBA",NBA League Pass 1 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/139165.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 2 HD" tvg-logo="http://p6.vc/ZJI" group-title="Canais | NBA",NBA League Pass 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/139172.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 2 SD" tvg-logo="http://p6.vc/ZJC" group-title="Canais | NBA",NBA League Pass 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/139166.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 3 HD" tvg-logo="http://p6.vc/ZJJ" group-title="Canais | NBA",NBA League Pass 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/139173.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 3 SD" tvg-logo="http://p6.vc/ZJD" group-title="Canais | NBA",NBA League Pass 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/139167.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 4 HD" tvg-logo="http://p6.vc/ZJK" group-title="Canais | NBA",NBA League Pass 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/139174.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 4 SD" tvg-logo="http://p6.vc/ZJE" group-title="Canais | NBA",NBA League Pass 4 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/139168.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 5 HD" tvg-logo="http://p6.vc/ZJL" group-title="Canais | NBA",NBA League Pass 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/139175.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 5 SD" tvg-logo="http://p6.vc/ZJF" group-title="Canais | NBA",NBA League Pass 5 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/139169.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 6 HD" tvg-logo="http://p6.vc/ZJM" group-title="Canais | NBA",NBA League Pass 6 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/139176.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 6 SD" tvg-logo="http://p6.vc/ZJG" group-title="Canais | NBA",NBA League Pass 6 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/139170.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="NBA PASS LIVE 1 HD [ALTER]" tvg-logo="http://p6.vc/ZJT" group-title="Canais | NBA",NBA PASS LIVE 1 HD [ALTER]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/139183.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="W NBA HD" tvg-logo="http://p6.vc/VPP" group-title="Canais | NBA",W NBA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/119638.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="[CA] NBA TV Canada" tvg-logo="" group-title="Canais | NBA",[CA] NBA TV Canada
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/119641.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="[IT] Sky Sport NBA" tvg-logo="" group-title="Canais | NBA",[IT] Sky Sport NBA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/119642.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="[PT] NBA TV HD" tvg-logo="http://p6.vc/VPQ" group-title="Canais | NBA",[PT] NBA TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/119639.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="[PT] SporTV NBA FHD" tvg-logo="" group-title="Canais | NBA",[PT] SporTV NBA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/119640.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="[US] NBA League Pass" tvg-logo="http://p6.vc/ZJA" group-title="Canais | NBA",[US] NBA League Pass
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130926.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="[US] NBA TV FHD" tvg-logo="http://p6.vc/VPG" group-title="Canais | NBA",[US] NBA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/101331.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 1 FHD" tvg-logo="http://p6.vc/ZJN" group-title="Canais | NBA",NBA League Pass 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/139177.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 2 FHD" tvg-logo="http://p6.vc/ZJO" group-title="Canais | NBA",NBA League Pass 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/139178.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 3 FHD" tvg-logo="http://p6.vc/ZJP" group-title="Canais | NBA",NBA League Pass 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/139179.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 4 FHD" tvg-logo="http://p6.vc/ZJQ" group-title="Canais | NBA",NBA League Pass 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/139180.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 5 FHD" tvg-logo="http://p6.vc/ZJR" group-title="Canais | NBA",NBA League Pass 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/139181.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 6 FHD" tvg-logo="http://p6.vc/ZJS" group-title="Canais | NBA",NBA League Pass 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/139182.m3u8|User-Agent=FooBar/1.2.3
