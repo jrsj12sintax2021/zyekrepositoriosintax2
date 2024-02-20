@@ -1,33 +1,297 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="Shazam! (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwkriXzzP9FoiIF5nTdxBsUcds4.jpg" group-title="F • DC Universe",Shazam! (2019)
-http://tvget.live:80/movie/epg/epg/1389036.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Flash (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjEZrx9vSP40NKXhNxAGxvHxL9y.jpg" group-title="F • DC Universe",The Flash (2023)
-http://tvget.live:80/movie/epg/epg/1389037.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batman: A Perdição Chegou a Gotham (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTQMObXnPjV8Yo90hiC7quSz0U7.jpg" group-title="F • DC Universe",Batman: A Perdição Chegou a Gotham (2023)
-http://tvget.live:80/movie/epg/epg/1389038.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batman Begins (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e22BN2rABXSkDS8RChni1E9VSvP.jpg" group-title="F • DC Universe",Batman Begins (2005)
-http://tvget.live:80/movie/epg/epg/1389039.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batman: O Cavaleiro das Trevas (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWXaUWpWLdB4tu0mlVElTKboPgD.jpg" group-title="F • DC Universe",Batman: O Cavaleiro das Trevas (2008)
-http://tvget.live:80/movie/epg/epg/1389040.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batman: O Cavaleiro das Trevas Ressurge (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTiMHKsTeA30CXJS3byz2jG1MlR.jpg" group-title="F • DC Universe",Batman: O Cavaleiro das Trevas Ressurge (2012)
-http://tvget.live:80/movie/epg/epg/1389041.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batman vs Superman: A Origem da Justiça (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vh6pjeGH0GQupLepPCZn5PylcRg.jpg" group-title="F • DC Universe",Batman vs Superman: A Origem da Justiça (2016)
-http://tvget.live:80/movie/epg/epg/1389042.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Shazam! Fúria dos Deuses (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qDivmsYL79dQZngyT3oKd4L9tA.jpg" group-title="F • DC Universe",Shazam! Fúria dos Deuses (2023)
-http://tvget.live:80/movie/epg/epg/1389043.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batman & Robin (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGRDufDDSrFrv7VI4YnmWnslne0.jpg" group-title="F • DC Universe",Batman & Robin (1997)
-http://tvget.live:80/movie/epg/epg/1389044.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batman (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg" group-title="F • DC Universe",Batman (1989)
-http://tvget.live:80/movie/epg/epg/1389045.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Homem de Aço (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLdGhMTqdvWgMuxmSroaV2JX8sX.jpg" group-title="F • DC Universe",O Homem de Aço (2013)
-http://tvget.live:80/movie/epg/epg/1389046.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sociedade da Justiça: 2ª Guerra Mundial (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haFimehtZoP6rSz53kEqXSKianS.jpg" group-title="F • DC Universe",Sociedade da Justiça: 2ª Guerra Mundial (2021)
-http://tvget.live:80/movie/epg/epg/1389047.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Suicida (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UNw4Z105Eke1b4Eb1zldym9R6.jpg" group-title="F • DC Universe",Esquadrão Suicida (2016)
-http://tvget.live:80/movie/epg/epg/1389048.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aquaman (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oB367uFcyU2uhGkFqo5RB4Evdji.jpg" group-title="F • DC Universe",Aquaman (2018)
-http://tvget.live:80/movie/epg/epg/1389049.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batman: O Retorno (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trmToqPh8XYS6tzI2Nmv5ctfuSI.jpg" group-title="F • DC Universe",Batman: O Retorno (1992)
-http://tvget.live:80/movie/epg/epg/1389050.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batman Eternamente (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEwd28NegRgXmZdiEJeVrclYZfX.jpg" group-title="F • DC Universe",Batman Eternamente (1995)
-http://tvget.live:80/movie/epg/epg/1389051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(500) Dias com Ela (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2VWV3v3Tz8BMEvqG7v8cI17Gsj.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",(500) Dias com Ela (2009)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Barraca do Beijo 3 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnxc5X7r2KQtkK3ZLuve4Qbvdz.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",A Barraca do Beijo 3 (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/44547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Extraordinária Garota Chamada Estrela em Hollywood (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2h5C9SDYM3hk2xDJQZP0SKSVVZT.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",A Extraordinária Garota Chamada Estrela em Hollywood (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/118040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Galeria dos Corações Partidos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXnl0kl2rZZv0sBDd1NIw2Abu4d.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",A Galeria dos Corações Partidos (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Garota Invisível (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msJs7UwmWUd7iql36JoN4Rp0hoK.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",A Garota Invisível (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/26267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Herança de Mr. Deeds (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kv93ugqoB8SMCKkDgnt3zUSWlj.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",A Herança de Mr. Deeds (2002)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/72802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Irmã do Noivo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1MEh4nfjUwa6q4GoDA2Kz32OIH.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",A Irmã do Noivo (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/72814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Megera Domada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/murrfrqgaetHayjBmA0V1SMFFyh.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",A Megera Domada (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/101635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Melhor Festa do Ano (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lE02F7PlNrODq5mrJBzWncGDOfY.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",A Melhor Festa do Ano (2011)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/72821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Nova Cinderela: Superstar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMsDcIk6UOOi2cwW17SrbKUuURb.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",A Nova Cinderela: Superstar (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/110248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa e a Plebeia: As Vilãs Também Amam (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNOvGQ3rMPtHqQxXqKvHlQCwS3E.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",A Princesa e a Plebeia: As Vilãs Também Amam (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/72901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa e a Plebeia: Nova Aventura (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PdBXLcLb75cHtdxd7EVo8fL60h.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",A Princesa e a Plebeia: Nova Aventura (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Proposta (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIhags0jXoe78JJjCDZbByciesQ.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",A Proposta (2009)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/72838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida Pode Mudar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1F6VdHC16zwEJoEWx2omJ0fzgmA.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",A Vida Pode Mudar (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/42552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Escapada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiQkgfbU1owErjLUpgGWWuU1MLn.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",A Última Escapada (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/72847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alerta de Spoiler (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//7VGcGcH8RPIQ6y9UrnNXbzXjMMv.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Alerta de Spoiler (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/215015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alguém Avisa? (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neE6fqGiQcp6z4qNlFtlP0z76c0.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Alguém Avisa? (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Artificial (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/soTOyI7d5vAWSNKv4XonEo0rn5p.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Amor Artificial (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/82806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Com Fetiche (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQaZZ0CFfCmBv5H5Mk11agRZzl2.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Amor Com Fetiche (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/100076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor de Balada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZz1HP4Vo3yqYgOTLGxA4SLeX8I.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Amor de Balada (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e a Máfia (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szO9XCWUWO9tYIWUqItIqAUYaOJ.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Amor e a Máfia (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/89829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Outras Drogas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0CV1USGZgp1m5kS0WNu7nZFcR3.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Amor e Outras Drogas (2010)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/72750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor em Verona (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQRJIFaCRkZgdwCWCBYchvSx6N6.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Amor em Verona (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/138197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Entre Amigos: O Casamento (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFnUfJdTpLX9fQMNOiO5BKijaQb.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Amor Entre Amigos: O Casamento (2023)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/150517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Inesperado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mq3bh4aq5c3U0xAqMWXeDRnypCE.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Amor Inesperado (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/162564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Instantâneo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1HciMLzAhR9iLsDmMN6kWA2mOQ.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Amor Instantâneo (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/146608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Não Tem Idade (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FaXdT2g7jOOpCT2vgXDkfIMEKv.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Amor Não Tem Idade (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/201286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Sem Medida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cCzz0tb8rmFw90gwM3idRud46X.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Amor Sem Medida (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/72988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor² (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WaHDLUB8p03Cd6pYGnW4jZDYVX.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Amor² (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/25838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apenas Diga Sim (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mww6dIUvcyoaiIRJ6883jixJVPU.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Apenas Diga Sim (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/26711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Donas do Pedaço (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/peYRpielBbRHMGNYJnWyCsG7apA.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",As Donas do Pedaço (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/72954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Patricinhas de Beverly Hills (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1xfxpMHZpp1P2KIwou15bjB5V7.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",As Patricinhas de Beverly Hills (1995)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/207000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até a Próxima Vez (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OEVTXt455NkA4X9slqeEn5Yz0n.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Até a Próxima Vez (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/100100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barba, Cabelo & Bigode (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvLZHjiJRj2uefPoBlBaF0ohxsL.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA", Cabelo & Bigode (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/135397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bridget Jones: No Limite da Razão (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fp79icDwjqr3ejx7ACfApXEVwiV.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Bridget Jones: No Limite da Razão (2004)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/91162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casa Comigo? (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsKP38fESXwpr8XbEuhnzJc4Yqp.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Casa Comigo? (2010)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/91799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casal de Fachada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prYUfVvnq9tAMP4LRduyoQtQIjQ.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Casal de Fachada (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/118143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Case Comigo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqplh07aTJFHUvKBx79wuC3Gnxx.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Case Comigo (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/112021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cha Cha Real Smooth - O Próximo Passo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8Y1NZFK5kFo064CoOXRGwR5fmo.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Cha Cha Real Smooth - O Próximo Passo (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/120599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinderela (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CC4WbohCVj9QlflZBPIYfj1Vc1.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Cinderela (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/44607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinderela em Paris (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1eYBElIMm82PgzMlf1Ogr5cdKdB.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Cinderela em Paris (1957)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/91835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Combinação do Azevinho (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4PlDSJN6IwtuB91BNzkDL1oNae.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Combinação do Azevinho (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/151206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Casar com um Milionário (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3n3swgSLQzTZSZsnUueQBBnvTy.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Como Casar com um Milionário (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Se Fosse a Primeira Vez (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbfB2yzfGIPKBDDFize1Y5acqjm.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Como Se Fosse a Primeira Vez (2004)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/142238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Seria se...? (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtniFUyaodUtiyRExqBUp0Cyai8.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Como Seria se...? (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/137217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conselheira do Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/530T0cQHqqBHL2Tp9gOrlJ8wmJo.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Conselheira do Amor (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/148925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crush à Altura 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isORwC0r1F3NYwFoBS4P6KerHgD.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Crush à Altura 2 (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/82342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crush: Amor Colorido (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yET3VJN40au485aOUbmJ1cUuaps.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Crush: Amor Colorido (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/112041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="D.U.F.F. (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dzuS72mJx3jaN6LgGtOwsiRKuK.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",D.U.F.F. (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/92818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Da Magia à Sedução (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGRwVHB7KPGjIlqFtCIHTG9trOw.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Da Magia à Sedução (1998)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/73250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Demais pra Mim (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5LUnh5fH6ArY4eXnMZ20tKZxEU.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Demais pra Mim (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/44608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desfile de Corações (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A48bE3SKZKdaEXYXgOM9jYusp4I.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Desfile de Corações (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/120601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Destinos Traçados (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfxdIBdNHhPhIVCWWDVfzsKG03Y.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Destinos Traçados (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/148675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deus, como você é babaca! (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QBVReJnXSwciR7O68Hx4XLmzYS.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA", como você é babaca! (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/92903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diferenças Irreconciliáveis (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xQyPRooZ3Itpal7iser9oMJTVJ.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Diferenças Irreconciliáveis (1984)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/73290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diários de Intercâmbio (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqVVwT8hwHUlPscS2yE8c4aEm0T.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Diários de Intercâmbio (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/44651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doce Trapaça (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XMLRutKAyZhvHFFJvAvIJyhw6t.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Doce Trapaça (2001)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/73293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dois é Bom, Três é Demais (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uiOEmTmd8BV2brsfsa9lpu6tCh.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA", Três é Demais (2006)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/73294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ele Acredita em Papai Noel! (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMZEycAuLPQ2dBweIzDqUsiS8lp.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Ele Acredita em Papai Noel! (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/148664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ele é Demais (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dR5s6KTvHFBzVMiSiFFHkOhEbbJ.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Ele é Demais (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/44612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em um Passe de Mágica (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfprZ6p6rliMRgnhE09kVV57Q1o.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Em um Passe de Mágica (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/137642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Um Relacionamento Sério (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87AoWAqeW0DH6xbpJaVm7RA2MEa.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Em Um Relacionamento Sério (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encaixe Perfeito (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXAVrQQi0PR4eptYvppdJUk3SAk.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Encaixe Perfeito (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/44566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encontro no Dia dos Namorados (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oD3wxdwu3gg3SjaeY4oHWdSMi30.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Encontro no Dia dos Namorados (2011)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/98712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encontro por Acaso (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whow3cyd0JkNld9XVuW1T6enndK.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Encontro por Acaso (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/112617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Tiros e Beijos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ylyVg32Mt2zdOJCECG1voYny90.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Entre Tiros e Beijos (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/72977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esposa de Aluguel (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28E42Ea3Ml3cjvUMHaSqeGYXBfI.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Esposa de Aluguel (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/141538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eternamente Demais pra Mim (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11AJFCi2WJb8A8IT2i5ry9P4Iew.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Eternamente Demais pra Mim (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/100409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ex Casados (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tjKLVs5YRViiRieScxCTuhkYU8.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Ex Casados (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/136377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fama (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//bFfyuCF1zIH4FLpSWCqkXTGda7a.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Fama (2009)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/207161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Feitiço do Tempo (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhiOgetrHuYAIJkGjReCDkbEBJ5.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Feitiço do Tempo (1993)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/25959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Feliz Ano Nosso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qw4R9WRAmf4QkzU4XjkyBbZtGZh.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Feliz Ano Nosso (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/149522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flores de Aço (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FGeiNR9U2wjswDNNispffuUGu5.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Flores de Aço (1989)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/169919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fomos Canções (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6trdorqJcPICzDCBnsTQdurTeG.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Fomos Canções (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/63387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fugindo do Amor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92H1ZRhTMXljh8KA5oI1ZhPe8Gf.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Fugindo do Amor (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/44568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fé Demais Não Cheira Bem (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEOMXU84ndcVaUoTQiacVwuctEP.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Fé Demais Não Cheira Bem (1992)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/74692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Love America (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fk1bNip5m4hkFniiReuz1odSba.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",I Love America (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/101033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogando com Prazer (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3i88AQx5SDXSk14rgJbFOS0uo62.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Jogando com Prazer (2009)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/99454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Junior (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQmgPrXf7c7daRdl3Zwgm65lw3o.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Junior (1994)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kandasamys: A Viagem (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89xDX9eYSaqCPD4RNqXYzuRhqW3.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Kandasamys: A Viagem (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/34533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lar Doce Lar... Ou Não (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJ110kmsRTjM50DHoKmCtLheHDh.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Lar Doce Lar... Ou Não (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lindo de Morrer (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhm9NhbSM57VpFxzX3cGFSyeGs7.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Lindo de Morrer (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/61975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Nick: Um Diabo Diferente (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuO5wW534qkBPicTRilPaLumL0A.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Little Nick: Um Diabo Diferente (2000)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/110164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loucura de Amor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28g5rvH7PlYB3CmilKWW20GcQkp.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Loucura de Amor (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/26245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Made in Italy (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzeFmkdPoxSisdTHvdgbR4p8ReM.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Made in Italy (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/44577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mamma Mia!: Lá Vamos Nós de Novo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSGSpDPVfyp4OiSOqxQp0TUs5BH.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Mamma Mia!: Lá Vamos Nós de Novo (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/101144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Memórias de Uma Paixão (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3O00aHSrdneODbqNYeHItiOCuc.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Memórias de Uma Paixão (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/112645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mens@gem para Você (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRNoR28SpvxrAxEI6R8YN4PrObW.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Mens@gem para Você (1998)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/81178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mesa para Quatro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4iHOgjnPRUHaobosB9HIiMPSE9W.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Mesa para Quatro (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/80662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Bebê (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YszqrkqQ8TNYGX8lnQivTrlvDh.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Meu Bebê (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Namorado Fake (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGDMNqWTtkWL6So4yM3ewNCtYY1.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Meu Namorado Fake (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/120849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minhas Férias com Patrick (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onoPni9IYWuMKwuN5e9YppOX249.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Minhas Férias com Patrick (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/72879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Balada do Amor (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmprgFb80BRcKXEp36mjQXNlcec.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Na Balada do Amor (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Jogo do Amor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiNXACFvtjn0rCzArwnzMfCGK05.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",No Jogo do Amor (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/70467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nossos Sonhos de Marte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pENW055usqNIzYB7YM0R61qFPMu.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Nossos Sonhos de Marte (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/100884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nunca é Tarde Para Amar (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgEgSmQ5QD4Vbv3FVpeooN5oY4J.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Nunca é Tarde Para Amar (2007)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/81422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Amor Custa Caro (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkSGSbwIzPAI4oz9ugbR3dNqK40.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",O Amor Custa Caro (2003)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/81423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Diário de Bridget Jones (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRjRgdUuSelBEOmYn5Ha6bIIxR8.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",O Diário de Bridget Jones (2001)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/91161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Diário de Noel (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8v7nSSNmd5sfLj2MPshfBjJVtwn.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",O Diário de Noel (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/147011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Certo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LFx4D7UfcLx0ARYCVa6N2Fzmlc.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",O Homem Certo (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/25986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jovem Kieslowski (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sw8o1moi2snM2s0BQUTkErZo7Qe.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",O Jovem Kieslowski (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Livro Do Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rql0TINECt8CmIUnmKfNZk4YB7w.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",O Livro Do Amor (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/100887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Melhor Amigo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQKKigyzTPfU10UUVnCZYTh8bGC.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",O Melhor Amigo (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/63015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pai da Noiva (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6605qfGpSGqNcUNY0nUgeE5z01v.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",O Pai da Noiva (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/25815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pai da Noiva (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6605qfGpSGqNcUNY0nUgeE5z01v.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",O Pai da Noiva (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/120579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pai da Noiva II (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jleYA9C53MR7rajS7LUV0xFbzJo.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",O Pai da Noiva II (1995)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/25814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Sol de Amalfi (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XmVuAanq5ZxYSz1WlWT9nnRLQI.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",O Sol de Amalfi (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/134080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Desejo de Sardar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/piBdQGTFMNzFYEUkmGRR3n2EZeU.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",O Último Desejo de Sardar (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/34287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Homens Preferem as Loiras (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uf3dOwFz7zA3FQm4SSBFks69O5U.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Os Homens Preferem as Loiras (1953)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/82432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Palavras nas Paredes do Banheiro (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83JorDqAqu05Ru5kAGw08oCaH7w.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Palavras nas Paredes do Banheiro (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Para Todos os Garotos: Agora e Para Sempre (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZ6rR0kXKlBRXGYjOTJx8j82sqs.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Para Todos os Garotos: Agora e Para Sempre (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/25839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Passe Livre (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uahvX2ac0lHIjoP34NYWd2XW8qM.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Passe Livre (2011)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/106420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Persuasão (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXri73dN6u01H6xOMEyIXp41l9N.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Persuasão (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/134081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Plano A, Plano B (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkkCrLwejvUBP1fEUMiOJoREuZl.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA", Plano B (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/141297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pode Guardar um Segredo? (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohVc9Y5cFLGyEf4941U1ox2l2Dp.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Pode Guardar um Segredo? (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Que Culpa Tem o Carma? (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75c31o9z1w51yEMdH9NfWkBvz3N.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Que Culpa Tem o Carma? (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/136409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Regras da Atração (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kOEnZL5LGos44mcC8iKDxH10V1.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Regras da Atração (2002)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/82497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rosalina (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ad51mrs3azZMzHE6cLrCv9uSztP.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Rosalina (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/141537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sam & Kate (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//fzQN7YcIgboMavMMwrOTaqz8agm.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Sam & Kate (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/208426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Se Organizar Direitinho… (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxJ1wFaUqOq5TmxA751VRJastGV.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Se Organizar Direitinho… (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/73034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sex Appeal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpwXOeSSQdBjUpyQqf6YHYbSTFO.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Sex Appeal (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/101040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Show de Vizinha (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evKD0rjU8ULdzDmIYNE94BLCu9v.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Show de Vizinha (2004)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sintonizados no Amor (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dLLCmUg5QG18omzaYPIIZ3gj1W.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Sintonizados no Amor (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/25816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Surpresas do Amor (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j237FZEU0K96o01nIihgABvN4qy.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Surpresas do Amor (2008)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/109175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet & Sour (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eMfHvuKw0QK0CGowPO9TeC4zpA.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Sweet & Sour (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/34701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Só Você (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWqjQusXc0BKH8Yd55aG0Zytpdw.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Só Você (1994)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/109099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Temporada de Casamentos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wW2hCkNTRbZ8GrP4P7CMStmhOdd.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Temporada de Casamentos (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/136411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="That's Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyYibVfi8q0zwsX1evl7mxTZJp1.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",That's Amor (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/137638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tratamento de Realeza (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4myCGDieVwB9YSli5iFYiHBPNm.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Tratamento de Realeza (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/82045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo Sobre Sexo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jctlbKSXur5YRF7VpM1Jfla6AwY.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Tudo Sobre Sexo (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/137809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo é Possível (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fi3CpngKPgTXLfW6XgvXLuTNslk.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Tudo é Possível (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/134093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tão Legal Quanto Você (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuF7Smx3CDzknb8RbuxfIAcJKoi.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Tão Legal Quanto Você (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/65637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Amor Após a Vida (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mOuZrL4q1swV7sWPzTxZGgNzfK.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Um Amor Após a Vida (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/38570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Amor, Mil Casamentos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HmGeaNdzKRX9O1farSm3bBwciD.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA", Mil Casamentos (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/110149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Casal Inseparável (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJj7RenAAZ97GJpd9UYVC8Oj45H.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Um Casal Inseparável (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/62285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Dia de Chuva em Nova York (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qePheB15kmdODD85MVdmpztcABo.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Um Dia de Chuva em Nova York (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Fim de Semana Prolongado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiqc31USBF9k0RpytlcMkPmD5tv.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Um Fim de Semana Prolongado (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/70575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Match Surpresa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VoTb0s7nbCeotnDU27hBk9Olt9.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Um Match Surpresa (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/71609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Boa Ação (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMDxP9aL7He7E0uM6CaKgE0QiRZ.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Uma Boa Ação (2012)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/110232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Irmã Nada Perfeita (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDnKO3Dff1p1MQ7dryLRVXIJyrs.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Uma Irmã Nada Perfeita (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/27063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Sereia em Paris (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxLjHNQKNsZXOHW2G4WQIzM2gI.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Uma Sereia em Paris (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vale Night (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rREjHnosAMceEM6A4shFCNqicOJ.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Vale Night (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/118234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Volta Pra Mim (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nFHCL1Hpl3x0FrVDPRo1yN6hMY.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Volta Pra Mim (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/82348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Voltando da Lua de Mel (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7qB87iYLK3bSnJr2TgJ8LMYLuw.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Voltando da Lua de Mel (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/163854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Z-O-M-B-I-E-S (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6S9O5U7Ietqh6zTtZhGbhbA3Pze.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Z-O-M-B-I-E-S (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/110430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Z-O-M-B-I-E-S 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frTwEqSMWQ27oQeuiBO5PT0ZNqq.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Z-O-M-B-I-E-S 2 (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/110481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="À Segunda Vista (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkU2FQNWUEQFgLrDGrpZQ7Y17zx.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",À Segunda Vista (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/38138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Carona Para o Amor (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDs1GX2FU3PiFxGhv5ksLrCvitL.jpg" group-title="FILMES - COMÉDIA ROMÂNTICA",Uma Carona Para o Amor (2011)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/222693.mp4
