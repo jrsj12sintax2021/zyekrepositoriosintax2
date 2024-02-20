@@ -1,0 +1,41 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="BR - SporTV2" tvg-name="SporTV 2 FHD" tvg-logo="http://p6.vc/AYH" group-title="Canais | SporTV",SporTV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/553.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - SporTV2" tvg-name="SporTV 2 FHD [H265]" tvg-logo="http://p6.vc/WHV" group-title="Canais | SporTV",SporTV 2 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30291.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - SporTV2" tvg-name="SporTV 2 HD" tvg-logo="http://p6.vc/AYK" group-title="Canais | SporTV",SporTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/557.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - SporTV2" tvg-name="SporTV 2 SD" tvg-logo="http://p6.vc/AYN" group-title="Canais | SporTV",SporTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/560.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - SporTV3" tvg-name="SporTV 3 FHD" tvg-logo="http://p6.vc/WGW" group-title="Canais | SporTV",SporTV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/554.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - SporTV3" tvg-name="SporTV 3 FHD [H265]" tvg-logo="http://p6.vc/WHW" group-title="Canais | SporTV",SporTV 3 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30292.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - SporTV3" tvg-name="SporTV 3 HD" tvg-logo="http://p6.vc/AYL" group-title="Canais | SporTV",SporTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/558.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - SporTV3" tvg-name="SporTV 3 SD" tvg-logo="http://p6.vc/AYL" group-title="Canais | SporTV",SporTV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/561.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SporTV FHD" tvg-logo="http://p6.vc/AYI" group-title="Canais | SporTV",SporTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/555.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SporTV FHD [H265]" tvg-logo="http://p6.vc/WHX" group-title="Canais | SporTV",SporTV FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30293.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SporTV HD" tvg-logo="http://p6.vc/AYJ" group-title="Canais | SporTV",SporTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/556.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SporTV SD" tvg-logo="http://p6.vc/AYM" group-title="Canais | SporTV",SporTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/559.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="[PT] SPORT TV + FHD" tvg-logo="http://p6.vc/5" group-title="Canais | SporTV",[PT] SPORT TV + FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65151.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="[PT] SporTV 2 FHD" tvg-logo="http://p6.vc/WHZ" group-title="Canais | SporTV",[PT] SporTV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65154.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="[PT] SporTV 3 FHD" tvg-logo="http://p6.vc/WIA" group-title="Canais | SporTV",[PT] SporTV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65155.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="SPORT.TV5.pt" tvg-name="[PT] SporTV 5 FHD" tvg-logo="http://p6.vc/5" group-title="Canais | SporTV",[PT] SporTV 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65240.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="[PT] SporTV FHD" tvg-logo="http://p6.vc/WHY" group-title="Canais | SporTV",[PT] SporTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65153.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - SporTV2" tvg-name="SporTV 2 FHD [HDR]" tvg-logo="http://p6.vc/WHV" group-title="Canais | SporTV",SporTV 2 FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130242.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - SporTV3" tvg-name="SporTV 3 FHD [HDR]" tvg-logo="http://p6.vc/WHW" group-title="Canais | SporTV",SporTV 3 FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130243.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SporTV FHD [HDR]" tvg-logo="http://p6.vc/WHX" group-title="Canais | SporTV",SporTV FHD [HDR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130241.m3u8|User-Agent=FooBar/1.2.3
