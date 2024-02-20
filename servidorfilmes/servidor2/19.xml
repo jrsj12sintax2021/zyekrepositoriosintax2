@@ -1,161 +1,379 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="Blade: O Caçador de Vampiros (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyivyoXd6zP09tS1PP7b35sB84h.jpg" group-title="F • Marvel",Blade: O Caçador de Vampiros (1998)
-http://tvget.live:80/movie/epg/epg/1101922.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Blade 2 - O Cacador de Vampiros - 2002" tvg-logo="http://urlon.me/ZgY1Fj" group-title="F • Marvel",Blade 2 - O Cacador de Vampiros - 2002
-http://tvget.live:80/movie/epg/epg/1101923.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Blade: Trinity (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rodqqX8NLe3cdcgBMc4CFTPidTy.jpg" group-title="F • Marvel",Blade: Trinity (2004)
-http://tvget.live:80/movie/epg/epg/1101924.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Capitã Marvel (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg" group-title="F • Marvel",Capitã Marvel (2019)
-http://tvget.live:80/movie/epg/epg/1101925.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Capitão América: O Primeiro Vingador (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f976JQnjMhCTa1yLXz7UH1pV4DG.jpg" group-title="F • Marvel",Capitão América: O Primeiro Vingador (2011)
-http://tvget.live:80/movie/epg/epg/1101926.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Capitão América 2: O Soldado Invernal (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88iNcBQl9eK6DWIlek9NG2b5fLX.jpg" group-title="F • Marvel",Capitão América 2: O Soldado Invernal (2014)
-http://tvget.live:80/movie/epg/epg/1101927.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Capitão América: Guerra Civil (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8IoDJYGMoo4nEkjGADW2TtZRoWF.jpg" group-title="F • Marvel",Capitão América: Guerra Civil (2016)
-http://tvget.live:80/movie/epg/epg/1101928.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho - 2016" tvg-logo="http://urlon.me/ZgYMul" group-title="F • Marvel",Doutor Estranho - 2016
-http://tvget.live:80/movie/epg/epg/1101929.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez Um Deadpool - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6mbdXVinpYl4pWZ6CkySX6dUZ9.jpg" group-title="F • Marvel",Era Uma Vez Um Deadpool - 2018
-http://tvget.live:80/movie/epg/epg/1101930.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Eternos - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzezdUZEnpiUIlxpdyLO1R08Lqm.jpg" group-title="F • Marvel",Eternos - 2022
-http://tvget.live:80/movie/epg/epg/1101931.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guardioes da Galaxia - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xaY92XMToaSnBuvCui3LHzNGqZB.jpg" group-title="F • Marvel",Guardioes da Galaxia - 2014
-http://tvget.live:80/movie/epg/epg/1101932.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guardioes da Galaxia Vol. 2 - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXi3ExbRXnZCPbdHQkppQdcdMUF.jpg" group-title="F • Marvel",Guardioes da Galaxia Vol. 2 - 2017
-http://tvget.live:80/movie/epg/epg/1101933.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7w6s8TdJ0Wdayz2MCHZA5wIk9nq.jpg" group-title="F • Marvel",Homem de Ferro - 2008
-http://tvget.live:80/movie/epg/epg/1101934.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro 2 - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7NFIOapixCJV3zA3sF823KVrNL.jpg" group-title="F • Marvel",Homem de Ferro 2 - 2010
-http://tvget.live:80/movie/epg/epg/1101935.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro 3 - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzL3IlELFTRnRLdGqRv33SecqtD.jpg" group-title="F • Marvel",Homem de Ferro 3 - 2013
-http://tvget.live:80/movie/epg/epg/1101936.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha 1 - 2002" tvg-logo="http://urlon.me/Zxo" group-title="F • Marvel",Homem-Aranha 1 - 2002
-http://tvget.live:80/movie/epg/epg/1101937.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha 2 - 2004" tvg-logo="http://urlon.me/Zxa" group-title="F • Marvel",Homem-Aranha 2 - 2004
-http://tvget.live:80/movie/epg/epg/1101938.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha 3 - 2007" tvg-logo="http://urlon.me/ZxI" group-title="F • Marvel",Homem-Aranha 3 - 2007
-http://tvget.live:80/movie/epg/epg/1101939.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha no Aranhaverso - 2018" tvg-logo="http://urlon.me/ZkX" group-title="F • Marvel",Homem-Aranha no Aranhaverso - 2018
-http://tvget.live:80/movie/epg/epg/1101940.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha: De Volta ao Lar - 2017" tvg-logo="http://urlon.me/ZxW" group-title="F • Marvel",Homem-Aranha: De Volta ao Lar - 2017
-http://tvget.live:80/movie/epg/epg/1101941.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha: Longe de Casa - 2019" tvg-logo="http://urlon.me/Z78" group-title="F • Marvel",Homem-Aranha: Longe de Casa - 2019
-http://tvget.live:80/movie/epg/epg/1101942.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga - 2015" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/Ant_Man-Poster.jpg" group-title="F • Marvel",Homem-Formiga - 2015
-http://tvget.live:80/movie/epg/epg/1101943.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga e a Vespa - 2018" tvg-logo="http://urlon.me/ZxV" group-title="F • Marvel",Homem-Formiga e a Vespa - 2018
-http://tvget.live:80/movie/epg/epg/1101944.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hulk - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Kl74sn1p6thqUFU6atZA81NHfi.jpg" group-title="F • Marvel",Hulk - 2003
-http://tvget.live:80/movie/epg/epg/1101945.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Motoqueiro Fantasma 1 - 2007" tvg-logo="http://urlon.me/Zxp" group-title="F • Marvel",Motoqueiro Fantasma 1 - 2007
-http://tvget.live:80/movie/epg/epg/1101946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Motoqueiro Fantasma 2 - Espirito de Vinganca - 2011" tvg-logo="http://urlon.me/Zxc" group-title="F • Marvel",Motoqueiro Fantasma 2 - Espirito de Vinganca - 2011
-http://tvget.live:80/movie/epg/epg/1101947.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Espetacular Homem-Aranha 1 - 2012" tvg-logo="http://urlon.me/Zx0" group-title="F • Marvel",O Espetacular Homem-Aranha 1 - 2012
-http://tvget.live:80/movie/epg/epg/1101948.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Espetacular Homem-Aranha 2 - A Ameaca de Electro - 2014" tvg-logo="http://urlon.me/Zxt" group-title="F • Marvel",O Espetacular Homem-Aranha 2 - A Ameaca de Electro - 2014
-http://tvget.live:80/movie/epg/epg/1101949.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrivel Hulk - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8RddLhz0bHigZwltYlngPZJII0.jpg" group-title="F • Marvel",O Incrivel Hulk - 2008
-http://tvget.live:80/movie/epg/epg/1101950.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores: The Avengers - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="F • Marvel",Os Vingadores: The Avengers - 2012
-http://tvget.live:80/movie/epg/epg/1101951.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Thor 1 - 2011" tvg-logo="http://urlon.me/Zxl" group-title="F • Marvel",Thor 1 - 2011
-http://tvget.live:80/movie/epg/epg/1101952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Thor 2 - O Mundo Sombrio - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oip30thvJBpJRveA13Rtd2am5Qg.jpg" group-title="F • Marvel",Thor 2 - O Mundo Sombrio - 2013
-http://tvget.live:80/movie/epg/epg/1101953.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Thor 3 - Ragnarok - 2017" tvg-logo="http://urlon.me/ZxQ" group-title="F • Marvel",Thor 3 - Ragnarok - 2017
-http://tvget.live:80/movie/epg/epg/1101954.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Venom - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysV0NOrxUelK290XONEQePpw4zB.jpg" group-title="F • Marvel",Venom - 2018
-http://tvget.live:80/movie/epg/epg/1101955.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Venom: Tempo de Carnificina - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5UzYZquMwO9FVn15R2eK2itmHu.jpg" group-title="F • Marvel",Venom: Tempo de Carnificina - 2021
-http://tvget.live:80/movie/epg/epg/1101956.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vingadores: Era de Ultron - 2015" tvg-logo="http://urlon.me/ZxG" group-title="F • Marvel",Vingadores: Era de Ultron - 2015
-http://tvget.live:80/movie/epg/epg/1101957.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vingadores: Guerra Infinita - 2018" tvg-logo="http://urlon.me/ZxY" group-title="F • Marvel",Vingadores: Guerra Infinita - 2018
-http://tvget.live:80/movie/epg/epg/1101958.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vingadores: Ultimato - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg" group-title="F • Marvel",Vingadores: Ultimato - 2019
-http://tvget.live:80/movie/epg/epg/1101959.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Viuva Negra - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKq1Vlw0Bqe2EEvdmIkkkgPQAGf.jpg" group-title="F • Marvel",Viuva Negra - 2021
-http://tvget.live:80/movie/epg/epg/1101960.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 1 - O Filme - 2000" tvg-logo="http://urlon.me/ZLG" group-title="F • Marvel",X-Men 1 - O Filme - 2000
-http://tvget.live:80/movie/epg/epg/1101961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 10 - Logan - 2017" tvg-logo="http://urlon.me/ZSc" group-title="F • Marvel",X-Men 10 - Logan - 2017
-http://tvget.live:80/movie/epg/epg/1101962.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 11 - Deadpool 2 - 2018" tvg-logo="http://urlon.me/Z0F" group-title="F • Marvel",X-Men 11 - Deadpool 2 - 2018
-http://tvget.live:80/movie/epg/epg/1101963.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 12 - Fenix Negra - 2019" tvg-logo="http://urlon.me/ZgY3SW" group-title="F • Marvel",X-Men 12 - Fenix Negra - 2019
-http://tvget.live:80/movie/epg/epg/1101964.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 2 - 2003" tvg-logo="https://img.elo7.com.br/product/original/2678F93/big-poster-x-men-2-2003-lo01-tamanho-90x60-cm-nerd.jpg" group-title="F • Marvel",X-Men 2 - 2003
-http://tvget.live:80/movie/epg/epg/1101965.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 3 - O Confronto Final - 2006" tvg-logo="http://urlon.me/ZLc" group-title="F • Marvel",X-Men 3 - O Confronto Final - 2006
-http://tvget.live:80/movie/epg/epg/1101966.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 4 - Origens: Wolverine - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUqx0nGiUGeDRQtCWItG3lpuFjY.jpg" group-title="F • Marvel",X-Men 4 - Origens: Wolverine - 2009
-http://tvget.live:80/movie/epg/epg/1101967.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 5 - Primeira Classe - 2011" tvg-logo="https://2.bp.blogspot.com/-3R7YBLnNl68/TelgbyazHHI/AAAAAAAAE9U/0yrX40NPut8/s1600/poster-frances-04Mai2011.jpg" group-title="F • Marvel",X-Men 5 - Primeira Classe - 2011
-http://tvget.live:80/movie/epg/epg/1101968.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 6 - Wolverine: Imortal - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCP2JfaRFdrFjxiXTUdNnfvyJ2K.jpg" group-title="F • Marvel",X-Men 6 - Wolverine: Imortal - 2013
-http://tvget.live:80/movie/epg/epg/1101969.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 7 - Dias De Um Futuro Esquecido - 2014" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/X-Men_Dias_Futuro_Esquecido_2014.jpg" group-title="F • Marvel",X-Men 7 - Dias De Um Futuro Esquecido - 2014
-http://tvget.live:80/movie/epg/epg/1101970.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 8 - Deadpool - 2016" tvg-logo="http://urlon.me/ZgYMAn" group-title="F • Marvel",X-Men 8 - Deadpool - 2016
-http://tvget.live:80/movie/epg/epg/1101971.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 9 - Apocalipse - 2016" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e6/Xmen_apocalypse_ver18.jpg" group-title="F • Marvel",X-Men 9 - Apocalipse - 2016
-http://tvget.live:80/movie/epg/epg/1101972.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Capitão América (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9Jq4feBhAJTjEj4CvNuMgRwUjW.jpg" group-title="F • Marvel",Capitão América (1990)
-http://tvget.live:80/movie/epg/epg/1391838.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adSJ0DpgOsMwrpUH78cZpLGOOAk.jpg" group-title="F • Marvel",Homem de Ferro (2008)
-http://tvget.live:80/movie/epg/epg/1391839.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha 3 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/63O5iixxXSmyOaBas7ek1tkeVra.jpg" group-title="F • Marvel",Homem-Aranha 3 (2007)
-http://tvget.live:80/movie/epg/epg/1391840.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vingadores: Guerra Infinita (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkHe0BfOo1f5N2q6rxgdYac7Zf6.jpg" group-title="F • Marvel",Vingadores: Guerra Infinita (2018)
-http://tvget.live:80/movie/epg/epg/1391841.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Thor: O Mundo Sombrio (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZgNyh3Z8xfBXPszT5GmAeVtsAT.jpg" group-title="F • Marvel",Thor: O Mundo Sombrio (2013)
-http://tvget.live:80/movie/epg/epg/1391842.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Capitão América 2: O Soldado Invernal (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88iNcBQl9eK6DWIlek9NG2b5fLX.jpg" group-title="F • Marvel",Capitão América 2: O Soldado Invernal (2014)
-http://tvget.live:80/movie/epg/epg/1391843.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guardiões da Galáxia (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUGYYLTtE4k5T1DBki033J6qAwY.jpg" group-title="F • Marvel",Guardiões da Galáxia (2014)
-http://tvget.live:80/movie/epg/epg/1391844.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro 3 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/C7MZwRTjvEy7gkWcLJeBGZFE1w.jpg" group-title="F • Marvel",Homem de Ferro 3 (2013)
-http://tvget.live:80/movie/epg/epg/1391845.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga e a Vespa (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smRrzh8W4PfIYiqAEqc6U1D6Ekl.jpg" group-title="F • Marvel",Homem-Formiga e a Vespa (2018)
-http://tvget.live:80/movie/epg/epg/1391846.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Espetacular Homem-Aranha 2: A Ameaça de Electro (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17jHyaXGTpYOJiIx0KsYxneBG7w.jpg" group-title="F • Marvel",O Espetacular Homem-Aranha 2: A Ameaça de Electro (2014)
-http://tvget.live:80/movie/epg/epg/1391847.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores: The Avengers (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg" group-title="F • Marvel",Os Vingadores: The Avengers (2012)
-http://tvget.live:80/movie/epg/epg/1391848.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9D40jv8pi9uKnrVDPiN3JYYad72.jpg" group-title="F • Marvel",Pantera Negra (2018)
-http://tvget.live:80/movie/epg/epg/1391849.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Capitão América: Guerra Civil (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8IoDJYGMoo4nEkjGADW2TtZRoWF.jpg" group-title="F • Marvel",Capitão América: Guerra Civil (2016)
-http://tvget.live:80/movie/epg/epg/1391850.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Thor: Amor e Trovão (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/71XnRvkadkWZZowCGcuBi4XAKdJ.jpg" group-title="F • Marvel",Thor: Amor e Trovão (2022)
-http://tvget.live:80/movie/epg/epg/1391851.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guardiões da Galáxia: Especial de Festas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5v6VCc7bdxWDkKc5ilYsxhOeUp.jpg" group-title="F • Marvel",Guardiões da Galáxia: Especial de Festas (2022)
-http://tvget.live:80/movie/epg/epg/1391852.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Thor: Ragnarok (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrF3WW4lJkIFtIY3nIyapZ7q0N8.jpg" group-title="F • Marvel",Thor: Ragnarok (2017)
-http://tvget.live:80/movie/epg/epg/1391853.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men Origens: Wolverine (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnCHOYoWpbdvxFbIIABh8mQprSg.jpg" group-title="F • Marvel",X-Men Origens: Wolverine (2013)
-http://tvget.live:80/movie/epg/epg/1391854.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha: Longe de Casa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg" group-title="F • Marvel",Homem-Aranha: Longe de Casa (2019)
-http://tvget.live:80/movie/epg/epg/1391855.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha 2 (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y06FivvCfqapHB3iETOtbAqWdkD.jpg" group-title="F • Marvel",Homem-Aranha 2 (2004)
-http://tvget.live:80/movie/epg/epg/1391856.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tango & Cash: Os Vingadores (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34eICraXrXH84mjPPIVvaK1ZR4X.jpg" group-title="F • Marvel",Tango & Cash: Os Vingadores (1989)
-http://tvget.live:80/movie/epg/epg/1391857.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WIwz0qJpnVAiofTAhrmhbKxuvE.jpg" group-title="F • Marvel",Homem-Aranha (2002)
-http://tvget.live:80/movie/epg/epg/1391858.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vingadores: Ultimato (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg" group-title="F • Marvel",Vingadores: Ultimato (2019)
-http://tvget.live:80/movie/epg/epg/1391859.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vingadores: Era de Ultron (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/am8Kl0OOKSQei6XX2DBFhdegcXI.jpg" group-title="F • Marvel",Vingadores: Era de Ultron (2015)
-http://tvget.live:80/movie/epg/epg/1391860.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro 2 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzROjQbgKWMVf2EldXipCcjpuBL.jpg" group-title="F • Marvel",Homem de Ferro 2 (2010)
-http://tvget.live:80/movie/epg/epg/1391861.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Capitão América: O Primeiro Vingador (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f976JQnjMhCTa1yLXz7UH1pV4DG.jpg" group-title="F • Marvel",Capitão América: O Primeiro Vingador (2011)
-http://tvget.live:80/movie/epg/epg/1391862.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Espetacular Homem-Aranha (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxSsFBCFuDhVQMCuIDoZcmHOqlY.jpg" group-title="F • Marvel",O Espetacular Homem-Aranha (2012)
-http://tvget.live:80/movie/epg/epg/1391863.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha: De Volta ao Lar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg" group-title="F • Marvel",Homem-Aranha: De Volta ao Lar (2017)
-http://tvget.live:80/movie/epg/epg/1391864.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiLqv1gwBENjbqTAdPxW4LhX6aA.jpg" group-title="F • Marvel",Homem-Formiga (2015)
-http://tvget.live:80/movie/epg/epg/1391865.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha: No Aranhaverso (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybQSBSrINtjWsJQ6Ih8sva8HlEZ.jpg" group-title="F • Marvel",Homem-Aranha: No Aranhaverso (2018)
-http://tvget.live:80/movie/epg/epg/1505238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 Anos Blues (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LEgGoKdH3oJOlQO7BZWl11jW4P.jpg" group-title="FILMES - NACIONAL",30 Anos Blues (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/86571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="45 Dias Sem Você (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWbf4SkzoR28D5dRf4DRygkok3C.jpg" group-title="FILMES - NACIONAL",45 Dias Sem Você (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cabeça de Gumercindo Saraiva (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nrfMcUHswJN6kRdXBulQI8FDZx.jpg" group-title="FILMES - NACIONAL",A Cabeça de Gumercindo Saraiva (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/72774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa Dos Mortos (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3A6wvi22oS0gQcPED7hLm7VjemX.jpg" group-title="FILMES - NACIONAL",A Casa Dos Mortos (2009)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/86536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Coleção Invisível (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBhIR6uviCKqZzby9k8k39WEQQq.jpg" group-title="FILMES - NACIONAL",A Coleção Invisível (2013)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Divisão (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcjQWaH8RfDi5TqwHZtViVQLjyT.jpg" group-title="FILMES - NACIONAL",A Divisão (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/19507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Esperança é a Última que Morre (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xuoipRTX1LhKAUtAhllB7yZgjOv.jpg" group-title="FILMES - NACIONAL",A Esperança é a Última que Morre (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/72785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Febre (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcCcRhvmCIfP5BGYBwRkVE1uDKW.jpg" group-title="FILMES - NACIONAL",A Febre (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/25626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Gruta (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBdoS8tjWubpEyQnqmM6tpZR3GU.jpg" group-title="FILMES - NACIONAL",A Gruta (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/22225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A irmandade (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irbsg4qMlxatlwUi69KQfCWbH3V.jpg" group-title="FILMES - NACIONAL",A irmandade (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/72813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Menininha (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSmvE4dceUUo6hHC2v533M3k2Vs.jpg" group-title="FILMES - NACIONAL",A Menininha (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mulher do Meu Marido (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aphcDp5VVAJ6Zjj5pdo4QQy0G6.jpg" group-title="FILMES - NACIONAL",A Mulher do Meu Marido (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pedra da Serpente (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8c8pMd6M6zBsOqF82lG7niLB9xt.jpg" group-title="FILMES - NACIONAL",A Pedra da Serpente (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/28352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Viagem (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hf7Mqgy79fyhgKJ5JmEuyWgh6LA.jpg" group-title="FILMES - NACIONAL",A Viagem (2012)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/83597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida Invisível (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5Ia6cQXeJRjnHMBmZx0JF9JSwc.jpg" group-title="FILMES - NACIONAL",A Vida Invisível (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/20931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abraço (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jCG7mH7RsJCGQVpPaCUzmpJhUgD.jpg" group-title="FILMES - NACIONAL",Abraço (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alguém Como Eu (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfSjQvdAZxKCSq7t2rzAGxYoPCb.jpg" group-title="FILMES - NACIONAL",Alguém Como Eu (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice Júnior (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcrJuO9z9uGGhb4h8L0Q5VgNFyX.jpg" group-title="FILMES - NACIONAL",Alice Júnior (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/21903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altas Expectativas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IfPbs6zgWDbBlazciUIMOvXwdv.jpg" group-title="FILMES - NACIONAL",Altas Expectativas (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/72742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor.com (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6i8TdiQQ9d8uvtPcYVkzSWZQ4fQ.jpg" group-title="FILMES - NACIONAL",Amor.com (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amores de Chumbo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZPUSJsCEuhDhBqzwF5sd9vuv3w.jpg" group-title="FILMES - NACIONAL",Amores de Chumbo (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/72748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ana e Vitória (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cgpI8BlXW5OWWUQc1A1zFrMRrBG.jpg" group-title="FILMES - NACIONAL",Ana e Vitória (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antes Que Eu Me Esqueça (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmqyKqjZIA6LpXTVOSCnWUIVGZh.jpg" group-title="FILMES - NACIONAL",Antes Que Eu Me Esqueça (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aos Teus Olhos (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lx0JCB1MUvOUhwRjEPZ2XCR1SdI.jpg" group-title="FILMES - NACIONAL",Aos Teus Olhos (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aquarius (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqHti20sNAiIM65pQkFC9iX0ZuC.jpg" group-title="FILMES - NACIONAL",Aquarius (2016)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Agamenon, o Repórter (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sA7eFsHAdlSwdqtbxuATV9QaOiL.jpg" group-title="FILMES - NACIONAL", o Repórter (2012)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/72769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Boas Maneiras (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1ptI7IlhLCikqi90DWcK79U7r0.jpg" group-title="FILMES - NACIONAL",As Boas Maneiras (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Melhores Coisas do Mundo (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdwlYFpObdJyCmib6oFEBblDpsu.jpg" group-title="FILMES - NACIONAL",As Melhores Coisas do Mundo (2010)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/19974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Mãos de Meu Filho (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SrtBdrxBeXS1EdBMubvYJ6Flyw.jpg" group-title="FILMES - NACIONAL",As Mãos de Meu Filho (2010)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/72893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assalto ao Banco Central (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sbUymWDX82csyNaTj3AmKGKqzrG.jpg" group-title="FILMES - NACIONAL",Assalto ao Banco Central (2011)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atração de Risco (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJdAfGYCPLhxYRLWHmG51uV9aYR.jpg" group-title="FILMES - NACIONAL",Atração de Risco (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/18159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até que a Sorte nos Separe (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAd1DeclHsJ0lnrizw4bTYivFqB.jpg" group-title="FILMES - NACIONAL",Até que a Sorte nos Separe (2012)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até Que a Sorte nos Separe 2 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eacRaUVzVbG40BbCw3RGhZyejbj.jpg" group-title="FILMES - NACIONAL",Até Que a Sorte nos Separe 2 (2013)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até Que a Sorte nos Separe 3: A Falência Final (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oStp9ynfr1dFKBrOSf7U8QYocgR.jpg" group-title="FILMES - NACIONAL",Até Que a Sorte nos Separe 3: A Falência Final (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="B.O. (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zqugyt6a8D4fD6ZqIU8UCsh3U4.jpg" group-title="FILMES - NACIONAL",B.O. (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bacurau (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mqRMPsygHLcF65JOQpvMr4Chhep.jpg" group-title="FILMES - NACIONAL",Bacurau (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bacurau no Mapa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4VxrCJSuQtFrZ5bdCEBw5saiLR.jpg" group-title="FILMES - NACIONAL",Bacurau no Mapa (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/18759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Benzinho (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4BrNtn9Z4HVO7HACA8YamI92Wl.jpg" group-title="FILMES - NACIONAL",Benzinho (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bia (2.0) (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irqAXv6ydtkvAu1An6frFymECaf.jpg" group-title="FILMES - NACIONAL",Bia (2.0) (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BISDocs Princesas do Funk (2020)" tvg-logo="https://portalpopline.com.br/wp-content/uploads/2020/03/WhatsApp-Image-2020-03-06-at-12.35.18.jpeg" group-title="FILMES - NACIONAL",BISDocs Princesas do Funk (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/72922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boa Sorte (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9C6ps8FHoaY2MrzPm0Qwp37SFIR.jpg" group-title="FILMES - NACIONAL",Boa Sorte (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bonga, o Vagabundo (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4baVbQbxLQs6qwOeUmQtcsGFUk.jpg" group-title="FILMES - NACIONAL", o Vagabundo (1969)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/91135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Branco Sai, Preto Fica (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysObMZnc0LDqUV4rHCVr7jfpqwN.jpg" group-title="FILMES - NACIONAL", Preto Fica (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/91152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brasília 18% (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owdk8D70ytw6Q0mPJBM7MRnUYJU.jpg" group-title="FILMES - NACIONAL",Brasília 18% (2006)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/91153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breve Miragem de Sol (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8u9DS9gVcdXI4zyVI4BBokjDDpM.jpg" group-title="FILMES - NACIONAL",Breve Miragem de Sol (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/25955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bróder (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9dpx9p9h6mmhnBXVaqEuapVx7B.jpg" group-title="FILMES - NACIONAL",Bróder (2010)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cano Serrado (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/reK8Tr0YmJs9MMEJuyAvs8iXGVb.jpg" group-title="FILMES - NACIONAL",Cano Serrado (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/18160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carandiru (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkq8RsbCb7ugW0ZmsD8SYEvQWSp.jpg" group-title="FILMES - NACIONAL",Carandiru (2003)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/133991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros: O Filme (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBY8sQjkc8qDYcUtS8GhlediHHz.jpg" group-title="FILMES - NACIONAL",Carcereiros: O Filme (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carlinhos & Carlão (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wesoVz3mscgkxrzCVpEsQm9O03.jpg" group-title="FILMES - NACIONAL",Carlinhos & Carlão (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carrossel 2: O Sumiço de Maria Joaquina (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/D5L9rLe9rWEA9wNXOtJt2jo1J1.jpg" group-title="FILMES - NACIONAL",Carrossel 2: O Sumiço de Maria Joaquina (2016)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carrossel: O Filme (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mFT1RnjzI83o65kh6NRsg2P8V8.jpg" group-title="FILMES - NACIONAL",Carrossel: O Filme (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casa Grande (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDH0jgLQjnMye2klApFrfA8AIe1.jpg" group-title="FILMES - NACIONAL",Casa Grande (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidade Dormitório (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRtQtUOqsfVzViyfSrOZ8ERzvPG.jpg" group-title="FILMES - NACIONAL",Cidade Dormitório (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/26304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cilada.com (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jCTh6jL9fd39Zu65Af5lnlHg0uw.jpg" group-title="FILMES - NACIONAL",Cilada.com (2011)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clarisse ou Alguma Coisa Sobre Nós Dois (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WzqmjWDmVk4quUV9E250IdC2zc.jpg" group-title="FILMES - NACIONAL",Clarisse ou Alguma Coisa Sobre Nós Dois (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Se Tornar o Pior Aluno da Escola (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olRSTQXTNRPwIUIjbeVs5LGrYGC.jpg" group-title="FILMES - NACIONAL",Como Se Tornar o Pior Aluno da Escola (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Confissões de Adolescente (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4yH3NWxnkazjzfcwHIElJCawZF.jpg" group-title="FILMES - NACIONAL",Confissões de Adolescente (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crô em Família (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3hfC09ov7ozxAwbof8IwcahYUi.jpg" group-title="FILMES - NACIONAL",Crô em Família (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/5365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Pernas pro Ar (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SNtshMPDMZhTcbiGtakOEJKljy.jpg" group-title="FILMES - NACIONAL",De Pernas pro Ar (2010)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Pernas pro Ar 2 (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haTNd5AMt2acEMC3m22Wv1Q0N1R.jpg" group-title="FILMES - NACIONAL",De Pernas pro Ar 2 (2012)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Pernas pro Ar 3 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAjpVUkkc0evIhRFpRIUXfb82mX.jpg" group-title="FILMES - NACIONAL",De Pernas pro Ar 3 (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Democracia em Vertigem (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2aPe57jyW0TPYLVBXb8T0yBFGQ.jpg" group-title="FILMES - NACIONAL",Democracia em Vertigem (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deslembro (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqujj3CAh1b2gOTrow8jwz0IsV2.jpg" group-title="FILMES - NACIONAL",Deslembro (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Despertar: Data Limite (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ha6r0JOUQlspTbPF4CJyJoWo8G9.jpg" group-title="FILMES - NACIONAL",Despertar: Data Limite (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/21908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deus é Brasileiro (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBZ3zMmMEWyvOw1Dh97FRF0Pk1p.jpg" group-title="FILMES - NACIONAL",Deus é Brasileiro (2003)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/73287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Divórcio (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOI81CTgr1ZkDR62RFOTu6mtFrv.jpg" group-title="FILMES - NACIONAL",Divórcio (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dona Flor e Seus Dois Maridos (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5ORYHcyxuvL7BRInMA8Ly1bV7N.jpg" group-title="FILMES - NACIONAL",Dona Flor e Seus Dois Maridos (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E Aí... Comeu? (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/be7n1ytxXUMCHXXOpwfjoIAeHhy.jpg" group-title="FILMES - NACIONAL",E Aí... Comeu? (2012)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ela Disse, Ele Disse (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wrpjGA7naIPnGPoIJ2la6gbAlT.jpg" group-title="FILMES - NACIONAL", Ele Disse (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elis (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yucOU7hj0lA7YvCbUAbGYjbVfmM.jpg" group-title="FILMES - NACIONAL",Elis (2016)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em 97 Era Assim (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcNOTXZTtKq9stb0T5KgCXvMx0J.jpg" group-title="FILMES - NACIONAL",Em 97 Era Assim (2016)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Abelhas (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGZNN70ffCyOsYqqMTYFeMySxjB.jpg" group-title="FILMES - NACIONAL",Entre Abelhas (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Era uma Vez... (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5VjUzw2Vn4bFrrvG1dfhhmOCIu.jpg" group-title="FILMES - NACIONAL",Era uma Vez... (2008)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/20546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu. Empresa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4SIXOGw6DTEyEbpwPrqqr5wmTE.jpg" group-title="FILMES - NACIONAL",Eu. Empresa (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/82266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Faroeste Caboclo (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqphM2bAYbuwnwbJz3KebgMhxOU.jpg" group-title="FILMES - NACIONAL",Faroeste Caboclo (2013)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ferrugem (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Qawq4dKbmL1PmJbLlIkWv34toe.jpg" group-title="FILMES - NACIONAL",Ferrugem (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flops: Agentes Nada Secretos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8o3JbCpf0yJqVCZtR7ghBhtRxO.jpg" group-title="FILMES - NACIONAL",Flops: Agentes Nada Secretos (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gabriel Medina (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3GyadvHTeIbovM249Gvtewxwngd.jpg" group-title="FILMES - NACIONAL",Gabriel Medina (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Garotos (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqDDvWsX179jQogj6kWxlHJKRiK.jpg" group-title="FILMES - NACIONAL",Garotos (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gosto se Discute (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7NEj5uPMd9r6cS5uAcKxd48Dhf.jpg" group-title="FILMES - NACIONAL",Gosto se Discute (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerra de Algodão (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvbXJHfxXDdEHIXWebVOysqRJ7J.jpg" group-title="FILMES - NACIONAL",Guerra de Algodão (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerra do Paraguay (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trPdf9j973ce83fkUoC6wZoQlUG.jpg" group-title="FILMES - NACIONAL",Guerra do Paraguay (2016)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hebe: A Estrela do Brasil (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7meXcYx9Vlj8rKiuIFtYgPEOwNU.jpg" group-title="FILMES - NACIONAL",Hebe: A Estrela do Brasil (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/18733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem ao Mar (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFhA4U4nOs58NaeSSpqVemmMFsz.jpg" group-title="FILMES - NACIONAL",Homem ao Mar (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/97003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Internet - O Filme (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kyQPkPj6YDYzX4oMymtoiTzLx2.jpg" group-title="FILMES - NACIONAL",Internet - O Filme (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Intervenção, É Proibido Morrer (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7BAdxykcXu702wpmKTYSnnr670.jpg" group-title="FILMES - NACIONAL", É Proibido Morrer (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/80648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="L.O.C.A. – Liga das Obsessivas Compulsivas por Amor (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWdTBg9mugmDJPepAnTXrNe1aUx.jpg" group-title="FILMES - NACIONAL",L.O.C.A. – Liga das Obsessivas Compulsivas por Amor (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/44624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lascados (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5OFhM2kkh1H4XsUx7WJ9OUu9dY.jpg" group-title="FILMES - NACIONAL",Lascados (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Legalidade (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyZZ2dYYoGC7NfhcW7SrFrZu9Jd.jpg" group-title="FILMES - NACIONAL",Legalidade (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Legalize Já! - Amizade Nunca Morre (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SZ2dcN4LwC4Q9bsS0Li128jksU.jpg" group-title="FILMES - NACIONAL",Legalize Já! - Amizade Nunca Morre (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loop (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGFkJT5CHuCLy35G4aC5u56b2wh.jpg" group-title="FILMES - NACIONAL",Loop (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/44626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loucas Pra Casar (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a85dJjBuHVmWTByJYml525i5U4l.jpg" group-title="FILMES - NACIONAL",Loucas Pra Casar (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="M-8: Quando a Morte Socorre a Vida (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTvQCbo9uWhI3OpDqpEt6kcng2F.jpg" group-title="FILMES - NACIONAL",M-8: Quando a Morte Socorre a Vida (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/26185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Forte que o Mundo - A História de José Aldo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3rXuspFEELkquYwrFOl4RJWoSK.jpg" group-title="FILMES - NACIONAL",Mais Forte que o Mundo - A História de José Aldo (2016)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malasartes e o Duelo com a Morte (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7wR2bxwQfiFJJqw8G4YMBtjpSv.jpg" group-title="FILMES - NACIONAL",Malasartes e o Duelo com a Morte (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mare Nostrum (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85RUsv3MczX2V1n80PraKM8Obwg.jpg" group-title="FILMES - NACIONAL",Mare Nostrum (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maria do Caritó (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKhdv1t80EEvsSTidzcR4WgBovq.jpg" group-title="FILMES - NACIONAL",Maria do Caritó (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marighella (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cT1LDiWCt7ijRHZwUMyGXrCs6q7.jpg" group-title="FILMES - NACIONAL",Marighella (2012)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/81158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marighella (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqHLyxKGhlGe1S2S9X8hragmNQl.jpg" group-title="FILMES - NACIONAL",Marighella (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/81157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mate-me Por Favor (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWMj9UGqwel6DJFPtG3b8nyArO7.jpg" group-title="FILMES - NACIONAL",Mate-me Por Favor (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maya (2018)" tvg-logo="https://uploaddeimagens.com.br/images/003/826/916/thumb/MAYA.jpg" group-title="FILMES - NACIONAL",Maya (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/101181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Medida Provisória (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLfjccUqxsAG7pbCgs5rC6SEUWr.jpg" group-title="FILMES - NACIONAL",Medida Provisória (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/120592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Memórias Póstumas (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YaTajYhJaQ5LbxfKA4KGQ46hUv.jpg" group-title="FILMES - NACIONAL",Memórias Póstumas (2001)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/81176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Metanoia (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crg01GuPy8OLrYjsjudqmXScTxB.jpg" group-title="FILMES - NACIONAL",Metanoia (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/18799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Amigo Lutcha (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CbBbgftaC2fQYwHYMfrSXkKML0.jpg" group-title="FILMES - NACIONAL",Meu Amigo Lutcha (2023)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/101253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Passado Me Condena 2: O Filme (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1oHQbm9j0OQ7C8ZyHhxTizct4.jpg" group-title="FILMES - NACIONAL",Meu Passado Me Condena 2: O Filme (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Passado Me Condena: O Filme (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWakumkwCwcsnVvAW7I2gCgQpcT.jpg" group-title="FILMES - NACIONAL",Meu Passado Me Condena: O Filme (2013)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Mãe é uma Peça 2: O Filme (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDApDWU6r9zxk9MZLc6rfnBb3vu.jpg" group-title="FILMES - NACIONAL",Minha Mãe é uma Peça 2: O Filme (2016)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Mãe é uma Peça 3: O Filme (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zw77BFPGJ73Lig8GwRzYj1XHq53.jpg" group-title="FILMES - NACIONAL",Minha Mãe é uma Peça 3: O Filme (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Mãe é uma Peça: O Filme (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2AXnTisn91NjZvsesN9SEZtMaRe.jpg" group-title="FILMES - NACIONAL",Minha Mãe é uma Peça: O Filme (2013)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Vida em Marte (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jFmp5RmaBAY0LoEYZb4KDp0GZc.jpg" group-title="FILMES - NACIONAL",Minha Vida em Marte (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Modo Avião (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDZBhyl83F07syVhQ0q21NBZSCC.jpg" group-title="FILMES - NACIONAL",Modo Avião (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mormaço (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sITpE5aFi2avN6YBFjU03uYH6H3.jpg" group-title="FILMES - NACIONAL",Mormaço (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/2278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Muita Calma Nessa Hora (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpyl7xI1SEb8WgC5PeRUQcw19cx.jpg" group-title="FILMES - NACIONAL",Muita Calma Nessa Hora (2010)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Muita Calma Nessa Hora 2 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m22N5QelYWptGUIYHl76RcOg2yn.jpg" group-title="FILMES - NACIONAL",Muita Calma Nessa Hora 2 (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Murilo Couto: 2020 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fD0YRXfB422Alg2femTom33DUxK.jpg" group-title="FILMES - NACIONAL",Murilo Couto: 2020 (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mussum: Um Filme do Cacildis (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ec0UeELw5HnGHzwkDtMZstFYpGC.jpg" group-title="FILMES - NACIONAL",Mussum: Um Filme do Cacildis (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe Só Há Uma (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdKWFQcZsbcCSYMOuCAYdWgUnMs.jpg" group-title="FILMES - NACIONAL",Mãe Só Há Uma (2016)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/101126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Música Para Morrer de Amor (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7IQdTQ5tWzAvzgzJdn0CalW3GH.jpg" group-title="FILMES - NACIONAL",Música Para Morrer de Amor (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/21913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Onda do Iê-Iê-Iê (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0toLdUJf0UwwLBdFuALX4aC34V.jpg" group-title="FILMES - NACIONAL",Na Onda do Iê-Iê-Iê (1966)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/102227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nada a Perder (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1XGiS2tXIR4IP4bdqdmlG6Hhbd.jpg" group-title="FILMES - NACIONAL",Nada a Perder (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nada a Perder 2: Não Se Pode Esconder a Verdade (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UESbGhUBez8iu4CqVhhmpIueJh.jpg" group-title="FILMES - NACIONAL",Nada a Perder 2: Não Se Pode Esconder a Verdade (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ninguém Entra, Ninguém Sai (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUV6DQrYBlJFvdmRoiDssxyU42g.jpg" group-title="FILMES - NACIONAL", Ninguém Sai (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Coração do Mundo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3joNfpbBYLZo81FkU12jRfjVqRw.jpg" group-title="FILMES - NACIONAL",No Coração do Mundo (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/2279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Gogó do Paulinho (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmCAciCurvDWZJY8wo3lvo9S9b2.jpg" group-title="FILMES - NACIONAL",No Gogó do Paulinho (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Náufrago (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sqFnmBFNGF6ZdCsx0PWvUlCS2E.jpg" group-title="FILMES - NACIONAL",Náufrago (2022)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/102255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Vai Ter Golpe (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/872wX6ND9lOGx7mCYGPmOePYZFc.jpg" group-title="FILMES - NACIONAL",Não Vai Ter Golpe (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Vamos Pagar Nada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0izXc21pFtf98dwiiudIGmm4lX.jpg" group-title="FILMES - NACIONAL",Não Vamos Pagar Nada (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/22414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Animal Cordial (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MKLyUWxri8ePW5wM1Wpdgqj5M7.jpg" group-title="FILMES - NACIONAL",O Animal Cordial (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Candidato Honesto (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNFjUdDmyJmAST6qOz2ie10UwTP.jpg" group-title="FILMES - NACIONAL",O Candidato Honesto (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Candidato Honesto 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nies8ZuM673DAtSufh4Ww3dJJyd.jpg" group-title="FILMES - NACIONAL",O Candidato Honesto 2 (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Cemitério das Almas Perdidas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziXXbtWaPuEE50kxT34exku7dyH.jpg" group-title="FILMES - NACIONAL",O Cemitério das Almas Perdidas (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/25627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Começo da Vida (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVVWDrkbm49clF97ylqxfia7dLU.jpg" group-title="FILMES - NACIONAL",O Começo da Vida (2016)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Concurso (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WmGIGsxURwUYUKShqVxRqajAvq.jpg" group-title="FILMES - NACIONAL",O Concurso (2013)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Filho Eterno (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUQoV5uFIllGJyetFGrJE2xZ5ZE.jpg" group-title="FILMES - NACIONAL",O Filho Eterno (2016)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/25834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Galã (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJz8Ll7mRTBPvYkb69T7IC27SBa.jpg" group-title="FILMES - NACIONAL",O Galã (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Que Desafiou o Diabo (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ie5sQLxoOzga7YdVHFm8dL5nKgQ.jpg" group-title="FILMES - NACIONAL",O Homem Que Desafiou o Diabo (2007)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/43620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Madeireiro (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9M8qoqsTPrU5jkT0efuHJYCMJ8P.jpg" group-title="FILMES - NACIONAL",O Madeireiro (2011)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/26792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Matador (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqGo24yiklzAv1xtDeRt15QrVKh.jpg" group-title="FILMES - NACIONAL",O Matador (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Melhor Verão das Nossas Vidas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHUxVCnB3DPu9afBnl01MtlH7q6.jpg" group-title="FILMES - NACIONAL",O Melhor Verão das Nossas Vidas (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/18143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Milagre de Fátima (1952)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMouQ2eWh24IXVsNr4Zj1MukXDL.jpg" group-title="FILMES - NACIONAL",O Milagre de Fátima (1952)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/103449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Nome da Morte (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuWq18b966YUhGf47jS9YjlZqOS.jpg" group-title="FILMES - NACIONAL",O Nome da Morte (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Olho e a Faca (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ceSNvRHhdtlijgIy9nev9oXn5wY.jpg" group-title="FILMES - NACIONAL",O Olho e a Faca (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/20942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Roubo da Taça (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTpawXfV72mMfJYpIgJt4Yd9GZQ.jpg" group-title="FILMES - NACIONAL",O Roubo da Taça (2016)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Shaolin do Sertão (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHmD5ziiVvOM1femGTazj4bfkGK.jpg" group-title="FILMES - NACIONAL",O Shaolin do Sertão (2016)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Tempo com Você (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdBhe9LVIBKMgfGYJSkY2dVqfaz.jpg" group-title="FILMES - NACIONAL",O Tempo com Você (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Vendedor de Sonhos (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hV6l4wOhPDbEflqM1A2047D4F0E.jpg" group-title="FILMES - NACIONAL",O Vendedor de Sonhos (2016)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Jogo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/55d6L2CYZuz5K3JQ5aDCd6NJc47.jpg" group-title="FILMES - NACIONAL",O Último Jogo (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/80687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Olga (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ve01irNcrWnjy7YqwXEk81T2tt7.jpg" group-title="FILMES - NACIONAL",Olga (2004)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/17995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Espetaculares (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6AdI8EK4IHBFpWZ0BK2uX038O7.jpg" group-title="FILMES - NACIONAL",Os Espetaculares (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/21914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Parças (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PuLtiji3ZN6o2Uan9SqDl8wdYX.jpg" group-title="FILMES - NACIONAL",Os Parças (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Parças 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggv4bKNHKbzD4wqr520X8n5AkBV.jpg" group-title="FILMES - NACIONAL",Os Parças 2 (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pacarrete (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66hyRlRf4l2yzWQaLQqL5d7VlZA.jpg" group-title="FILMES - NACIONAL",Pacarrete (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Por Que Você Não Chora? (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNSHszBLb0fI1RcNPZw9YulKpzP.jpg" group-title="FILMES - NACIONAL",Por Que Você Não Chora? (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/70573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Possessão (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTXlplTLHO0lPoJ0wLDwvnDBlOS.jpg" group-title="FILMES - NACIONAL",Possessão (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/106934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Querência (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6F1JHyxzsaZbCB7AXAhMPa4v3e.jpg" group-title="FILMES - NACIONAL",Querência (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/26341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rasga Coração (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21TGdSdl4zPtggfmhNyNgPpFzfN.jpg" group-title="FILMES - NACIONAL",Rasga Coração (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raul - O Início, o Fim e o Meio (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/okfYRfPbX70WazoK2vU9Wc1yr65.jpg" group-title="FILMES - NACIONAL", o Fim e o Meio (2012)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/19215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Redemoinho (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CKKVhJq1Qu83HWeG4s3B8cRIIm.jpg" group-title="FILMES - NACIONAL",Redemoinho (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reza a Lenda (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDz7K5vIu8Bsbdx1oLegr23c3FF.jpg" group-title="FILMES - NACIONAL",Reza a Lenda (2016)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/26186.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ricos de Amor (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8kRdW12mhOakR9WqVnarQbqGNH.jpg" group-title="FILMES - NACIONAL",Ricos de Amor (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/18258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S.O.S.: Mulheres ao Mar (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cB6m75oYbbuRI9K1Tgi2DBKhw9.jpg" group-title="FILMES - NACIONAL",S.O.S.: Mulheres ao Mar (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S.O.S.: Mulheres ao Mar 2 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNSNYJ87vNwh641YIhzw2klobN.jpg" group-title="FILMES - NACIONAL",S.O.S.: Mulheres ao Mar 2 (2015)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Seu Sangue (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwRj6djKmyyFJdTOJnu9KuUCE09.jpg" group-title="FILMES - NACIONAL",Sem Seu Sangue (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sequestro (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYDQQg15CBtEvjiqhAfktXrfcFN.jpg" group-title="FILMES - NACIONAL",Sequestro (2009)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/108886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sete Anos em Maio (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMo8I1knXmhkKf0xINTAYJqBdaf.jpg" group-title="FILMES - NACIONAL",Sete Anos em Maio (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/20950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Skull: A Máscara de Anhangá (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkJvFqovL847zqKL7kWx17xNXAJ.jpg" group-title="FILMES - NACIONAL",Skull: A Máscara de Anhangá (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/25628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Socorro, Virei uma Garota! (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4Vt2IKLYpCRvouqGNj4hbft4Vk.jpg" group-title="FILMES - NACIONAL", Virei uma Garota! (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sócrates (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omWPX3LbB3spgpbfQPaaJb4MpY8.jpg" group-title="FILMES - NACIONAL",Sócrates (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tapete Vermelho (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zh8PPoN82hV73GOfwZ6LD14Q1zp.jpg" group-title="FILMES - NACIONAL",Tapete Vermelho (2005)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/19216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terra e Luz (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNKRAD2Png5zD4OUbYQlgkj2mRX.jpg" group-title="FILMES - NACIONAL",Terra e Luz (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/26332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Boat (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eUc4AN53u4aQLid56H7NJE8s4B.jpg" group-title="FILMES - NACIONAL",The Boat (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tim Maia (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVE2wZU3Xd4yQDKSOwIrLhGGoB3.jpg" group-title="FILMES - NACIONAL",Tim Maia (2014)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/26022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TOC: Transtornada Obsessiva Compulsiva (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hupDTxQc1DjqTzNognr9mvcNlwK.jpg" group-title="FILMES - NACIONAL",TOC: Transtornada Obsessiva Compulsiva (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/28348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todos os Mortos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t84JN0QfTxnYqyaYzgkYDbXSie8.jpg" group-title="FILMES - NACIONAL",Todos os Mortos (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/26023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tropa de Elite (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atl4a9VFVP7JYvk4GeSgqhLOfjC.jpg" group-title="FILMES - NACIONAL",Tropa de Elite (2007)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/19472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tropa de Elite 2: O Inimigo Agora é Outro (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v39TyEFfzPUaj7uZlV6Xr5HD9tu.jpg" group-title="FILMES - NACIONAL",Tropa de Elite 2: O Inimigo Agora é Outro (2010)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/19471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tô Ryca! (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Ax5jZ5UV8nmHflSv6XGAxDi4xn.jpg" group-title="FILMES - NACIONAL",Tô Ryca! (2016)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Filme de Cinema (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEEeMAMVgUAfVtR7yONJBNVG1ki.jpg" group-title="FILMES - NACIONAL",Um Filme de Cinema (2017)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/110168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Tio Quase Perfeito 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tsMon5xC1pJI8dbJ2NpWCq3CnC.jpg" group-title="FILMES - NACIONAL",Um Tio Quase Perfeito 2 (2021)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/27065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Quase Dupla (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRAOj1G4YWEmK3zDN4JlYFqaeWA.jpg" group-title="FILMES - NACIONAL",Uma Quase Dupla (2018)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uns Braços (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ruHJpeh3aliNWrOyHpiXxkFqJc.jpg" group-title="FILMES - NACIONAL",Uns Braços (2009)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/84058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vai que Cola 2: O Começo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekJG2dZMOzEbKGI4PW45vc52Go8.jpg" group-title="FILMES - NACIONAL",Vai que Cola 2: O Começo (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/1937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vazio Coração (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vmaZ0ETn5BMYhq6tKKXB2ExsWF.jpg" group-title="FILMES - NACIONAL",Vazio Coração (2013)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/84064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Volume Morto (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhqLgWfDQDHudgSiGvtbpY6Gs7y.jpg" group-title="FILMES - NACIONAL",Volume Morto (2019)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/21929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vou Nadar Até Você (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNbcim9eQqi6oRXotRKTlT9ofXF.jpg" group-title="FILMES - NACIONAL",Vou Nadar Até Você (2020)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/23001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="É Fada! (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krowYpPk8PiINjZLnbFkk3Nvd5.jpg" group-title="FILMES - NACIONAL",É Fada! (2016)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/93444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ó Paí, Ó (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNcYlxw4zOOgIQebsFegw3gQixB.jpg" group-title="FILMES - NACIONAL", Ó (2007)
+http://connecttvapp.xyz:80/movie/homeondemand/vR5jZPUJSWCY/82178.mp4
