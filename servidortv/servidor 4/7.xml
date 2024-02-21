@@ -20,7 +20,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dra
 #EXTINF:-1 tvg-id="BR - Discovery" tvg-name="Discovery Channel FHD [H265]" tvg-logo="http://p6.vc/WJX" group-title="Canais | Documentários",Discovery Channel FHD [H265]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30260.m3u8|User-Agent=FooBar/1.2.3
 #EXTINF:-1 tvg-id="BR - Discovery" tvg-name="Discovery Channel HD" tvg-logo="http://p6.vc/WJK" group-title="Canais | Documentários",Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/181.m3u8|User-Agent=FooBar/1.2.3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2200&url=http://pfsv.io:80/francisco.cavedon/9489458/181.m3u8|User-Agent=FooBar/1.2.3
 #EXTINF:-1 tvg-id="BR - Discovery" tvg-name="Discovery Channel SD" tvg-logo="http://p6.vc/WJK" group-title="Canais | Documentários",Discovery Channel SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/196.m3u8|User-Agent=FooBar/1.2.3
 #EXTINF:-1 tvg-id="BR - Discovery Home & Health" tvg-name="Discovery Home & Health FHD" tvg-logo="http://p6.vc/ALC" group-title="Canais | Documentários",Discovery Home & Health FHD
