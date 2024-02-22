@@ -1,59 +1,17 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="Conmebol  TV 2 FHD [B]" tvg-logo="http://p6.vc/VKC" group-title="Canais | Conmebol",Conmebol  TV 2 FHD [B]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65566.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 01 HD [D]" tvg-logo="http://p6.vc/VKV" group-title="Canais | Conmebol",Conmebol TV 01 HD [D]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65585.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 02 HD [D]" tvg-logo="http://p6.vc/VKW" group-title="Canais | Conmebol",Conmebol TV 02 HD [D]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65586.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 03 HD [D]" tvg-logo="http://p6.vc/VKX" group-title="Canais | Conmebol",Conmebol TV 03 HD [D]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65587.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 FHD [B]" tvg-logo="http://p6.vc/VKB" group-title="Canais | Conmebol",Conmebol TV 1 FHD [B]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65565.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 FHD [C]" tvg-logo="http://p6.vc/VKJ" group-title="Canais | Conmebol",Conmebol TV 1 FHD [C]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65573.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 HD [A]" tvg-logo="http://p6.vc/VJX" group-title="Canais | Conmebol",Conmebol TV 1 HD [A]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65561.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 HD [B]" tvg-logo="http://p6.vc/VKF" group-title="Canais | Conmebol",Conmebol TV 1 HD [B]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65569.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 HD [C]" tvg-logo="http://p6.vc/VKN" group-title="Canais | Conmebol",Conmebol TV 1 HD [C]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65577.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 SD [C]" tvg-logo="http://p6.vc/VKR" group-title="Canais | Conmebol",Conmebol TV 1 SD [C]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65581.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="Conmebol TV 2 FHD [C]" tvg-logo="http://p6.vc/VKK" group-title="Canais | Conmebol",Conmebol TV 2 FHD [C]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65574.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="Conmebol TV 2 HD [A]" tvg-logo="http://p6.vc/VJY" group-title="Canais | Conmebol",Conmebol TV 2 HD [A]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65562.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="Conmebol TV 2 HD [B]" tvg-logo="http://p6.vc/VKG" group-title="Canais | Conmebol",Conmebol TV 2 HD [B]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65570.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="Conmebol TV 2 HD [C]" tvg-logo="http://p6.vc/VKO" group-title="Canais | Conmebol",Conmebol TV 2 HD [C]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65578.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="Conmebol TV 2 SD [C]" tvg-logo="http://p6.vc/VKS" group-title="Canais | Conmebol",Conmebol TV 2 SD [C]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65582.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-name="Conmebol TV 3 FHD [B]" tvg-logo="http://p6.vc/VKD" group-title="Canais | Conmebol",Conmebol TV 3 FHD [B]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65567.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-name="Conmebol TV 3 FHD [C]" tvg-logo="http://p6.vc/VKL" group-title="Canais | Conmebol",Conmebol TV 3 FHD [C]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65575.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-name="Conmebol TV 3 HD [A]" tvg-logo="http://p6.vc/VJZ" group-title="Canais | Conmebol",Conmebol TV 3 HD [A]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65563.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-name="Conmebol TV 3 HD [B]" tvg-logo="http://p6.vc/VKH" group-title="Canais | Conmebol",Conmebol TV 3 HD [B]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65571.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-name="Conmebol TV 3 HD [C]" tvg-logo="http://p6.vc/VKP" group-title="Canais | Conmebol",Conmebol TV 3 HD [C]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65579.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3 SD [C]" tvg-logo="http://p6.vc/VKT" group-title="Canais | Conmebol",Conmebol TV 3 SD [C]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65583.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4 FHD [B]" tvg-logo="http://p6.vc/VKE" group-title="Canais | Conmebol",Conmebol TV 4 FHD [B]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65568.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4 FHD [C]" tvg-logo="http://p6.vc/VKM" group-title="Canais | Conmebol",Conmebol TV 4 FHD [C]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65576.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4 HD [A]" tvg-logo="http://p6.vc/VKA" group-title="Canais | Conmebol",Conmebol TV 4 HD [A]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65564.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4 HD [B]" tvg-logo="http://p6.vc/VKI" group-title="Canais | Conmebol",Conmebol TV 4 HD [B]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65572.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4 HD [C]" tvg-logo="http://p6.vc/VKQ" group-title="Canais | Conmebol",Conmebol TV 4 HD [C]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65580.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4 HD [D]" tvg-logo="http://p6.vc/VKY" group-title="Canais | Conmebol",Conmebol TV 4 HD [D]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65588.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4 HD[C]" tvg-logo="http://p6.vc/VLN" group-title="Canais | Conmebol",Conmebol TV 4 HD[C]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/113956.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4 SD [C]" tvg-logo="http://p6.vc/VKU" group-title="Canais | Conmebol",Conmebol TV 4 SD [C]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/65584.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Brasileirao Serie C 1 HD" tvg-logo="http://lxls.mx:80/images/0ee9bfbfeab101c52e2d0eaa8c7e14b8.jpg" group-title="Canais | DAZN",Brasileirao Serie C 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/261394.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Brasileirao Serie C 2 HD" tvg-logo="http://lxls.mx:80/images/0ee9bfbfeab101c52e2d0eaa8c7e14b8.jpg" group-title="Canais | DAZN",Brasileirao Serie C 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/261395.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Brasileirao Serie C 3 HD" tvg-logo="http://lxls.mx:80/images/0ee9bfbfeab101c52e2d0eaa8c7e14b8.jpg" group-title="Canais | DAZN",Brasileirao Serie C 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/261396.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Brasileirao Serie C 4 HD" tvg-logo="http://lxls.mx:80/images/0ee9bfbfeab101c52e2d0eaa8c7e14b8.jpg" group-title="Canais | DAZN",Brasileirao Serie C 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/261928.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="https://liebeurl.me/logos/dazn.png" group-title="Canais | DAZN",DAZN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/13946.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="https://liebeurl.me/logos/dazn.png" group-title="Canais | DAZN",DAZN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48617.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="https://liebeurl.me/logos/dazn.png" group-title="Canais | DAZN",DAZN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/28877.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="https://liebeurl.me/logos/dazn.png" group-title="Canais | DAZN",DAZN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/8072.m3u8|User-Agent=FooBar/1.2.3
