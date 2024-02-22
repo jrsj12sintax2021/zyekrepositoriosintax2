@@ -1,83 +1,85 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="BR - HBO 2" tvg-name="HBO 2 FHD" tvg-logo="http://p6.vc/AVK" group-title="Canais | HBO",HBO 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/470.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - HBO 2" tvg-name="HBO 2 FHD [H265]" tvg-logo="http://p6.vc/VSK" group-title="Canais | HBO",HBO 2 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30234.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://p6.vc/AVM" group-title="Canais | HBO",HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/472.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - HBO 2" tvg-name="HBO 2 SD" tvg-logo="http://p6.vc/VSE" group-title="Canais | HBO",HBO 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/481.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - HBO Family HD" tvg-name="HBO Family FHD" tvg-logo="http://p6.vc/AVE" group-title="Canais | HBO",HBO Family FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/464.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - HBO Family HD" tvg-name="HBO Family FHD [H265]" tvg-logo="http://p6.vc/VSL" group-title="Canais | HBO",HBO Family FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30235.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - HBO Family HD" tvg-name="HBO Family HD" tvg-logo="http://p6.vc/VSD" group-title="Canais | HBO",HBO Family HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/473.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - HBO Family HD" tvg-name="HBO Family SD" tvg-logo="http://p6.vc/AVV" group-title="Canais | HBO",HBO Family SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/483.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO FHD" tvg-logo="http://p6.vc/VSM" group-title="Canais | HBO",HBO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/471.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO FHD [H265]" tvg-logo="http://p6.vc/VSM" group-title="Canais | HBO",HBO FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30236.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO HD" tvg-logo="http://p6.vc/VSM" group-title="Canais | HBO",HBO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/474.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO Mundi FHD" tvg-logo="http://p6.vc/AVH" group-title="Canais | HBO",HBO Mundi FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/467.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO Mundi FHD [H265]" tvg-logo="http://p6.vc/VSP" group-title="Canais | HBO",HBO Mundi FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30239.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO Mundi HD" tvg-logo="http://p6.vc/AVQ" group-title="Canais | HBO",HBO Mundi HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/477.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO Mundi SD" tvg-logo="http://p6.vc/AVX" group-title="Canais | HBO",HBO Mundi SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/485.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO Plus FHD" tvg-logo="http://p6.vc/AVF" group-title="Canais | HBO",HBO Plus FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/465.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO Plus FHD [H265]" tvg-logo="http://p6.vc/VSN" group-title="Canais | HBO",HBO Plus FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30237.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO Plus HD" tvg-logo="http://p6.vc/AVO" group-title="Canais | HBO",HBO Plus HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/475.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO Plus SD" tvg-logo="http://p6.vc/AVU" group-title="Canais | HBO",HBO Plus SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/482.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="HBO.Pop.HD.br" tvg-name="HBO POP FHD" tvg-logo="http://p6.vc/AVJ" group-title="Canais | HBO",HBO POP FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/469.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="HBO.Pop.HD.br" tvg-name="HBO Pop FHD [H265]" tvg-logo="http://p6.vc/WHN" group-title="Canais | HBO",HBO Pop FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30241.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="HBO.Pop.HD.br" tvg-name="HBO Pop HD" tvg-logo="http://p6.vc/AVS" group-title="Canais | HBO",HBO Pop HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/479.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="HBO.Pop.HD.br" tvg-name="HBO Pop SD" tvg-logo="http://p6.vc/AVZ" group-title="Canais | HBO",HBO Pop SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/487.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO SD" tvg-logo="http://p6.vc/VSM" group-title="Canais | HBO",HBO SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/480.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - HBO Signature" tvg-name="HBO Signature FHD" tvg-logo="http://p6.vc/AVG" group-title="Canais | HBO",HBO Signature FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/466.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - HBO Signature" tvg-name="HBO Signature FHD [H265]" tvg-logo="http://p6.vc/VSO" group-title="Canais | HBO",HBO Signature FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30238.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - HBO Signature" tvg-name="HBO Signature HD" tvg-logo="http://p6.vc/AVP" group-title="Canais | HBO",HBO Signature HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/476.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - HBO Signature" tvg-name="HBO Signature SD" tvg-logo="http://p6.vc/AVW" group-title="Canais | HBO",HBO Signature SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/484.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="HBO.Xtreme.HD.br" tvg-name="HBO Xtreme FHD" tvg-logo="http://p6.vc/AVI" group-title="Canais | HBO",HBO Xtreme FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/468.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="HBO.Xtreme.HD.br" tvg-name="HBO Xtreme FHD [H265]" tvg-logo="http://p6.vc/WHM" group-title="Canais | HBO",HBO Xtreme FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30240.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="HBO.Xtreme.HD.br" tvg-name="HBO Xtreme HD" tvg-logo="http://p6.vc/AVR" group-title="Canais | HBO",HBO Xtreme HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/478.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="HBO.Xtreme.HD.br" tvg-name="HBO Xtreme SD" tvg-logo="http://p6.vc/AVY" group-title="Canais | HBO",HBO Xtreme SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/486.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="HBOZoneEast.us" tvg-name="[US] HBO Zone FHD" tvg-logo="" group-title="Canais | HBO",[US] HBO Zone FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/108425.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - HBO 2" tvg-name="HBO 2 FHD [HDR]" tvg-logo="http://p6.vc/VSE" group-title="Canais | HBO",HBO 2 FHD [HDR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130205.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - HBO Family HD" tvg-name="HBO Family FHD [HDR]" tvg-logo="http://p6.vc/VSL" group-title="Canais | HBO",HBO Family FHD [HDR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130206.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - HBO HD" tvg-name="HBO FHD [HDR]" tvg-logo="http://p6.vc/VVP" group-title="Canais | HBO",HBO FHD [HDR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130207.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO Mundi FHD [HDR]" tvg-logo="http://p6.vc/VWO" group-title="Canais | HBO",HBO Mundi FHD [HDR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130208.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO Plus FHD [HDR]" tvg-logo="http://p6.vc/VVS" group-title="Canais | HBO",HBO Plus FHD [HDR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130204.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="HBO.Pop.HD.br" tvg-name="HBO Pop FHD [HDR]" tvg-logo="http://p6.vc/WIS" group-title="Canais | HBO",HBO Pop FHD [HDR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130209.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - HBO Signature" tvg-name="HBO Signature FHD [HDR]" tvg-logo="http://p6.vc/VWM" group-title="Canais | HBO",HBO Signature FHD [HDR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130210.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="HBO.Xtreme.HD.br" tvg-name="HBO Xtreme FHD [HDR]" tvg-logo="http://p6.vc/WIU" group-title="Canais | HBO",HBO Xtreme FHD [HDR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/130211.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="baby.br" tvg-name="BabyTV SD" tvg-logo="https://www.liebeurl.me/logos/babytv.png" group-title="Canais | Infantis",BabyTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/25370.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network FHD" tvg-logo="https://liebeurl.me/logos/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/3860.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network FHD [H265]" tvg-logo="https://liebeurl.me/logos/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/71028.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network HD" tvg-logo="https://liebeurl.me/logos/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/3861.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network SD" tvg-logo="https://liebeurl.me/logos/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/4536.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito FHD" tvg-logo="https://liebeurl.me/logos/cartoonito.png" group-title="Canais | Infantis",Cartoonito FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/3862.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito FHD [H265]" tvg-logo="https://liebeurl.me/logos/cartoonito.png" group-title="Canais | Infantis",Cartoonito FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/71025.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito HD" tvg-logo="https://liebeurl.me/logos/cartoonito.png" group-title="Canais | Infantis",Cartoonito HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/3863.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito SD" tvg-logo="https://liebeurl.me/logos/cartoonito.png" group-title="Canais | Infantis",Cartoonito SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/4534.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids FHD" tvg-logo="https://liebeurl.me/logos/discoverykids.png" group-title="Canais | Infantis",Discovery Kids FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/3852.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids FHD [H265]" tvg-logo="https://liebeurl.me/logos/discoverykids.png" group-title="Canais | Infantis",Discovery Kids FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/71035.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids HD" tvg-logo="https://liebeurl.me/logos/discoverykids.png" group-title="Canais | Infantis",Discovery Kids HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/3853.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids SD" tvg-logo="https://liebeurl.me/logos/discoverykids.png" group-title="Canais | Infantis",Discovery Kids SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/4538.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Disney Channel FHD" tvg-logo="https://liebeurl.me/logos/disneychannel.png" group-title="Canais | Infantis",Disney Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/3854.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel FHD [H265]" tvg-logo="https://liebeurl.me/logos/disneychannel.png" group-title="Canais | Infantis",Disney Channel FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/71041.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel HD" tvg-logo="https://liebeurl.me/logos/disneychannel.png" group-title="Canais | Infantis",Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/3855.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel SD" tvg-logo="https://liebeurl.me/logos/disneychannel.png" group-title="Canais | Infantis",Disney Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/4540.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob FHD" tvg-logo="https://liebeurl.me/logos/gloob.png" group-title="Canais | Infantis",Gloob FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/3849.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob FHD [H265]" tvg-logo="https://liebeurl.me/logos/gloob.png" group-title="Canais | Infantis",Gloob FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/71059.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD" tvg-logo="https://liebeurl.me/logos/gloob.png" group-title="Canais | Infantis",Gloob HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/3850.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob SD" tvg-logo="https://liebeurl.me/logos/gloob.png" group-title="Canais | Infantis",Gloob SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/4546.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho FHD" tvg-logo="https://www.liebeurl.me/logos/gloobinho.png" group-title="Canais | Infantis",Gloobinho FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/13218.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho FHD [H265]" tvg-logo="https://www.liebeurl.me/logos/gloobinho.png" group-title="Canais | Infantis",Gloobinho FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/118358.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho HD" tvg-logo="https://www.liebeurl.me/logos/gloobinho.png" group-title="Canais | Infantis",Gloobinho HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/3851.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho SD" tvg-logo="https://www.liebeurl.me/logos/gloobinho.png" group-title="Canais | Infantis",Gloobinho SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/4548.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr FHD" tvg-logo="https://liebeurl.me/logos/nickjr.png" group-title="Canais | Infantis",Nick Jr FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/3845.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr FHD [H265]" tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis",Nick Jr FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/71081.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr HD" tvg-logo="https://liebeurl.me/logos/nickjr.png" group-title="Canais | Infantis",Nick Jr HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/3846.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr SD" tvg-logo="https://liebeurl.me/logos/nickjr.png" group-title="Canais | Infantis",Nick Jr SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/4554.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon FHD" tvg-logo="https://liebeurl.me/logos/nickelodeon.png" group-title="Canais | Infantis",Nickelodeon FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/3847.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon FHD [H265]" tvg-logo="https://liebeurl.me/logos/nickelodeon.png" group-title="Canais | Infantis",Nickelodeon FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/71082.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon HD" tvg-logo="https://liebeurl.me/logos/nickelodeon.png" group-title="Canais | Infantis",Nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/3848.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon SD" tvg-logo="https://liebeurl.me/logos/nickelodeon.png" group-title="Canais | Infantis",Nickelodeon SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/4555.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast FHD" tvg-logo="https://liebeurl.me/logos/tooncast.png" group-title="Canais | Infantis",Tooncast FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/5993.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast HD" tvg-logo="https://liebeurl.me/logos/tooncast.png" group-title="Canais | Infantis",Tooncast HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/8049.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast SD" tvg-logo="https://liebeurl.me/logos/tooncast.png" group-title="Canais | Infantis",Tooncast SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/3840.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="TV Globinho HD" tvg-logo="" group-title="Canais | Infantis",TV Globinho HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/261930.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV Ra Tim Bum HD" tvg-logo="https://liebeurl.me/logos/tvratimbum.png" group-title="Canais | Infantis",TV Ra Tim Bum HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/4560.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV Ra Tim Bum SD" tvg-logo="https://liebeurl.me/logos/tvratimbum.png" group-title="Canais | Infantis",TV Ra Tim Bum SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/4561.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZooMoo FHD" tvg-logo="https://liebeurl.me/logos/zoomoo.png" group-title="Canais | Infantis",ZooMoo FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/353766.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZooMoo HD" tvg-logo="https://liebeurl.me/logos/zoomoo.png" group-title="Canais | Infantis",ZooMoo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/5995.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZooMoo SD" tvg-logo="https://liebeurl.me/logos/zoomoo.png" group-title="Canais | Infantis",ZooMoo SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/3839.m3u8|User-Agent=FooBar/1.2.3
