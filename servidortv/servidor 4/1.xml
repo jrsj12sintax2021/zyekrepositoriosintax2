@@ -1,213 +1,193 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="BR - Band Bahia" tvg-name="Band Bahia HD" tvg-logo="http://p6.vc/VVI" group-title="Canais | Abertos",Band Bahia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/113586.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Band Campinas" tvg-name="Band Campinas HD" tvg-logo="http://p6.vc/VVJ" group-title="Canais | Abertos",Band Campinas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/113587.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Band Ceara HD" tvg-logo="http://p6.vc/VWR" group-title="Canais | Abertos",Band Ceara HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186203.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Band Ceara SD" tvg-logo="http://p6.vc/VWR" group-title="Canais | Abertos",Band Ceara SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186202.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND FHD [H265]" tvg-logo="http://p6.vc/VVK" group-title="Canais | Abertos",BAND FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/113588.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Band RJ HD" tvg-name="Band RJ FHD" tvg-logo="http://p6.vc/VVL" group-title="Canais | Abertos",Band RJ FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/122446.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Band RJ HD" tvg-name="Band RJ HD" tvg-logo="http://p6.vc/VVM" group-title="Canais | Abertos",Band RJ HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/122447.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Band Rio Grande do Sul HD" tvg-name="Band RS HD" tvg-logo="http://p6.vc/VWQ" group-title="Canais | Abertos",Band RS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/123576.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Band Sergipe HD" tvg-logo="http://p6.vc/VWR" group-title="Canais | Abertos",Band Sergipe HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/123577.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="Band SP FHD" tvg-logo="http://p6.vc/VVH" group-title="Canais | Abertos",Band SP FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/113585.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="Band SP HD" tvg-logo="http://p6.vc/VVG" group-title="Canais | Abertos",Band SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/113584.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="Band SP SD" tvg-logo="http://p6.vc/VVF" group-title="Canais | Abertos",Band SP SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/113583.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Band Piauí HD" tvg-name="Band Teresina HD" tvg-logo="http://p6.vc/VWP" group-title="Canais | Abertos",Band Teresina HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/123573.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Band Campinas" tvg-name="Band TV Campinas FHD" tvg-logo="http://p6.vc/UAE" group-title="Canais | Abertos",Band TV Campinas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/123580.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Band TV Goiânia" tvg-name="Band TV Goiania FHD[H265]" tvg-logo="http://p6.vc/UAB" group-title="Canais | Abertos",Band TV Goiania FHD[H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/123575.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Band TV Goiânia" tvg-name="Band TV Goiania HD" tvg-logo="http://p6.vc/UAA" group-title="Canais | Abertos",Band TV Goiania HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/123574.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Band Minas" tvg-name="Band TV Minas FHD" tvg-logo="http://p6.vc/UAH" group-title="Canais | Abertos",Band TV Minas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/123583.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Band Minas" tvg-name="Band TV Minas HD" tvg-logo="http://p6.vc/UAG" group-title="Canais | Abertos",Band TV Minas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/123582.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Band Curitiba" tvg-name="Band Tv PR Taroba HD" tvg-logo="http://p6.vc/UAC" group-title="Canais | Abertos",Band Tv PR Taroba HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/123578.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Band Curitiba" tvg-name="Band TV Taroba Curitiba FHD" tvg-logo="http://p6.vc/UAF" group-title="Canais | Abertos",Band TV Taroba Curitiba FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/123581.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Band Curitiba" tvg-name="Band TV Taroba Curitiba HD" tvg-logo="http://p6.vc/UAD" group-title="Canais | Abertos",Band TV Taroba Curitiba HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/123579.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi SD" tvg-logo="http://p6.vc/AIA" group-title="Canais | Abertos",Canal do Boi SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/83.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Canal Rural" tvg-name="Canal Rural SD" tvg-logo="http://p6.vc/AHY" group-title="Canais | Abertos",Canal Rural SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/81.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Futura" tvg-name="Futura FHD" tvg-logo="http://p6.vc/VCE" group-title="Canais | Abertos",Futura FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/43.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Futura" tvg-name="Futura FHD[H265]" tvg-logo="http://p6.vc/VCE" group-title="Canais | Abertos",Futura FHD[H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30182.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Futura HD" tvg-name="Futura HD" tvg-logo="http://p6.vc/VCE" group-title="Canais | Abertos",Futura HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/51.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Futura" tvg-name="Futura SD" tvg-logo="http://p6.vc/VCE" group-title="Canais | Abertos",Futura SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/66.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Record TV Bahia" tvg-name="RecordTV BA HD" tvg-logo="http://p6.vc/AHF" group-title="Canais | Abertos",RecordTV BA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/61.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - RecordTV Belém" tvg-name="RecordTV Belem HD" tvg-logo="http://p6.vc/AHG" group-title="Canais | Abertos",RecordTV Belem HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/62.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="RecordTV Cabralia Bahia HD" tvg-logo="http://p6.vc/AHF" group-title="Canais | Abertos",RecordTV Cabralia Bahia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/175466.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="CIDADEH" tvg-name="RecordTV Cidade HD" tvg-logo="http://fanc.tmsimg.com/assets/s104381_ll_h3_aa.png" group-title="Canais | Abertos",RecordTV Cidade HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186199.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="CIDADEH" tvg-name="RecordTV Cidade SD" tvg-logo="http://fanc.tmsimg.com/assets/s104381_ll_h3_aa.png" group-title="Canais | Abertos",RecordTV Cidade SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186198.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Record TV Brasília HD" tvg-name="RecordTV DF HD" tvg-logo="http://p6.vc/AHE" group-title="Canais | Abertos",RecordTV DF HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/60.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Record TV Goiás" tvg-name="RecordTV GOIANIA FHD" tvg-logo="http://p6.vc/VBK" group-title="Canais | Abertos",RecordTV GOIANIA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/120717.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Record TV Goiás" tvg-name="RecordTV GOIANIA FHD[H265]" tvg-logo="http://p6.vc/VBJ" group-title="Canais | Abertos",RecordTV GOIANIA FHD[H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/120716.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Record TV Goiás" tvg-name="RecordTV GOIANIA HD" tvg-logo="http://p6.vc/AHH" group-title="Canais | Abertos",RecordTV GOIANIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/63.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Record TV Bahia" tvg-name="RecordTV Itapoan (Bahia) HD" tvg-logo="http://p6.vc/VBE" group-title="Canais | Abertos",RecordTV Itapoan (Bahia) HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/69086.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Record TV Minas" tvg-name="RecordTV MG HD" tvg-logo="http://p6.vc/AHC" group-title="Canais | Abertos",RecordTV MG HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/58.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Record TV Rio" tvg-name="RecordTV RJ FHD" tvg-logo="http://p6.vc/VBD" group-title="Canais | Abertos",RecordTV RJ FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/50880.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Record TV Rio" tvg-name="RecordTV RJ HD" tvg-logo="http://p6.vc/AHB" group-title="Canais | Abertos",RecordTV RJ HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/57.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Record TV Rio" tvg-name="RecordTV RJ SD" tvg-logo="http://p6.vc/AHT" group-title="Canais | Abertos",RecordTV RJ SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/76.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Record TV RS" tvg-name="RecordTV RS FHD" tvg-logo="http://p6.vc/VBH" group-title="Canais | Abertos",RecordTV RS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/120714.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Record TV RS" tvg-name="RecordTV RS HD" tvg-logo="http://p6.vc/AHD" group-title="Canais | Abertos",RecordTV RS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/59.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - TV Atalaia" tvg-name="RecordTv Sergipe (Atalaia) HD" tvg-logo="http://p6.vc/VBC" group-title="Canais | Abertos",RecordTv Sergipe (Atalaia) HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/47374.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Record TV" tvg-name="RecordTV SP FHD" tvg-logo="http://p6.vc/AGQ" group-title="Canais | Abertos",RecordTV SP FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/45.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - RecordTV São Paulo HD" tvg-name="RecordTv SP FHD [H265]" tvg-logo="http://p6.vc/VAY" group-title="Canais | Abertos",RecordTv SP FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30178.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Record TV" tvg-name="RecordTV SP HD" tvg-logo="http://p6.vc/AGW" group-title="Canais | Abertos",RecordTV SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/52.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Record TV" tvg-name="RecordTV SP SD" tvg-logo="http://p6.vc/AHK" group-title="Canais | Abertos",RecordTV SP SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/67.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Record TV Campinas" tvg-name="RecordTV Thathi Campinas FHD" tvg-logo="http://p6.vc/VBF" group-title="Canais | Abertos",RecordTV Thathi Campinas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/92667.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Record TV Campinas" tvg-name="RecordTV Thathi Campinas HD" tvg-logo="http://p6.vc/VBA" group-title="Canais | Abertos",RecordTV Thathi Campinas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/32542.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - TV Vitória" tvg-name="RecordTV Vitoria ES HD" tvg-logo="http://p6.vc/VBB" group-title="Canais | Abertos",RecordTV Vitoria ES HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/34014.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Rede Brasil" tvg-name="Rede Brasil SD" tvg-logo="http://p6.vc/AIE" group-title="Canais | Abertos",Rede Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/87.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - RedeTV!" tvg-name="RedeTV! FHD" tvg-logo="http://p6.vc/AGS" group-title="Canais | Abertos",RedeTV! FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/48.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - RedeTV!" tvg-name="RedeTv! FHD [H265]" tvg-logo="http://p6.vc/VAZ" group-title="Canais | Abertos",RedeTv! FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30180.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - RedeTV!" tvg-name="RedeTV! HD" tvg-logo="http://p6.vc/AGY" group-title="Canais | Abertos",RedeTV! HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/54.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - RedeTV!" tvg-name="RedeTV! SD" tvg-logo="http://p6.vc/AHM" group-title="Canais | Abertos",RedeTV! SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/69.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="SBT (PE) Caruaru HD" tvg-logo="http://p6.vc/VBT" group-title="Canais | Abertos",SBT (PE) Caruaru HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/31316.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - SBT Brasilia" tvg-name="SBT BSB HD" tvg-logo="http://p6.vc/VBM" group-title="Canais | Abertos",SBT BSB HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/59970.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - SBT" tvg-name="SBT FHD [H265]" tvg-logo="http://p6.vc/VBS" group-title="Canais | Abertos",SBT FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30179.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="SBT Interior SP" tvg-name="SBT Interior SP SD" tvg-logo="http://p6.vc/AHO" group-title="Canais | Abertos",SBT Interior SP SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/71.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - TV Alterosa" tvg-name="SBT MG Tv Alterosa FHD" tvg-logo="http://p6.vc/VBZ" group-title="Canais | Abertos",SBT MG Tv Alterosa FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/59966.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - TV Alterosa" tvg-name="SBT MG Tv Alterosa HD" tvg-logo="http://p6.vc/VBY" group-title="Canais | Abertos",SBT MG Tv Alterosa HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/59965.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Rede Massa" tvg-name="SBT Parana HD" tvg-logo="http://p6.vc/VBP" group-title="Canais | Abertos",SBT Parana HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/59975.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - SBT Rio" tvg-name="SBT RJ FHD" tvg-logo="http://p6.vc/VBX" group-title="Canais | Abertos",SBT RJ FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/50875.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - SBT Rio" tvg-name="SBT RJ HD" tvg-logo="http://p6.vc/VBW" group-title="Canais | Abertos",SBT RJ HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/50874.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - SBT Rio" tvg-name="SBT RJ SD" tvg-logo="http://p6.vc/VBV" group-title="Canais | Abertos",SBT RJ SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/134565.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - SBT RS" tvg-name="SBT RS HD" tvg-logo="http://p6.vc/VBV" group-title="Canais | Abertos",SBT RS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/49111.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - SBT" tvg-name="SBT SD" tvg-logo="http://p6.vc/AHN" group-title="Canais | Abertos",SBT SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/70.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - SBT Sergipe" tvg-name="SBT Sergipe Tv Aperiper HD" tvg-logo="http://p6.vc/VBN" group-title="Canais | Abertos",SBT Sergipe Tv Aperiper HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/59971.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - SBT" tvg-name="SBT SP FHD" tvg-logo="http://p6.vc/VBQ" group-title="Canais | Abertos",SBT SP FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/46.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - SBT" tvg-name="SBT SP HD" tvg-logo="http://p6.vc/AGZ" group-title="Canais | Abertos",SBT SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/55.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="SBT SP SD" tvg-logo="http://p6.vc/VBQ" group-title="Canais | Abertos",SBT SP SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/174142.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - TV Aratu" tvg-name="SBT TV Aratu Bahia HD" tvg-logo="http://p6.vc/VBU" group-title="Canais | Abertos",SBT TV Aratu Bahia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/34018.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - TV Jangadeiro" tvg-name="SBT TV Jangadeiro HD" tvg-logo="http://p6.vc/VCB" group-title="Canais | Abertos",SBT TV Jangadeiro HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/134102.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="JANGAHD" tvg-name="SBT TV Jangadeiro SD" tvg-logo="http://fanc.tmsimg.com/assets/s104334_ll_h3_aa.png" group-title="Canais | Abertos",SBT TV Jangadeiro SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186196.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - SBT Goiania TV Serra Dourada" tvg-name="SBT TV Serra Dourada FHD[H265]" tvg-logo="http://p6.vc/VBL" group-title="Canais | Abertos",SBT TV Serra Dourada FHD[H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/59968.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - SBT Goiania TV Serra Dourada" tvg-name="SBT Tv Serra Dourada HD" tvg-logo="http://p6.vc/VCA" group-title="Canais | Abertos",SBT Tv Serra Dourada HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/59967.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="SBT VTV Campinas HD" tvg-logo="http://p6.vc/VCB" group-title="Canais | Abertos",SBT VTV Campinas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/109511.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Terra Viva" tvg-name="Terra Viva SD" tvg-logo="http://p6.vc/AIF" group-title="Canais | Abertos",Terra Viva SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/88.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - TV Brasil" tvg-name="TV Brasil SD" tvg-logo="http://p6.vc/AIG" group-title="Canais | Abertos",TV Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/89.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - TV Câmara" tvg-name="TV Camara SD" tvg-logo="http://p6.vc/AHR" group-title="Canais | Abertos",TV Camara SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/74.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Cultura" tvg-name="TV Cultura FHD" tvg-logo="http://p6.vc/AGR" group-title="Canais | Abertos",TV Cultura FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/47.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Cultura" tvg-name="TV Cultura FHD [H265]" tvg-logo="http://p6.vc/ONS" group-title="Canais | Abertos",TV Cultura FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30183.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Cultura" tvg-name="TV Cultura HD" tvg-logo="http://p6.vc/AHI" group-title="Canais | Abertos",TV Cultura HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/64.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Cultura" tvg-name="TV Cultura SD" tvg-logo="http://p6.vc/AIH" group-title="Canais | Abertos",TV Cultura SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/90.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - TV Diário" tvg-name="Tv Diario Fortaleza FHD" tvg-logo="http://p6.vc/ASQ" group-title="Canais | Abertos",Tv Diario Fortaleza FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/383.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - TV Diário" tvg-name="TV Diario Fortaleza HD" tvg-logo="http://p6.vc/ATW" group-title="Canais | Abertos",TV Diario Fortaleza HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/418.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - TV Diário" tvg-name="Tv Diario Fortaleza SD" tvg-logo="http://p6.vc/AVD" group-title="Canais | Abertos",Tv Diario Fortaleza SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/463.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - TV Escola" tvg-name="TV Escola SD" tvg-logo="http://p6.vc/AHS" group-title="Canais | Abertos",TV Escola SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/75.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - TV Gazeta HD" tvg-name="TV Gazeta SP FHD" tvg-logo="http://p6.vc/AGT" group-title="Canais | Abertos",TV Gazeta SP FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/49.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - TV Gazeta HD" tvg-name="Tv Gazeta SP FHD [H265]" tvg-logo="http://p6.vc/ONU" group-title="Canais | Abertos",Tv Gazeta SP FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/30189.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - TV Gazeta HD" tvg-name="TV Gazeta SP HD" tvg-logo="http://p6.vc/AHA" group-title="Canais | Abertos",TV Gazeta SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/56.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - TV Gazeta HD" tvg-name="TV Gazeta SP SD" tvg-logo="http://p6.vc/AHZ" group-title="Canais | Abertos",TV Gazeta SP SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/82.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - TV JUSTIÇA" tvg-name="TV Justica SD" tvg-logo="http://p6.vc/AHQ" group-title="Canais | Abertos",TV Justica SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/73.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="TV Metropolitanario HD" tvg-logo="http://p6.vc/VCD" group-title="Canais | Abertos",TV Metropolitanario HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/120713.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - TV SENADO" tvg-name="TV Senado SD" tvg-logo="http://p6.vc/AHP" group-title="Canais | Abertos",TV Senado SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/72.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Univesp TV" tvg-name="TV Univesp HD" tvg-logo="http://p6.vc/BQM" group-title="Canais | Abertos",TV Univesp HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/1066.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - Univesp TV" tvg-name="TV Univesp SD" tvg-logo="http://p6.vc/BQN" group-title="Canais | Abertos",TV Univesp SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/1067.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Band Ceara FHD" tvg-logo="http://p6.vc/VWR" group-title="Canais | Abertos",Band Ceara FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186204.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Band Ceara FHD[H265]" tvg-logo="http://p6.vc/VWR" group-title="Canais | Abertos",Band Ceara FHD[H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186205.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Band Ceara FHD[HDR]" tvg-logo="http://p6.vc/VWR" group-title="Canais | Abertos",Band Ceara FHD[HDR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186206.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="CIDADEH" tvg-name="RecordTV Cidade FHD" tvg-logo="http://p6.vc/AHF" group-title="Canais | Abertos",RecordTV Cidade FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186197.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="RecordTV Cidade FHD[H265]" tvg-logo="http://p6.vc/AHF" group-title="Canais | Abertos",RecordTV Cidade FHD[H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186200.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="CIDADEH" tvg-name="RecordTV Cidade FHD[HDR]" tvg-logo="http://fanc.tmsimg.com/assets/s104381_ll_h3_aa.png" group-title="Canais | Abertos",RecordTV Cidade FHD[HDR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186201.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="BR - TV Jangadeiro" tvg-name="SBT TV Jangadeiro FHD" tvg-logo="http://p6.vc/VCB" group-title="Canais | Abertos",SBT TV Jangadeiro FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/134101.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="SBT TV Jangadeiro FHD[H265]" tvg-logo="http://p6.vc/VCB" group-title="Canais | Abertos",SBT TV Jangadeiro FHD[H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://pfsv.io:80/francisco.cavedon/9489458/186195.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.bahia.br" tvg-name="Band Bahia HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band Bahia HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/119051.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.brasilia.br" tvg-name="Band Brasília HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band Brasília HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/119046.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.campinas.br" tvg-name="Band Campinas FHD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band Campinas FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/49594.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.campinas.br" tvg-name="Band Campinas HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48941.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Band Ceará HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band Ceará HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/331044.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.minas.br" tvg-name="Band Minas FHD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band Minas FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/262581.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.minas.br" tvg-name="Band Minas HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band Minas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/119045.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.rj.br" tvg-name="Band RJ FHD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/119042.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.rj.br" tvg-name="Band RJ HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/119043.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.rio.grande.do.sul.br" tvg-name="Band RS FHD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band RS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/353761.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.rio.grande.do.sul.br" tvg-name="Band RS HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band RS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/119047.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Band Sergipe HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band Sergipe HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/262382.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="Band SP FHD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band SP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/62827.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="Band SP HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48945.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="Band SP SD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/118500.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Band Tatuapé HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band Tatuapé HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/331043.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tv.taroba.londrina.br" tvg-name="Band TV Tarobá Cascavel HD" tvg-logo="https://liebeurl.me/logos/band.png" group-title="Canais | Abertos",Band TV Tarobá Cascavel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/262390.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="Canal do Boi SD" tvg-logo="" group-title="Canais | Abertos",Canal do Boi SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48961.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="canal.rural.br" tvg-name="Canal Rural HD" tvg-logo="http://lxls.mx:80/images/6d03d7ca9f00a58a2327ae6d6c939051.png" group-title="Canais | Abertos",Canal Rural HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/261937.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Canal Rural SD" tvg-logo="" group-title="Canais | Abertos",Canal Rural SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/343054.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="eptv.central.br" tvg-name="Central / Top TV HD" tvg-logo="" group-title="Canais | Abertos",Central / Top TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/49274.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura SD" tvg-logo="" group-title="Canais | Abertos",Futura SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/49598.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="loading.br" tvg-name="Loading TV SD" tvg-logo="" group-title="Canais | Abertos",Loading TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/49608.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="polishop.br" tvg-name="Polishop FHD" tvg-logo="" group-title="Canais | Abertos",Polishop FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48971.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="polishop.br" tvg-name="Polishop SD" tvg-logo="" group-title="Canais | Abertos",Polishop SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/49599.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="rede.brasil.br" tvg-name="RBT Rede Brasil TV HD" tvg-logo="" group-title="Canais | Abertos",RBT Rede Brasil TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48972.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="record.bahia.br" tvg-name="Record BA HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record BA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48958.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="Record Brasilia HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record Brasilia HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48907.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="Record Brasilia HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record Brasilia HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/136244.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Record ES HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record ES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48960.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="record.goias.br" tvg-name="Record GO HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record GO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/118505.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="record.itapoan.br" tvg-name="Record Itapoan - Bahia FHD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record Itapoan - Bahia FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/353763.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="record.itapoan.br" tvg-name="Record Itapoan - Bahia HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record Itapoan - Bahia HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48922.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Record Maranhão HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record Maranhão HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/261943.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="record.minas.br" tvg-name="Record Minas FHD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record Minas FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/262332.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="record.minas.br" tvg-name="Record Minas HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record Minas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/119061.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Record Parana HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record Parana HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48920.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Record RJ FHD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/343043.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="record.rio.br" tvg-name="Record RJ HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48915.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="record.rio.br" tvg-name="Record RJ SD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record RJ SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/119060.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Record RS FHD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record RS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/353764.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Record RS HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record RS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48908.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Record S.J do Rio Preto HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record S.J do Rio Preto HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/262383.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Record Sergipe - TV Atalaia HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record Sergipe - TV Atalaia HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/262384.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="Record SP FHD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record SP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/118502.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="Record SP HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48911.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="Record SP SD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/118503.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="record.belem.br" tvg-name="Record TV Belém HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record TV Belém HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48959.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="record.cabralia.br" tvg-name="Record TV Cabralia HD Bahia" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record TV Cabralia HD Bahia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48916.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="record.minas.br" tvg-name="Record TV Minas HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record TV Minas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48914.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tv.paranaiba.br" tvg-name="Record TV Paranaíba HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record TV Paranaíba HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/262388.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Santa Catarina HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record TV Santa Catarina HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48919.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="record.campinas.br" tvg-name="Record TV Thathi Campinas FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/Logotipo_da_TV_Thathi.png" group-title="Canais | Abertos",Record TV Thathi Campinas FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/49593.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="record.campinas.br" tvg-name="Record TV Thathi Campinas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/Logotipo_da_TV_Thathi.png" group-title="Canais | Abertos",Record TV Thathi Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/49577.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tv.vitoria.br" tvg-name="Record TV Vitória ES HD" tvg-logo="https://liebeurl.me/logos/recordtv.png" group-title="Canais | Abertos",Record TV Vitória ES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/261941.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="rede.21.br" tvg-name="Rede 21 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rede_21_logo.svg/200px-Rede_21_logo.svg.png" group-title="Canais | Abertos",Rede 21 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/261936.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="rede.minas.br" tvg-name="Rede Minas FHD" tvg-logo="" group-title="Canais | Abertos",Rede Minas FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/49529.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede TV FHD" tvg-logo="" group-title="Canais | Abertos",Rede TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48631.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede TV HD" tvg-logo="" group-title="Canais | Abertos",Rede TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48632.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede TV SD" tvg-logo="" group-title="Canais | Abertos",Rede TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48633.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="sbt.brasilia.br" tvg-name="SBT Brasília HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT Brasília HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/119054.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT MA HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT MA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48952.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT Maranhão HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT Maranhão HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/261942.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT Parana HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT Parana HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/262391.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="sbt.piaui.br" tvg-name="SBT Piauí FHD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT Piauí FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48954.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="sbt.piaui.br" tvg-name="SBT Piauí HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT Piauí HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/261949.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT PR HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT PR HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48955.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ FHD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48937.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/119052.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="sbt.rs.br" tvg-name="SBT RS HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT RS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48926.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/118499.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP FHD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT SP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48956.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/350106.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP HD [Alter]" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT SP HD [Alter]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48928.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP SD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48957.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tv.alterosa.br" tvg-name="SBT TV Alterosa HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT TV Alterosa HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/272080.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV Aperipê HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT TV Aperipê HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/262386.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT VTV Campinas FHD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT VTV Campinas FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/49592.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT VTV Campinas HD" tvg-logo="https://liebeurl.me/logos/sbt.png" group-title="Canais | Abertos",SBT VTV Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/49591.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Shoptime HD" tvg-logo="" group-title="Canais | Abertos",Shoptime HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/49143.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="terra.viva.br" tvg-name="Terra Viva FHD" tvg-logo="" group-title="Canais | Abertos",Terra Viva FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/62608.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="terra.viva.br" tvg-name="Terra Viva HD" tvg-logo="" group-title="Canais | Abertos",Terra Viva HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48974.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Terra Viva SD" tvg-logo="" group-title="Canais | Abertos",Terra Viva SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/343053.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tv.aratu.br" tvg-name="TV Aratu HD" tvg-logo="" group-title="Canais | Abertos",TV Aratu HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/262387.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV Brasil HD" tvg-logo="" group-title="Canais | Abertos",TV Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48975.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tv.camara.br" tvg-name="TV Camara SD" tvg-logo="" group-title="Canais | Abertos",TV Camara SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48964.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV Cultura FHD" tvg-logo="" group-title="Canais | Abertos",TV Cultura FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/49587.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV Cultura HD" tvg-logo="" group-title="Canais | Abertos",TV Cultura HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48981.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV Cultura SD" tvg-logo="" group-title="Canais | Abertos",TV Cultura SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48962.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tv.escola.br" tvg-name="TV Escola SD" tvg-logo="" group-title="Canais | Abertos",TV Escola SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48966.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tv.justica.br" tvg-name="TV Justica SD" tvg-logo="" group-title="Canais | Abertos",TV Justica SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48963.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tv.pampa.br" tvg-name="TV Pampa RS HD" tvg-logo="" group-title="Canais | Abertos",TV Pampa RS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48976.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV Plenitude HD" tvg-logo="http://lxls.mx:80/images/4d2f65995aeb5b74538094fbf3eb1d9e.png" group-title="Canais | Abertos",TV Plenitude HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/261935.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tv.senado.br" tvg-name="TV Senado SD" tvg-logo="http://lxls.mx:80/images/58bc5201444a7a7dc2f084c94ac631c4.png" group-title="Canais | Abertos",TV Senado SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/49606.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tv.serra.dourada.br" tvg-name="TV Serra Dourada HD " tvg-logo="http://lxls.mx:80/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="Canais | Abertos",TV Serra Dourada HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/261926.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tve.br" tvg-name="TVE RS FHD" tvg-logo="" group-title="Canais | Abertos",TVE RS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/48980.m3u8|User-Agent=FooBar/1.2.3
