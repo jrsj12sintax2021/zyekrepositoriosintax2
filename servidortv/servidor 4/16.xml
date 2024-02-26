@@ -1,33 +1,61 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="https://liebeurl.me/logos/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/3696.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD [H265]" tvg-logo="https://liebeurl.me/logos/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/71097.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://liebeurl.me/logos/sportv2.png" group-title="Canais | SporTV",SporTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/3697.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD [Alter]" tvg-logo="https://liebeurl.me/logos/sportv2.png" group-title="Canais | SporTV",SporTV 2 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/332417.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="https://liebeurl.me/logos/sportv2.png" group-title="Canais | SporTV",SporTV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/5991.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD" tvg-logo="https://liebeurl.me/logos/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/70889.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD [H265]" tvg-logo="https://liebeurl.me/logos/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/71098.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="https://liebeurl.me/logos/sportv3.png" group-title="Canais | SporTV",SporTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/3699.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD [Alter]" tvg-logo="https://liebeurl.me/logos/sportv3.png" group-title="Canais | SporTV",SporTV 3 HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/332418.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="https://liebeurl.me/logos/sportv3.png" group-title="Canais | SporTV",SporTV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/5992.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV 4K FHDR" tvg-logo="https://www.liebeurl.me/logos/sportv.png" group-title="Canais | SporTV",SporTV 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/115899.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD" tvg-logo="https://liebeurl.me/logos/sportv.png" group-title="Canais | SporTV",SporTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/70888.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD [H265]" tvg-logo="https://liebeurl.me/logos/sportv.png" group-title="Canais | SporTV",SporTV FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/71099.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="https://liebeurl.me/logos/sportv.png" group-title="Canais | SporTV",SporTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/11691.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD [Alter]" tvg-logo="https://liebeurl.me/logos/sportv.png" group-title="Canais | SporTV",SporTV HD [Alter]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/332419.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://liebeurl.me/logos/sportv.png" group-title="Canais | SporTV",SporTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/marc3947/guaibi3948/28857.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="BJJ STARS FHD" tvg-name="BJJ STARS FHD" tvg-logo="" group-title="Canais | PPV",BJJ STARS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/159276.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="BJJ STARS HD" tvg-name="BJJ STARS HD" tvg-logo="" group-title="Canais | PPV",BJJ STARS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/159277.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="BJJ STARS SD" tvg-name="BJJ STARS SD" tvg-logo="" group-title="Canais | PPV",BJJ STARS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/159278.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="Caze TV FHD" tvg-name="Caze TV FHD" tvg-logo="" group-title="Canais | PPV",Caze TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/76671.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="Estádio TNT Sports 2 HD" tvg-name="Estádio TNT Sports 2 HD" tvg-logo="https://acstatic.co/logos/canais/eiplus.png" group-title="Canais | PPV",Estádio TNT Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/76672.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="Formula 1 TV FHD" tvg-name="Formula 1 TV FHD" tvg-logo="https://imgur.com/a/jyyyawL" group-title="Canais | PPV",Formula 1 TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/71947.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="Formula 1 TV HD" tvg-name="Formula 1 TV HD" tvg-logo="https://imgur.com/a/jyyyawL" group-title="Canais | PPV",Formula 1 TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/71949.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="Formula 1 TV SD" tvg-name="Formula 1 TV SD" tvg-logo="https://imgur.com/a/jyyyawL" group-title="Canais | PPV",Formula 1 TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/71950.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="MyCujoo TV 1 HD" tvg-name="MyCujoo TV 1 HD" tvg-logo="" group-title="Canais | PPV",MyCujoo TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/75026.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="OneFootball 1 FHD" tvg-name="OneFootball 1 FHD" tvg-logo="" group-title="Canais | PPV",OneFootball 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/185800.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="OneFootball 1 HD" tvg-name="OneFootball 1 HD" tvg-logo="" group-title="Canais | PPV",OneFootball 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/185801.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="OneFootball 1 SD" tvg-name="OneFootball 1 SD" tvg-logo="" group-title="Canais | PPV",OneFootball 1 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/185802.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="UFC Fight Pass FHD" tvg-name="UFC Fight Pass FHD" tvg-logo="" group-title="Canais | PPV",UFC Fight Pass FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/184046.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="UFC Fight Pass HD" tvg-name="UFC Fight Pass HD" tvg-logo="" group-title="Canais | PPV",UFC Fight Pass HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/184047.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="UFC Fight Pass SD" tvg-name="UFC Fight Pass SD" tvg-logo="" group-title="Canais | PPV",UFC Fight Pass SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/184048.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="Furacao Live FHD" tvg-name="Furacao Live FHD" tvg-logo="" group-title="Canais | PPV",Furacao Live FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/192079.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="Furacao Live HD" tvg-name="Furacao Live HD" tvg-logo="" group-title="Canais | PPV",Furacao Live HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/192080.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="Furacao Live SD" tvg-name="Furacao Live SD" tvg-logo="" group-title="Canais | PPV",Furacao Live SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/192081.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="Canal Goat FHD" tvg-name="Canal Goat FHD" tvg-logo="" group-title="Canais | PPV",Canal Goat FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/218845.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="Canal Goat HD" tvg-name="Canal Goat HD" tvg-logo="" group-title="Canais | PPV",Canal Goat HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/218846.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="Canal Goat SD" tvg-name="Canal Goat SD" tvg-logo="" group-title="Canais | PPV",Canal Goat SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/218847.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="Canal Goat 2 FHD" tvg-name="Canal Goat 2 FHD" tvg-logo="" group-title="Canais | PPV",Canal Goat 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/242172.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="Canal Goat 2 HD" tvg-name="Canal Goat 2 HD" tvg-logo="" group-title="Canais | PPV",Canal Goat 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/242173.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="Canal Goat 2 SD" tvg-name="Canal Goat 2 SD" tvg-logo="" group-title="Canais | PPV",Canal Goat 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/242174.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="FCF TV 1 FHD" tvg-name="FCF TV 1 FHD" tvg-logo="" group-title="Canais | PPV",FCF TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/247976.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="FCF TV 1 HD" tvg-name="FCF TV 1 HD" tvg-logo="" group-title="Canais | PPV",FCF TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/247977.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="FCF TV 1 SD" tvg-name="FCF TV 1 SD" tvg-logo="" group-title="Canais | PPV",FCF TV 1 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/247978.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="FCF TV 2 FHD" tvg-name="FCF TV 2 FHD" tvg-logo="" group-title="Canais | PPV",FCF TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/247979.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="FCF TV 2 HD" tvg-name="FCF TV 2 HD" tvg-logo="" group-title="Canais | PPV",FCF TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/247980.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-name="FCF TV 2 SD" tvg-name="FCF TV 2 SD" tvg-logo="" group-title="Canais | PPV",FCF TV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 4[/COLOR]&maxbitrate=0&buffer=2116&url=http://bdtb.io:80/Wesley17tb516/815px41Wesley/247981.m3u8|User-Agent=FooBar/1.2.3
