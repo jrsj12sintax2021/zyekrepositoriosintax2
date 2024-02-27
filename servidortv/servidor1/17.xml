@@ -1,15 +1,43 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 FHD MAX²" tvg-logo="http://i.imgur.com/uUfDtus.png" group-title="CANAIS | FOX SPORTS",FOX SPORTS 2 FHD MAX²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/65735.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 FHD¹" tvg-logo="http://i.imgur.com/uUfDtus.png" group-title="CANAIS | FOX SPORTS",FOX SPORTS 2 FHD¹
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/18655.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 FHD²" tvg-logo="http://i.imgur.com/uUfDtus.png" group-title="CANAIS | FOX SPORTS",FOX SPORTS 2 FHD²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/22674.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 HD¹" tvg-logo="http://i.imgur.com/uUfDtus.png" group-title="CANAIS | FOX SPORTS",FOX SPORTS 2 HD¹
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/18666.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 HD²" tvg-logo="http://i.imgur.com/uUfDtus.png" group-title="CANAIS | FOX SPORTS",FOX SPORTS 2 HD²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/22538.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 SD¹" tvg-logo="http://i.imgur.com/uUfDtus.png" group-title="CANAIS | FOX SPORTS",FOX SPORTS 2 SD¹
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/18671.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 SD²" tvg-logo="http://i.imgur.com/uUfDtus.png" group-title="CANAIS | FOX SPORTS",FOX SPORTS 2 SD²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/17991428357/useplay179914/22343.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="boa.vontade.br" tvg-name="Boa Vontade SD" tvg-logo="" group-title="Canais | Religiosos",Boa Vontade SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/48618.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="Canção Nova FHD" tvg-logo="" group-title="Canais | Religiosos",Canção Nova FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/48620.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="Canção Nova HD" tvg-logo="" group-title="Canais | Religiosos",Canção Nova HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/48621.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="Canção Nova SD" tvg-logo="" group-title="Canais | Religiosos",Canção Nova SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/49586.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Cartoon HD" tvg-logo="" group-title="Canais | Religiosos",Gospel Cartoon HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/261934.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Gospel Movie TV HD" tvg-logo="" group-title="Canais | Religiosos",Gospel Movie TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/261933.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="rede.gospel.br" tvg-name="Rede Gospel HD" tvg-logo="http://lxls.mx:80/images/2114387ac3c41cce99b2ec0dae63fdd3.png" group-title="Canais | Religiosos",Rede Gospel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/261932.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="rede.super.br" tvg-name="Rede Super FHD" tvg-logo="" group-title="Canais | Religiosos",Rede Super FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/48628.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="rede.super.br" tvg-name="Rede Super HD" tvg-logo="" group-title="Canais | Religiosos",Rede Super HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/48629.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="rede.seculo.21.br" tvg-name="Rede Século 21 FHD" tvg-logo="" group-title="Canais | Religiosos",Rede Século 21 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/48630.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="Rede Vida FHD" tvg-logo="" group-title="Canais | Religiosos",Rede Vida FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/353765.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="Rede Vida HD" tvg-logo="" group-title="Canais | Religiosos",Rede Vida HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/343046.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="Rede Vida SD" tvg-logo="http://lxls.mx:80/images/ae081082e12d6f0631dea5e748033ab1.png" group-title="Canais | Religiosos",Rede Vida SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/49368.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="rit.br" tvg-name="RIT TV HD" tvg-logo="" group-title="Canais | Religiosos",RIT TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/49522.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV Aparecida FHD" tvg-logo="" group-title="Canais | Religiosos",TV Aparecida FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/48637.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida HD" tvg-logo="" group-title="Canais | Religiosos",TV Aparecida HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/343048.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar HD" tvg-logo="" group-title="Canais | Religiosos",TV Evangelizar HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/343051.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV Gideoes HD" tvg-logo="" group-title="Canais | Religiosos",TV Gideoes HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/48639.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="TV Novo Tempo HD" tvg-logo="" group-title="Canais | Religiosos",TV Novo Tempo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/48642.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno HD" tvg-logo="" group-title="Canais | Religiosos",TV Pai Eterno HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/48644.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno SD" tvg-logo="" group-title="Canais | Religiosos",TV Pai Eterno SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/48643.m3u8|User-Agent=FooBar/1.2.3
