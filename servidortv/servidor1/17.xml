@@ -1,43 +1,53 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="boa.vontade.br" tvg-name="Boa Vontade SD" tvg-logo="" group-title="Canais | Religiosos",Boa Vontade SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/48618.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="Canção Nova FHD" tvg-logo="" group-title="Canais | Religiosos",Canção Nova FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/48620.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="Canção Nova HD" tvg-logo="" group-title="Canais | Religiosos",Canção Nova HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/48621.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="Canção Nova SD" tvg-logo="" group-title="Canais | Religiosos",Canção Nova SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/49586.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Gospel Cartoon HD" tvg-logo="" group-title="Canais | Religiosos",Gospel Cartoon HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/261934.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Gospel Movie TV HD" tvg-logo="" group-title="Canais | Religiosos",Gospel Movie TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/261933.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="rede.gospel.br" tvg-name="Rede Gospel HD" tvg-logo="http://lxls.mx:80/images/2114387ac3c41cce99b2ec0dae63fdd3.png" group-title="Canais | Religiosos",Rede Gospel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/261932.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="rede.super.br" tvg-name="Rede Super FHD" tvg-logo="" group-title="Canais | Religiosos",Rede Super FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/48628.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="rede.super.br" tvg-name="Rede Super HD" tvg-logo="" group-title="Canais | Religiosos",Rede Super HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/48629.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="rede.seculo.21.br" tvg-name="Rede Século 21 FHD" tvg-logo="" group-title="Canais | Religiosos",Rede Século 21 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/48630.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="Rede Vida FHD" tvg-logo="" group-title="Canais | Religiosos",Rede Vida FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/353765.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="Rede Vida HD" tvg-logo="" group-title="Canais | Religiosos",Rede Vida HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/343046.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="Rede Vida SD" tvg-logo="http://lxls.mx:80/images/ae081082e12d6f0631dea5e748033ab1.png" group-title="Canais | Religiosos",Rede Vida SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/49368.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="rit.br" tvg-name="RIT TV HD" tvg-logo="" group-title="Canais | Religiosos",RIT TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/49522.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV Aparecida FHD" tvg-logo="" group-title="Canais | Religiosos",TV Aparecida FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/48637.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida HD" tvg-logo="" group-title="Canais | Religiosos",TV Aparecida HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/343048.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar HD" tvg-logo="" group-title="Canais | Religiosos",TV Evangelizar HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/343051.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="TV Gideoes HD" tvg-logo="" group-title="Canais | Religiosos",TV Gideoes HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/48639.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="TV Novo Tempo HD" tvg-logo="" group-title="Canais | Religiosos",TV Novo Tempo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/48642.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno HD" tvg-logo="" group-title="Canais | Religiosos",TV Pai Eterno HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/48644.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno SD" tvg-logo="" group-title="Canais | Religiosos",TV Pai Eterno SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/48643.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT SD" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="REDE SBT",SBT SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/8757.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT HD" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="REDE SBT",SBT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/8758.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP SD" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="REDE SBT",SBT SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/8760.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="REDE SBT",SBT SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/8761.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT FHD" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="REDE SBT",SBT FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/8763.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT - REDE MASSA" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="REDE SBT",SBT - REDE MASSA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/8764.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT - REDE MASSA NAIPI (PR)" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="REDE SBT",SBT - REDE MASSA NAIPI (PR)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/8765.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT - TV CIDADE VERDE" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="REDE SBT",SBT - TV CIDADE VERDE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/8766.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT - TV FLORESTA" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="REDE SBT",SBT - TV FLORESTA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/8767.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT - TV SERRA DOURADA" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="REDE SBT",SBT - TV SERRA DOURADA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/8768.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT BAHIA ARATU HD" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="REDE SBT",SBT BAHIA ARATU HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/8769.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT GOIAS HD" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="REDE SBT",SBT GOIAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/8771.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT ITAPOAN FHD" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="REDE SBT",SBT ITAPOAN FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/8773.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT ITAPOAN HD" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="REDE SBT",SBT ITAPOAN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/8774.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT MARANHÃO DIFUSORA" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="REDE SBT",SBT MARANHÃO DIFUSORA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/8775.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT PARA" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="REDE SBT",SBT PARA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/8776.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT RS SD" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="REDE SBT",SBT RS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/8778.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV ALTEROSA MG" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="REDE SBT",SBT TV ALTEROSA MG
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/8779.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV DIFUSORA CAXIAS" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="REDE SBT",SBT TV DIFUSORA CAXIAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/8780.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV JORNAL" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="REDE SBT",SBT TV JORNAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/8781.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV JORNAL HD" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="REDE SBT",SBT TV JORNAL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/8782.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT VTV CAMPINAS" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="REDE SBT",SBT VTV CAMPINAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/8783.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT VTV CAMPINAS HD" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="REDE SBT",SBT VTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/8784.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SCC (SBT)" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="REDE SBT",SCC (SBT)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/8785.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT TERESINA HD" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="REDE SBT",SBT TERESINA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/8786.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SBT RIO" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="REDE SBT",SBT RIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/8787.m3u8|User-Agent=FooBar/1.2.3
