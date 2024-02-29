@@ -1,13 +1,43 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1 HD" tvg-logo="https://liebeurl.me/logos/starmais.png" group-title="Canais | Star+",STAR+ 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/102875.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2 HD" tvg-logo="https://liebeurl.me/logos/starmais.png" group-title="Canais | Star+",STAR+ 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/102876.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3 HD" tvg-logo="https://liebeurl.me/logos/starmais.png" group-title="Canais | Star+",STAR+ 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/102877.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 4 HD" tvg-logo="https://liebeurl.me/logos/starmais.png" group-title="Canais | Star+",STAR+ 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/102878.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 5 HD" tvg-logo="https://liebeurl.me/logos/starmais.png" group-title="Canais | Star+",STAR+ 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/116036.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 6 HD" tvg-logo="https://liebeurl.me/logos/starmais.png" group-title="Canais | Star+",STAR+ 6 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/116037.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="SPORTV",SPORTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10415.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD²" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="SPORTV",SPORTV SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10416.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="SPORTV",SPORTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10417.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD²" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="SPORTV",SPORTV HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10418.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD²" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="SPORTV",SPORTV FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10419.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="SPORTV",SPORTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10420.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="SPORTV",SPORTV FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10421.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" group-title="SPORTV",SPORTV 2 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10422.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" group-title="SPORTV",SPORTV 2 FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10423.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 FHD²" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" group-title="SPORTV",SPORTV 2 FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10424.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 HD" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" group-title="SPORTV",SPORTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10425.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 HD²" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" group-title="SPORTV",SPORTV 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10426.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 SD" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" group-title="SPORTV",SPORTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10427.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 SD²" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" group-title="SPORTV",SPORTV 2 SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10428.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="SPORTV",SPORTV 3 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10429.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="SPORTV",SPORTV 3 FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10430.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 FHD²" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="SPORTV",SPORTV 3 FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10431.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 HD" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="SPORTV",SPORTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10432.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 HD²" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="SPORTV",SPORTV 3 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10433.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 SD" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="SPORTV",SPORTV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10434.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="SP2HDOI" tvg-name="SPORTV 3 SD²" tvg-logo="http://fanc.tmsimg.com/assets/s110214_ll_h3_aa.png" group-title="SPORTV",SPORTV 3 SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10435.m3u8|User-Agent=FooBar/1.2.3
