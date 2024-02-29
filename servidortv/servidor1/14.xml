@@ -1,47 +1,19 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BandNews FHD" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="Canais | Notícias",BandNews FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/3558.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BandNews FHD [H265]" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="Canais | Notícias",BandNews FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/118366.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BandNews HD" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="Canais | Notícias",BandNews HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/3559.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BandNews SD" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="Canais | Notícias",BandNews SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/4563.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil FHD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias",CNN Brasil FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/3868.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil FHD [H265]" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias",CNN Brasil FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/71030.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil HD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias",CNN Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/8060.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil SD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias",CNN Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/28864.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="cnn.international.br" tvg-name="CNN Internacional FHD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias",CNN Internacional FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/113969.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="cnn.international.br" tvg-name="CNN Internacional HD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias",CNN Internacional HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/113970.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="cnn.international.br" tvg-name="CNN Internacional SD" tvg-logo="https://liebeurl.me/logos/cnn.png" group-title="Canais | Notícias",CNN Internacional SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/113971.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="globo.news.br" tvg-name="Globo News FHD" tvg-logo="https://liebeurl.me/logos/globonews1.png" group-title="Canais | Notícias",Globo News FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/3778.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="globo.news.br" tvg-name="Globo News FHD [H265]" tvg-logo="https://liebeurl.me/logos/globonews1.png" group-title="Canais | Notícias",Globo News FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/71055.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="globo.news.br" tvg-name="Globo News HD" tvg-logo="https://liebeurl.me/logos/globonews1.png" group-title="Canais | Notícias",Globo News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/3779.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="globo.news.br" tvg-name="Globo News SD" tvg-logo="https://liebeurl.me/logos/globonews1.png" group-title="Canais | Notícias",Globo News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/4568.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News FHD" tvg-logo="https://liebeurl.me/logos/jpnews.png" group-title="Canais | Notícias",Jovem Pan News FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/49279.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News FHD [H265]" tvg-logo="https://liebeurl.me/logos/jpnews.png" group-title="Canais | Notícias",Jovem Pan News FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/121215.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News HD" tvg-logo="https://liebeurl.me/logos/jpnews.png" group-title="Canais | Notícias",Jovem Pan News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/121216.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News SD" tvg-logo="https://liebeurl.me/logos/jpnews.png" group-title="Canais | Notícias",Jovem Pan News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/121217.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="record.news.br" tvg-name="Record News FHD" tvg-logo="https://liebeurl.me/logos/recordnews.png" group-title="Canais | Notícias",Record News FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/62826.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="record.news.br" tvg-name="Record News FHD [H265]" tvg-logo="https://liebeurl.me/logos/recordnews.png" group-title="Canais | Notícias",Record News FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/118367.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="record.news.br" tvg-name="Record News HD" tvg-logo="https://liebeurl.me/logos/recordnews.png" group-title="Canais | Notícias",Record News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/3514.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="record.news.br" tvg-name="Record News SD" tvg-logo="https://liebeurl.me/logos/recordnews.png" group-title="Canais | Notícias",Record News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/4570.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BAND SD" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="REDE BAND",BAND SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/9970.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="REDE BAND",BAND HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/9971.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP FHD²" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="REDE BAND",BAND SP FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/9972.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS SD²" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="REDE BAND",BAND CAMPINAS SD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/9974.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS FHD²" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="REDE BAND",BAND CAMPINAS FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/9975.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BAND RS SD" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="REDE BAND",BAND RS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/9976.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP SD" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="REDE BAND",BAND SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10034.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="REDE BAND",BAND SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10035.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BAND PARAIBA" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="REDE BAND",BAND PARAIBA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10048.m3u8|User-Agent=FooBar/1.2.3
