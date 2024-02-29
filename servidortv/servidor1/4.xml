@@ -1,27 +1,55 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="Cine Anime[24H]" tvg-logo="https://imgur.com/hPUry0Y.png" group-title="Canais | Cine SKY Play",Cine Anime[24H]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/360981.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Cine Ação[24H]" tvg-logo="https://imgur.com/8Vr6580.png" group-title="Canais | Cine SKY Play",Cine Ação[24H]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/360978.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Cine Drama[24H]" tvg-logo="http://images.pluto.tv/channels/5f171f988ab9780007fa95ea/solidLogoPNG.png" group-title="Canais | Cine SKY Play",Cine Drama[24H]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/360976.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Cine Investigação[24H]" tvg-logo="" group-title="Canais | Cine SKY Play",Cine Investigação[24H]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/360980.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Cine Romance[24H]" tvg-logo="http://images.pluto.tv/channels/5f171f988ab9780007fa95ea/solidLogoPNG.png" group-title="Canais | Cine SKY Play",Cine Romance[24H]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/360977.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 01" tvg-logo="https://liebeurl.me/logos/skyplay.png" group-title="Canais | Cine SKY Play",Cine SKY 01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/64179.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 02" tvg-logo="https://liebeurl.me/logos/skyplay.png" group-title="Canais | Cine SKY Play",Cine SKY 02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/64180.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 03" tvg-logo="https://liebeurl.me/logos/skyplay.png" group-title="Canais | Cine SKY Play",Cine SKY 03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/64181.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 04" tvg-logo="https://liebeurl.me/logos/skyplay.png" group-title="Canais | Cine SKY Play",Cine SKY 04
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/64182.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 05" tvg-logo="https://liebeurl.me/logos/skyplay.png" group-title="Canais | Cine SKY Play",Cine SKY 05
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/64183.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 06" tvg-logo="https://liebeurl.me/logos/skyplay.png" group-title="Canais | Cine SKY Play",Cine SKY 06
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/352375.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sucessos[24H]" tvg-logo="https://imgur.com/6k7cOAE.png" group-title="Canais | Cine SKY Play",Cine Sucessos[24H]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/360975.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Cine Suspense[24H]" tvg-logo="https://imgur.com/K9gHNmZ.png" group-title="Canais | Cine SKY Play",Cine Suspense[24H]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/Mae82uend/Matheus6392u/360979.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE 01" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CINE SKY",CINE 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10049.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE 02" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CINE SKY",CINE 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10050.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE 03" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CINE SKY",CINE 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10051.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE 04" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CINE SKY",CINE 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10052.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE 06" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CINE SKY",CINE 06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10053.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE 08" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CINE SKY",CINE 08
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10054.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE 12" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CINE SKY",CINE 12
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10055.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE 13" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CINE SKY",CINE 13
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10056.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE 16" tvg-logo="http://rochagalaxia.live/logos/cine250.png" group-title="CINE SKY",CINE 16
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10057.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE DISNEY" tvg-logo="https://www.rochagalaxia.live/logos/disney250.png" group-title="CINE SKY",CINE DISNEY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10058.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL" tvg-logo="https://www.rochagalaxia.live/logos/logomarvel250.png" group-title="CINE SKY",CINE MARVEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10059.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CINE SKY",CINE SKY 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10060.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CINE SKY",CINE SKY 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10061.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 11" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CINE SKY",CINE SKY 11
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10062.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 12" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CINE SKY",CINE SKY 12
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10063.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 13" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CINE SKY",CINE SKY 13
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10064.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 14" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CINE SKY",CINE SKY 14
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10065.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 15" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CINE SKY",CINE SKY 15
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10066.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CINE SKY",CINE SKY 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10067.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 3" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CINE SKY",CINE SKY 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10068.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CINE SKY",CINE SKY 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10069.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CINE SKY",CINE SKY 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10070.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 6" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CINE SKY",CINE SKY 6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10071.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 7" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CINE SKY",CINE SKY 7
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10072.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 8" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CINE SKY",CINE SKY 8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10073.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 9" tvg-logo="https://www.rochagalaxia.live/logos/cinesky250.png" group-title="CINE SKY",CINE SKY 9
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10074.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="CINE TRAPALHÕES" tvg-logo="https://www.rochagalaxia.live/logos/trapalhoes250.png" group-title="CINE SKY",CINE TRAPALHÕES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue]TV[/COLOR][COLOR orange] Servidor 1[/COLOR]&maxbitrate=0&buffer=2116&url=http://vod.syscdn.xyz/live/Formigatv/51736915tv/10075.m3u8|User-Agent=FooBar/1.2.3
