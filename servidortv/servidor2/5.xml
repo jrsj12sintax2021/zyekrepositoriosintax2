@@ -1,19 +1,17 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 1" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/18253.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 2" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/18254.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 3" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/18255.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 4" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/18256.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 5" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/18257.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 6" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/18258.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 7" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/18259.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 8" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 8
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/18260.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 9" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 9
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/18261.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Brasileirao Serie C 1 HD" tvg-logo="http://lxls.mx:80/images/0ee9bfbfeab101c52e2d0eaa8c7e14b8.jpg" group-title="Canais | DAZN",Brasileirao Serie C 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/zampieri93/4s6x61y2/261394.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Brasileirao Serie C 2 HD" tvg-logo="http://lxls.mx:80/images/0ee9bfbfeab101c52e2d0eaa8c7e14b8.jpg" group-title="Canais | DAZN",Brasileirao Serie C 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/zampieri93/4s6x61y2/261395.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Brasileirao Serie C 3 HD" tvg-logo="http://lxls.mx:80/images/0ee9bfbfeab101c52e2d0eaa8c7e14b8.jpg" group-title="Canais | DAZN",Brasileirao Serie C 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/zampieri93/4s6x61y2/261396.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="Brasileirao Serie C 4 HD" tvg-logo="http://lxls.mx:80/images/0ee9bfbfeab101c52e2d0eaa8c7e14b8.jpg" group-title="Canais | DAZN",Brasileirao Serie C 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/zampieri93/4s6x61y2/261928.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="https://liebeurl.me/logos/dazn.png" group-title="Canais | DAZN",DAZN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/zampieri93/4s6x61y2/13946.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="https://liebeurl.me/logos/dazn.png" group-title="Canais | DAZN",DAZN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/zampieri93/4s6x61y2/48617.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="https://liebeurl.me/logos/dazn.png" group-title="Canais | DAZN",DAZN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/zampieri93/4s6x61y2/28877.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="https://liebeurl.me/logos/dazn.png" group-title="Canais | DAZN",DAZN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/zampieri93/4s6x61y2/8072.m3u8|User-Agent=FooBar/1.2.3
