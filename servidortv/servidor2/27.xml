@@ -1,27 +1,29 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/594.m3u8
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/21243.m3u8
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/592.m3u8
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX HD²
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/593.m3u8
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/591.m3u8
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Star Channel",Star Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/598.m3u8
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Star Channel",Star Channel UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/21238.m3u8
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Star Channel",Star Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/597.m3u8
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Star Channel",Star Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/596.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Life FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star Channel",Star Life FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/602.m3u8
-#EXTINF:-1 tvg-id="Like.br" tvg-name="Star Life UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star Channel",Star Life UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/21239.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Life HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star Channel",Star Life HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/601.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Life SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star Channel",Star Life SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1 HD¹" tvg-logo="http://i.imgur.com/J2Kmi2l.png" group-title="CANAIS | STAR",STAR+ 1 HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/59969.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1 HD²" tvg-logo="http://i.imgur.com/J2Kmi2l.png" group-title="CANAIS | STAR",STAR+ 1 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/59952.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1  HD*" tvg-logo="http://i.imgur.com/J2Kmi2l.png" group-title="CANAIS | STAR",STAR+ 1  HD*
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/62457.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="STAR+ 1 HD ᶜᴰᴺ²" tvg-logo="http://i.imgur.com/J2Kmi2l.png" group-title="CANAIS | STAR",STAR+ 1 HD ᶜᴰᴺ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/162405.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2 HD¹" tvg-logo="http://i.imgur.com/J2Kmi2l.png" group-title="CANAIS | STAR",STAR+ 2 HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/64734.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2 HD²" tvg-logo="http://i.imgur.com/J2Kmi2l.png" group-title="CANAIS | STAR",STAR+ 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/59970.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2 HD*" tvg-logo="http://i.imgur.com/J2Kmi2l.png" group-title="CANAIS | STAR",STAR+ 2 HD*
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/18959.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3 HD¹" tvg-logo="http://i.imgur.com/J2Kmi2l.png" group-title="CANAIS | STAR",STAR+ 3 HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/64707.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3 HD²" tvg-logo="http://i.imgur.com/J2Kmi2l.png" group-title="CANAIS | STAR",STAR+ 3 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/59971.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 4 HD¹" tvg-logo="http://i.imgur.com/J2Kmi2l.png" group-title="CANAIS | STAR",STAR+ 4 HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/64708.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 4 HD²" tvg-logo="http://i.imgur.com/J2Kmi2l.png" group-title="CANAIS | STAR",STAR+ 4 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/297171.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 5 HD¹" tvg-logo="http://i.imgur.com/J2Kmi2l.png" group-title="CANAIS | STAR",STAR+ 5 HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/59972.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 5 HD²" tvg-logo="http://i.imgur.com/J2Kmi2l.png" group-title="CANAIS | STAR",STAR+ 5 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/297172.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 6 HD²" tvg-logo="http://i.imgur.com/J2Kmi2l.png" group-title="CANAIS | STAR",STAR+ 6 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/297173.m3u8|User-Agent=FooBar/1.2.3
