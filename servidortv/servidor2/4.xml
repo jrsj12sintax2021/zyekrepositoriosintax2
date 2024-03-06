@@ -1,27 +1,49 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="Cine Anime[24H]" tvg-logo="https://imgur.com/hPUry0Y.png" group-title="Canais | Cine SKY Play",Cine Anime[24H]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/zampieri93/4s6x61y2/360981.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Cine Ação[24H]" tvg-logo="https://imgur.com/8Vr6580.png" group-title="Canais | Cine SKY Play",Cine Ação[24H]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/zampieri93/4s6x61y2/360978.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Cine Drama[24H]" tvg-logo="http://images.pluto.tv/channels/5f171f988ab9780007fa95ea/solidLogoPNG.png" group-title="Canais | Cine SKY Play",Cine Drama[24H]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/zampieri93/4s6x61y2/360976.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Cine Investigação[24H]" tvg-logo="" group-title="Canais | Cine SKY Play",Cine Investigação[24H]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/zampieri93/4s6x61y2/360980.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Cine Romance[24H]" tvg-logo="http://images.pluto.tv/channels/5f171f988ab9780007fa95ea/solidLogoPNG.png" group-title="Canais | Cine SKY Play",Cine Romance[24H]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/zampieri93/4s6x61y2/360977.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 01" tvg-logo="https://liebeurl.me/logos/skyplay.png" group-title="Canais | Cine SKY Play",Cine SKY 01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/zampieri93/4s6x61y2/64179.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 02" tvg-logo="https://liebeurl.me/logos/skyplay.png" group-title="Canais | Cine SKY Play",Cine SKY 02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/zampieri93/4s6x61y2/64180.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 03" tvg-logo="https://liebeurl.me/logos/skyplay.png" group-title="Canais | Cine SKY Play",Cine SKY 03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/zampieri93/4s6x61y2/64181.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 04" tvg-logo="https://liebeurl.me/logos/skyplay.png" group-title="Canais | Cine SKY Play",Cine SKY 04
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/zampieri93/4s6x61y2/64182.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 05" tvg-logo="https://liebeurl.me/logos/skyplay.png" group-title="Canais | Cine SKY Play",Cine SKY 05
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/zampieri93/4s6x61y2/64183.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 06" tvg-logo="https://liebeurl.me/logos/skyplay.png" group-title="Canais | Cine SKY Play",Cine SKY 06
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/zampieri93/4s6x61y2/352375.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sucessos[24H]" tvg-logo="https://imgur.com/6k7cOAE.png" group-title="Canais | Cine SKY Play",Cine Sucessos[24H]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/zampieri93/4s6x61y2/360975.m3u8|User-Agent=FooBar/1.2.3
-#EXTINF:-1 tvg-id="" tvg-name="Cine Suspense[24H]" tvg-logo="https://imgur.com/K9gHNmZ.png" group-title="Canais | Cine SKY Play",Cine Suspense[24H]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://rdns.tv:80/live/zampieri93/4s6x61y2/360979.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB 01 HD¹" tvg-logo="http://i.imgur.com/OISxiqs.png" group-title="CANAIS | BBB 2024",BBB 01 HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/326575.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB 02 HD¹" tvg-logo="http://i.imgur.com/OISxiqs.png" group-title="CANAIS | BBB 2024",BBB 02 HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/326576.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB FHD²" tvg-logo="http://i.imgur.com/OISxiqs.png" group-title="CANAIS | BBB 2024",BBB FHD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/326574.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB MOSAICO¹" tvg-logo="http://i.imgur.com/OISxiqs.png" group-title="CANAIS | BBB 2024",BBB MOSAICO¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/326577.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB  MOSAICO²" tvg-logo="http://i.imgur.com/OISxiqs.png" group-title="CANAIS | BBB 2024",BBB  MOSAICO²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/326627.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB QUARTO MAGIA²" tvg-logo="http://i.imgur.com/OISxiqs.png" group-title="CANAIS | BBB 2024",BBB QUARTO MAGIA²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/326628.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB QUARTO FADA²" tvg-logo="http://i.imgur.com/OISxiqs.png" group-title="CANAIS | BBB 2024",BBB QUARTO FADA²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/326629.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB QUARTO GNOMO²" tvg-logo="http://i.imgur.com/OISxiqs.png" group-title="CANAIS | BBB 2024",BBB QUARTO GNOMO²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/326630.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB SALA²" tvg-logo="http://i.imgur.com/OISxiqs.png" group-title="CANAIS | BBB 2024",BBB SALA²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/326631.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB COZINHA DELÍCIA ²" tvg-logo="http://i.imgur.com/OISxiqs.png" group-title="CANAIS | BBB 2024",BBB COZINHA DELÍCIA ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/326632.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB BANHEIRO PANTENE²" tvg-logo="http://i.imgur.com/OISxiqs.png" group-title="CANAIS | BBB 2024",BBB BANHEIRO PANTENE²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/326633.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB JARDIM²" tvg-logo="http://i.imgur.com/OISxiqs.png" group-title="CANAIS | BBB 2024",BBB JARDIM²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/326634.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB PISCINA ²" tvg-logo="http://i.imgur.com/OISxiqs.png" group-title="CANAIS | BBB 2024",BBB PISCINA ²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/326635.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB COZINHA²" tvg-logo="http://i.imgur.com/OISxiqs.png" group-title="CANAIS | BBB 2024",BBB COZINHA²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/326636.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM1¹" tvg-logo="http://i.imgur.com/OISxiqs.png" group-title="CANAIS | BBB 2024",BBB CAM1¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/326625.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM1²" tvg-logo="http://i.imgur.com/OISxiqs.png" group-title="CANAIS | BBB 2024",BBB CAM1²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/326637.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM2¹" tvg-logo="http://i.imgur.com/OISxiqs.png" group-title="CANAIS | BBB 2024",BBB CAM2¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/326626.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM2²" tvg-logo="http://i.imgur.com/OISxiqs.png" group-title="CANAIS | BBB 2024",BBB CAM2²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/326638.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM3¹" tvg-logo="http://i.imgur.com/OISxiqs.png" group-title="CANAIS | BBB 2024",BBB CAM3¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/326581.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM4¹" tvg-logo="http://i.imgur.com/OISxiqs.png" group-title="CANAIS | BBB 2024",BBB CAM4¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/326582.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM5¹" tvg-logo="http://i.imgur.com/OISxiqs.png" group-title="CANAIS | BBB 2024",BBB CAM5¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/326583.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM8¹" tvg-logo="http://i.imgur.com/OISxiqs.png" group-title="CANAIS | BBB 2024",BBB CAM8¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/326584.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM7¹" tvg-logo="http://i.imgur.com/OISxiqs.png" group-title="CANAIS | BBB 2024",BBB CAM7¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/326585.m3u8|User-Agent=FooBar/1.2.3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM8¹" tvg-logo="http://i.imgur.com/OISxiqs.png" group-title="CANAIS | BBB 2024",BBB CAM8¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon[/COLOR] [COLOR blue][B]TV[/B][/COLOR] [COLOR orange]Servidor 2[/COLOR]&maxbitrate=0&buffer=2116&url=http://7go.xyz:8080/live/dxkpkm/kardob/326586.m3u8|User-Agent=FooBar/1.2.3
