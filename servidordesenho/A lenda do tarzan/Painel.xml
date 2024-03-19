@@ -2,26 +2,26 @@
 	<!-- opicional -->  
     <channel>
         <name>[COLOR yellow][B][I](Necessario ter resolve player instalado)[/I][/B][/COLOR]</name>
-        <thumbnail>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</thumbnail>
-        <fanart>https://raw.githubusercontent.com/outeiro13/meufilmesaddonscinedragon/main/banner%20addon/wallpaperbetter.jpg</fanart>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w5mGLHBT59nFilSPgd5TgJnZ1ix.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w5mGLHBT59nFilSPgd5TgJnZ1ix.jpg</fanart>
 		<info>[COLOR blue]Necessario ter o plugin resolver player instalado que si encontra na repo vikings[/COLOR]</info>
 		<externallink>https://teste</externallink>
    </channel>
    
 	<channel>
         <name>[COLOR lime][B][I] 1 Temporada[/I][/B][/COLOR]</name>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg</thumbnail>
-        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg</fanart>
-		<info>Com base nos quadrinhos populares da Marvel, esta maravilhosa história sobre amadurecimento acompanha adolescentes aparentemente “normais” que podem lançar raios ópticos, levitar objetos e desaparecer à vontade enquanto tentam tirar notas boas na escola.</info>
-		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidordesenho/xmen%20evolutions/1%20temporada.xml</externallink>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w5mGLHBT59nFilSPgd5TgJnZ1ix.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w5mGLHBT59nFilSPgd5TgJnZ1ix.jpg</fanart>
+		<info>É uma série de TV criada pela Walt Disney Company e baseada em Tarzan de Edgar Rice Burroughs, que funcionou originalmente de 2001 à 2003. A série estrelou Michael T. Weiss como Tarzan, substituindo Tony Goldwyn , e Olivia d'Abo como Jane, substituindo Minnie Driver . A série se passa após o filme de 1999 Tarzan, com o personagem-título ajustando ao seu novo papel como líder dos macacos após a morte de Kerchak, e Jane (agora casada com Tarzan) se adaptando à vida na selva, e a série está situada no mesmo período de tempo como de "Tarzan e Jane", de 2002. Completando o elenco estão: o pai de Jane, Professor Archimedes; Tantor, o elefante germofobico; e Terk, um gorila fêmea, e velho companheiro de luta de Tarzan.</info>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidordesenho/A%20lenda%20do%20tarzan/1%20Temporada.xml</externallink>
     </channel>
 	
 	<channel>
         <name>[COLOR lime][B][I] 2 Temporada[/I][/B][/COLOR]</name>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg</thumbnail>
-        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg</fanart>
-		<info>Com base nos quadrinhos populares da Marvel, esta maravilhosa história sobre amadurecimento acompanha adolescentes aparentemente “normais” que podem lançar raios ópticos, levitar objetos e desaparecer à vontade enquanto tentam tirar notas boas na escola.</info>
-		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidordesenho/xmen%20evolutions/2%20temporada.xml</externallink>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w5mGLHBT59nFilSPgd5TgJnZ1ix.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w5mGLHBT59nFilSPgd5TgJnZ1ix.jpg</fanart>
+		<info>É uma série de TV criada pela Walt Disney Company e baseada em Tarzan de Edgar Rice Burroughs, que funcionou originalmente de 2001 à 2003. A série estrelou Michael T. Weiss como Tarzan, substituindo Tony Goldwyn , e Olivia d'Abo como Jane, substituindo Minnie Driver . A série se passa após o filme de 1999 Tarzan, com o personagem-título ajustando ao seu novo papel como líder dos macacos após a morte de Kerchak, e Jane (agora casada com Tarzan) se adaptando à vida na selva, e a série está situada no mesmo período de tempo como de "Tarzan e Jane", de 2002. Completando o elenco estão: o pai de Jane, Professor Archimedes; Tantor, o elefante germofobico; e Terk, um gorila fêmea, e velho companheiro de luta de Tarzan.</info>
+		<externallink>https://raw.githubusercontent.com/jrsj12sintax2021/zyekrepositoriosintax2/main/servidordesenho/A%20lenda%20do%20tarzan/2%20Temporada.xml</externallink>
     </channel>
 	
 
